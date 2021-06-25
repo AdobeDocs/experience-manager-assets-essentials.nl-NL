@@ -2,9 +2,9 @@
 title: Aan de slag met [!DNL Assets Essentials]
 description: Hoe te om tot, login ervaring van, gesteunde gebruiksgevallen van, en bekende kwesties van  [!DNL Assets Essentials] toegang te hebben.
 role: Business Practitioner, Leader
-source-git-commit: 825297959b19361260121949c99ede37dced9a9c
+source-git-commit: 4a7fe369485db5cae843694c68f84133c9118337
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ When logging in, after providing the credentials, you can be prompted to select 
 ![Select an account to login](assets/do-not-localize/login-experience.gif)
 -->
 
-## [!DNL Assets Essentials] use cases  {#use-cases}
+## [!DNL Assets Essentials] use cases {#use-cases}
 
 Hieronder vindt u de verschillende DAM-taken (Digital Asset Management) die u kunt uitvoeren met [!DNL Assets Essentials].
 
@@ -69,13 +69,16 @@ Hieronder vindt u de verschillende DAM-taken (Digital Asset Management) die u ku
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
 -->
 
-## ![feedbackpictogramFeedback ](assets/do-not-localize/feedback-icon.png) geven op het product  {#provide-feedback}
+## ![feedbackpictogramFeedback ](assets/do-not-localize/feedback-icon.png) geven op het product {#provide-feedback}
 
 Adobe is verheugd over feedback over de oplossing. Als u feedback wilt geven zonder van werktoepassing te veranderen, gebruikt u de optie [!UICONTROL Feedback] in de gebruikersinterface. Ook kunt u bestanden, zoals schermafbeeldingen of video-opnamen, aan een uitgave koppelen.
 
 ![feedbackoptie in de interface](assets/feedback-panel.png)
 
-Om terugkoppelen voor documentatie te verstrekken, geeft de klik deze pagina ![geef pagina ](assets/do-not-localize/edit-page.png) uit of Logboek een kwestie ![creeer een kwestie GitHub](assets/do-not-localize/github-issue.png) van de juiste marge uit. Maak de inhoudsupdates en verzend een trekkingsverzoek GitHub of creeer een kwestie of een kaartje in GitHub.
+Als u feedback voor documentatie wilt opgeven, klikt u op [!UICONTROL Edit this page] ![de pagina](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![maakt u een GitHub-probleem](assets/do-not-localize/github-issue.png) vanuit de rechterzijbalk. U kunt een van de volgende handelingen uitvoeren:
+
+* Maak de inhoudsupdates en verzend een trekkingsverzoek GitHub.
+* Creeer een kwestie of een kaartje in GitHub. Behoud de automatisch gevulde artikelnaam wanneer u een uitgave maakt.
 
 >[!MORELIKETHIS]
 >
