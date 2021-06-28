@@ -3,35 +3,29 @@ title: Release-opmerkingen
 description: Opmerkingen bij de release en bekende problemen van [!DNL Assets Essentials]
 role: Business Practitioner,Leader,Administrator,Architect,Developer
 contentOwner: AG
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+source-git-commit: a52db0574483d3c17643a2c35c95be67c6608602
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 0%
+source-wordcount: '145'
+ht-degree: 1%
 
 ---
 
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release is de eerste openbare release van [!DNL Assets Essentials] die beschikbaar is op 21 juni 2021. Assets Essentials biedt lichte mogelijkheden voor middelenbeheer en de eerste versie ervan ondersteunt de volgende belangrijke functies:
+De huidige release is de eerste openbare release van [!DNL Assets Essentials] die op 21 juni 2021 beschikbaar is gesteld. [!DNL Assets Essentials] biedt lichte mogelijkheden voor middelenbeheer en de eerste versie ervan ondersteunt de volgende belangrijke functies en CRUD-bewerkingen (maken, lezen, bijwerken en verwijderen):
 
-* Upload en voeg elementen toe, waaronder geneste mappen. Geef een voorvertoning van de elementen weer.
+* Upload en voeg elementen toe, waaronder geneste mappen. Geef een voorvertoning weer van de elementen en versies.
 * Volledige-tekstonderzoek, genummerde onderzoeksfilters, en bewaarde onderzoeken voor snelle activaontdekking.
-* Basisbewerkingen voor middelenbeheer, zoals bijwerken, versie, downloaden en beheren van metagegevens.
-* Integratie met [!DNL Adobe Journey Optimizer].
+* Basisbewerkingen voor middelenbeheer, zoals het bijwerken, verwijderen, downloaden en beheren van metagegevens.
+* Integratie met [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
 
-Voor meer informatie over de oplossing, zie [inleiding](introduction.md). Zie [Aan de slag](/help/get-started.md) om aan de slag te gaan met de functies.
+[!DNL Assets Essentials] is momenteel beschikbaar voor [[!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer.html) klanten.
+
+Voor meer informatie over de oplossing, zie [inleiding aan  [!DNL Assets Essentials]](introduction.md). Zie [Aan de slag](/help/get-started.md) om de functies te gaan gebruiken.
 
 ## Bekende problemen {#known-issues}
 
-[!DNL Assets Essentials] heeft tot nu toe de volgende bekende problemen.
+Er zijn momenteel geen bekende problemen met [!DNL Assets Essentials].
 
-* Momenteel kunt u geen meerdere elementen of mappen downloaden. Als tussenoplossing kunt u bestanden of mappen een voor een downloaden.
-* Het herstellen van een verwijderd element uit de prullenbak kan mislukken. Als tussenoplossing kunt u op het verwijderde element klikken, de uitvoeringen bekijken en op het oorspronkelijke element klikken om te downloaden. Upload het oorspronkelijke element handmatig.
-* Bulkbewerkingen op elementen (kopiëren, verplaatsen, verwijderen of herstellen) kunnen mislukken als ze worden uitgevoerd in batches van meer dan 50 elementen. Als tussenoplossing kunt u maximaal 50 elementen tegelijk selecteren.
-* Uitvoeringen worden bijgewerkt wanneer een element wordt bijgewerkt, maar de oude uitvoeringen blijven worden weergegeven. U kunt dit probleem omzeilen door de browser te vernieuwen.
-* Na een bewerking worden de wijzigingen mogelijk niet meteen weergegeven in de gebruikersinterface. U kunt dit probleem omzeilen door de browser te vernieuwen.
-
-Adobe werkt eraan de problemen zo snel mogelijk op te lossen en de lijst vervolgens bij te werken.
-
-Als u andere problemen tegenkomt, [geef het team feedback](#provide-feedback).
+Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [geef feedback](#provide-feedback) aan het team.
