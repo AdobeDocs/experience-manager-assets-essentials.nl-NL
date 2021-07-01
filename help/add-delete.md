@@ -2,9 +2,9 @@
 title: Elementen uploaden naar de opslagplaats
 description: Upload activa aan [!DNL Assets Essentials], bekijk uploadstatussen, en los uploadkwesties op.
 role: Business Practitioner
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,11 @@ Wanneer alle bestanden in de wachtrij zijn geplaatst, klikt u op **[!UICONTROL U
 
 *Afbeelding: Voordat u de geselecteerde elementen uploadt, kunt u elementen toevoegen aan of verwijderen uit de wachtrij.*
 
-## Voortgang van uploaden en status {#upload-progress} weergeven
+>[!CAUTION]
+>
+>Gebruik elementen zonder witruimte in de bestandsnamen. De reacties op opmerkingen werken niet voor dergelijke middelen.
+
+## Voortgang van uploaden en status weergeven {#upload-progress}
 
 Wanneer u veel elementen of geneste mappen uploadt naar [!DNL Assets Essentials], kunnen sommige elementen niet worden geüpload om verschillende redenen, zoals dubbele middelen en netwerkproblemen.
 
@@ -44,17 +48,17 @@ Als u een subset met elementen wilt weergeven op basis van de voortgang of statu
 
 *Afbeelding: Filter de elementen die u probeerde te uploaden op basis van de status van het uploaden of de voortgang van het uploaden.*
 
-Direct nadat de elementen zijn geüpload, verwerkt Assets Essentials de elementen om miniaturen te genereren en metagegevens te verwerken. Voor veel elementen duurt het enige tijd. Als er geen miniatuur wordt weergegeven en er een verwerkingsbericht wordt weergegeven bij de plaatsaanduidingsminiatuur, controleert u de map na een paar minuten opnieuw.
+Vlak nadat de elementen zijn geüpload, verwerkt [!DNL Assets Essentials] de elementen om miniaturen te genereren en metagegevens te verwerken. Voor veel elementen duurt het enige tijd. Als er geen miniatuur wordt weergegeven en er een verwerkingsbericht wordt weergegeven bij de plaatsaanduidingsminiatuur, controleert u de map na een paar minuten opnieuw.
 
 ![Verwerken na uploaden](assets/upload-processing.png)
 
 ## Elementuitvoeringen {#renditions}
 
-Assets Essentials verwerkt de geüploade elementen in bijna real-time en voor veel ondersteunde bestandstypen worden uitvoeringen gegenereerd. De uitvoeringen zijn gemaakt voor afbeeldingen en de grootte van versies van de geüploade afbeelding wordt gewijzigd. U kunt niet alleen het element downloaden, maar ook de uitvoeringen om een geschikte versie te gebruiken. U kunt alle vertoningen van activa bekijken wanneer u [voorproef activa](/help/navigate-view.md#preview-assets).
+[!DNL Assets Essentials] verwerkt de geüploade elementen in bijna realtime en voor veel ondersteunde bestandstypen worden uitvoeringen gegenereerd. De uitvoeringen zijn gemaakt voor afbeeldingen en de grootte van versies van de geüploade afbeelding wordt gewijzigd. U kunt niet alleen het element downloaden, maar ook de uitvoeringen om een geschikte versie te gebruiken. U kunt alle vertoningen van activa bekijken wanneer u [voorproef activa](/help/navigate-view.md#preview-assets).
 
 ![Uitvoeringen](assets/renditions-view-download.png)
 
-## Onderbroken uploads {#resolve-upload-fails} beheren
+## Onderbroken uploads beheren {#resolve-upload-fails}
 
 Als het uploaden van een ondersteund element om een of andere reden mislukt, klikt u op **[!UICONTROL Retry]** in het deelvenster [!UICONTROL Upload Progress].
 
@@ -76,7 +80,7 @@ Als u probeert dubbele elementen te uploaden, worden de elementen pas geüpload 
 >
 >U kunt elementen rechtstreeks vanuit uw [!DNL Creative Cloud]-bureaubladtoepassingen uploaden naar de DAM-opslagplaats. Zie hoe [[!DNL Assets Essentials] integreert met [!DNL Adobe Asset Link]](/help/integration.md).
 
-## Elementen of mappen {#delete-assets} verwijderen
+## Elementen of mappen verwijderen {#delete-assets}
 
 Gebruikers kunnen afzonderlijke elementen of mappen verwijderen die niet meer vereist zijn. Voer een van de volgende handelingen uit om een middel of map te verwijderen:
 
