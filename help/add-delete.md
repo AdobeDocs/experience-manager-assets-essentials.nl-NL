@@ -2,9 +2,9 @@
 title: Elementen uploaden naar de opslagplaats
 description: Upload activa aan [!DNL Assets Essentials], bekijk uploadstatussen, en los uploadkwesties op.
 role: Business Practitioner
-source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
+source-git-commit: 6e482854e7cec3d8bc2fed786a2c6a685b3f8eed
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '729'
 ht-degree: 0%
 
 ---
@@ -48,15 +48,19 @@ Als u een subset met elementen wilt weergeven op basis van de voortgang of statu
 
 *Afbeelding: Filter de elementen die u probeerde te uploaden op basis van de status van het uploaden of de voortgang van het uploaden.*
 
-Vlak nadat de elementen zijn geüpload, verwerkt [!DNL Assets Essentials] de elementen om miniaturen te genereren en metagegevens te verwerken. Voor veel elementen duurt het enige tijd. Als er geen miniatuur wordt weergegeven en er een verwerkingsbericht wordt weergegeven bij de plaatsaanduidingsminiatuur, controleert u de map na een paar minuten opnieuw.
+Vlak nadat de elementen zijn geüpload, verwerkt [!DNL Assets Essentials] de elementen om miniaturen te genereren en metagegevens te verwerken. Voor veel elementen duurt het enige tijd. Als er geen miniatuur wordt weergegeven en er een verwerkingsbericht wordt weergegeven bij de plaatsaanduidingsminiatuur, controleert u de map na een paar minuten opnieuw. Tijdens de verwerking worden de uitvoeringen onder andere gegenereerd door [!DNL Assets Essentials], worden slimme tags toegevoegd en worden de elementdetails geïndexeerd voor zoekopdrachten.
 
-![Verwerken na uploaden](assets/upload-processing.png)
+![Elementen zijn processen tijdens het uploaden en de verwerking van de tegels](assets/upload-processing.png)
+
+*Afbeelding: Geüploade elementen geven verwerking weer op het element dat wordt verwerkt.*
 
 ## Elementuitvoeringen {#renditions}
 
 [!DNL Assets Essentials] verwerkt de geüploade elementen in bijna realtime en voor veel ondersteunde bestandstypen worden uitvoeringen gegenereerd. De uitvoeringen zijn gemaakt voor afbeeldingen en de grootte van versies van de geüploade afbeelding wordt gewijzigd. U kunt niet alleen het element downloaden, maar ook de uitvoeringen om een geschikte versie te gebruiken. U kunt alle vertoningen van activa bekijken wanneer u [voorproef activa](/help/navigate-view.md#preview-assets).
 
 ![Uitvoeringen](assets/renditions-view-download.png)
+
+*Afbeelding: De uitvoeringen weergeven en downloaden.*
 
 ## Onderbroken uploads beheren {#resolve-upload-fails}
 
@@ -87,5 +91,7 @@ Gebruikers kunnen afzonderlijke elementen of mappen verwijderen die niet meer ve
 * Gebruik de optie die beschikbaar is op de miniatuur van een element of map.
 
    ![Opties op elementminiatuur voor het beheren van elementen](assets/options-on-thumbnail.png)
+
+   *Afbeelding: Handelingen voor bestanden en mappen zijn beschikbaar in het element met middelen of mappen.*
 
 * Selecteer een middel of een omslag en klik **[!UICONTROL Delete]** ![schrappingspictogram](assets/do-not-localize/delete-icon.png) in de toolbar.
