@@ -2,9 +2,9 @@
 title: Gebruikers implementeren en beheren
 description: Het gebruiksgevallen van het beleid zoals plaatsing en gebruikersbeheer in  [!DNL Assets Essentials].
 role: Administrator
-source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
+source-git-commit: 6e482854e7cec3d8bc2fed786a2c6a685b3f8eed
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '834'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,15 @@ Na levering, wordt [!DNL Assets Essentials] recht toegevoegd aan uw Adobe Org, e
 
    ![[!DNL Assets Essentials] inchecken  [!DNL Admin Console]](assets/essentials-in-admin-console.png)
 
+   *Afbeelding:  [!DNL Assets Essentials] inchecken  [!DNL Admin Console].*
+
 1. Voeg uzelf als beheerder toe aan het `AEM Assets Essentials - Cloud Manager` product in [!DNL Cloud Manager]. In plaats van uzelf, kunt u een ander lid van uw organisatie toevoegen of u kunt meer dan één beheerder toevoegen.
 
 1. Klik ![voeg pictogram](assets/do-not-localize/add-icon.svg) aan [!UICONTROL Select product profiles] toe, en selecteer dan [!UICONTROL Deployment Manager - Assets Essentials] als **[!UICONTROL product profile]**. De gebruiker die aan deze stap is toegevoegd, ontvangt een e-mail van Adobe met toegang tot [!DNL Cloud Manager] en kan de implementatie uitvoeren.
 
    ![Een beheerder toevoegen en een productprofiel selecteren in  [!DNL Admin Console]](assets/adminconsole-user1.png)
+
+   *Afbeelding: Voeg een beheerder toe en selecteer een productprofiel in  [!DNL Admin Console].*
 
 1. Als u [!DNL Cloud Manager] wilt openen, klikt u op de koppeling in de e-mail met toegang tot [!DNL Cloud Manager]. U kunt ook `https://experience.adobe.com/#/cloud-manager/` openen in uw browser.
 
@@ -48,9 +52,13 @@ Na levering, wordt [!DNL Assets Essentials] recht toegevoegd aan uw Adobe Org, e
 
    ![Een omgeving toevoegen in  [!DNL Cloud Manager]](assets/cloudmanager-add-environment-for-essentials.png)
 
+   *Afbeelding: Voeg een omgeving toe  [!DNL Cloud Manager] om te beginnen met gebruiken  [!DNL Assets Essentials].*
+
 1. Wanneer de omgeving is gemaakt, kunt u toegang krijgen tot [!DNL Admin Console] en de gebruikers van uw organisatie toevoegen aan [!DNL Assets Essentials]-oplossing. Klik op ![optiepictogram](assets/do-not-localize/options-ellipses-icon.png) en selecteer de optie **[!UICONTROL Manage Access]**.
 
    ![Klaar omgeving in  [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
+
+   *Afbeelding: Een omgeving  [!DNL Cloud Manager] die gebruiksklaar is.*
 
 ## Gebruikersbeheer {#add-users-to-essentials}
 
@@ -65,9 +73,13 @@ In [!DNL Admin Console], worden deze twee toegangstypes vertegenwoordigd door tw
 
    ![Twee profielen voor twee soorten gebruikers](assets/adminconsole-user-types.png)
 
+   *Afbeelding: Er zijn twee profielen beschikbaar om de twee soorten gebruikers toe te voegen.*
+
 1. Als u een gebruiker aan een groep wilt toevoegen, klikt u op de groep, selecteert u **[!UICONTROL Add User]**, geeft u de gebruikersgegevens op en klikt u op **[!UICONTROL Save]**. Wanneer u een gebruiker toevoegt, ontvangt de gebruiker een e-mailuitnodiging om aan de slag te gaan. U kunt de e-mailuitnodigingen uitschakelen in de instellingen voor het productprofiel in [!DNL Admin Console].
 
    ![Een gebruiker toevoegen aan  [!DNL Assets Essentials]](assets/adminconsole-add-user.png)
+
+   *Afbeelding: Voeg een gebruiker toe  [!DNL Assets Essentials] van  [!DNL Admin Console].*
 
 1. Als u een gebruiker uit een groep wilt verwijderen, klikt u op de groep, selecteert u een bestaande gebruiker en selecteert u **[!UICONTROL Remove User]**.
 
@@ -81,11 +93,15 @@ Na provisioning implementeren beheerders [!DNL Assets Essentials] slechts eenmaa
 
 1. Wanneer gebruikers problemen melden, controleert u de servicestatus van [!DNL Assets Essentials] in de **[!UICONTROL Program Overview]**-interface. Tijdens de normale werking van de oplossing is de status `Running`. Als [!DNL Cloud Manager] een andere status toont, creeer een steunkaartje in [!DNL Admin Console] steunsectie.
 
-   ![Runstatus van  [!DNL Assets Essentials] in  [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
+   ![De status van  [!DNL Assets Essentials] de  [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
+
+   *Afbeelding: De normale status van  [!DNL Assets Essentials] in  [!DNL Cloud Manager] is  `Running`.*
 
 1. Om de recente toegangslogboeken te downloaden, klik ![optiepictogram](assets/do-not-localize/options-ellipses-icon.png), selecteer **[!UICONTROL Download Logs]**, en volg de instructies op het scherm. U kunt de HTTPS-toegangsverzoeken controleren met behulp van de logboeken.
 
-   ![Logbestanden downloaden, optie](assets/cloudmanager-download-logs.png)
+   ![ Optie om de toegangslogboeken te downloaden](assets/cloudmanager-download-logs.png)
+
+   *Afbeelding: Optie om de toegangslogboeken te downloaden.*
 
 >[!MORELIKETHIS]
 >
