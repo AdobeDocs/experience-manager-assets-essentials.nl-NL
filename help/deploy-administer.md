@@ -2,9 +2,9 @@
 title: Gebruikers implementeren en beheren
 description: Het gebruiksgevallen van het beleid zoals plaatsing en gebruikersbeheer in  [!DNL Assets Essentials].
 role: Administrator
-source-git-commit: 6e482854e7cec3d8bc2fed786a2c6a685b3f8eed
+source-git-commit: a9dfa9cc9e971faf24e5275c843fb1d0247d18c9
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '855'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # [!DNL Assets Essentials] implementeren en gebruikers toevoegen {#administer}
 
-[!DNL Adobe Experience Manager Assets Essentials] is provisioned door Adobe voor zijn klanten. Als onderdeel van de provisioning wordt [!DNL Assets Essentials] toegevoegd aan de organisatie van een klant (Adobe Org). De klant heeft ook toegang tot [!DNL Experience Manager Cloud Manager] als een implementatiehulpmiddel en tot [!DNL Admin Console] als een hulpmiddel voor gebruikersbeheer.
+[!DNL Adobe Experience Manager Assets Essentials] is provisioned door Adobe voor zijn klanten. Als onderdeel van de provisioning wordt [!DNL Assets Essentials] toegevoegd aan de organisatie van een klant in [!DNL Adobe Admin Console]. De klanten hebben ook toegang tot [!DNL Experience Manager Cloud Manager] als een implementatiehulpmiddel en tot [!DNL Admin Console] om rechten van gebruikers op [!DNL Assets Essentials]-oplossing te beheren.
 
 Beheerders voeren de volgende taken uit:
 
@@ -22,9 +22,7 @@ Beheerders voeren de volgende taken uit:
 
 ## [!DNL Assets Essentials] implementeren {#deploy-essentials}
 
-Na levering, wordt [!DNL Assets Essentials] recht toegevoegd aan uw Adobe Org, en de beheerder van een organisatie stelt het op. De beheerders van de organisatie doen eenmalig plaatsing gebruikend [!DNL Cloud Manager] gebruikersinterface. Na de eerste implementatie voert Adobe het onderhoud en de updates van de service uit. Voer de volgende stappen uit om te implementeren:
-
-1. Zorg ervoor dat de beheerder een e-mail van Adobe ontvangt. Het e-mailbericht bevat een welkomstbericht en een koppeling om aan de slag te gaan.
+Na provisioning wordt [!DNL Assets Essentials] machtiging toegevoegd aan uw organisatie in [!DNL Admin Console]. Alvorens de oplossing aan de gebruiker beschikbaar is, moet een organisatiebeheerder het opstellen. De beheerder voert een eenmalige implementatie uit gebruikend [!DNL Cloud Manager] gebruikersinterface. Na de eerste implementatie voert Adobe het onderhoud en de updates van de service uit. Nadat de oplossing wordt geleverd, ontvangt de beheerder een e-mail van Adobe. Het e-mailbericht bevat een welkomstbericht en een koppeling om aan de slag te gaan. Voer de volgende stappen uit om te implementeren:
 
 1. Via de koppeling in de e-mail hebt u toegang tot en aanmelding bij [Admin Console](https://adminconsole.adobe.com). Als u beheerdertoegang tot meer dan één organisatierekening hebt, dan selecteer de aangewezen organisatie of schakelaar aan het gebruikend de schakelaar in de hoogste bar. De productkaart voor [!DNL Assets Essentials] is zichtbaar in [!DNL Admin Console].
 
@@ -32,7 +30,7 @@ Na levering, wordt [!DNL Assets Essentials] recht toegevoegd aan uw Adobe Org, e
 
    *Afbeelding:  [!DNL Assets Essentials] inchecken  [!DNL Admin Console].*
 
-1. Voeg uzelf als beheerder toe aan het `AEM Assets Essentials - Cloud Manager` product in [!DNL Cloud Manager]. In plaats van uzelf, kunt u een ander lid van uw organisatie toevoegen of u kunt meer dan één beheerder toevoegen.
+1. Voeg uzelf als beheerder toe aan het `AEM Assets Essentials - Cloud Manager` productprofiel in [!DNL Admin Console]. In plaats van uzelf, kunt u een ander lid van uw organisatie toevoegen of u kunt meer dan één beheerder toevoegen.
 
 1. Klik ![voeg pictogram](assets/do-not-localize/add-icon.svg) aan [!UICONTROL Select product profiles] toe, en selecteer dan [!UICONTROL Deployment Manager - Assets Essentials] als **[!UICONTROL product profile]**. De gebruiker die aan deze stap is toegevoegd, ontvangt een e-mail van Adobe met toegang tot [!DNL Cloud Manager] en kan de implementatie uitvoeren.
 
@@ -40,7 +38,7 @@ Na levering, wordt [!DNL Assets Essentials] recht toegevoegd aan uw Adobe Org, e
 
    *Afbeelding: Voeg een beheerder toe en selecteer een productprofiel in  [!DNL Admin Console].*
 
-1. Als u [!DNL Cloud Manager] wilt openen, klikt u op de koppeling in de e-mail met toegang tot [!DNL Cloud Manager]. U kunt ook `https://experience.adobe.com/#/cloud-manager/` openen in uw browser.
+1. Als u [!DNL Cloud Manager] wilt openen, klikt u op de koppeling in de e-mail met toegang tot [!DNL Cloud Manager]. U kunt ook [https://experience.adobe.com/#/cloud-manager/](https://experience.adobe.com/#/cloud-manager/) openen in uw browser.
 
 1. Klik in de gebruikersinterface van Cloud Manager op **[!UICONTROL Add Program]** in de rechterbovenhoek.
 
@@ -54,7 +52,7 @@ Na levering, wordt [!DNL Assets Essentials] recht toegevoegd aan uw Adobe Org, e
 
    *Afbeelding: Voeg een omgeving toe  [!DNL Cloud Manager] om te beginnen met gebruiken  [!DNL Assets Essentials].*
 
-1. Wanneer de omgeving is gemaakt, kunt u toegang krijgen tot [!DNL Admin Console] en de gebruikers van uw organisatie toevoegen aan [!DNL Assets Essentials]-oplossing. Klik op ![optiepictogram](assets/do-not-localize/options-ellipses-icon.png) en selecteer de optie **[!UICONTROL Manage Access]**.
+1. Wanneer de omgeving na enkele minuten is gemaakt, hebt u toegang tot [!DNL Admin Console] en kunt u de gebruikers van uw organisatie toevoegen aan de [!DNL Assets Essentials]-oplossing. Klik op ![optiepictogram](assets/do-not-localize/options-ellipses-icon.png) en selecteer de optie **[!UICONTROL Manage Access]**.
 
    ![Klaar omgeving in  [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
 
