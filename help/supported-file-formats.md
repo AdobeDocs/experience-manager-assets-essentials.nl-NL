@@ -1,12 +1,12 @@
 ---
 title: Ondersteunde bestandsindelingen
 description: Ondersteunde bestandsindelingen voor de verschillende gebruiksgevallen van [!DNL Assets Essentials]
-role: Business Practitioner,Leader,Administrator,Architect,Developer
+role: User,Leader,Administrator,Architect,Developer
 contentOwner: AG
-source-git-commit: 42d85b0d1a1c2e1ac3c3dac4b0c151a7aa3af8b9
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 7%
+source-wordcount: '196'
+ht-degree: 9%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 7%
 De verschillende bestandstypen bieden verschillende ondersteuningsgraden voor de gebruiksgevallen en -functies, zoals hieronder wordt beschreven. Gebruik de legenda om het steunniveau te begrijpen.
 
 | Ondersteuningsniveau | Beschrijving |
-| :-----------: | ------------------------------ |
+|---------------|-------------------------|
 | ✓ | Ondersteund |
 | * | voorwaardelijk ondersteund |
 | - | Niet van toepassing |
@@ -31,67 +31,70 @@ De verschillende bestandstypen bieden verschillende ondersteuningsgraden voor de
 
 ## Elementen toevoegen, uploaden en weergeven {#support-to-upload-view}
 
+<!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
+-->
+
 | Type element | Bladeren | Kopiëren | Uploaden | Maken | Verwijderen | Details | Zoomen op afbeelding | Onlangs bekeken |
-|---|---|---|---|---|---|---|---|---|
-| Rasterafbeeldingen |  |  |  |  |  |  |  |  |
-| Mappen |  |  |  |  |  |  |  |  |
-| Video&#39;s |  |  |  |  |  |  |  |  |
-| CC-bibliotheken |  |  |  |  |  |  |  |  |
-| PDF-bestanden |  |  |  |  |  |  |  |  |
-| PSD |  |  |  |  |  |  |  |  |
-| AI |  |  |  |  |  |  |  |  |
-| INDD |  |  |  |  |  |  |  |  |
+|---------------|----------|------|----------|----------|----------|----------|------------|-----------------|
+| Rasterafbeeldingen | ✓ |  | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| Mappen | ✓ |  | ✓ | ✓ | ✓ | ✓ | - | - |
+| Video&#39;s | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
+| CC-bibliotheken | ✓ |  | ✓ | ✓ | ✓ | ✓ | - | - |
+| PDF | ✓ |  | ✓ | - | ✓ | ✓ | - | ✓ |
+| PSD | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
+| AI | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
+| INDD | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
 
 ## Elementen zoeken, gebruiken en bewerken {#support-to-search-use-edit}
 
 | Type element | Downloaden | Slepen en neerzetten | Afbeeldingseditor | Zoeken | Slimme tags | Naam wijzigen | Versies |
-| --- | ---  | --- | --- | --- | --- | --- | --- |
-| Rasterafbeeldingen |  |  |  |  |  |  |  |
-| Mappen |  |  |  |  |  |  |  |
-| Video&#39;s |  |  |  |  |  |  |  |
-| CC-bibliotheken |  |  |  |  |  |  |  |
-| PDF-bestanden |  |  |  |  |  |  |  |
-| PSD |  |  |  |  |  |  |  |
-| AI |  |  |  |  |  |  |  |
-| INDD |  |  |  |  |  |  |  |
+|---------------|----------|---------------|--------------|----------|------------|----------|----------|
+| Rasterafbeeldingen | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Mappen | ✓ | ✓ | - | ✓ | - | ✓ | - |
+| Video&#39;s | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
+| CC-bibliotheken | - | - | - | - | - | ✓ | - |
+| PDF | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
+| PSD | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
+| AI | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
+| INDD | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
 
 ## Elementen controleren en samenwerken {#support-to-review-collaborate}
 
 | Type element | Annoteren | Opmerking | Taken en revisie maken |
-| --- | --- | --- | --- |
-| Rasterafbeeldingen |  |  |  |
-| Mappen |  |  |  |  |
-| Video&#39;s |  |  |  |  |
-| CC-bibliotheken |  |  |  |  |
-| PDF-bestanden |  |  |  |  |
-| PSD |  |  |  |  |
-| AI |  |  |  |  |
-| INDD |  |  |  |  |
+|---------------|----------|----------|-------------------------|
+| Rasterafbeeldingen | ✓ | ✓ | ✓ |
+| Mappen | - | - | - |
+| Video&#39;s | - | ✓ | ✓ |
+| CC-bibliotheken | - | - | - |
+| PDF | - | ✓ | ✓ |
+| PSD | - | ✓ | ✓ |
+| AI | - | ✓ | ✓ |
+| INDD | - | ✓ | ✓ |
 
-## Andere taken voor middelenbeheer {#support-to-manage-assets}
+## Overige taken voor vermogensbeheer {#support-to-manage-assets}
 
-| Type element | Metagegevens | Uitvoeringen | Prullenbak | Kopiëren | Verplaatsen |
-| --- | --- | --- | --- | --- | --- |
-| Rasterafbeeldingen |  |  |  |  |  |
-| Mappen |  |  |  |  |  |  |
-| Video&#39;s |  |  |  |  |  |  |
-| CC-bibliotheken |  |  |  |  |  |  |
-| PDF-bestanden |  |  |  |  |  |  |
-| PSD |  |  |  |  |  |  |
-| AI |  |  |  |  |  |  |
-| INDD |  |  |  |  |  |  |
+| Type element | Metagegevens | Uitvoeringen | Prullenbak | Kopiëren | Verplaatsen | [!DNL Adobe Asset Link] inchecken |
+|---------------|----------|------------|----------|----------|----------|----------------------------------|
+| Rasterafbeeldingen | * | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Mappen | * | - | ✓ | ✓ | ✓ | - |
+| Video&#39;s | * | - | ✓ | ✓ | ✓ | - |
+| CC-bibliotheken | * | - | - | - | - | - |
+| PDF | * | - | ✓ | ✓ | ✓ | - |
+| PSD | * | - | ✓ | ✓ | ✓ | - |
+| AI | * | - | ✓ | ✓ | ✓ | - |
+| INDD | * | - | ✓ | ✓ | ✓ | - |
 
 <!-- TBD: Saving template table separately.
-| Asset type | Features |
-|---|---|
-| Raster images |  |
-| Folders | |
-| Videos | |
-| CC Libraries | |
-| PDF files | |
-| PSD | |
-| AI | |
-| INDD | |
+| Asset type    | Features |
+|---------------|----------|
+| Raster images |          |
+| Folders       |          |
+| Videos        |          |
+| CC Libraries  |          |
+| PDF files     |          |
+| PSD           |          |
+| AI            |          |
+| INDD          |          |
 
 >[!MORELIKETHIS]
 >
