@@ -1,9 +1,9 @@
 ---
 title: Metagegevens beheren
 description: Metagegevens van elementen beheren in [!DNL Assets Essentials]
-role: Business Practitioner,Leader,Administrator,Architect,Developer
+role: User,Leader,Administrator,Architect,Developer
 contentOwner: AG
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Metagegevens zijn gegevens of een beschrijving van de gegevens. Uw afbeeldingen als een element kunnen bijvoorbeeld informatie bevatten over de camera waarop u hebt geklikt of over copyrightgegevens. Deze informatie is metagegevens van de afbeelding. Metagegevens zijn essentieel voor efficiënt middelenbeheer. Metagegevens zijn de verzameling van alle gegevens die voor een element beschikbaar zijn, maar hoeven niet noodzakelijkerwijs in dat element te zijn opgenomen.
 
-Met metagegevens kunt u elementen verder indelen. Dit is handig wanneer de hoeveelheid digitale informatie toeneemt. Het is mogelijk om een paar honderd bestanden te beheren op basis van alleen de bestandsnamen, miniaturen en het geheugen. Deze aanpak is echter niet schaalbaar. Het is te kort wanneer het aantal betrokken personen en het aantal beheerde activa toenemen.
+Met metagegevens kunt u elementen verder indelen. Dit is handig als de hoeveelheid digitale informatie toeneemt. Het is mogelijk om een paar honderd bestanden te beheren op basis van alleen de bestandsnamen, miniaturen en het geheugen. Deze aanpak is echter niet schaalbaar. Het is te kort wanneer het aantal betrokken personen en het aantal beheerde activa toenemen.
 
 Als er metagegevens worden toegevoegd, neemt de waarde van een digitaal element toe, omdat het element
 
@@ -35,7 +35,7 @@ Als u de metagegevens van een element wilt weergeven, bladert u naar het element
 
 De basismetagegevens, zoals titel, beschrijving en uploaddatum, zijn beschikbaar op het tabblad [!UICONTROL Basic]. Het tabblad [!UICONTROL Advanced] bevat meer geavanceerde metagegevens, zoals cameramodel, lensdetails en geotags. Het tabblad [!UICONTROL Tags] bevat automatisch toegepaste tags op basis van de inhoud van de afbeelding.
 
-## Metagegevens {#update-metadata} bijwerken
+## Metagegevens bijwerken {#update-metadata}
 
 U kunt een aantal metagegevensvelden handmatig bijwerken. De velden omvatten [!UICONTROL Title], [!UICONTROL Description], [!UICONTROL Author], en [!UICONTROL Keywords].
 
@@ -51,7 +51,7 @@ De slimme tags worden toegepast in de buurt van realtime en worden gegenereerd o
 
 Slimme tags bevatten ook een betrouwbaarheidsscore als percentage. Het geeft het vertrouwen aan dat aan de toegepaste tag is gekoppeld. U kunt de automatisch toegepaste slimme tags verkleinen.
 
-## Codes {#manually-tag} toevoegen of bijwerken
+## Tags toevoegen of bijwerken {#manually-tag}
 
 U kunt meer tags toevoegen aan uw elementen, naast de slimme tags die automatisch worden toegevoegd met de slimme service [!DNL Adobe Sensei]. Open een element voor voorvertoning, klik op [!UICONTROL Tags] en typ de gewenste trefwoorden in het veld [!UICONTROL Keywords]. Druk op Return om de tag toe te voegen. [!DNL Assets Essentials] indexeert het sleutelwoord in dichtbij echt - tijd en uw team kan spoedig de bijgewerkte activa zoeken gebruikend de nieuwe sleutelwoorden.
 
