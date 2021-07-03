@@ -3,7 +3,7 @@ title: Ondersteunde bestandsindelingen
 description: Ondersteunde bestandsindelingen voor de verschillende gebruiksgevallen van [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
+source-git-commit: e791ef4ffdfdad907b5e868b3f3eab0c597ae4cd
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 9%
@@ -35,15 +35,15 @@ De verschillende bestandstypen bieden verschillende ondersteuningsgraden voor de
 -->
 
 | Type element | Bladeren | Kopiëren | Uploaden | Maken | Verwijderen | Details | Zoomen op afbeelding | Onlangs bekeken |
-|---------------|----------|------|----------|----------|----------|----------|------------|-----------------|
-| Rasterafbeeldingen | ✓ |  | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| Mappen | ✓ |  | ✓ | ✓ | ✓ | ✓ | - | - |
-| Video&#39;s | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
-| CC-bibliotheken | ✓ |  | ✓ | ✓ | ✓ | ✓ | - | - |
-| PDF | ✓ |  | ✓ | - | ✓ | ✓ | - | ✓ |
-| PSD | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
-| AI | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
-| INDD | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
+|---------------|----------|----------|----------|----------|----------|----------|------------|-----------------|
+| Rasterafbeeldingen | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| Mappen | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
+| Video&#39;s | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
+| CC-bibliotheken | ✓ | - | ✓ | ✓ | ✓ | ✓ | - | - |
+| PDF | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
+| PSD | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
+| AI | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
+| INDD | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
 
 ## Elementen zoeken, gebruiken en bewerken {#support-to-search-use-edit}
 
