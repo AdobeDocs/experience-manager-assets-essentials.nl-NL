@@ -1,8 +1,8 @@
 ---
 title: '[!DNL Assets Essentials] gebruikersinterface'
 description: Begrijp gebruikersinterface van en navigatie in [!DNL Assets Essentials].
-role: Business Practitioner
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+role: User
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '534'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 <!-- TBD: The options in left sidebar may change. Shared with me and Shared by me are missing for now. Update this section as UI is updated. -->
 
-## De [!DNL Assets Essentials]-gebruikersinterface {#understand-interface-navigation} begrijpen
+## De gebruikersinterface [!DNL Assets Essentials] begrijpen {#understand-interface-navigation}
 
 [!DNL Assets Essentials] biedt een intuïtieve en gebruikersvriendelijke gebruikersinterface. De schone interface maakt elementen en verwante informatie gemakkelijk te vinden en te herinneren.
 
