@@ -1,8 +1,8 @@
 ---
 title: Afbeeldingen bewerken
 description: Bewerk afbeeldingen met behulp van [!DNL Adobe Photoshop Express] opties voor voeding en sla bijgewerkte afbeeldingen op als versies.
-role: Business Practitioner
-source-git-commit: b3fea5209fb29409b3aae5970fa30505f8b5c22c
+role: User
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Nadat u een afbeelding hebt bewerkt, kunt u de nieuwe afbeelding opslaan als een
 
 *Afbeelding: De opties voor het bewerken van afbeeldingen zijn afhankelijk van  [!DNL Adobe Photoshop Express].*
 
-## Afbeeldingen {#spot-heal-images} retoucheren
+## Steunretoucheerafbeeldingen {#spot-heal-images}
 
 Als er kleine vlekken of kleine voorwerpen op een beeld zijn, kunt u de vlekken uitgeven en verwijderen gebruikend de vlekkegelaar die door Adobe Photoshop wordt verstrekt.
 
@@ -41,7 +41,7 @@ Klik op **[!UICONTROL Crop Image]** om de bewerkingen op te slaan. Na het bewerk
 
 Met veel standaardopties kunt u uw afbeelding uitsnijden naar de beste verhoudingen die passen in verschillende profielen en posts van sociale media.
 
-## Afbeelding {#resize-image} vergroten/verkleinen
+## Afbeelding vergroten/verkleinen {#resize-image}
 
 Een afbeelding vergroten of verkleinen tot een bepaalde grootte is een veelgebruikte optie. [!DNL Assets Essentials] Hiermee kunt u snel het formaat van een afbeelding aanpassen aan de gebruikelijke fotoformaten door vooraf berekende nieuwe resoluties voor specifieke fotoformaten te bieden. U kunt de gebruikelijke fotoformaten in centimeters of inches weergeven om de afmetingen te kennen. Standaard behoudt de methode voor het wijzigen van de grootte de hoogte-breedteverhouding. Als u de hoogte-breedteverhouding handmatig wilt overschrijven, klikt u op ![](assets/do-not-localize/lock-closed-icon.png).
 
@@ -49,7 +49,7 @@ Voer de afmetingen in en klik op **[!UICONTROL Resize Image]** om het formaat va
 
 ![Opties voor het wijzigen van het formaat van een afbeelding](assets/resize-image.png)
 
-## Afbeelding {#adjust-image} aanpassen
+## Afbeelding aanpassen {#adjust-image}
 
 [!DNL Assets Essentials] Hiermee kunt u de kleur, toon, contrast en meer aanpassen met slechts een paar klikken. Klik op **[!UICONTROL Adjust image]** in het bewerkingsvenster. De rechterzijbalk bevat de volgende opties:
 
