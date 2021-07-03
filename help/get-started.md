@@ -1,8 +1,8 @@
 ---
 title: Aan de slag met [!DNL Assets Essentials]
 description: Hoe te om tot, login ervaring van, gesteunde gebruiksgevallen van, en bekende kwesties van  [!DNL Assets Essentials] toegang te hebben.
-role: Business Practitioner, Leader
-source-git-commit: 4a7fe369485db5cae843694c68f84133c9118337
+role: User, Leader
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '451'
 ht-degree: 0%
