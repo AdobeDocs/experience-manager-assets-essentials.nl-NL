@@ -1,9 +1,9 @@
 ---
 title: Uw digitale middelen beheren
 description: Verplaats, verwijder, kopieer, hernoem, werk, en versie uw activa in  [!DNL Assets Essentials] bij.
-role: Business Practitioner,Leader
+role: User,Leader
 contentOwner: AG
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -52,7 +52,7 @@ U kunt dezelfde opties weergeven op de miniaturen van elementen.
 
 U kunt een of meer elementen of mappen of een combinatie van beide selecteren en de selectie naar uw lokale bestandssysteem downloaden. U kunt de elementen bewerken en opnieuw uploaden of de elementen buiten [!DNL Assets Essentials] verspreiden. U kunt ook [de uitvoeringen](/help/add-delete.md#renditions) van een element downloaden.
 
-## Versiering van bedrijfsmiddelen {#versions-of-assets}
+## Asset versioning {#versions-of-assets}
 
 <!-- 
 TBD: query for engineering: How many versions are maintained. What happens when we reach that limit? Are old versions automatically removed? -->
@@ -75,7 +75,7 @@ TBD: query for engineering: How many versions are maintained. What happens when 
 
    ![Optie voor het uploaden van een nieuwe versie van een element uit de versiegeschiedenis](assets/view-asset-versions2.png)
 
-### Versies van een element {#view-versions} weergeven
+### Versies van een element weergeven {#view-versions}
 
 Wanneer u een gedupliceerde kopie of een gewijzigde kopie van een element uploadt, kunt u de versies ervan maken. Met Versioning kunt u historische elementen controleren en desgewenst terugkeren naar een vorige versie.
 
