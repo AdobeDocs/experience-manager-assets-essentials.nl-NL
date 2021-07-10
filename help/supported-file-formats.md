@@ -3,9 +3,9 @@ title: Ondersteunde bestandsindelingen
 description: Ondersteunde bestandsindelingen voor de verschillende gebruiksgevallen van [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: e791ef4ffdfdad907b5e868b3f3eab0c597ae4cd
+source-git-commit: c63e9ab1054398dc055643f0dca6631bae881047
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '206'
 ht-degree: 9%
 
 ---
@@ -22,32 +22,31 @@ ht-degree: 9%
 De verschillende bestandstypen bieden verschillende ondersteuningsgraden voor de gebruiksgevallen en -functies, zoals hieronder wordt beschreven. Gebruik de legenda om het steunniveau te begrijpen.
 
 | Ondersteuningsniveau | Beschrijving |
-|---------------|-------------------------|
+|-------------------|-------------------------|
 | ✓ | Ondersteund |
-| * | voorwaardelijk ondersteund |
+| ✓ ‡ | voorwaardelijk ondersteund |
 | - | Niet van toepassing |
-
-* Andere taken op het gebied van vermogensbeheer:
 
 ## Elementen toevoegen, uploaden en weergeven {#support-to-upload-view}
 
 <!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
 -->
 
-| Type element | Bladeren | Kopiëren | Uploaden | Maken | Verwijderen | Details | Zoomen op afbeelding | Onlangs bekeken |
-|---------------|----------|----------|----------|----------|----------|----------|------------|-----------------|
+| Type element | [Bladeren](/help/navigate-view.md) | Kopiëren | [Uploaden](/help/add-delete.md) | Maken | [Verwijderen](/help/add-delete.md#delete-assets) | Details | Zoomen op afbeelding | [Onlangs bekeken](/help/navigate-view.md) |
+|-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
 | Rasterafbeeldingen | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
 | Mappen | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
-| Video&#39;s | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
-| CC-bibliotheken | ✓ | - | ✓ | ✓ | ✓ | ✓ | - | - |
+| MP4-video&#39;s | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
 | PDF | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
-| PSD | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
-| AI | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
-| INDD | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
+| PSD, AI en INDD | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
+
+<!-- Hiding CC Libraries (considered beta) as per PM feedback.
+| CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
+-->
 
 ## Elementen zoeken, gebruiken en bewerken {#support-to-search-use-edit}
 
-| Type element | Downloaden | Slepen en neerzetten | Afbeeldingseditor | Zoeken | Slimme tags | Naam wijzigen | Versies |
+| Type element | [Downloaden](/help/manage-organize.md#download) | Slepen en neerzetten | [Afbeeldingseditor](/help/edit-images.md) | [Zoeken](/help/search.md) | [Slimme tags](/help/metadata.md#tags) | [Naam wijzigen](/help/manage-organize.md) | [Versies](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Rasterafbeeldingen | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Mappen | ✓ | ✓ | - | ✓ | - | ✓ | - |
@@ -73,18 +72,20 @@ De verschillende bestandstypen bieden verschillende ondersteuningsgraden voor de
 
 ## Overige taken voor vermogensbeheer {#support-to-manage-assets}
 
-| Type element | Metagegevens | Uitvoeringen | Prullenbak | Kopiëren | Verplaatsen | [!DNL Adobe Asset Link] inchecken |
-|---------------|----------|------------|----------|----------|----------|----------------------------------|
-| Rasterafbeeldingen | * | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Mappen | * | - | ✓ | ✓ | ✓ | - |
-| Video&#39;s | * | - | ✓ | ✓ | ✓ | - |
-| CC-bibliotheken | * | - | - | - | - | - |
-| PDF | * | - | ✓ | ✓ | ✓ | - |
-| PSD | * | - | ✓ | ✓ | ✓ | - |
-| AI | * | - | ✓ | ✓ | ✓ | - |
-| INDD | * | - | ✓ | ✓ | ✓ | - |
+| Type element | [Metagegevens](/help/metadata.md) | [Uitvoeringen](/help/add-delete.md#renditions) | [Prullenbak](/help/add-delete.md#delete-assets) | Kopiëren | Verplaatsen |
+|---------------|-------------------|------------|----------|----------|----------|
+| Rasterafbeeldingen | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Mappen | ✓ | - | ✓ | ✓ | ✓ |
+| Video&#39;s | ✓ | - | ✓ | ✓ | ✓ |
+| CC-bibliotheken | ✓ | - | - | - | - |
+| PDF | ✓ | - | ✓ | ✓ | ✓ |
+| PSD | ✓ | - | ✓ | ✓ | ✓ |
+| AI | ✓ | - | ✓ | ✓ | ✓ |
+| INDD | ✓ | - | ✓ | ✓ | ✓ |
 
-<!-- TBD: Saving template table separately.
+Gebruikers van [!DNL Adobe Asset Link] kunnen de rasterafbeeldingen inchecken in de [!DNL Assets Essentials]-opslagruimte vanuit de ondersteunde [!DNL Adobe Creative Cloud]-bureaubladtoepassingen.
+
+<!-- TBD: Saving the template table separately for later use.
 | Asset type    | Features |
 |---------------|----------|
 | Raster images |          |
