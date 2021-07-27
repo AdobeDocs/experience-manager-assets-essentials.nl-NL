@@ -2,9 +2,9 @@
 title: Inleiding tot [!DNL Assets Essentials]
 description: Overzicht van Assets Essentials en overzicht van de oplossing
 role: User,Leader
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 6c050d55aadeffa59c989f5b8ff6fe67da0d4d86
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Voor beheerders, biedt het eenvoudigere configuratie en beleid dat tot snellere 
 Voor gebruikers is het beheren van uw digitale middelen met [!DNL Assets Essentials] even eenvoudig als de volgende drie stappen. Zie [Aan de slag met [!DNL Assets Essentials]](/help/get-started.md).
 
 * **Stap 1**: Elementen uploaden en weergeven.
-* **Stap 2**: Zoek en download de vereiste middelen.
+* **Stap 2**: Elementen zoeken en downloaden.
 * **Stap 3**: De elementen beheren en ordenen.
 
 >[!MORELIKETHIS]
