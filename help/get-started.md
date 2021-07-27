@@ -2,9 +2,9 @@
 title: Aan de slag met [!DNL Assets Essentials]
 description: Hoe te om tot, login ervaring van, gesteunde gebruiksgevallen van, en bekende kwesties van  [!DNL Assets Essentials] toegang te hebben.
 role: User, Leader
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 6c050d55aadeffa59c989f5b8ff6fe67da0d4d86
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Voor het beheren van uw digitale middelen met [!DNL Assets Essentials] zijn slec
 
 * **Stap 1**:  [Elementen ](/help/add-delete.md) uploaden en  [](/help/navigate-view.md) weergeven.
 * **Stap 2**:  [Zoeken ](/help/search.md) en  [](/help/manage-organize.md#download) downloaden.
-* **Stap 3**:  [Elementen beheren en ](/help/manage-organize.md) organiseren.
+* **Stap 3**:  [De elementen beheren en ](/help/manage-organize.md) ordenen.
 
-Als u [!DNL Assets Essentials] wilt gebruiken, meldt u zich aan bij [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
+Als u [!DNL Assets Essentials] wilt gebruiken, meldt u zich aan bij [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). Selecteer `Company or School Account` bij het aanmelden. Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
 
 Daarnaast is meer referentie-informatie die nuttig kan zijn [begrip van de gebruikersinterface](/help/navigate-view.md), [lijst met gebruiksgevallen](#use-cases), <!-- TBD: [supported file types](/help/supported-file-formats.md), --> en [bekende problemen](/help/release-notes.md#known-issues).
 
@@ -56,11 +56,11 @@ Hieronder vindt u de verschillende DAM-taken (Digital Asset Management) die u ku
 | Gebruikerstaken | Functionaliteit en &quot;Hoe kan ik&quot;-informatie |
 |-----|------|
 | Hoe voeg ik middelen toe? | <ul> <li> [Elementen uploaden](/help/add-delete.md) </li> <li> [Uitvoeringen](/help/add-delete.md#renditions) </li> </ul> |
-| Hoe kan ik middelen of gerelateerde informatie bijwerken? | <ul> <li>Een bestaand element wijzigen</li> <li>[Versies ](/help/manage-organize.md#create-versions) en  [weergaveversies maken](/help/navigate-view.md#view-versions)</li> <li>[Afbeeldingen bewerken](/help/edit-images.md)</li> </ul> |
-| Hoe ontdek ik middelen? | <ul> <li>[Bladeren door opslagplaats](/help/navigate-view.md#view-assets-and-details) </li> <li> [Elementen ](/help/navigate-view.md#preview-assets) voorvertonen en elementen  [downloaden](/help/manage-organize.md) </li> <li>[Gedetailleerde metagegevens weergeven](/help/metadata.md) </li> <li>[Assets doorzoeken](/help/search.md)</li></ul> |
-| Hoe kan ik elementen in de opslagplaats bewerken? | <ul> <li>[Bewerkingen in de browser met Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Uitsnijden voor een profiel voor sociale media](/help/edit-images.md#crop-straighten-images)</li> <li>[Versies weergeven en beheren](/help/manage-organize.md#create-versions)</li> <li>[Adobe Asset Link](/help/integration.md#integrations) gebruiken</ul></ul> |
-| Hoe zoek ik naar middelen in de opslagplaats? | <ul> <li>[Zoeken in een specifieke map](/help/search.md)</li> <li>[Opgeslagen zoekopdrachten](/help/search.md)</li> <li>[Zoeken naar onlangs weergegeven elementen](/help/search.md)</li> <li>[Volledige tekst zoeken](/help/search.md) |
-| Hoe voeg ik nieuwe middelen toe? | <ul> <li>[Nieuwe elementen en mappen uploaden](/help/add-delete.md#add-assets)</li> <li>[Uploadvoortgang controleren en uploads beheren](/help/add-delete.md)</li> <li>[Duplicaten oplossen](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
+| Hoe kan ik middelen of gerelateerde informatie bijwerken? | <ul> <li>Een bestaand element wijzigen</li> <li>[Versies ](/help/manage-organize.md#create-versions) en  [weergaveversies maken](/help/manage-organize.md#view-versions)</li> <li>[Afbeeldingen bewerken](/help/edit-images.md)</li> </ul> |
+| Hoe ontdek ik middelen? | <ul> <li>[Bladeren door opslagplaats](/help/navigate-view.md#view-assets-and-details) </li> <li> [Elementen ](/help/navigate-view.md#preview-assets) voorvertonen en elementen  [downloaden](/help/manage-organize.md#download) </li> <li>[Gedetailleerde metagegevens weergeven](/help/metadata.md) </li> <li>[Assets doorzoeken](/help/search.md)</li></ul> |
+| Hoe kan ik elementen in de opslagplaats bewerken? | <ul> <li>[Bewerkingen in de browser met Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Uitsnijden voor een profiel voor sociale media](/help/edit-images.md#crop-straighten-images)</li> <li>[Versies weergeven en beheren](/help/manage-organize.md#view-versions)</li> <li>[Adobe Asset Link](/help/integration.md#integrations) gebruiken</ul></ul> |
+| Hoe zoek ik naar middelen in de opslagplaats? | <ul> <li>[Zoeken in een specifieke map](/help/search.md#refine-search-results)</li> <li>[Opgeslagen zoekopdrachten](/help/search.md#saved-search)</li> <li>[Zoeken naar onlangs weergegeven elementen](/help/search.md)</li> <li>[Volledige tekst zoeken](/help/search.md) |
+| Hoe voeg ik nieuwe middelen toe? | <ul> <li>[Nieuwe elementen en mappen uploaden](/help/add-delete.md#add-assets)</li> <li>[Uploadvoortgang controleren en uploads beheren](/help/add-delete.md#upload-progress)</li> <li>[Duplicaten oplossen](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
 | Kan [!DNL Assets Essentials] met andere oplossingen integreren? | <ul> <li>[Asset Selector gebruiken in [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] for [!DNL Creative Cloud]](/help/integration.md)</li> <li>Integratie met [!DNL Creative Cloud Team] bibliotheken</li> </ul> |
 
 <!--TBD: Merge in above table when these use cases are documented/available.
