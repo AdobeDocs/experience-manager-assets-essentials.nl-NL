@@ -2,9 +2,9 @@
 title: '[!DNL Assets Essentials] gebruikersinterface'
 description: Begrijp gebruikersinterface van en navigatie in [!DNL Assets Essentials].
 role: User
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 6c050d55aadeffa59c989f5b8ff6fe67da0d4d86
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -40,11 +40,15 @@ Wanneer u login in [!DNL Assets Essentials], ziet u de volgende interface.
 
 ## Door elementen en mappen bladeren en deze weergeven {#browse-repository}
 
-U kunt naar de vereiste bestanden of mappen bladeren vanuit de hoofdgebruikersinterface of vanuit de linkerzijbalk. Wanneer u bladert, kunt u de interface gebruiken om elementminiaturen weer te geven en visueel door de opslagplaats te bladeren of elementdetails weer te geven om snel het gewenste element te vinden. In de linkerzijbalk zijn de volgende opties beschikbaar:
+U kunt door de mappen bladeren vanuit de hoofdgebruikersinterface of vanuit de linkerzijbalk. Wanneer u bladert, kunt u de interface gebruiken om elementminiaturen weer te geven en visueel door de opslagplaats te bladeren of elementdetails weer te geven om snel het gewenste element te vinden. In de linkerzijbalk zijn de volgende opties beschikbaar:
 
-* **Elementen**: Lijst met alle mappen en elementen in een boomstructuurweergave waartoe u toegang hebt.
-* **Onlangs bekeken**: Lijst met elementen waarvan u onlangs een voorvertoning hebt weergegeven. [!DNL Assets Essentials] geeft alleen de elementen weer die u voorvertoont. Hier worden niet de elementen weergegeven die u voorbij schuift wanneer u door de bestanden of mappen in de opslagplaats bladert.
-* **Bibliotheken**: Toegang tot de weergave  [!DNL Adobe Creative Cloud Team] (CCT) Bibliotheken. Deze weergave is alleen zichtbaar als de gebruiker beschikt over CCT-bibliotheken.
+* **Elementen**: Lijst met alle mappen in een boomstructuurweergave waartoe u toegang hebt.
+* **Onlangs bekeken**: Lijst met elementen waarvan u onlangs een voorvertoning hebt weergegeven. [!DNL Assets Essentials] geeft alleen de elementen weer die u voorvertoont. De elementen die u voorbij schuift tijdens het bladeren door de bestanden of mappen in de opslagplaats worden niet weergegeven.
+* **Prullenbak**:
+
+<!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
+* **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
+-->
 
 <!-- TBD: My Work Space shows task inbox and it is not visible on AEM Cloud Demos as of now. It is the source of truth server hence not documenting My Work Space option for now.
 -->
