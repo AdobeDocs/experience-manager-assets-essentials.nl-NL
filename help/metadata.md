@@ -3,9 +3,9 @@ title: Metagegevens beheren
 description: Metagegevens van elementen beheren in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
+source-git-commit: a176769247bcafcc0497f2480cdec86c5753f218
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Metagegevens zijn gegevens of een beschrijving van de gegevens. Uw afbeeldingen als een element kunnen bijvoorbeeld informatie bevatten over de camera waarop u hebt geklikt of over copyrightgegevens. Deze informatie is metagegevens van de afbeelding. Metagegevens zijn essentieel voor efficiënt middelenbeheer. Metagegevens zijn de verzameling van alle gegevens die voor een element beschikbaar zijn, maar hoeven niet noodzakelijkerwijs in dat element te zijn opgenomen.
 
-Met metagegevens kunt u elementen verder indelen. Dit is handig als de hoeveelheid digitale informatie toeneemt. Het is mogelijk om een paar honderd bestanden te beheren op basis van alleen de bestandsnamen, miniaturen en het geheugen. Deze aanpak is echter niet schaalbaar. Het is te kort wanneer het aantal betrokken personen en het aantal beheerde activa toenemen.
+Met metagegevens kunt u elementen verder indelen. Dit is handig wanneer de hoeveelheid digitale informatie toeneemt. Het is mogelijk om een paar honderd bestanden te beheren op basis van alleen de bestandsnamen, miniaturen en het geheugen. Deze aanpak is echter niet schaalbaar. Het is te kort wanneer het aantal betrokken personen en het aantal beheerde activa toenemen.
 
 Als er metagegevens worden toegevoegd, neemt de waarde van een digitaal element toe, omdat het element
 
@@ -56,6 +56,49 @@ Slimme tags bevatten ook een betrouwbaarheidsscore als percentage. Het geeft het
 U kunt meer tags toevoegen aan uw elementen, naast de slimme tags die automatisch worden toegevoegd met de slimme service [!DNL Adobe Sensei]. Open een element voor voorvertoning, klik op [!UICONTROL Tags] en typ de gewenste trefwoorden in het veld [!UICONTROL Keywords]. Druk op Return om de tag toe te voegen. [!DNL Assets Essentials] indexeert het sleutelwoord in dichtbij echt - tijd en uw team kan spoedig de bijgewerkte activa zoeken gebruikend de nieuwe sleutelwoorden.
 
 U kunt ook codes uit de sectie [!UICONTROL Smart Tags] verwijderen die automatisch door [!DNL Assets Essentials] aan alle geüploade elementen worden toegevoegd.
+
+## Metagegevensformulieren {#metadata-forms}
+
+Assets Essentials biedt standaard vele standaardmetagegevensvelden. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan de pagina [!UICONTROL Details] van een element. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen.
+
+U kunt metagegevensformulieren configureren voor verschillende typen elementen (verschillende MIME-typen). Gebruik dezelfde formuliernaam als het MIME-type van het bestand. Essentiële elementen komen automatisch geüploade elementen overeen met de naam van het formulier. Als bijvoorbeeld een metagegevensformulier met de naam `PDF` of `pdf` bestaat, bevatten de geüploade PDF-documenten metagegevensvelden zoals gedefinieerd in het formulier. U kunt geheel nieuwe formulieren maken of een bestaand formulier opnieuw gebruiken.
+
+>[!IMPORTANT]
+>
+>Het nieuwe metagegevensformulier voor een specifiek bestandstype vervangt volledig het standaardmetagegevensformulier dat [!DNL Assets Essentials] biedt. Als u een metagegevensformulier verwijdert of de naam ervan wijzigt, zijn de standaardmetagegevensvelden weer beschikbaar voor nieuwe elementen.
+
+Ga als volgt te werk om een metagegevensformulier te maken:
+
+1. Klik in de linkertrack op **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]**.
+
+   ![metagegevensformulieren, optie in linkerzijbalk](assets/metadata-forms-sidebar.png)
+
+1. Klik **[!UICONTROL Create]**, in het hoger-juiste gebied van het gebruikersinterface.
+1. Geef een naam op voor het formulier en klik op **[!UICONTROL Create]**.
+1. Geef een naam op voor de tab in **[!UICONTROL Settings]** in de rechtertrack.
+1. Sleep de vereiste componenten op een tabblad in het formulier vanaf de **[!UICONTROL Components]** die beschikbaar zijn in de linkertrack. Sleep de componenten in de gewenste volgorde.
+
+   ![metagegevensformulieren, optie in linkerzijbalk](assets/metadata-form-new.png)
+
+   *Afbeelding: Metagegevens maken interface met opties voor het toevoegen van componenten en optie voor het weergeven van een voorbeeld van het formulier.*
+
+1. Geef voor elke component in de code een naam op in de **[!UICONTROL Settings]** in de rechtertrack en geef deze een afbeelding met de ondersteunde eigenschappen op.
+1. Selecteer voor een component desgewenst **[!UICONTROL Required]** om het metagegevensveld verplicht te maken en selecteer **[!UICONTROL Read-Only]** om het veld onbewerkbaar te maken op de elementpagina [!UICONTROL Details].
+1. Klik desgewenst op **[!UICONTROL Preview]** om een voorbeeld te bekijken van het formulier dat u maakt.
+1. Voeg desgewenst meer tabbladen en de vereiste componenten toe aan elk tabblad.
+1. Klik **[!UICONTROL Save]** wanneer het formulier volledig is.
+
+Nadat een formulier is gemaakt, wordt het automatisch toegepast wanneer gebruikers een element van het overeenkomende MIME-type uploaden.
+
+Als u een bestaand formulier opnieuw wilt gebruiken om een nieuw formulier te maken, selecteert u een metagegevensformulier, klikt u op **[!UICONTROL Copy]** op de werkbalk, geeft u een naam op en klikt u op **[!UICONTROL Confirm]**. U kunt een metagegevensformulier bewerken om het te wijzigen. Wanneer u een formulier wijzigt, wordt dit gebruikt voor elementen die na de wijziging worden geüpload. De bestaande activa blijven ongewijzigd.
+
+<!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
+To reuse an existing form to create a new form, do one of these:
+
+* Select a metadata form and click **[!UICONTROL Copy]** from the toolbar, provide a name, and click **[!UICONTROL Confirm]**.
+
+* Click **[!UICONTROL Create]**, select **[!UICONTROL Use existing form structure as template]** option, and select an existing form. 
+-->
 
 <!-- TBD: Queries for PM and engg.
 
