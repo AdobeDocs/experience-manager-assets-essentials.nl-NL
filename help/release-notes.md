@@ -3,9 +3,9 @@ title: Release-opmerkingen
 description: Opmerkingen bij de release en bekende problemen van [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: fd95cf87ae8e5449471cd580405b228c32ede264
+source-git-commit: cbeb6f6f59da164115af52dfdbb97023b84bc1d1
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Voor meer informatie over de oplossing, zie [inleiding aan  [!DNL Assets Essenti
 
 De huidige release van Assets Essentials is 2021.7.0, uitgebracht op 29 juli 2021, met de volgende updates:
 
-* U kunt aangepaste metagegevensformulieren maken en beheren die worden gebruikt voor de weergave van eigenschappen van metagegevens voor gebruikers in het scherm met de bestandsdetails in de optie [!UICONTROL Metadata Forms] onder [!DNL Settings].
+* U kunt aangepaste metagegevensformulieren maken en beheren die worden gebruikt voor de weergave van eigenschappen van metagegevens voor gebruikers in het scherm met de bestandsdetails in de optie [!UICONTROL Metadata Forms] onder [!DNL Settings]. Zie [metagegevensformulieren](metadata.md#metadata-forms).
 * Verschillende opgeloste problemen en productverbeteringen, waaronder betere prestaties bij het uploaden van een geneste map met veel submappen.
 
 ## Bekende problemen {#known-issues}
