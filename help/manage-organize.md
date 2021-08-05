@@ -3,9 +3,9 @@ title: Uw digitale middelen beheren
 description: Verplaats, verwijder, kopieer, hernoem, werk, en versie uw activa in  [!DNL Assets Essentials] bij.
 role: User,Leader
 contentOwner: AG
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 9bff6e8570ca05f60844cfd84ef3e695e07ae27b
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -25,14 +25,11 @@ Gebruik [!DNL Assets Essentials] om de volgende taken voor middelenbeheer uit te
 * ![detailspictogramKlik om een voorvertoning van een element weer te geven en de gedetailleerde metagegevens weer te geven. ](assets/do-not-localize/edit-in-icon.png) Als u een voorvertoning weergeeft, kunt u de versies weergeven en een afbeelding bewerken.
 * ![download ](assets/do-not-localize/download-icon.png) pictogramDownload het geselecteerde element naar uw lokale bestandssysteem.
 * ![pictogram ](assets/do-not-localize/delete-icon.png) verwijderenHiermee verwijdert u het geselecteerde middel of de geselecteerde map.
-* 
-
-   <!-- ![checkout icon](assets/do-not-localize/checkout-icon.png) --> Checkout an asset.
+* Een element uitchecken. <!-- ![checkout icon](assets/do-not-localize/checkout-icon.png) -->
 * ![Kopieer ](assets/do-not-localize/copy-icon.png) pictogramKopieer het geselecteerde bestand of de geselecteerde map.
 * ![Verplaats ](assets/do-not-localize/move-icon.png) pictogramVerplaats het geselecteerde element of de geselecteerde map naar een andere locatie in de hiërarchie van de opslagplaats.
 * ![naam ](assets/do-not-localize/rename-icon.png) pictogram wijzigenNaam van geselecteerd element of geselecteerde map wijzigen. Gebruik een unieke naam anders ontbreekt het anders noemen met een waarschuwing. U kunt het opnieuw proberen met een nieuwe naam.
-* 
-   <!-- ![assign task icon](assets/do-not-localize/assign-task-icon.png) --> Assign tasks to other users to collaborate on an asset.
+* Taken toewijzen aan andere gebruikers om samen te werken aan een element. <!-- ![assign task icon](assets/do-not-localize/assign-task-icon.png) -->
 
 U kunt dezelfde opties weergeven op de miniaturen van elementen.
 
