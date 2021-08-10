@@ -3,9 +3,9 @@ title: Uw digitale middelen beheren
 description: Verplaats, verwijder, kopieer, hernoem, werk, en versie uw activa in  [!DNL Assets Essentials] bij.
 role: User,Leader
 contentOwner: AG
-source-git-commit: 9bff6e8570ca05f60844cfd84ef3e695e07ae27b
+source-git-commit: 3f8ba14c702fb3ee0df61aa503c9064c33f94794
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '604'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Gebruik [!DNL Assets Essentials] om de volgende taken voor middelenbeheer uit te
 * ![detailspictogramKlik om een voorvertoning van een element weer te geven en de gedetailleerde metagegevens weer te geven. ](assets/do-not-localize/edit-in-icon.png) Als u een voorvertoning weergeeft, kunt u de versies weergeven en een afbeelding bewerken.
 * ![download ](assets/do-not-localize/download-icon.png) pictogramDownload het geselecteerde element naar uw lokale bestandssysteem.
 * ![pictogram ](assets/do-not-localize/delete-icon.png) verwijderenHiermee verwijdert u het geselecteerde middel of de geselecteerde map.
-* Een element uitchecken. <!-- ![checkout icon](assets/do-not-localize/checkout-icon.png) -->
+* ![uitcheckpictogramHet geselecteerde ](assets/do-not-localize/checkout-icon.png) element uitchecken.
 * ![Kopieer ](assets/do-not-localize/copy-icon.png) pictogramKopieer het geselecteerde bestand of de geselecteerde map.
 * ![Verplaats ](assets/do-not-localize/move-icon.png) pictogramVerplaats het geselecteerde element of de geselecteerde map naar een andere locatie in de hiërarchie van de opslagplaats.
 * ![naam ](assets/do-not-localize/rename-icon.png) pictogram wijzigenNaam van geselecteerd element of geselecteerde map wijzigen. Gebruik een unieke naam anders ontbreekt het anders noemen met een waarschuwing. U kunt het opnieuw proberen met een nieuwe naam.
-* Taken toewijzen aan andere gebruikers om samen te werken aan een element. <!-- ![assign task icon](assets/do-not-localize/assign-task-icon.png) -->
+* ![taakpictogram toewijzenTaken ](assets/do-not-localize/review-delegate-icon.png) toewijzen aan andere gebruikers om samen te werken aan een element.
 
 U kunt dezelfde opties weergeven op de miniaturen van elementen.
 
