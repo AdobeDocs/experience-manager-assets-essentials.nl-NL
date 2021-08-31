@@ -3,9 +3,9 @@ title: Release-opmerkingen
 description: Opmerkingen bij de release en bekende problemen van [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: cbeb6f6f59da164115af52dfdbb97023b84bc1d1
+source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -13,23 +13,9 @@ ht-degree: 0%
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release is de eerste openbare release van [!DNL Assets Essentials] die op 21 juni 2021 beschikbaar is gesteld. [!DNL Assets Essentials] biedt lichte mogelijkheden voor middelenbeheer en de eerste versie ervan ondersteunt de volgende belangrijke functies en CRUD-bewerkingen (maken, lezen, bijwerken en verwijderen):
-
-* Upload en voeg elementen toe, waaronder geneste mappen. Geef een voorvertoning weer van de elementen en versies.
-* Volledige-tekstonderzoek, genummerde onderzoeksfilters, en bewaarde onderzoeken voor snelle activaontdekking.
-* Basisbewerkingen voor middelenbeheer, zoals het bijwerken, verwijderen, downloaden en beheren van metagegevens.
-* Integratie met [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
-
-[!DNL Assets Essentials] is momenteel beschikbaar voor [[!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer.html) klanten.
+De huidige release van [!DNL Assets Essentials] wordt uitgebracht op 30 augustus 2021. Het biedt integratie met [!DNL Adobe Workfront] die [!DNL Workfront] gebruikers laat hun digitale activa in de context van het beheer van hun werk beheren. Zie [Integraties met andere Adobe-oplossingen](/help/integration.md).
 
 Voor meer informatie over de oplossing, zie [inleiding aan  [!DNL Assets Essentials]](introduction.md). Zie [Aan de slag](/help/get-started.md) om de functies te gaan gebruiken.
-
-## Huidige release {#release-notes-current}
-
-De huidige release van Assets Essentials is 2021.7.0, uitgebracht op 29 juli 2021, met de volgende updates:
-
-* U kunt aangepaste metagegevensformulieren maken en beheren die worden gebruikt voor de weergave van eigenschappen van metagegevens voor gebruikers in het scherm met de bestandsdetails in de optie [!UICONTROL Metadata Forms] onder [!DNL Settings]. Zie [metagegevensformulieren](metadata.md#metadata-forms).
-* Verschillende opgeloste problemen en productverbeteringen, waaronder betere prestaties bij het uploaden van een geneste map met veel submappen.
 
 ## Bekende problemen {#known-issues}
 
@@ -43,3 +29,21 @@ De lijst met bekende problemen van [!DNL Assets Essentials]-aanbiedingen wordt v
 -->
 
 Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [geef feedback](#provide-feedback) aan het team.
+
+## Eerdere versies {#past-release}
+
+### release 2021.7.0 {#july2021}
+
+[!DNL Assets Essentials] 2021.7.0 wordt gepubliceerd op 29 juli 2021, met de volgende updates:
+
+* U kunt aangepaste metagegevensformulieren maken en beheren die worden gebruikt voor de weergave van eigenschappen van metagegevens voor gebruikers in het scherm met de bestandsdetails in de optie [!UICONTROL Metadata Forms] onder [!DNL Settings]. Zie [metagegevensformulieren](metadata.md#metadata-forms).
+* Verschillende opgeloste problemen en productverbeteringen, waaronder betere prestaties bij het uploaden van een geneste map met veel submappen.
+
+### 2021.6.0-release {#june2021}
+
+De eerste release van [!DNL Assets Essentials], beschikbaar gesteld op 21 juni 2021, biedt lichte mogelijkheden voor middelenbeheer. De volgende belangrijke functies en CRUD-bewerkingen (maken, lezen, bijwerken en verwijderen) worden ondersteund:
+
+* Upload en voeg elementen toe, waaronder geneste mappen. Geef een voorvertoning weer van de elementen en versies.
+* Volledige-tekstonderzoek, genummerde onderzoeksfilters, en bewaarde onderzoeken voor snelle activaontdekking.
+* Basisbewerkingen voor middelenbeheer, zoals het bijwerken, verwijderen, downloaden en beheren van metagegevens.
+* [!DNL Assets Essentials] is beschikbaar aan  [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).

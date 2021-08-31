@@ -3,7 +3,7 @@ title: Uw digitale middelen beheren
 description: Verplaats, verwijder, kopieer, hernoem, werk, en versie uw activa in  [!DNL Assets Essentials] bij.
 role: User,Leader
 contentOwner: AG
-source-git-commit: 3f8ba14c702fb3ee0df61aa503c9064c33f94794
+source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
 workflow-type: tm+mt
 source-wordcount: '604'
 ht-degree: 0%

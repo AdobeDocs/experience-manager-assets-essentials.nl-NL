@@ -2,9 +2,9 @@
 title: Integratie met andere Adobe-oplossingen
 description: '[!DNL Assets Essentials] integreert met andere Adobe-oplossingen en biedt een ingesloten ervaring vanuit de native toepassing.'
 role: User
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,11 @@ De ingesloten [!DNL Assets Essentials] ervaring kan met de volgende oplossingen 
 
 * **[!DNL Adobe Journey Optimizer]**: Wanneer u berichten ontwerpt met  [!DNL Journey Optimizer], hebt u rechtstreeks vanuit de  [!DNL Assets Essentials] interface toegang tot de  [!DNL Journey Optimizer] gegevensopslagruimte. Gebruikers krijgen toegang tot elementen via de ingesloten gebruikersinterface van [!DNL Assets Essentials]. Zie [het gebruiken van [!DNL Assets Essentials] help artikel](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html) of [videozelfstudie om e-mailinhoud te creëren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html).
 
+* **[[!DNL Adobe Workfront]](https://www.workfront.com/)**:  [!DNL Adobe Workfront] is een werkbeheertoepassing waarmee u de volledige levenscyclus van het werk op één locatie kunt beheren. Dankzij de native integratie tussen [!DNL Adobe Workfront] en Experience Manager Assets Essentials kunnen organisaties de snelheid van de inhoud en de tijd-aan-markt verbeteren door de inhoud en het werk met elkaar te verbinden. Binnen het kader van het beheer van hun werk, hebben de gebruikers toegang tot de vereiste documenten en beelden in de zelfde oplossing. [!DNL Assets Essentials] is beschikbaar als een invoegtoepassing die  [!DNL Workfront] klanten afzonderlijk kunnen aanschaffen. Zie [configureren en gebruiken [!DNL Workfront] and [!DNL Essentials] integratie](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
+
 <!-- TBD: Hiding this link till GA. Do not even include the beta mention as discussed with Greg. Beta is done with customers selected by the Accounts team. It is not an open Beta program. At GA, document this.
 
-* **[[!DNL Adobe Workfront]](https://www.workfront.com/)**: This integration will be made available in the future.
+* **[[!DNL Creative Cloud Libraries]**: This integration will be made available in the future.
 
 * **[[!DNL Adobe Studio]]**: This integration will be made available in the future.
 -->

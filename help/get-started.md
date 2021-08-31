@@ -2,9 +2,9 @@
 title: Aan de slag met [!DNL Assets Essentials]
 description: Hoe te om tot, login ervaring van, gesteunde gebruiksgevallen van, en bekende kwesties van  [!DNL Assets Essentials] toegang te hebben.
 role: User, Leader
-source-git-commit: 135832e18bdf7ae66f29638cf548088a83daee8d
+source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
@@ -55,19 +55,21 @@ Hieronder vindt u de verschillende DAM-taken (Digital Asset Management) die u ku
 
 | Gebruikerstaken | Functionaliteit en &quot;Hoe kan ik&quot;-informatie |
 |-----|------|
-| Hoe voeg ik middelen toe? | <ul> <li> [Elementen uploaden](/help/add-delete.md) </li> <li> [Uitvoeringen](/help/add-delete.md#renditions) </li> </ul> |
-| Hoe kan ik middelen of gerelateerde informatie bijwerken? | <ul> <li>Een bestaand element wijzigen</li> <li>[Versies ](/help/manage-organize.md#create-versions) en  [weergaveversies maken](/help/manage-organize.md#view-versions)</li> <li>[Afbeeldingen bewerken](/help/edit-images.md)</li> </ul> |
-| Hoe ontdek ik middelen? | <ul> <li>[Bladeren door opslagplaats](/help/navigate-view.md#view-assets-and-details) </li> <li> [Elementen ](/help/navigate-view.md#preview-assets) voorvertonen en elementen  [downloaden](/help/manage-organize.md#download) </li> <li>[Assets doorzoeken](/help/search.md)</li></ul> |
-| Hoe kan ik elementen in de opslagplaats bewerken? | <ul> <li>[Bewerkingen in de browser met Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Uitsnijden voor een profiel voor sociale media](/help/edit-images.md#crop-straighten-images)</li> <li>[Versies weergeven en beheren](/help/manage-organize.md#view-versions)</li> <li>[Adobe Asset Link](/help/integration.md#integrations) gebruiken</ul></ul> |
-| Hoe zoek ik naar middelen in de opslagplaats? | <ul> <li>[Zoeken in een specifieke map](/help/search.md#refine-search-results)</li> <li>[Opgeslagen zoekopdrachten](/help/search.md#saved-search)</li> <li>[Zoeken naar onlangs weergegeven elementen](/help/search.md)</li> <li>[Volledige tekst zoeken](/help/search.md) |
-| Hoe voeg ik nieuwe middelen toe? | <ul> <li>[Nieuwe elementen en mappen uploaden](/help/add-delete.md#add-assets)</li> <li>[Uploadvoortgang controleren en uploads beheren](/help/add-delete.md#upload-progress)</li> <li>[Duplicaten oplossen](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
-| Metagegevensbewerkingen | <ul> <li>[Gedetailleerde metagegevens weergeven](/help/metadata.md) </li> <li> [Nieuw metagegevensformulier maken](/help/metadata.md#metadata-forms) </li> </ul> |
-| Kan [!DNL Assets Essentials] met andere oplossingen integreren? | <ul> <li>[Asset Selector gebruiken in [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] for [!DNL Creative Cloud]](/help/integration.md)</li> <li>Integratie met [!DNL Creative Cloud Team] bibliotheken</li> </ul> |
+| Bladeren en elementen weergeven | <ul> <li>[Door de opslagplaats bladeren](/help/navigate-view.md#view-assets-and-details) </li> <li> [Een voorvertoning van een element weergeven](/help/navigate-view.md#preview-assets) <li> [Uitvoeringen van een element weergeven](/help/add-delete.md#renditions) </li> <li>[Versies van een element weergeven](/help/manage-organize.md#view-versions)</li></ul> |
+| Nieuwe elementen toevoegen | <ul> <li>[Nieuwe elementen en mappen uploaden](/help/add-delete.md#add-assets)</li> <li>[Uploadvoortgang controleren en uploads beheren](/help/add-delete.md#upload-progress)</li> <li>[Duplicaten oplossen](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
+| Elementen of gerelateerde informatie bijwerken | <ul> <li>[Afbeeldingen bewerken](/help/edit-images.md)</li> <li>[Versies ](/help/manage-organize.md#create-versions) en  [weergaveversies maken](/help/manage-organize.md#view-versions)</li> <li>[Afbeeldingen bewerken](/help/edit-images.md)</li> </ul> |
+| Elementen bewerken | <ul> <li>[Bewerkingen in de browser met Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Uitsnijden voor een profiel voor sociale media](/help/edit-images.md#crop-straighten-images)</li> <li>[Versies weergeven en beheren](/help/manage-organize.md#view-versions)</li> <li>[Gebruiken [!DNL Adobe Asset Link]](/help/integration.md#integrations)</ul></ul> |
+| Zoeken naar elementen in de repository | <ul> <li>[Zoeken in een specifieke map](/help/search.md#refine-search-results)</li> <li>[Opgeslagen zoekopdrachten](/help/search.md#saved-search)</li> <li>[Zoeken naar onlangs weergegeven elementen](/help/search.md)</li> <li>[Volledige tekst zoeken](/help/search.md) |
+| Elementen downloaden | <ul> <li> [Voorvertoning van element](/help/navigate-view.md#preview-assets) </li> <li> [Elementen downloaden](/help/manage-organize.md#download) <li> [Uitvoeringen downloaden](/help/add-delete.md#renditions) </li></ul> |
+| Metagegevensbewerkingen | <ul> <li>[Gedetailleerde metagegevens weergeven](/help/metadata.md) </li> <li> [Metagegevens bijwerken](/help/metadata.md#update-metadata)</li> <li> [Nieuw metagegevensformulier maken](/help/metadata.md#metadata-forms) </li> </ul> |
+| Integratie met andere oplossingen | <ul> <li>[Asset Selector gebruiken in [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] for [!DNL Creative Cloud]](/help/integration.md)</li> <li>[Integratie met [!DNL Adobe Workfront]](/help/integration.md)</li> </ul> |
 
-<!--TBD: Merge in above table when these use cases are documented/available.
+<!--TBD: Merge the below rows in the table when the use cases are documented/available.
+
 | How do I delete assets? | <ul> <li>[Delete assets](/help/manage-organize.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
 | How do I share assets or find shared assets? | <ul> <li>Shared by me</li> <li>Shared with me</li> <li>Share for comments and review</li> <li>Unshare assets</li> </ul> |
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
+
 -->
 
 ## ![feedbackpictogramFeedback ](assets/do-not-localize/feedback-icon.png) geven op het product {#provide-feedback}
