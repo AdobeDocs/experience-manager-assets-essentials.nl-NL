@@ -2,9 +2,9 @@
 title: Aan de slag met [!DNL Assets Essentials]
 description: Hoe te om tot, login ervaring van, gesteunde gebruiksgevallen van, en bekende kwesties van  [!DNL Assets Essentials] toegang te hebben.
 role: User, Leader
-source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
+source-git-commit: 574ac781fc5c5dfdba0640b1032a50268947875d
 workflow-type: tm+mt
-source-wordcount: '447'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Hieronder vindt u de verschillende DAM-taken (Digital Asset Management) die u ku
 
 ## ![feedbackpictogramFeedback ](assets/do-not-localize/feedback-icon.png) geven op het product {#provide-feedback}
 
-Adobe is verheugd over feedback over de oplossing. Als u feedback wilt geven zonder van werktoepassing te veranderen, gebruikt u de optie [!UICONTROL Feedback] in de gebruikersinterface. Ook kunt u bestanden, zoals schermafbeeldingen of video-opnamen, aan een uitgave koppelen.
+Adobe is verheugd over feedback over de oplossing. Als u feedback wilt geven zonder van werktoepassing te veranderen, gebruikt u de optie [!UICONTROL Feedback] in de gebruikersinterface. U kunt hiermee ook bestanden bijvoegen, zoals screenshots of video-opnamen van een uitgave.
 
 ![feedbackoptie in de interface](assets/feedback-panel.png)
 

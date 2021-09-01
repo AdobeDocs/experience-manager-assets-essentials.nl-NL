@@ -3,9 +3,9 @@ title: Release-opmerkingen
 description: Opmerkingen bij de release en bekende problemen van [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
+source-git-commit: 574ac781fc5c5dfdba0640b1032a50268947875d
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van [!DNL Assets Essentials] wordt uitgebracht op 30 augustus 2021. Het biedt integratie met [!DNL Adobe Workfront] die [!DNL Workfront] gebruikers laat hun digitale activa in de context van het beheer van hun werk beheren. Zie [Integraties met andere Adobe-oplossingen](/help/integration.md).
+De huidige release van [!DNL Assets Essentials] wordt uitgebracht op 30 augustus 2021. Het biedt integratie met [!DNL Adobe Workfront] die [!DNL Workfront] gebruikers laat hun digitale activa in de context van het beheer van hun werk beheren. Zie [Integraties met andere Adobe-oplossingen](/help/integration.md) voor meer informatie.
 
 Voor meer informatie over de oplossing, zie [inleiding aan  [!DNL Assets Essentials]](introduction.md). Zie [Aan de slag](/help/get-started.md) om de functies te gaan gebruiken.
 
@@ -46,4 +46,4 @@ De eerste release van [!DNL Assets Essentials], beschikbaar gesteld op 21 juni 2
 * Upload en voeg elementen toe, waaronder geneste mappen. Geef een voorvertoning weer van de elementen en versies.
 * Volledige-tekstonderzoek, genummerde onderzoeksfilters, en bewaarde onderzoeken voor snelle activaontdekking.
 * Basisbewerkingen voor middelenbeheer, zoals het bijwerken, verwijderen, downloaden en beheren van metagegevens.
-* [!DNL Assets Essentials] is beschikbaar aan  [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
+* [!DNL Assets Essentials] is beschikbaar voor  [!DNL Adobe Journey Optimizer] gebruikers om de elementen te beheren bij het maken van berichten. Zie [Integraties met andere Adobe-oplossingen](/help/integration.md) voor meer informatie.
