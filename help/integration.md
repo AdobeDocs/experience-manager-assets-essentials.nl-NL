@@ -2,13 +2,13 @@
 title: Integratie met andere Adobe-oplossingen
 description: '[!DNL Assets Essentials] integreert met andere Adobe-oplossingen en biedt een ingesloten ervaring vanuit de native toepassing.'
 role: User
-source-git-commit: 574ac781fc5c5dfdba0640b1032a50268947875d
+exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
+source-git-commit: f2c6ea9d31cc6eccf46216b52de254ca88ba1079
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 0%
+source-wordcount: '284'
+ht-degree: 1%
 
 ---
-
 
 # Integratie met andere Adobe-oplossingen {#integrations}
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 De ingesloten [!DNL Assets Essentials] ervaring kan met de volgende oplossingen integreren:
 
-* **[!DNL Creative Cloud for Enterprise]**:  [Adobe Asset Link in-app-](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) panellets maken creatieve professionals vanuit de ondersteunde  [!DNL Assets Essentials] bureaubladtoepassingen verbinding met  [!DNL Adobe Creative Cloud] opslagruimte. Het deelvenster is beschikbaar voor [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign] en [!DNL Adobe XD]. Het stroomlijnt de toegang tot activa die op zijn beurt inhoudssnelheid verhogen. Zie [Elementen beheren met [!DNL Adobe Asset Link]](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/manage-assets-using-adobe-asset-link.ug.html).
+* **[!DNL Creative Cloud for Enterprise]**:  [Adobe Asset Link in-app-](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) panellets maken creatieve professionals vanuit de ondersteunde  [!DNL Assets Essentials] bureaubladtoepassingen verbinding met  [!DNL Adobe Creative Cloud] opslagruimte. Het deelvenster is beschikbaar voor [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign] en [!DNL Adobe XD]. Het stroomlijnt de toegang tot activa die op zijn beurt inhoudssnelheid verhogen. Zie [Elementen beheren met [!DNL Adobe Asset Link]](https://helpx.adobe.com/nl/enterprise/using/manage-assets-using-adobe-asset-link.html).
 
 * **[!DNL Adobe Journey Optimizer]**:  [[!DNL Adobe Journey Optimizer]](https://business.adobe.com/products/journey-optimizer/adobe-journey-optimizer.html) vereenvoudigt het reisbeheer voor klanten om omnichannel campagnes van intelligente besluitvorming en inzichten te voorzien. Wanneer u berichten ontwerpt met [!DNL Journey Optimizer], hebt u rechtstreeks vanuit de [!DNL Journey Optimizer]-interface toegang tot [!DNL Assets Essentials]-opslagruimte. Gebruikers krijgen toegang tot elementen via de ingesloten gebruikersinterface van [!DNL Assets Essentials]. Zie [het gebruiken van [!DNL Assets Essentials] help artikel](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html) of [videozelfstudie om e-mailinhoud te creëren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html).
 

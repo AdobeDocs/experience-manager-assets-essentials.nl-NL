@@ -2,10 +2,11 @@
 title: Aan de slag met [!DNL Assets Essentials]
 description: Hoe te om tot, login ervaring van, gesteunde gebruiksgevallen van, en bekende kwesties van  [!DNL Assets Essentials] toegang te hebben.
 role: User, Leader
-source-git-commit: 574ac781fc5c5dfdba0640b1032a50268947875d
+exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
+source-git-commit: f2c6ea9d31cc6eccf46216b52de254ca88ba1079
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 0%
+source-wordcount: '446'
+ht-degree: 1%
 
 ---
 
@@ -25,7 +26,7 @@ Daarnaast is meer referentie-informatie die nuttig kan zijn [begrip van de gebru
 
 ## Toegang ontvangen tot [!DNL Assets Essentials] {#get-access}
 
-Adobe voorziet de oplossing en voegt de aangewezen persoon van uw organisatie als beheerder toe. De beheerders kunnen toegang tot diverse gebruikers van de organisatie verlenen door [[!DNL Admin Console]](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/welcome.ug.html) te gebruiken. Voor verzoeken met betrekking tot uw toegang, contacteer de beheerder van uw organisatie.
+Adobe voorziet de oplossing en voegt de aangewezen persoon van uw organisatie als beheerder toe. De beheerders kunnen toegang tot diverse gebruikers van de organisatie verlenen door [[!DNL Admin Console]](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) te gebruiken. Voor verzoeken met betrekking tot uw toegang, contacteer de beheerder van uw organisatie.
 
 ## Configureren [!DNL Assets Essentials] {#configuration}
 
