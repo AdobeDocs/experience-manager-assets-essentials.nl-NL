@@ -1,5 +1,5 @@
 ---
-source-git-commit: 0dd6f278a75668c3ceafa2ad8d9d232bcecd56ba
+source-git-commit: 15070ea99308741242b43206ed69cf1dbddca890
 workflow-type: tm+mt
 source-wordcount: '719'
 ht-degree: 4%
@@ -37,9 +37,9 @@ De uitzonderingen op deze regel zijn op de versienota&#39;s van toepassing waar 
 
 Eventuele ideeën die u nodig hebt om de [!DNL Experience Manager]-documentatie te verbeteren, zijn welkom als bijdragen. Opmerkingen, problemen en pull-aanvragen zijn echter alleen bedoeld voor *bijdragen*. Ze zijn niet bedoeld om te worden gebruikt om uw vragen over het gebruik van [!DNL Experience Manager], het implementeren van uw [!DNL Experience Manager]-project of het oplossen van technische problemen te beantwoorden.
 
-Vragen over het gebruik van [!DNL Experience Manager] of technische fouten die u mogelijk hebt gemaakt, moeten via het normale ondersteuningsproces worden gerapporteerd via het [[!DNL Experience Cloud] ondersteuningsportal](https://experienceleague.adobe.com/?support-solution=Experience+Manager#support) of worden besproken in de [Experience Manager community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Vragen over het gebruik van [!DNL Experience Manager] of technische fouten die u mogelijk hebt gemaakt, moeten via het normale ondersteuningsproces worden gerapporteerd via het [[!DNL Experience Manager] ondersteuningsportal](https://experienceleague.adobe.com/?support-solution=Experience+Manager#support) of worden besproken in de [Experience Manager community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
 
-***[!DNL Experience Manager]Documentatiebijdragen zijn geen vervanging voor Adobe Customer*** Caret en dergelijke bijdragen die antwoorden op supportgerelateerde vragen zoeken, worden afgewezen.
+***[!DNL Experience Manager]Documentatiebijdragen zijn geen vervanging voor*** klantenondersteuning van Adobe en dergelijke bijdragen die antwoorden op supportgerelateerde vragen zoeken, worden afgewezen.
 
 ### Bijdragen moeten duidelijk verwijzen naar betrokken documentatiepagina&#39;s.
 
@@ -63,9 +63,9 @@ Door deze richtlijnen te volgen wordt de revisie van uw bijdrage gemakkelijker e
 
 Lezers van [!DNL Experience Manager]-documentatie zijn wereldwijd en kunnen niet verwachten dat ze native of vloeiende Engelstalige luidsprekers zijn. Vermijd colloquialisme en houd de taal zo duidelijk en eenvoudig mogelijk.
 
-#### Handleiding van Microsoft volgen
+#### Handleiding Microsoft volgen
 
-[De handleiding van Microsoft van ](https://docs.microsoft.com/en-us/style-guide/welcome/) stijl is een vrij beschikbare gids van de documentatiestijl die zich op softwaredocumentatie en  [!DNL Experience Manager] documentatie concentreert volgt deze gids waar mogelijk.
+[De Microsoft Manual of ](https://docs.microsoft.com/en-us/style-guide/welcome/) Style is een vrij beschikbare documentatiestijlgids die zich richt op softwaredocumentatie en - [!DNL Experience Manager] documentatie en deze gids waar mogelijk volgt.
 
 ### Opmaak
 
