@@ -3,7 +3,7 @@ title: '[!DNL Assets Essentials] gebruikersinterface'
 description: De gebruikersinterface en navigatie begrijpen in [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 94467e029615514942f429069c0eb7248f44bab5
+source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Wanneer u zich aanmeldt [!DNL Assets Essentials], ziet u de volgende interface.
 
 ![[!DNL Assets Essentials] gebruikersinterface](assets/essentials-interface1.png)
 
-*Afbeelding: Eerste aanmeldingsscherm en de locatie waar u de belangrijkste functies kunt vinden.*
+*Afbeelding: Eerste scherm na aanmelding en locatie van de aliente functies.*
     *A: Met de linkerzijbalk kunt u bladeren in de opslagplaats en hebt u toegang tot een paar andere opties.*
     *B: U kunt de linkerzijbalk weergeven of samenvouwen om het weergavegebied voor elementen te vergroten.*
     *C: Zoekresultaten filteren.*

@@ -1,11 +1,11 @@
 ---
 title: Aan de slag met [!DNL Assets Essentials]
-description: Hoe te om tot, login ervaring van, gesteunde gebruiksgevallen van, en bekende kwesties van  [!DNL Assets Essentials] toegang te hebben.
+description: Hoe kan ik toegang krijgen tot, login ervaring van, gesteunde gebruiksgevallen van, en bekende kwesties van [!DNL Assets Essentials].
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
-source-git-commit: f2c6ea9d31cc6eccf46216b52de254ca88ba1079
+source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '465'
 ht-degree: 1%
 
 ---
@@ -14,19 +14,21 @@ ht-degree: 1%
 
 <!-- TBD: Make links for these steps. -->
 
-Voor het beheren van uw digitale middelen met [!DNL Assets Essentials] zijn slechts drie eenvoudige stappen vereist:
+Uw digitale middelen beheren met [!DNL Assets Essentials] vereist slechts drie eenvoudige stappen:
 
-* **Stap 1**:  [Elementen ](/help/add-delete.md) uploaden en  [](/help/navigate-view.md) weergeven.
-* **Stap 2**:  [Zoeken ](/help/search.md) en  [](/help/manage-organize.md#download) downloaden.
-* **Stap 3**:  [De elementen beheren en ](/help/manage-organize.md) ordenen.
+* **Stap 1**: [Uploaden](/help/add-delete.md) en [weergave](/help/navigate-view.md) activa.
+* **Stap 2**: [Zoeken](/help/search.md) en [downloaden](/help/manage-organize.md#download) activa.
+* **Stap 3**: [Beheer en organisatie](/help/manage-organize.md) de activa.
 
-Als u [!DNL Assets Essentials] wilt gebruiken, meldt u zich aan bij [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). Selecteer `Company or School Account` bij het aanmelden. Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
+Te gebruiken [!DNL Assets Essentials], aanmelden bij [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). Selecteer bij aanmelden `Company or School Account`. Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
 
-Daarnaast is meer referentie-informatie die nuttig kan zijn [begrip van de gebruikersinterface](/help/navigate-view.md), [lijst met gebruiksgevallen](#use-cases), <!-- TBD: [supported file types](/help/supported-file-formats.md), --> en [bekende problemen](/help/release-notes.md#known-issues).
+Daarnaast is meer informatie die nuttig kan zijn [inzicht in de gebruikersinterface](/help/navigate-view.md), [lijst van gebruiksgevallen](#use-cases), <!-- TBD: [supported file types](/help/supported-file-formats.md), --> en [bekende problemen](/help/release-notes.md#known-issues).
 
 ## Toegang ontvangen tot [!DNL Assets Essentials] {#get-access}
 
-Adobe voorziet de oplossing en voegt de aangewezen persoon van uw organisatie als beheerder toe. De beheerders kunnen toegang tot diverse gebruikers van de organisatie verlenen door [[!DNL Admin Console]](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) te gebruiken. Voor verzoeken met betrekking tot uw toegang, contacteer de beheerder van uw organisatie.
+Adobe voorziet de oplossing en voegt de aangewezen persoon van uw organisatie als beheerder toe. De beheerders kunnen toegang tot diverse gebruikers van de organisatie verlenen door te gebruiken [[!DNL Admin Console]](https://helpx.adobe.com/nl/enterprise/using/admin-console.html). Voor verzoeken met betrekking tot uw toegang, contacteer de beheerder van uw organisatie.
+
+Wanneer het programma openen, na het verstrekken van de geloofsbrieven, [!DNL Assets Essentials] vraagt u een account te selecteren. In dit geval selecteert u `Company or School Account` om verder te gaan.
 
 ## Configureren [!DNL Assets Essentials] {#configuration}
 
@@ -34,31 +36,19 @@ Als u de voorkeuren wilt openen, klikt u op de avatar in de rechterbovenhoek van
 
 Als u deel uitmaakt van verschillende organisaties, kunt u ook de organisatie wijzigen en toegang krijgen tot uw accounts in verschillende organisaties.
 
-Als u uw [!UICONTROL Experience Cloud preferences] wilt wijzigen, klikt u op [!UICONTROL Preferences].
+Als u uw [!UICONTROL Experience Cloud preferences], klik op [!UICONTROL Preferences].
 
 ![Voorkeur voor schakelen tussen donker en licht thema](assets/theme-change.png)
 
-<!-- TBD: What can admins configure? What more can users configure? Any doc that describes Exp Cloud preferences? 
-Metadata forms is out of the scope of 6/17 GA. When the functionality is added, link to it from here. It is about configuring metadata UI. -->
-
-<!-- TBD: This section contains beta-specific video that will be updated post-GA.
-
-## Login experience {#login-experience}
-
-When logging in, after providing the credentials, you can be prompted to select an account. In this case, select `Company or School Account` to proceed.
-
-![Select an account to login](assets/do-not-localize/login-experience.gif)
--->
-
 ## [!DNL Assets Essentials] use cases {#use-cases}
 
-Hieronder vindt u de verschillende DAM-taken (Digital Asset Management) die u kunt uitvoeren met [!DNL Assets Essentials].
+De verschillende DAM-taken (Digital Asset Management) die u kunt uitvoeren met [!DNL Assets Essentials] hieronder.
 
 | Gebruikerstaken | Functionaliteit en &quot;Hoe kan ik&quot;-informatie |
 |-----|------|
 | Bladeren en elementen weergeven | <ul> <li>[Door de opslagplaats bladeren](/help/navigate-view.md#view-assets-and-details) </li> <li> [Een voorvertoning van een element weergeven](/help/navigate-view.md#preview-assets) <li> [Uitvoeringen van een element weergeven](/help/add-delete.md#renditions) </li> <li>[Versies van een element weergeven](/help/manage-organize.md#view-versions)</li></ul> |
 | Nieuwe elementen toevoegen | <ul> <li>[Nieuwe elementen en mappen uploaden](/help/add-delete.md#add-assets)</li> <li>[Uploadvoortgang controleren en uploads beheren](/help/add-delete.md#upload-progress)</li> <li>[Duplicaten oplossen](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
-| Elementen of gerelateerde informatie bijwerken | <ul> <li>[Afbeeldingen bewerken](/help/edit-images.md)</li> <li>[Versies ](/help/manage-organize.md#create-versions) en  [weergaveversies maken](/help/manage-organize.md#view-versions)</li> <li>[Afbeeldingen bewerken](/help/edit-images.md)</li> </ul> |
+| Elementen of gerelateerde informatie bijwerken | <ul> <li>[Afbeeldingen bewerken](/help/edit-images.md)</li> <li>[Versies maken](/help/manage-organize.md#create-versions) en [weergaveversies](/help/manage-organize.md#view-versions)</li> <li>[Afbeeldingen bewerken](/help/edit-images.md)</li> </ul> |
 | Elementen bewerken | <ul> <li>[Bewerkingen in de browser met Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Uitsnijden voor een profiel voor sociale media](/help/edit-images.md#crop-straighten-images)</li> <li>[Versies weergeven en beheren](/help/manage-organize.md#view-versions)</li> <li>[Gebruiken [!DNL Adobe Asset Link]](/help/integration.md#integrations)</ul></ul> |
 | Zoeken naar elementen in de repository | <ul> <li>[Zoeken in een specifieke map](/help/search.md#refine-search-results)</li> <li>[Opgeslagen zoekopdrachten](/help/search.md#saved-search)</li> <li>[Zoeken naar onlangs weergegeven elementen](/help/search.md)</li> <li>[Volledige tekst zoeken](/help/search.md) |
 | Elementen downloaden | <ul> <li> [Voorvertoning van element](/help/navigate-view.md#preview-assets) </li> <li> [Elementen downloaden](/help/manage-organize.md#download) <li> [Uitvoeringen downloaden](/help/add-delete.md#renditions) </li></ul> |
@@ -73,20 +63,20 @@ Hieronder vindt u de verschillende DAM-taken (Digital Asset Management) die u ku
 
 -->
 
-## ![feedbackpictogramFeedback ](assets/do-not-localize/feedback-icon.png) geven op het product {#provide-feedback}
+## ![feedbackpictogram](assets/do-not-localize/feedback-icon.png) Feedback op producten geven {#provide-feedback}
 
-Adobe is verheugd over feedback over de oplossing. Als u feedback wilt geven zonder van werktoepassing te veranderen, gebruikt u de optie [!UICONTROL Feedback] in de gebruikersinterface. U kunt hiermee ook bestanden bijvoegen, zoals screenshots of video-opnamen van een uitgave.
+Adobe is verheugd over feedback over de oplossing. Als u feedback wilt geven zonder van werktoepassing te veranderen, gebruikt u de opdracht [!UICONTROL Feedback] in de gebruikersinterface. U kunt hiermee ook bestanden bijvoegen, zoals screenshots of video-opnamen van een uitgave.
 
 ![feedbackoptie in de interface](assets/feedback-panel.png)
 
-Als u feedback voor documentatie wilt opgeven, klikt u op [!UICONTROL Edit this page] ![de pagina](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![maakt u een GitHub-probleem](assets/do-not-localize/github-issue.png) vanuit de rechterzijbalk. U kunt een van de volgende handelingen uitvoeren:
+Als u feedback voor documentatie wilt opgeven, klikt u op [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) in de rechterzijbalk. U kunt een van de volgende handelingen uitvoeren:
 
 * Maak de inhoudsupdates en verzend een trekkingsverzoek GitHub.
 * Creeer een kwestie of een kaartje in GitHub. Behoud de automatisch gevulde artikelnaam wanneer u een uitgave maakt.
 
 >[!MORELIKETHIS]
 >
->* [Begrijp de gebruikersinterface](/help/navigate-view.md).
+>* [De gebruikersinterface begrijpen](/help/navigate-view.md).
 >* [Opmerkingen bij de release en bekende problemen](/help/release-notes.md).
 
 
