@@ -4,9 +4,9 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 0c849c92562f9102819aaea627f5945030b27a1e
+source-git-commit: 01814dace83fec64851d7ccf97a0f4bb22519ee3
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Als u meer wilt weten over de oplossing, raadpleegt u de [inleiding tot [!DNL As
 
 De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
 
-* Afzonderlijke elementen kunnen niet naar de bovenste map (Middelen) worden geüpload, alleen naar een submap in het systeem. <!-- CQ-4337638 -->
+* Geen
 
 Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
 
