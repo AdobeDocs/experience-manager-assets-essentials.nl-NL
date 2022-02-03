@@ -4,7 +4,7 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 73d5e66cfb2315f730329b5db9e6e648c1fe017d
+source-git-commit: a72c3399fabd37c561f3c51e51029810d038ae40
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van [!DNL Assets Essentials] wordt uitgebracht op 27 januari 2022. Met deze release:
+De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 3 februari 2022. Met deze release:
 
 * [!DNL Assets Essentials] kunt u nu een koppeling genereren en elementen delen met anderen die geen toegang hebben tot de [!DNL Assets Essentials] toepassing. U kunt het volgende definiëren: <!-- CQ-4329575 -->
 
