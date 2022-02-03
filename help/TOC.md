@@ -6,12 +6,12 @@ user-guide-title: Experience Manager Assets Essentials Guide
 breadcrumb-title: Assets Essentials Guide
 user-guide-description: Assets Essentials is een lichte oplossing voor middelenbeheer die vanuit andere Experience Cloud-toepassingen werkt.
 feature-set: Experience Manager Assets,Experience Manager
-feature: Beheer van bedrijfsmiddelen
+feature: Asset Management
 role: User,Leader
-source-git-commit: de379a71d5e5cbd62b42ce3618c67d3d7a6fd941
+source-git-commit: 2288978e148f26b7020e5792cba00b91ba180e55
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,4 +29,5 @@ ht-degree: 3%
 + [Taken voor middelenbeheer](manage-organize.md)
 + [Afbeeldingen bewerken](edit-images.md)
 + [Metagegevens van elementen beheren](metadata.md)
++ [Koppelingen voor elementen delen](share-links-for-assets.md)
 + [Integratie met andere oplossingen](integration.md)
