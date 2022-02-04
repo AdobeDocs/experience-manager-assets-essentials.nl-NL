@@ -8,10 +8,10 @@ user-guide-description: Assets Essentials is een lichte oplossing voor middelenb
 feature-set: Experience Manager Assets,Experience Manager
 feature: Asset Management
 role: User,Leader
-source-git-commit: 2288978e148f26b7020e5792cba00b91ba180e55
+source-git-commit: eb6822a1e813b6c7687ba3d797e4f43b3c1ef2a0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '64'
+ht-degree: 3%
 
 ---
 
@@ -29,5 +29,4 @@ ht-degree: 0%
 + [Taken voor middelenbeheer](manage-organize.md)
 + [Afbeeldingen bewerken](edit-images.md)
 + [Metagegevens van elementen beheren](metadata.md)
-+ [Koppelingen voor elementen delen](share-links-for-assets.md)
 + [Integratie met andere oplossingen](integration.md)

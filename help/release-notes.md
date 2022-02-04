@@ -4,24 +4,16 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: a72c3399fabd37c561f3c51e51029810d038ae40
+source-git-commit: eb6822a1e813b6c7687ba3d797e4f43b3c1ef2a0
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 3 februari 2022. Met deze release:
-
-* [!DNL Assets Essentials] kunt u nu een koppeling genereren en elementen delen met anderen die geen toegang hebben tot de [!DNL Assets Essentials] toepassing. U kunt het volgende definiëren: <!-- CQ-4329575 -->
-
-   * Een vervaldatum voor de koppeling
-
-   * Als de ontvangers het middel mogen downloaden nadat ze de koppeling hebben geopend.
-
-   Op basis van deze instellingen kan de ontvanger van de koppeling de elementen voorvertonen of deze downloaden.
+De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 3 februari 2022. Deze release biedt:
 
 * Prestatieverbeteringen voor de [!UICONTROL Create Folder] bewerking. <!-- CQ-4338818 -->
 
