@@ -4,7 +4,7 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 211233202b667f9d25713491c8ae59e002139777
+source-git-commit: 4cced7aba92fd0f041842e5ef78d02f0a4f7ffe0
 workflow-type: tm+mt
 source-wordcount: '545'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 3 maart 2022. Deze release biedt:
+De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 9 maart 2022. Deze release biedt:
 
 * [!DNL Assets Essentials] nu kunt u [een koppeling tot stand brengen en middelen delen met externe belanghebbenden](share-links-for-assets.md), die geen toegang hebben tot [!DNL Assets Essentials] toepassing. U kunt een vervaldatum voor de verbinding bepalen en dan het delen met anderen gebruikend uw aangewezen communicatie methode zoals e-mail of overseinendiensten. Ontvangers van de koppeling kunnen een voorbeeld van de elementen bekijken en deze downloaden.
 
@@ -23,7 +23,7 @@ De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 3 maart 202
 
 * Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
-Daarnaast [!DNL Adobe Asset Link] een extensie voor Creative Cloud (Photoshop, Illustrator en InDesign) uitgebracht. [nieuwe versie 3.2.0](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html)met prestatieverbeteringen in de opstarttijd van het deelvenster en de downloadsnelheid.
+Daarnaast [!DNL Adobe Asset Link] een extensie voor Creative Cloud (Photoshop, Illustrator en InDesign) uitgebracht. [nieuwe versie 3.2](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html)met prestatieverbeteringen in de opstarttijd van het deelvenster en de downloadsnelheid.
 
 
 ## Bekende problemen {#known-issues}
