@@ -1,18 +1,18 @@
 ---
-title: Gebruikers implementeren en beheren
+title: Gebruikers beheren en beheren
 description: Gebruiksgevallen voor beheerders zoals implementatie en gebruikersbeheer in [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: cbf75aaf05a0f3d798edf4d508325b28d9ca0dcb
+source-git-commit: fb4ca5b3ab85f77cc1013c2d4743530f5d48e96d
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '1089'
 ht-degree: 0%
 
 ---
 
-# Implementeren [!DNL Assets Essentials] en gebruikers toevoegen {#administer}
+# Beheren [!DNL Assets Essentials] en gebruikers toevoegen {#administer}
 
-[!DNL Adobe Experience Manager Assets Essentials] is provisioned door Adobe voor zijn klanten. In het kader van de levering [!DNL Assets Essentials] wordt toegevoegd aan de organisatie van een klant in [!DNL Adobe Admin Console]. De klanten hebben ook toegang tot [!DNL Experience Manager Cloud Manager] als een implementatiehulpmiddel en [!DNL Admin Console] om gebruikersrechten te beheren aan [!DNL Assets Essentials] oplossing.
+[!DNL Adobe Experience Manager Assets Essentials] is provisioned door Adobe voor zijn klanten. In het kader van de levering [!DNL Assets Essentials] wordt toegevoegd aan de organisatie van een klant in [!DNL Adobe Admin Console]. Beheerders gebruiken [!DNL Admin Console] om gebruikersrechten te beheren aan [!DNL Assets Essentials] oplossing, en wijs toepassingsbeheerders aan opstellingstoestemmingen en meta-gegevensformulieren in [!DNL Assets Essentials].
 
 ## Automatische implementatie van Assets Essentials {#automatic-deployment-assets-essentials}
 
@@ -24,6 +24,7 @@ Via de koppeling in de e-mail kunt u toegang krijgen tot en aanmelden bij [Admin
 
 Beheerders moeten de volgende taken uitvoeren na een geslaagde implementatie van de Assets Essentials-oplossing:
 
+* [Gebruikersgroepen instellen, mapstructuur instellen en machtigingen toewijzen](manage-permissions.md) voor de oplossing. Volg [best practices](permission-management-best-practices.md) om een eenvoudige en efficiënte opstelling van toestemmingen te verzekeren.
 * [De gebruikerstoegang beheren](#add-users-to-essentials) van de organisatieleden [!DNL Assets Essentials].
 * Optioneel [servicestatus en logbestanden weergeven](#view-logs).
 
@@ -36,16 +37,18 @@ Beheerders moeten de volgende taken uitvoeren na een geslaagde implementatie van
 
 Een beheerder beheert welke gebruikers toegang hebben tot [!DNL Assets Essentials]. Beheerders gebruiken [!DNL Adobe Admin Console] om gebruikerstoegang toe te voegen of te verwijderen. [!DNL Assets Essentials] heeft de volgende twee soorten beschikbare gebruikerstoegang.
 
+* **[!DNL Assets Essentials]Beheerders** administratieve toegang tot de toepassing hebben. Naast alle mogelijkheden voor eindgebruikers kunnen toepassingsbeheerders in deze groep machtigingen beheren voor elke map en groep/gebruiker in de gehele opslagplaats van de toepassing.
 * **[!DNL Assets Essentials]Gebruikers** toegang hebben tot de volledige gebruikersinterface. Deze gebruikers kunnen digitale elementen uploaden, organiseren, labelen en zoeken.
 * **[!DNL Assets Essentials]Consumentengebruikers**: toegang hebben tot de ervaring die is opgedaan met het selecteren van ingesloten elementen in [!DNL Adobe Journey Optimizer] e-mailsjablooneditor. Zie voor meer informatie [Gebruiken [!DNL Assets Essentials] in [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
 
-In [!DNL Admin Console], deze twee toegangstypen door twee [!UICONTROL Product Profiles]. Voer de volgende stappen uit om leden van uw organisatie toe te voegen aan en te verwijderen uit een van de twee profielen:
+In [!DNL Admin Console], deze drie toegangstypen door drie [!UICONTROL Product Profiles]. Voer de volgende stappen uit om leden van uw organisatie toe te voegen aan en te verwijderen uit een van de twee profielen:
 
-1. Toegang [!DNL Admin Console] voor uw organisatie klikt u op **[!UICONTROL Products]** in de bovenste balk klikt u op **[!UICONTROL AEM Assets Essentials]** en klik vervolgens op [!DNL Assets Essentials] milieu. [!DNL Assets Essentials] heeft twee productprofielen die toegang voor gewone en consumentengebruikers vertegenwoordigen.
+1. Toegang [!DNL Admin Console] voor uw organisatie klikt u op **[!UICONTROL Products]** in de bovenste balk klikt u op **[!UICONTROL AEM Assets Essentials]** en klik vervolgens op [!DNL Assets Essentials] milieu. [!DNL Assets Essentials] heeft drie productprofielen die toegang voor beheerder, regelmatige, en consument gebruikers vertegenwoordigen.
 
-   ![Twee profielen voor twee soorten gebruikers](assets/adminconsole-user-types.png)
+   ![Drie profielen voor drie soorten gebruikers](assets/admin-console-admin-profile.png)
+   <!-- Need to update screenshot to include 3 profiles -->
 
-   *Afbeelding: Er zijn twee profielen beschikbaar om de twee soorten gebruikers toe te voegen.*
+   *Afbeelding: Er zijn drie profielen beschikbaar om de drie soorten gebruikers toe te voegen.*
 
 1. Als u een gebruiker aan een groep wilt toevoegen, klikt u op de groep en selecteert u **[!UICONTROL Add User]**, geef de gebruikersgegevens op en klik op **[!UICONTROL Save]**. Wanneer u een gebruiker toevoegt, ontvangt de gebruiker een e-mailuitnodiging om aan de slag te gaan. U kunt de e-mailuitnodigingen in de instellingen voor het productprofiel uitschakelen in [!DNL Admin Console].
 
