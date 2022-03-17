@@ -1,7 +1,8 @@
 ---
 title: Hoe te om toestemmingen voor omslagen in de Hoofdzaak van AEM Assets te beheren?
 description: Met Assets Essentials kunnen beheerders de toegangsniveaus voor mappen in de opslagplaats beheren. Creeer gebruikersgroepen en wijs toestemmingen aan die groepen toe om toegangsniveaus te beheren. Als beheerder, kunt u de toestemmingsbeheersvoorrechten aan gebruikersgroepen op omslag-niveau ook delegeren.
-source-git-commit: 0567ef9d10880750f88d83ee506d9b95e9432a93
+exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
+source-git-commit: 800ebc5040dcd4b6ed4178314b0627cbde7ddeaf
 workflow-type: tm+mt
 source-wordcount: '1543'
 ht-degree: 0%
@@ -42,7 +43,7 @@ Beheerders toevoegen:
 
 Maak gebruikersgroepen en wijs aan deze groepen machtigingen toe om de toegangsniveaus voor mappen in de Assets Essentials-opslagplaats te beheren. Vervolgens kunt u uw gebruikers toewijzen aan de gebruikersgroepen.
 
-![Gebruikers toevoegen aan groepen en productprofielen](assets/user-groups-product-profiles.png)
+![Gebruikers toevoegen aan groepen en productprofielen](assets/user-groups-product-profiles-updated.png)
 
 U kunt gebruikers toevoegen aan gebruikersgroepen (1) en [gebruikers naar Assets Essentials-productprofielen (2)](#add-admin-users). U kunt gebruikersgroepen echter niet rechtstreeks toevoegen aan Assets Essentials-productprofielen (3).
 
