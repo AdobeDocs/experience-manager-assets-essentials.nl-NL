@@ -2,7 +2,7 @@
 title: Hoe te om toestemmingen voor omslagen in de Hoofdzaak van AEM Assets te beheren?
 description: Met Assets Essentials kunnen beheerders de toegangsniveaus voor mappen in de opslagplaats beheren. Creeer gebruikersgroepen en wijs toestemmingen aan die groepen toe om toegangsniveaus te beheren. Als beheerder, kunt u de toestemmingsbeheersvoorrechten aan gebruikersgroepen op omslag-niveau ook delegeren.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 98879f59bd1bb5725f51f91bfa638f2de6759e9a
+source-git-commit: 94435a9fc17ab02c6872bb165a4cb697b56d5602
 workflow-type: tm+mt
 source-wordcount: '1543'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Met Assets Essentials kunnen beheerders de toegangsniveaus voor mappen in de ops
 
 Het volgende gegevensstroomdiagram illustreert de reeks taken die u uitvoert om toestemmingen op omslagen te vormen en te beheren beschikbaar in de bewaarplaats van Assets Essentials:
 
-![Werkbalkopties wanneer u een element selecteert](assets/permissions-management-updated.png)
+![Werkbalkopties wanneer u een element selecteert](assets/permissions-management-new.png)
 
 ## Voordat u machtigingen voor mappen beheert {#before-managing-permissions}
 
@@ -93,13 +93,13 @@ Als u bijvoorbeeld de opdracht `Can View` machtigingen voor een map aan een supe
 
 Als u bewerkingsmachtigingen moet opgeven voor de `Marketing` alleen aan de marketingafdeling van uw organisatie en weergavemachtigingen aan anderen toewijzen `Can View` machtigingen voor supergroep `All Authenticated Users` en `Can Edit` machtigingen voor de bijbehorende subgroep `Marketing`.
 
-![Machtigingen toewijzen](assets/permissions-management-groups-updated.png)
+![Machtigingen toewijzen](assets/permissions-management-groups-new.png)
 
 **Toestemmingsovererving**
 
 Assets Essentials gebruikt machtigingsovererving, waarmee u de machtigingen kunt overnemen die zijn ingesteld voor de bovenliggende map in de onderliggende map. Als de bovenliggende map bijvoorbeeld `Can View` machtigingen voor de `All Authenticated Users` groep en de onderliggende map bevat `Can Edit` machtigingen voor de `Marketing` gebruikersgroep: hiermee kunnen alle geverifieerde gebruikers beschikken over weergavemachtigingen voor de onderliggende map en de `Marketing` gebruikersgroep om bewerkingsmachtigingen voor de onderliggende map te hebben. De `Marketing` gebruikersgroep heeft bewerkingsmachtigingen voor verdere niveaus van mappen onder de onderliggende map (Marketing).
 
-![Machtigingen toewijzen](assets/permissions-inheritance-updated.png)
+![Machtigingen toewijzen](assets/permissions-inheritance-new.png)
 
 >[!NOTE]
 >
