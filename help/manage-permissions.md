@@ -2,7 +2,7 @@
 title: Hoe te om toestemmingen voor omslagen in de Hoofdzaak van AEM Assets te beheren?
 description: Met Assets Essentials kunnen beheerders de toegangsniveaus voor mappen in de opslagplaats beheren. Creeer gebruikersgroepen en wijs toestemmingen aan die groepen toe om toegangsniveaus te beheren. Als beheerder, kunt u de toestemmingsbeheersvoorrechten aan gebruikersgroepen op omslag-niveau ook delegeren.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 68bfd7cb55b38e12ee0f5b8f12449c7137e02e90
+source-git-commit: 98879f59bd1bb5725f51f91bfa638f2de6759e9a
 workflow-type: tm+mt
 source-wordcount: '1543'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Met Assets Essentials kunnen beheerders de toegangsniveaus voor mappen in de ops
 
 Het volgende gegevensstroomdiagram illustreert de reeks taken die u uitvoert om toestemmingen op omslagen te vormen en te beheren beschikbaar in de bewaarplaats van Assets Essentials:
 
-![Werkbalkopties wanneer u een element selecteert](assets/permissions-management.png)
+![Werkbalkopties wanneer u een element selecteert](assets/permissions-management-updated.png)
 
 ## Voordat u machtigingen voor mappen beheert {#before-managing-permissions}
 
@@ -93,7 +93,7 @@ Als u bijvoorbeeld de opdracht `Can View` machtigingen voor een map aan een supe
 
 Als u bewerkingsmachtigingen moet opgeven voor de `Marketing` alleen aan de marketingafdeling van uw organisatie en weergavemachtigingen aan anderen toewijzen `Can View` machtigingen voor supergroep `All Authenticated Users` en `Can Edit` machtigingen voor de bijbehorende subgroep `Marketing`.
 
-![Machtigingen toewijzen](assets/permissions-management-groups.png)
+![Machtigingen toewijzen](assets/permissions-management-groups-updated.png)
 
 **Toestemmingsovererving**
 
@@ -183,7 +183,7 @@ Maak de volgende gebruikersgroepen in Admin Console:
 * Juridisch team
 
 Het volgende diagram illustreert de mappenhiërarchie en de toestemmingen die aan elke gebruikersgroep worden toegewezen:
-![Machtigingen toewijzen](assets/use-case-permissions-mamagement.png)
+![Machtigingen toewijzen](assets/use-case-permissions-management.png)
 
 Hieronder ziet u de toegangsniveaus voor alle gebruikersgroepen in de mappenhiërarchie:
 
