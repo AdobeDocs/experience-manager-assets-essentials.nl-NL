@@ -2,7 +2,7 @@
 title: Hoe te om toestemmingen voor omslagen in de Hoofdzaak van AEM Assets te beheren?
 description: Met Assets Essentials kunnen beheerders de toegangsniveaus voor mappen in de opslagplaats beheren. Creeer gebruikersgroepen en wijs toestemmingen aan die groepen toe om toegangsniveaus te beheren. Als beheerder, kunt u de toestemmingsbeheersvoorrechten aan gebruikersgroepen op omslag-niveau ook delegeren.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 424517e7961bcc39cd3048ebc750fe1b4b06f659
+source-git-commit: 57aa6f4641deb8cc687a462a380404e8fc3b6844
 workflow-type: tm+mt
 source-wordcount: '1543'
 ht-degree: 0%
@@ -70,7 +70,7 @@ U kunt de volgende methoden gebruiken om een mapstructuur te maken in de Assets 
 
 Creeer een omslagstructuur die goed met de bedrijfsdoelstellingen voor de organisatie werkt. Als u een bestaande mapstructuur uploadt naar de Assets Essentials-opslagplaats, moet u de structuur controleren. Zie voor meer informatie [Tips en trucs voor effectief beheer van machtigingen](permission-management-best-practices.md).
 
-## Rechten voor mappen beheren {#manage-permissions-folders}
+## Rechten voor mappen beheren {#manage-permissions-on-folders}
 
 U kunt de volgende machtigingen toewijzen aan gebruikersgroepen of gebruikers. Adobe adviseert niet om toestemmingen aan gebruikers toe te wijzen.
 
