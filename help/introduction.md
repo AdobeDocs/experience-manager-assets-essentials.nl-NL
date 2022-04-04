@@ -3,9 +3,9 @@ title: Inleiding tot [!DNL Assets Essentials]
 description: Overzicht van Assets Essentials en overzicht van de oplossing
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
-source-git-commit: ecc36da0de9e4e7075085251aacdaf92640311a6
+source-git-commit: c95717e9898ade023d785b9d0191f4bc20f10a39
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,15 @@ ht-degree: 0%
 
 Adobe biedt een robuuste DAM-oplossing (Digital Asset Management) waarmee u optimaal kunt profiteren van uw digitale middelen. Als onderdeel van de Adobe Experience Manager-productlijn biedt Adobe een nieuwe SaaS-oplossing voor het opslaan, beheren en ontdekken van digitale middelen, die ook op een native manier geïntegreerd zijn met andere Adobe-oplossingen.
 
-[!DNL Experience Manager Assets Essentials] is een nieuwe, lichtgewicht editie van [!DNL Adobe Experience Manager Assets]. [!DNL Assets Essentials] een vereenvoudigde en consistente gebruikersinterface voor Unified Asset Management en samenwerking. Dankzij de gebruiksvriendelijkheid kunnen meer creatieve en marketingteams digitale middelen opslaan, ontdekken en distribueren. Momenteel [!DNL Assets Essentials] is beschikbaar voor [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) als onderdeel van de laatstgenoemde oplossing.
+[!DNL Experience Manager Assets Essentials] is een nieuwe, lichtgewicht editie van [!DNL Adobe Experience Manager Assets]. [!DNL Assets Essentials] een vereenvoudigde en consistente gebruikersinterface voor Unified Asset Management en samenwerking. Dankzij de gebruiksvriendelijkheid kunnen meer creatieve en marketingteams digitale middelen opslaan, ontdekken en distribueren. Momenteel wordt het ingesloten [!DNL Assets Essentials] de ervaring kan met de volgende oplossingen worden geïntegreerd :
+
+* Creative Cloud voor bedrijven
+
+* Adobe Journey Optimizer
+
+* Adobe Workfront
+
+Zie voor meer informatie [Integratie met andere Adobe-oplossingen](integration.md).
 
 [!DNL Assets Essentials] richt zich op eenvoudige interface en efficiënte opsporing en ontdekking van digitale activa, om activagebruik, bestuur, en merkconsistentie tussen teams te verzekeren. De ervaring van de eindgebruiker kan via een standalone Webgebruikersinterface en een ingebedde ervaring in andere oplossingen van Adobe zijn.
 
