@@ -2,18 +2,52 @@
 title: Release-opmerkingen
 description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
-contentOwner: AG
+contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 4cced7aba92fd0f041842e5ef78d02f0a4f7ffe0
+source-git-commit: 7c4bc88e2110ff1dd7442af303bdd2c586ba5a6f
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '782'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 9 maart 2022. Deze release biedt:
+De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 12 mei 2022. Deze release biedt:
+
+* [!DNL Assets Essentials] now supports [verzamelingen maken](manage-collections.md). Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen. In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten.
+
+* Met Assets Essentials kunt u nu ook [Aangepaste filters toevoegen](search.md#custom-filters) naar de gebruikersinterface. Vervolgens kunt u deze aangepaste filters naast de standaardfilters toepassen om de zoekresultaten te verfijnen.
+
+* Met Assets Essentials kunt u nu [status instellen](manage-organize.md#set-asset-status) op activa die beschikbaar zijn in de repository. Stel een elementstatus in om het downstreamgebruik van digitale elementen beter te beheren en te beheren.
+
+* Verbeteringen en foutoplossingen op basis van feedback van klanten.
+
+## Incognitomodus in Chrome {#incognito-mode}
+
+Met deze release optimaliseren we de prestaties van de levering van de gebruikersinterface en de specifieke functies in Assets Essentials - opmerkingen maken over elementen en beeldbewerking - afhankelijk van de lokale opslag in de browser en van cookies van derden. De incognitomodus in de Chrome-webbrowser blokkeert cookies van derden standaard. Gebruikers hebben een aantal opties om toegang te blijven krijgen tot alle mogelijkheden:
+
+* Gebruik Chrome-profielen in plaats van Incognito-modus wanneer de gebruiker browsersessies moet scheiden
+
+* Schakel de `Block third-party cookies` op het scherm Incognito-modus in Chrome
+
+## Bekende problemen {#known-issues}
+
+De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
+
+* U kunt elementen niet filteren met de opdracht `No Status` status van het element.
+
+* U kunt niet bladeren naar of zoeken naar een middel met een `Expired` status. U hebt alleen toegang tot het element via een diepe koppeling of een URL.
+
+* Assets Essentials biedt geen ondersteuning voor het maken van privéverzamelingen.
+
+Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
+
+## Eerdere versies {#past-release}
+
+### 2022,2,0 {#march-2022}
+
+[!DNL Assets Essentials] wordt gepubliceerd op 9 maart 2022, met de volgende updates:
 
 * [!DNL Assets Essentials] nu kunt u [een koppeling tot stand brengen en middelen delen met externe belanghebbenden](share-links-for-assets.md), die geen toegang hebben tot [!DNL Assets Essentials] toepassing. U kunt een vervaldatum voor de verbinding bepalen en dan het delen met anderen gebruikend uw aangewezen communicatie methode zoals e-mail of overseinendiensten. Ontvangers van de koppeling kunnen een voorbeeld van de elementen bekijken en deze downloaden.
 
@@ -25,16 +59,6 @@ De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 9 maart 202
 
 Daarnaast [!DNL Adobe Asset Link] een extensie voor Creative Cloud (Photoshop, Illustrator en InDesign) uitgebracht. [nieuwe versie 3.2](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html)met prestatieverbeteringen in de opstarttijd van het deelvenster en de downloadsnelheid.
 
-
-## Bekende problemen {#known-issues}
-
-De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
-
-* Geen
-
-Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
-
-## Eerdere versies {#past-release}
 
 ### release 2022.1.0 {#january-2022}
 

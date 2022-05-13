@@ -1,35 +1,35 @@
 ---
 title: Uw digitale middelen beheren
-description: Verplaats, verwijder, kopieer, hernoem, werk, en versie uw activa in  [!DNL Assets Essentials] bij.
+description: Verplaats, verwijder, kopieer, hernoem, werk en versie uw activa in [!DNL Assets Essentials].
 role: User,Leader
 contentOwner: AG
-source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
+exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
+source-git-commit: e8bae7cb2b424fe6956247398398e86f559db67f
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '822'
 ht-degree: 0%
 
 ---
 
-
 # Elementen beheren {#manage-assets}
 
-U kunt verschillende DAM-taken (Digital Asset Management) eenvoudig uitvoeren met de gebruikersvriendelijke interface van [!DNL Assets Essentials]. Nadat u de elementen hebt toegevoegd, kunt u uw elementen zoeken, downloaden, verplaatsen, kopiëren, hernoemen, verwijderen, bijwerken en bewerken.
+U kunt verschillende DAM-taken (Digital Asset Management) eenvoudig uitvoeren met de gebruiksvriendelijke interface van [!DNL Assets Essentials]. Nadat u de elementen hebt toegevoegd, kunt u uw elementen zoeken, downloaden, verplaatsen, kopiëren, hernoemen, verwijderen, bijwerken en bewerken.
 
-Gebruik [!DNL Assets Essentials] om de volgende taken voor middelenbeheer uit te voeren. Wanneer u een element selecteert, worden de volgende opties bovenaan op de werkbalk weergegeven.
+Gebruiken [!DNL Assets Essentials] om de volgende taken voor middelenbeheer uit te voeren. Wanneer u een element selecteert, worden de volgende opties bovenaan op de werkbalk weergegeven.
 
 ![Werkbalkopties wanneer u een element selecteert](assets/toolbar-image-selected.png)
 
 *Afbeelding: De werkbalk bevat opties voor een geselecteerde afbeelding.*
 
-* ![Schakel ](assets/do-not-localize/close-icon.png) pictogram uitSelectie van selectie opheffen.
-* ![detailspictogramKlik om een voorvertoning van een element weer te geven en de gedetailleerde metagegevens weer te geven. ](assets/do-not-localize/edit-in-icon.png) Als u een voorvertoning weergeeft, kunt u de versies weergeven en een afbeelding bewerken.
-* ![download ](assets/do-not-localize/download-icon.png) pictogramDownload het geselecteerde element naar uw lokale bestandssysteem.
-* ![pictogram ](assets/do-not-localize/delete-icon.png) verwijderenHiermee verwijdert u het geselecteerde middel of de geselecteerde map.
-* ![uitcheckpictogramHet geselecteerde ](assets/do-not-localize/checkout-icon.png) element uitchecken.
-* ![Kopieer ](assets/do-not-localize/copy-icon.png) pictogramKopieer het geselecteerde bestand of de geselecteerde map.
-* ![Verplaats ](assets/do-not-localize/move-icon.png) pictogramVerplaats het geselecteerde element of de geselecteerde map naar een andere locatie in de hiërarchie van de opslagplaats.
-* ![naam ](assets/do-not-localize/rename-icon.png) pictogram wijzigenNaam van geselecteerd element of geselecteerde map wijzigen. Gebruik een unieke naam anders ontbreekt het anders noemen met een waarschuwing. U kunt het opnieuw proberen met een nieuwe naam.
-* ![taakpictogram toewijzenTaken ](assets/do-not-localize/review-delegate-icon.png) toewijzen aan andere gebruikers om samen te werken aan een element.
+* ![pictogram deselecteren](assets/do-not-localize/close-icon.png) Schakel de selectie uit.
+* ![detailpictogram](assets/do-not-localize/edit-in-icon.png) Klik om een voorvertoning van een element weer te geven en de gedetailleerde metagegevens weer te geven. Als u een voorvertoning weergeeft, kunt u de versies weergeven en een afbeelding bewerken.
+* ![downloadpictogram](assets/do-not-localize/download-icon.png) Download het geselecteerde element naar uw lokale bestandssysteem.
+* ![verwijderpictogram](assets/do-not-localize/delete-icon.png) Verwijder het geselecteerde element of de geselecteerde map.
+* ![uitcheckpictogram](assets/do-not-localize/checkout-icon.png) Het geselecteerde element uitchecken.
+* ![pictogram kopiëren](assets/do-not-localize/copy-icon.png) Kopieer het geselecteerde bestand of de geselecteerde map.
+* ![verplaatsingspictogram](assets/do-not-localize/move-icon.png) Verplaats het geselecteerde element of de geselecteerde map naar een andere locatie in de hiërarchie van de opslagplaats.
+* ![pictogram hernoemen](assets/do-not-localize/rename-icon.png) Wijzig de naam van het geselecteerde element of de geselecteerde map. Gebruik een unieke naam anders ontbreekt het anders noemen met een waarschuwing. U kunt het opnieuw proberen met een nieuwe naam.
+* ![taakpictogram toewijzen](assets/do-not-localize/review-delegate-icon.png) Taken toewijzen aan andere gebruikers om samen te werken aan een element.
 
 U kunt dezelfde opties weergeven op de miniaturen van elementen.
 
@@ -47,7 +47,7 @@ U kunt dezelfde opties weergeven op de miniaturen van elementen.
 
 ## Elementen downloaden en distribueren {#download}
 
-U kunt een of meer elementen of mappen of een combinatie van beide selecteren en de selectie naar uw lokale bestandssysteem downloaden. U kunt de elementen bewerken en opnieuw uploaden of de elementen buiten [!DNL Assets Essentials] verspreiden. U kunt ook [de uitvoeringen](/help/add-delete.md#renditions) van een element downloaden.
+U kunt een of meer elementen of mappen of een combinatie van beide selecteren en de selectie naar uw lokale bestandssysteem downloaden. U kunt de elementen bewerken en opnieuw uploaden of de elementen buiten de elementen distribueren [!DNL Assets Essentials]. U kunt ook [de vertoningen downloaden](/help/add-delete.md#renditions) van een actief.
 
 ## Asset versioning {#versions-of-assets}
 
@@ -62,13 +62,13 @@ TBD: query for engineering: How many versions are maintained. What happens when 
 
    *Afbeelding: Wanneer u een element uploadt dat hetzelfde heet als een bestaand element, kunt u een versie van het element maken.*
 
-* Bewerk een afbeelding en klik op **[!UICONTROL Save as Version]**. Zie [Afbeeldingen bewerken](/help/edit-images.md).
+* Een afbeelding bewerken en klikken **[!UICONTROL Save as Version]**. Zie [afbeeldingen bewerken](/help/edit-images.md).
 
    ![Bewerkte afbeelding opslaan als versie](assets/edit-image2.png)
 
    *Afbeelding: Bewerkte afbeelding opslaan als versie.*
 
-* Open de versies van een bestaand element. Klik op **[!UICONTROL New Version]** en upload een nieuwere versie van het middel in de repository.
+* Open de versies van een bestaand element. Klikken **[!UICONTROL New Version]** en uploadt u een nieuwere versie van het middel in de repository.
 
    ![Optie voor het uploaden van een nieuwe versie van een element uit de versiegeschiedenis](assets/view-asset-versions2.png)
 
@@ -76,10 +76,72 @@ TBD: query for engineering: How many versions are maintained. What happens when 
 
 Wanneer u een gedupliceerde kopie of een gewijzigde kopie van een element uploadt, kunt u de versies ervan maken. Met Versioning kunt u historische elementen controleren en desgewenst terugkeren naar een vorige versie.
 
-Als u versies wilt weergeven, opent u de voorvertoning van een element en klikt u in de rechterzijbalk op **[!UICONTROL Versions]** ![Versiepictogram](assets/do-not-localize/versions-clock-icon.png). Als u een voorvertoning van een specifieke versie wilt weergeven, selecteert u deze. Klik op **[!UICONTROL Make Latest]** om het item te herstellen.
+Als u versies wilt weergeven, opent u de voorvertoning van een element en klikt u op **[!UICONTROL Versions]** ![Versiepictogram](assets/do-not-localize/versions-clock-icon.png) in de rechterzijbalk. Als u een voorvertoning van een specifieke versie wilt weergeven, selecteert u deze. Klik op **[!UICONTROL Make Latest]**.
 
-U kunt ook versies maken van de tijdlijn van de versie. Selecteer de meest recente versie, klik op **[!UICONTROL New Version]** en upload een nieuwe kopie van het element vanuit uw lokale bestandssysteem.
+U kunt ook versies maken van de tijdlijn van de versie. Selecteer de meest recente versie en klik op **[!UICONTROL New Version]** en uploadt u een nieuwe kopie van het element vanuit uw lokale bestandssysteem.
 
 ![Versies van een element weergeven](assets/view-asset-versions1.png)
 
 *Afbeelding: U kunt versies van een element weergeven, terugkeren naar een vorige versie of een andere nieuwe versie uploaden.*
+
+## De elementstatus beheren {#manage-asset-status}
+
+**Vereiste machtigingen:**  `Can Edit`, `Owner`of beheerdersmachtigingen voor een middel.
+
+Met Assets Essentials kunt u de status instellen voor de middelen die in de repository beschikbaar zijn. Stel een elementstatus in om het downstreamgebruik van digitale elementen beter te beheren en te beheren.
+
+U kunt de volgende status instellen voor elementen:
+
+* Goedgekeurd
+
+* Geweigerd
+
+* Geen status
+
+### Elementstatus instellen {#set-asset-status}
+
+De elementstatus instellen:
+
+1. Selecteer het element en klik op **[!UICONTROL Details]** in de werkbalk.
+
+1. In de **[!UICONTROL Basic]** selecteert u de elementstatus in het menu **[!UICONTROL Status]** vervolgkeuzelijst. Mogelijke waarden zijn Goedgekeurd, Afgewezen en Geen status (standaardwaarde).
+
+   >[!VIDEO](https://video.tv.adobe.com/v/342495)
+
+<!--
+
+### Set asset expiration date {#set-asset-expiration-date}
+
+To set asset expiration date:
+
+1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
+
+1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration date]** field.
+
+The `Expired` asset card indicator overrides the `Approved` or `Rejected` indicator set for an asset.
+
+-->
+
+U kunt ook elementen filteren op basis van een elementstatus. Zie voor meer informatie [Middelen zoeken in Assets Essentials](search.md).
+
+## Metagegevensformulieren aanpassen om het statusveld voor elementen op te nemen {#customize-asset-status-metadata-form}
+
+**Vereiste machtigingen:** Beheerder
+
+Assets Essentials biedt standaard vele standaardmetagegevensvelden. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan het element [!UICONTROL Details] pagina. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen.
+
+Zie voor meer informatie over het toevoegen van extra metagegevensvelden aan het metagegevensformulier [Metagegevens Forms](metadata.md##metadata-forms).
+
+**Veld voor metagegevens van elementstatus toevoegen aan het formulier**
+
+Als u een metagegevensveld voor de elementstatus aan het formulier wilt toevoegen, sleept u **[!UICONTROL Asset Status]** van de linkerspoorstaaf naar het formulier. De toewijzingseigenschap wordt automatisch vooraf ingevuld. Sla het formulier op om de wijzigingen te bevestigen.
+
+<!--
+
+**Add Expiration Date metadata field to the form**
+
+To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form to confirm the changes.
+
+-->
+
+

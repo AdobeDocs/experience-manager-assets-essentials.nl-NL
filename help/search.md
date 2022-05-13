@@ -2,13 +2,13 @@
 title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+exl-id: be9597a3-056c-436c-a09e-15a03567c85a
+source-git-commit: 0420b0836affe453cced6789ea4a7c56660e9f0a
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '663'
 ht-degree: 1%
 
 ---
-
 
 # Middelen zoeken in [!DNL Assets Essentials] {#search-assets}
 
@@ -32,21 +32,83 @@ U kunt de zoekresultaten filteren op basis van de volgende parameters.
 
 *Afbeelding: Gezochte elementen filteren op basis van verschillende parameters.*
 
-* Bestandstype: Filter de zoekresultaten op de ondersteunde bestandstypen: `Images`, `Documents` en `Videos`.
+* Status van element: De zoekresultaten filteren met een `Approved` of `Rejected` status van het element.
+
+* Bestandstype: Filter de zoekresultaten op de ondersteunde bestandstypen, namelijk `Images`, `Documents`, en `Videos`.
 * MIME-type: Filter voor een of meer ondersteunde bestandsindelingen. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Afbeeldingsgrootte: Geef een van de minimale en maximale afmetingen op voor het filteren van afbeeldingen. De grootte wordt opgegeven in pixelafmetingen en is niet de bestandsgrootte van de afbeeldingen.
-* Aanmaakdatum: De aanmaakdatum van het element, zoals vermeld in de metagegevens. De standaarddatumnotatie die wordt gebruikt, is `yyyy-mm-dd`.
-* Datum gewijzigd: De laatste gewijzigde datum van de elementen. De standaarddatumnotatie die wordt gebruikt, is `yyyy-mm-dd`.
+* Aanmaakdatum: De aanmaakdatum van het element, zoals vermeld in de metagegevens. De standaard datumnotatie die wordt gebruikt is `yyyy-mm-dd`.
+* Datum gewijzigd: De laatste gewijzigde datum van de elementen. De standaard datumnotatie die wordt gebruikt is `yyyy-mm-dd`.
 
-U kunt de gezochte elementen in stijgende of dalende orde van `Name`, `Relevancy`, `Size`, `Modified`, en `Created` sorteren.
+U kunt de gezochte middelen in stijgende of dalende orde van sorteren `Name`, `Relevancy`, `Size`, `Modified`, en `Created`.
+
+## Aangepaste filters beheren {#custom-filters}
+
+**Vereiste machtigingen:**  `Can Edit`, `Owner`of Beheerder.
+
+Met Assets Essentials kunt u ook aangepaste filters toevoegen aan de gebruikersinterface. Vervolgens kunt u deze aangepaste filters toepassen naast de [standaardfilters](#refine-search-results) om de zoekresultaten te verfijnen.
+
+Assets Essentials biedt de volgende aangepaste filters:
+
+<table>
+    <tbody>
+     <tr>
+      <th><strong>Aangepaste filternaam</strong></th>
+      <th><strong>Beschrijving</strong></th>
+     </tr>
+     <tr>
+      <td>Titel</td>
+      <td>Filter elementen met de titel van het element. De titel die u opgeeft in de hoofdlettergevoelige zoekcriteria moet overeenkomen met de exacte titel van het element om in de resultaten te worden weergegeven.</td>
+     </tr>
+     <tr>
+      <td>Naam</td>
+      <td>Filter elementen met de naam van het elementbestand. De naam die u opgeeft in de hoofdlettergevoelige zoekcriteria moet overeenkomen met de exacte bestandsnaam van het element om in de resultaten te worden weergegeven.</td>
+     </tr>
+     <tr>
+      <td>Elementgrootte</td>
+      <td>Filter elementen door een formaatbereik in bytes te definiëren in de zoekcriteria voor een element dat in de resultaten moet worden weergegeven.</td>
+     </tr>
+     <tr>
+      <td>Vooraf gedefinieerde labels</td>
+      <td>Filter elementen met de slimme tag voor elementen. De naam van de slimme tag die u opgeeft in de hoofdlettergevoelige zoekcriteria, moet overeenkomen met de exacte naam van de slimme tag van het element om in de resultaten te worden weergegeven. U kunt niet meerdere slimme tags opgeven in zoekcriteria.</td>
+     </tr>    
+    </tbody>
+   </table>
+
+### Aangepaste filters toevoegen {#add-custom-filters}
+
+Aangepaste filters toevoegen:
+
+1. Klik op **[!UICONTROL Filters]**.
+
+1. In de **[!UICONTROL Custom Filters]** sectie, klikt u op **[!UICONTROL Edit]** of **[!UICONTROL Add Filters]**.
+
+   ![Aangepaste filters toevoegen](assets/add-custom-filters.png)
+
+1. Op de **[!UICONTROL Custom filters management]** selecteert u de filters die u aan de bestaande lijst met filters wilt toevoegen. Selecteren **[!UICONTROL Custom Filters]** om alle filters te selecteren.
+
+1. Klikken **[!UICONTROL Confirm]** om de filters aan de gebruikersinterface toe te voegen.
+
+### Aangepaste filters verwijderen {#remove-custom-filters}
+
+Aangepaste filters verwijderen:
+
+1. Klik op **[!UICONTROL Filters]**.
+
+1. In de **[!UICONTROL Custom Filters]** sectie, klikt u op **[!UICONTROL Edit]**.
+
+1. Op de **[!UICONTROL Custom filters management]** schakelt u de filters uit die u uit de bestaande lijst met filters wilt verwijderen.
+
+1. Klikken **[!UICONTROL Confirm]** om de filters uit de gebruikersinterface te verwijderen.
+
 
 ## Opgeslagen zoekopdrachten {#saved-search}
 
-Zoekfuncties zijn eenvoudig te gebruiken in [!DNL Assets Essentials]. Vanuit het zoekvak kunt u niet alleen een trefwoord typen en op Enter drukken om de resultaten weer te geven, maar u kunt ook snel met één klik nogmaals zoeken naar de laatst doorzochte trefwoorden.
+Zoekfuncties zijn heel eenvoudig in [!DNL Assets Essentials]. Vanuit het zoekvak kunt u niet alleen een trefwoord typen en op Enter drukken om de resultaten weer te geven, maar u kunt ook snel met één klik nogmaals zoeken naar de laatst doorzochte trefwoorden.
 
-U kunt de zoekresultaten ook filteren op basis van specifieke criteria voor metagegevens en het type element. Voor veelgebruikte filters kunt u de zoekervaring verbeteren door [!DNL Assets Essentials] de zoekparameters op te slaan. Vervolgens kunt u de opgeslagen zoekopdracht selecteren en het filter toepassen met één klik.
+U kunt de zoekresultaten ook filteren op basis van specifieke criteria voor metagegevens en het type element. Voor veelgebruikte filters om de zoekervaring te verbeteren, [!DNL Assets Essentials] Hiermee kunt u de zoekparameters opslaan. Vervolgens kunt u de opgeslagen zoekopdracht selecteren en het filter toepassen met één klik.
 
-Als u een opgeslagen zoekopdracht wilt maken, zoekt u naar een element, past u een of meer filters toe en klikt u op [!UICONTROL Save Search] in het deelvenster [!UICONTROL Filters].
+Als u een opgeslagen zoekopdracht wilt maken, zoekt u naar een element, past u een of meer filters toe en klikt u op [!UICONTROL Save Search] in de [!UICONTROL Filters] deelvenster.
 
 ![Opgeslagen zoekopdracht in deelvenster Filters](assets/saved-search.png)
 
