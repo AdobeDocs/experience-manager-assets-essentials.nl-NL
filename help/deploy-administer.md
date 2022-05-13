@@ -3,9 +3,9 @@ title: Gebruikers beheren en beheren
 description: Gebruiksgevallen voor beheerders zoals implementatie en gebruikersbeheer in [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: fb4ca5b3ab85f77cc1013c2d4743530f5d48e96d
+source-git-commit: 552dcf43677ac2a95864666faab9938534f70d40
 workflow-type: tm+mt
-source-wordcount: '1089'
+source-wordcount: '1099'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 0%
 # Beheren [!DNL Assets Essentials] en gebruikers toevoegen {#administer}
 
 [!DNL Adobe Experience Manager Assets Essentials] is provisioned door Adobe voor zijn klanten. In het kader van de levering [!DNL Assets Essentials] wordt toegevoegd aan de organisatie van een klant in [!DNL Adobe Admin Console]. Beheerders gebruiken [!DNL Admin Console] om gebruikersrechten te beheren aan [!DNL Assets Essentials] oplossing, en wijs toepassingsbeheerders aan opstellingstoestemmingen en meta-gegevensformulieren in [!DNL Assets Essentials].
+
+Voor een op reis gebaseerde ervaring om Assets Essentials te beheren, klikt u op [link](adminster-aem-assets-essentials.md).
 
 ## Automatische implementatie van Assets Essentials {#automatic-deployment-assets-essentials}
 
