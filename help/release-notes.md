@@ -4,9 +4,9 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 7c4bc88e2110ff1dd7442af303bdd2c586ba5a6f
+source-git-commit: 4fcac20c15ebabcafe851ce207bd937c8a7f6b03
 workflow-type: tm+mt
-source-wordcount: '782'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -36,8 +36,6 @@ Met deze release optimaliseren we de prestaties van de levering van de gebruiker
 De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
 
 * U kunt elementen niet filteren met de opdracht `No Status` status van het element.
-
-* U kunt niet bladeren naar of zoeken naar een middel met een `Expired` status. U hebt alleen toegang tot het element via een diepe koppeling of een URL.
 
 * Assets Essentials biedt geen ondersteuning voor het maken van privéverzamelingen.
 
