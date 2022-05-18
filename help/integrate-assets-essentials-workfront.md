@@ -1,13 +1,13 @@
 ---
 title: Assets Essentials integreren met Adobe Workfront
 description: Integreer Assets Essentials met de Adobe Workfront-toepassing, zodat u toegang krijgt tot de Assets Essentials-opslagplaats in de Workfront-toepassing.
-source-git-commit: 7d49060ba2e02bd9c5caf9753ef56b5feed5b3df
+exl-id: 47c2963d-57f0-463e-8d5b-5e5af9928f77
+source-git-commit: 507d5de0fad337f5c84dab28bc396dbfa7c5afe1
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '612'
 ht-degree: 0%
 
 ---
-
 
 # Assets Essentials integreren met Adobe Workfront {#integrate-assets-essentials-workfront}
 
@@ -66,7 +66,7 @@ Voor meer informatie over het toewijzen van gebruikers aan Assets Essentials-pro
 
 ## Experience Manager Assets Essentials Integration configureren {#configure-assets-essentials-integration}
 
-Nadat u gebruikers met de Admin Console hebt toegevoegd aan de Workfront- en Assets Essentials-productprofielen, kunt u [De integratie met Experience Manager Assets Essentials configureren](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
+Nadat u gebruikers met de Admin Console hebt toegevoegd aan de Workfront- en Assets Essentials-productprofielen, kunt u [De integratie van Experience Manager Assets Essentials met Adobe Workfront configureren](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
 
 Nadat u de integratie hebt ingesteld, kunt u:
 
