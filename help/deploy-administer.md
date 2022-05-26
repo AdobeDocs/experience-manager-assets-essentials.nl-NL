@@ -3,9 +3,9 @@ title: Gebruikers beheren en beheren
 description: Gebruiksgevallen voor beheerders zoals implementatie en gebruikersbeheer in [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 552dcf43677ac2a95864666faab9938534f70d40
+source-git-commit: 59f6165fd7576736ff75369c2805c15ce3ae9af0
 workflow-type: tm+mt
-source-wordcount: '1099'
+source-wordcount: '1154'
 ht-degree: 0%
 
 ---
@@ -125,6 +125,18 @@ Na levering, [!DNL Assets Essentials] rechten worden toegevoegd aan uw organisat
    ![Klaar omgeving in [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
 
    *Afbeelding: Een omgeving in [!DNL Cloud Manager] dat klaar is om te gebruiken.*
+
+## Volgende stappen {#next-steps}
+
+* [Bekijk een video om Assets Essentials te implementeren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en)
+
+* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+
+* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+
+* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)
+
+
 
 >[!MORELIKETHIS]
 >

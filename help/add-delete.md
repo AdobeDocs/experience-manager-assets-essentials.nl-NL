@@ -1,14 +1,14 @@
 ---
 title: Elementen uploaden naar de opslagplaats
-description: Upload activa aan [!DNL Assets Essentials], bekijk uploadstatussen, en los uploadkwesties op.
+description: Elementen uploaden naar [!DNL Assets Essentials], uploadstatussen weergeven en uploadproblemen oplossen.
 role: User
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+exl-id: a85a4455-4456-48af-aee9-f05300677605
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
-
 
 # Elementen uploaden {#add-assets}
 
@@ -17,16 +17,16 @@ Als u nieuwe elementen wilt toevoegen om mee te werken, uploadt u een aantal ele
 U kunt de volgende methoden gebruiken om een of meer elementen of een map met elementen te uploaden:
 
 * Sleep elementen of mappen naar de gebruikersinterface en volg de aanwijzingen op het scherm.
-* Klik op de optie **[!UICONTROL Add Assets]** op de werkbalk en voeg enkele bestanden toe aan het dialoogvenster voor uploaden.
+* Klikken **[!UICONTROL Add Assets]** op de werkbalk en voegt u enkele bestanden toe aan het dialoogvenster voor uploaden.
 
 <!-- TBD: Update this GIF
 ![Asset and nested folder upload demo](assets/do-not-localize/upload-assets.gif) -->
 
-U kunt al deze methoden gebruiken om elementen te uploaden nadat u een map hebt gemaakt. Als u een lege map wilt maken, klikt u op **[!UICONTROL Create Folder]** op de werkbalk. Hoewel [!DNL Assets Essentials] een krachtige full-text zoekfunctionaliteit biedt, kunt u mappen ook gebruiken om uw elementen beter te ordenen.
+U kunt al deze methoden gebruiken om elementen te uploaden nadat u een map hebt gemaakt. Als u een lege map wilt maken, klikt u op **[!UICONTROL Create Folder]** op de werkbalk. while [!DNL Assets Essentials] biedt een krachtige zoekfunctie met volledige tekst, zodat u uw elementen beter kunt ordenen met mappen.
 
 Nadat u de bestanden hebt geselecteerd, wordt een bevestigingsvenster weergegeven waarin u meer bestanden kunt toevoegen of reeds geselecteerde bestanden kunt verwijderen. Als u meer bestanden aan een selectie wilt toevoegen, klikt u op **[!UICONTROL Browse]** en selecteert u **[!UICONTROL Browse files]** of **[!UICONTROL Browse folders]**. Voeg meer bestanden of mappen toe vanuit dezelfde map of vanuit een andere map.
 
-Wanneer alle bestanden in de wachtrij zijn geplaatst, klikt u op **[!UICONTROL Upload]**.
+Als alle bestanden in de wachtrij zijn geplaatst, klikt u op **[!UICONTROL Upload]**.
 
 ![Bestanden en mappen uploaden](assets/upload-browse-files-folders.png)
 
@@ -38,17 +38,17 @@ Wanneer alle bestanden in de wachtrij zijn geplaatst, klikt u op **[!UICONTROL U
 
 ## Voortgang van uploaden en status weergeven {#upload-progress}
 
-Wanneer u veel elementen of geneste mappen uploadt naar [!DNL Assets Essentials], kunnen sommige elementen niet worden geüpload om verschillende redenen, zoals dubbele middelen en netwerkproblemen.
+Wanneer u veel elementen of geneste mappen uploadt naar [!DNL Assets Essentials]Sommige elementen kunnen niet worden geüpload om verschillende redenen, zoals dubbele middelen en netwerkproblemen.
 
-Als u de voortgang van het uploaden wilt bijhouden, klikt u op de optie **[!UICONTROL Upload Progress]** op de werkbalk. In een deelvenster wordt de voortgang van het uploaden van alle elementen weergegeven.
+Klik op **[!UICONTROL Upload Progress]** op de werkbalk. In een deelvenster wordt de voortgang van het uploaden van alle elementen weergegeven.
 
-Als u een subset met elementen wilt weergeven op basis van de voortgang of status van het uploaden, gebruikt u het filter in de zijbalk **[!UICONTROL Upload Progress]**. De verschillende filters moeten alle elementen weergeven, voltooide uploads, uploads die bezig zijn, elementen in de wachtrij die moeten worden geüpload, gepauzeerde uploads, dubbele elementen en elementen die niet zijn geüpload.
+Als u een subset met elementen wilt weergeven op basis van de voortgang of status van het uploaden, gebruikt u het filter in het dialoogvenster **[!UICONTROL Upload Progress]** zijbalk. De verschillende filters moeten alle elementen weergeven, voltooide uploads, uploads die bezig zijn, elementen in de wachtrij die moeten worden geüpload, gepauzeerde uploads, dubbele elementen en elementen die niet zijn geüpload.
 
 ![De voortgang van het uploaden filteren op basis van de status van het uploaden](assets/filter-upload-progress.png)
 
 *Afbeelding: Filter de elementen die u probeerde te uploaden op basis van de status van het uploaden of de voortgang van het uploaden.*
 
-Vlak nadat de elementen zijn geüpload, verwerkt [!DNL Assets Essentials] de elementen om miniaturen te genereren en metagegevens te verwerken. Voor veel elementen duurt het enige tijd. Als er geen miniatuur wordt weergegeven en er een verwerkingsbericht wordt weergegeven bij de plaatsaanduidingsminiatuur, controleert u de map na een paar minuten opnieuw. Tijdens de verwerking worden de uitvoeringen onder andere gegenereerd door [!DNL Assets Essentials], worden slimme tags toegevoegd en worden de elementdetails geïndexeerd voor zoekopdrachten.
+Onmiddellijk nadat de elementen zijn geüpload, [!DNL Assets Essentials] verwerkt de elementen om miniaturen te genereren en metagegevens te verwerken. Voor veel elementen duurt het enige tijd. Als er geen miniatuur wordt weergegeven en er een verwerkingsbericht wordt weergegeven bij de plaatsaanduidingsminiatuur, controleert u de map na een paar minuten opnieuw. Tijdens de verwerking [!DNL Assets Essentials] Hiermee genereert u de uitvoeringen, voegt u slimme tags toe en indexeert u de elementdetails voor de zoekopdracht.
 
 ![Elementen zijn processen tijdens het uploaden en de verwerking van de tegels](assets/upload-processing.png)
 
@@ -56,7 +56,7 @@ Vlak nadat de elementen zijn geüpload, verwerkt [!DNL Assets Essentials] de ele
 
 ## Elementuitvoeringen {#renditions}
 
-[!DNL Assets Essentials] verwerkt de geüploade elementen in bijna realtime en voor veel ondersteunde bestandstypen worden uitvoeringen gegenereerd. De uitvoeringen zijn gemaakt voor afbeeldingen en de grootte van versies van de geüploade afbeelding wordt gewijzigd. U kunt niet alleen het element downloaden, maar ook de uitvoeringen om een geschikte versie te gebruiken. U kunt alle vertoningen van activa bekijken wanneer u [voorproef activa](/help/navigate-view.md#preview-assets).
+[!DNL Assets Essentials] verwerkt de geüploade elementen in bijna realtime en voor veel ondersteunde bestandstypen worden uitvoeringen gegenereerd. De uitvoeringen zijn gemaakt voor afbeeldingen en de grootte van versies van de geüploade afbeelding wordt gewijzigd. U kunt niet alleen het element downloaden, maar ook de uitvoeringen om een geschikte versie te gebruiken. U kunt alle uitvoeringen van een element weergeven wanneer u [een voorvertoning van een element weergeven](/help/navigate-view.md#preview-assets).
 
 ![Uitvoeringen](assets/renditions-view-download.png)
 
@@ -64,7 +64,7 @@ Vlak nadat de elementen zijn geüpload, verwerkt [!DNL Assets Essentials] de ele
 
 ## Onderbroken uploads beheren {#resolve-upload-fails}
 
-Als het uploaden van een ondersteund element om een of andere reden mislukt, klikt u op **[!UICONTROL Retry]** in het deelvenster [!UICONTROL Upload Progress].
+Als het uploaden van een ondersteund element om een of andere reden mislukt, klikt u op **[!UICONTROL Retry]** van de [!UICONTROL Upload Progress] venster.
 
 ![Uploaden mislukt opnieuw proberen](assets/upload-retry.png)
 
@@ -82,7 +82,7 @@ Als u probeert dubbele elementen te uploaden, worden de elementen pas geüpload 
 
 >[!TIP]
 >
->U kunt elementen rechtstreeks vanuit uw [!DNL Creative Cloud]-bureaubladtoepassingen uploaden naar de DAM-opslagplaats. Zie hoe [[!DNL Assets Essentials] integreert met [!DNL Adobe Asset Link]](/help/integration.md).
+>U kunt elementen rechtstreeks vanuit uw systeem uploaden naar de DAM-opslagplaats [!DNL Creative Cloud] bureaubladtoepassingen. Zie hoe [[!DNL Assets Essentials] integreert met [!DNL Adobe Asset Link]](/help/integration.md).
 
 ## Elementen of mappen verwijderen {#delete-assets}
 
@@ -94,4 +94,14 @@ Gebruikers kunnen afzonderlijke elementen of mappen verwijderen die niet meer ve
 
    *Afbeelding: Handelingen voor bestanden en mappen zijn beschikbaar in het element met middelen of mappen.*
 
-* Selecteer een middel of een omslag en klik **[!UICONTROL Delete]** ![schrappingspictogram](assets/do-not-localize/delete-icon.png) in de toolbar.
+* Selecteer een middel of een omslag en klik **[!UICONTROL Delete]** ![verwijderpictogram](assets/do-not-localize/delete-icon.png) in de werkbalk.
+
+## Volgende stappen {#next-steps}
+
+* [Een video bekijken om elementen te uploaden in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html)
+
+* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+
+* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+
+* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)

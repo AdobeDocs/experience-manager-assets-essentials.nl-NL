@@ -3,9 +3,9 @@ title: Aan de slag met [!DNL Assets Essentials]
 description: Hoe kan ik toegang krijgen tot, login ervaring van, gesteunde gebruiksgevallen van, en bekende kwesties van [!DNL Assets Essentials].
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
-source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '421'
 ht-degree: 1%
 
 ---
@@ -55,6 +55,17 @@ De verschillende DAM-taken (Digital Asset Management) die u kunt uitvoeren met [
 | Metagegevensbewerkingen | <ul> <li>[Gedetailleerde metagegevens weergeven](/help/metadata.md) </li> <li> [Metagegevens bijwerken](/help/metadata.md#update-metadata)</li> <li> [Nieuw metagegevensformulier maken](/help/metadata.md#metadata-forms) </li> </ul> |
 | Integratie met andere oplossingen | <ul> <li>[Asset Selector gebruiken in [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] for [!DNL Creative Cloud]](/help/integration.md)</li> <li>[Integratie met [!DNL Adobe Workfront]](/help/integration.md)</li> </ul> |
 
+## Volgende stappen {#next-steps}
+
+* [Bekijk een video om aan de slag te gaan met Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)
+
+* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+
+* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+
+* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)
+
+
 <!--TBD: Merge the below rows in the table when the use cases are documented/available.
 
 | How do I delete assets? | <ul> <li>[Delete assets](/help/manage-organize.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
@@ -63,16 +74,20 @@ De verschillende DAM-taken (Digital Asset Management) die u kunt uitvoeren met [
 
 -->
 
-## ![feedbackpictogram](assets/do-not-localize/feedback-icon.png) Feedback op producten geven {#provide-feedback}
+<!-- 
 
-Adobe is verheugd over feedback over de oplossing. Als u feedback wilt geven zonder van werktoepassing te veranderen, gebruikt u de opdracht [!UICONTROL Feedback] in de gebruikersinterface. U kunt hiermee ook bestanden bijvoegen, zoals screenshots of video-opnamen van een uitgave.
+## ![feedback icon](assets/do-not-localize/feedback-icon.png) Provide product feedback {#provide-feedback}
 
-![feedbackoptie in de interface](assets/feedback-panel.png)
+Adobe welcomes feedback about the solution. To provide feedback without even switching your working application, use the [!UICONTROL Feedback] option in the user interface. It also lets you attach files such as screenshots or video recording of an issue.
 
-Als u feedback voor documentatie wilt opgeven, klikt u op [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) in de rechterzijbalk. U kunt een van de volgende handelingen uitvoeren:
+  ![feedback option in the interface](assets/feedback-panel.png)
 
-* Maak de inhoudsupdates en verzend een trekkingsverzoek GitHub.
-* Creeer een kwestie of een kaartje in GitHub. Behoud de automatisch gevulde artikelnaam wanneer u een uitgave maakt.
+To provide feedback for documentation, click [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) from the right sidebar. You can do one of the following: 
+
+* Make the content updates and submit a GitHub pull request.
+* Create an issue or ticket in GitHub. Retain the automatically populated article name when creating an issue.
+
+-->
 
 >[!MORELIKETHIS]
 >

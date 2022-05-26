@@ -2,9 +2,9 @@
 title: Hoe te om toestemmingen voor omslagen in de Hoofdzaak van AEM Assets te beheren?
 description: Met Assets Essentials kunnen beheerders de toegangsniveaus voor mappen in de opslagplaats beheren. Creeer gebruikersgroepen en wijs toestemmingen aan die groepen toe om toegangsniveaus te beheren. Als beheerder, kunt u de toestemmingsbeheersvoorrechten aan gebruikersgroepen op omslag-niveau ook delegeren.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: c5cb27f3f660935487bb214088b4300475ef5fce
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '1543'
+source-wordcount: '1599'
 ht-degree: 0%
 
 ---
@@ -202,3 +202,13 @@ Hieronder ziet u de toegangsniveaus voor alle gebruikersgroepen in de mappenhië
 * /projecten/project-x: Alle gebruikers kunnen de mappen en de bijbehorende submappen weergeven. De gebruikersgroep van het Team van de Managers van het project heeft uitgeeft toestemmingen en kan toestemmingen op een omslag en zijn subfolders (de toestemmingen van de Eigenaar) beheren. De gebruikersgroep van het Team van project X heeft uitgeeft toestemmingen.
 
 * /legal: Geen van de gebruikers heeft toegang tot de map op basis van de `Deny Access` machtigingen voor `All Authenticated Users` groep. De gebruikersgroep Juridisch team heeft bewerkingsmachtigingen.
+
+## Volgende stappen {#next-steps}
+
+* [Een video bekijken om machtigingen in Assets Essentials te beheren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
+
+* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+
+* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+
+* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)

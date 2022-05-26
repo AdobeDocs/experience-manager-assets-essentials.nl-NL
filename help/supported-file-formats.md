@@ -4,10 +4,10 @@ description: Ondersteunde bestandsindelingen voor de verschillende gebruiksgeval
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
-source-git-commit: b9d333a862cca6227ef386ae8dadf431c2fb6d71
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 6%
+source-wordcount: '348'
+ht-degree: 5%
 
 ---
 
@@ -110,3 +110,11 @@ Gebruikers van [!DNL Adobe Asset Link] kan bestanden uploaden en inchecken (een 
 >
 >* []()
 -->
+
+## Volgende stappen {#next-steps}
+
+* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+
+* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+
+* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)

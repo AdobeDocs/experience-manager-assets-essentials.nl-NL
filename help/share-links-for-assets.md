@@ -1,13 +1,13 @@
 ---
 title: Hoe kan ik koppelingen naar elementen delen?
 description: Een koppeling genereren en elementen delen met anderen die geen toegang hebben tot de [!DNL Assets Essentials] toepassing.
-source-git-commit: 6c922bac00b2b1aa514c5408a56da514466d4483
+exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
-
 
 # Koppelingen naar elementen delen {#share-links-assets}
 
@@ -43,3 +43,12 @@ Als u alle elementen tegelijk wilt downloaden, schakelt u over naar de **[!UICON
 
 ![Gedeelde elementen voorvertonen](assets/preview-shared-assets.png)
 
+## Volgende stappen {#next-steps}
+
+* [Een video bekijken om koppelingen naar middelen in Assets Essentials te delen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html)
+
+* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+
+* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+
+* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)

@@ -1,9 +1,10 @@
 ---
 title: Hoe te om omslagtoestemmingen effectief te beheren?
 description: Tips en trucs voor effectief beheer van machtigingen
-source-git-commit: fe716385939d18aa23d01dac5fe5f041541d2b31
+exl-id: 06b06f0b-3806-44ce-abc4-c1449a93dd29
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -63,3 +64,10 @@ Nadat u gebruikersgroepen voor uw organisatie hebt gemaakt, gebruikers aan die g
 
 Voor voorbeelden over hoe u een efficiënte en eenvoudige mapstructuur kunt bereiken, raadpleegt u [Rechten voor mappen beheren](manage-permissions.md##manage-permissions-folders).
 
+## Volgende stappen {#next-steps}
+
+* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+
+* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+
+* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)
