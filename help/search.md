@@ -3,7 +3,7 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+source-git-commit: 378aa0ee62ad814bdf598dfcf21f8b2775c83b84
 workflow-type: tm+mt
 source-wordcount: '719'
 ht-degree: 1%
@@ -32,7 +32,7 @@ U kunt de zoekresultaten filteren op basis van de volgende parameters.
 
 *Afbeelding: Gezochte elementen filteren op basis van verschillende parameters.*
 
-* Status van element: De zoekresultaten filteren met een `Approved` of `Rejected` status van het element.
+* Status van element: De zoekresultaten filteren met een `Approved`, `Rejected`, of `No Status` status van het element.
 
 * Bestandstype: Filter de zoekresultaten op de ondersteunde bestandstypen, namelijk `Images`, `Documents`, en `Videos`.
 * MIME-type: Filter voor een of meer ondersteunde bestandsindelingen. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
