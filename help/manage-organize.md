@@ -4,9 +4,9 @@ description: Verplaats, verwijder, kopieer, hernoem, werk en versie uw activa in
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+source-git-commit: 05c9903d1225cd7875cc42ffe9ed7bd98aa1b757
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -108,19 +108,16 @@ De elementstatus instellen:
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
-<!--
 
-### Set asset expiration date {#set-asset-expiration-date}
+### Vervaldatum van element instellen {#set-asset-expiration-date}
 
-To set asset expiration date:
+De vervaldatum van het element instellen:
 
-1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
+1. Selecteer het element en klik op **[!UICONTROL Details]** in de werkbalk.
 
-1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration date]** field.
+1. In de **[!UICONTROL Basic]** -tab, stelt u de vervaldatum voor het element in met de  **[!UICONTROL Expiration date]** veld.
 
-The `Expired` asset card indicator overrides the `Approved` or `Rejected` indicator set for an asset.
-
--->
+De `Expired` de indicator van de activakaart treedt `Approved` of `Rejected` voor een element ingestelde indicator.
 
 U kunt ook elementen filteren op basis van een elementstatus. Zie voor meer informatie [Middelen zoeken in Assets Essentials](search.md).
 
@@ -136,13 +133,9 @@ Zie voor meer informatie over het toevoegen van extra metagegevensvelden aan het
 
 Als u een metagegevensveld voor de elementstatus aan het formulier wilt toevoegen, sleept u **[!UICONTROL Asset Status]** van de linkerspoorstaaf naar het formulier. De toewijzingseigenschap wordt automatisch vooraf ingevuld. Sla het formulier op om de wijzigingen te bevestigen.
 
-<!--
+**Metagegevensveld Vervaldatum toevoegen aan het formulier**
 
-**Add Expiration Date metadata field to the form**
-
-To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form to confirm the changes.
-
--->
+Als u het metagegevensveld Vervaldatum aan het formulier wilt toevoegen, sleept u **[!UICONTROL Date]** van de linkerspoorstaaf naar het formulier. Opgeven **Vervaldatum** als etiket en `pur:expirationDate` als de toewijzingseigenschap. Sla het formulier op om de wijzigingen te bevestigen.
 
 ## Volgende stappen {#next-steps}
 

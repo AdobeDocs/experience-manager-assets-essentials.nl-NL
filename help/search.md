@@ -3,10 +3,10 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 378aa0ee62ad814bdf598dfcf21f8b2775c83b84
+source-git-commit: 8fe62d7073b313da9a5ca4c365636933d44d24c4
 workflow-type: tm+mt
-source-wordcount: '719'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -58,11 +58,11 @@ Assets Essentials biedt de volgende aangepaste filters:
      </tr>
      <tr>
       <td>Titel</td>
-      <td>Filter elementen met de titel van het element. De titel die u opgeeft in de hoofdlettergevoelige zoekcriteria moet overeenkomen met de exacte titel van het element om in de resultaten te worden weergegeven.</td>
+      <td>Filter elementen met de titel van het element. U kunt een jokertekenoperator (*) gebruiken om Assets Essentials in staat te stellen elementen weer te geven in de resultaten die gedeeltelijk overeenkomen met de zoekcriteria. Als u bijvoorbeeld <b>ma*</b> Assets Essentials geeft als zoekcriteria elementen met een titel, zoals markt, marketing, man, manchester, enzovoort, weer in de resultaten.</td>
      </tr>
      <tr>
       <td>Naam</td>
-      <td>Filter elementen met de naam van het elementbestand. De naam die u opgeeft in de hoofdlettergevoelige zoekcriteria moet overeenkomen met de exacte bestandsnaam van het element om in de resultaten te worden weergegeven.</td>
+      <td>Filter elementen met de naam van het elementbestand. U kunt een jokertekenoperator (*) gebruiken om Assets Essentials in staat te stellen elementen weer te geven in de resultaten die gedeeltelijk overeenkomen met de zoekcriteria.</td>
      </tr>
      <tr>
       <td>Elementgrootte</td>
@@ -70,7 +70,7 @@ Assets Essentials biedt de volgende aangepaste filters:
      </tr>
      <tr>
       <td>Vooraf gedefinieerde labels</td>
-      <td>Filter elementen met de slimme tag voor elementen. De naam van de slimme tag die u opgeeft in de hoofdlettergevoelige zoekcriteria, moet overeenkomen met de exacte naam van de slimme tag van het element om in de resultaten te worden weergegeven. U kunt niet meerdere slimme tags opgeven in zoekcriteria.</td>
+      <td>Filter elementen met de slimme tag voor elementen. U kunt een jokertekenoperator (*) gebruiken om Assets Essentials in staat te stellen elementen weer te geven in de resultaten die gedeeltelijk overeenkomen met de zoekcriteria. U kunt meerdere slimme tags opgeven, gescheiden door een komma, in de zoekcriteria.</td>
      </tr>    
     </tbody>
    </table>
