@@ -3,10 +3,10 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 8fe62d7073b313da9a5ca4c365636933d44d24c4
+source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '772'
+ht-degree: 1%
 
 ---
 
@@ -37,8 +37,12 @@ U kunt de zoekresultaten filteren op basis van de volgende parameters.
 * Bestandstype: Filter de zoekresultaten op de ondersteunde bestandstypen, namelijk `Images`, `Documents`, en `Videos`.
 * MIME-type: Filter voor een of meer ondersteunde bestandsindelingen. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Afbeeldingsgrootte: Geef een van de minimale en maximale afmetingen op voor het filteren van afbeeldingen. De grootte wordt opgegeven in pixelafmetingen en is niet de bestandsgrootte van de afbeeldingen.
-* Aanmaakdatum: De aanmaakdatum van het element, zoals vermeld in de metagegevens. De standaard datumnotatie die wordt gebruikt is `yyyy-mm-dd`.
+* Gemaakt op: De aanmaakdatum van het element, zoals vermeld in de metagegevens. De standaard datumnotatie die wordt gebruikt is `yyyy-mm-dd`.
 * Datum gewijzigd: De laatste gewijzigde datum van de elementen. De standaard datumnotatie die wordt gebruikt is `yyyy-mm-dd`.
+
+* Vervaldatum: De zoekresultaten filteren op basis van een `Expired` status van het element. Daarnaast kunt u een datumbereik voor de vervaldatum voor elementen opgeven om de zoekresultaten verder te filteren.
+
+* Aangepaste filters: [Aangepaste filters toevoegen](#custom-filters) naar Assets Essentials-gebruikersinterface. Pas de aangepaste filters toe naast de standaardfilters om de zoekresultaten te verfijnen.
 
 U kunt de gezochte middelen in stijgende of dalende orde van sorteren `Name`, `Relevancy`, `Size`, `Modified`, en `Created`.
 
@@ -58,11 +62,11 @@ Assets Essentials biedt de volgende aangepaste filters:
      </tr>
      <tr>
       <td>Titel</td>
-      <td>Filter elementen met de titel van het element. U kunt een jokertekenoperator (*) gebruiken om Assets Essentials in staat te stellen elementen weer te geven in de resultaten die gedeeltelijk overeenkomen met de zoekcriteria. Als u bijvoorbeeld <b>ma*</b> Assets Essentials geeft als zoekcriteria elementen met een titel, zoals markt, marketing, man, manchester, enzovoort, weer in de resultaten.</td>
+      <td>Filter elementen met de titel van het element. De titel die u opgeeft in de hoofdlettergevoelige zoekcriteria moet overeenkomen met de exacte titel van het element om in de resultaten te worden weergegeven.</td>
      </tr>
      <tr>
       <td>Naam</td>
-      <td>Filter elementen met de naam van het elementbestand. U kunt een jokertekenoperator (*) gebruiken om Assets Essentials in staat te stellen elementen weer te geven in de resultaten die gedeeltelijk overeenkomen met de zoekcriteria.</td>
+      <td>Filter elementen met de naam van het elementbestand. De naam die u opgeeft in de hoofdlettergevoelige zoekcriteria moet overeenkomen met de exacte bestandsnaam van het element om in de resultaten te worden weergegeven.</td>
      </tr>
      <tr>
       <td>Elementgrootte</td>
@@ -70,10 +74,19 @@ Assets Essentials biedt de volgende aangepaste filters:
      </tr>
      <tr>
       <td>Vooraf gedefinieerde labels</td>
-      <td>Filter elementen met de slimme tag voor elementen. U kunt een jokertekenoperator (*) gebruiken om Assets Essentials in staat te stellen elementen weer te geven in de resultaten die gedeeltelijk overeenkomen met de zoekcriteria. U kunt meerdere slimme tags opgeven, gescheiden door een komma, in de zoekcriteria.</td>
+      <td>Filter elementen met de slimme tag voor elementen. De naam van de slimme tag die u opgeeft in de hoofdlettergevoelige zoekcriteria, moet overeenkomen met de exacte naam van de slimme tag van het element om in de resultaten te worden weergegeven. U kunt niet meerdere slimme tags opgeven in zoekcriteria.</td>
      </tr>    
     </tbody>
    </table>
+
+<!--
+   You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria. For example, if you define <b>ma*</b> as the search criteria, Assets Essentials displays assets with title, such as, market, marketing, man, manchester, and so on in the results.
+
+   You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria.
+
+   You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria. You can specify multiple smart tags separated by a comma in the search criteria.
+
+   -->
 
 ### Aangepaste filters toevoegen {#add-custom-filters}
 

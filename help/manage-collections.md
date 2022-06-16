@@ -2,9 +2,9 @@
 title: Verzamelingen beheren
 description: Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+source-git-commit: 88dd604492ffd5be305fe2f54edae1f158247e26
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '487'
 ht-degree: 1%
 
 ---
@@ -21,13 +21,15 @@ You can share collections with various users that are assigned different levels 
 
 U kunt meerdere verzamelingen delen met een gebruiker. Elke verzameling bevat verwijzingen naar elementen. De referentiële integriteit van activa wordt gehandhaafd over inzamelingen.
 
+![Verzamelingen](assets/collections.png)
+
 U kunt de volgende taken uitvoeren om inzamelingen te beheren en te gebruiken:
 
 * [Een verzameling maken](#create-collection)
 
 * [Elementen toevoegen aan een verzameling](#add-assets-to-collection)
 
-* [Elementen verwijderen uit een verzameling](#remove-assets-from-collection)
+* [Elementen uit een verzameling verwijderen](#remove-assets-from-collection)
 
 * [Metagegevens van verzamelingen weergeven en bewerken](#view-edit-collection-metadata)
 
@@ -44,6 +46,16 @@ Een verzameling maken:
 1. Geef een titel en een optionele beschrijving voor de verzameling op.
 
 1. Klikken **[!UICONTROL Save]** om de verzameling te maken.
+
+![Verzameling maken](assets/create-collection.png)
+
+<!--
+
+1. Select if you need to a create a Private collection or a Public collection.
+
+   A Public collection is available for viewing and editing to all users. However, if you are a non-administrator user, a Private collection is available for viewing and editing only to users with the appropriate [permissions](#manage-collection-access). 
+
+-->
 
 ## Elementen toevoegen aan een verzameling {#add-assets-to-collection}
 
@@ -71,11 +83,15 @@ Elementen uit een verzameling verwijderen:
 
 <!--
 
-## Manage access to a collection {#manage-collection-access}
+## Manage access to a Private collection {#manage-collection-access}
 
 The permission management for collections function in the same manner as folders in [!DNL Assets Essentials]. Administrators can manage the access levels for collections available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the collection-level.
 
 For more information, see [Manage permissions for folders and collections](manage-permissions.md).
+
+-->
+
+<!--
 
 ## Search a collection {#search-collections}
 
@@ -97,25 +113,27 @@ Metagegevens van verzamelingen weergeven en bewerken:
 1. De metagegevens van de verzameling weergeven met de opdracht **[!UICONTROL Basic]** tab.
 1. Wijzig desgewenst de metagegevensvelden. U kunt de [!UICONTROL Title], [!UICONTROL Description], en [!UICONTROL Author] velden.
 
+![Metagegevens verzameling](assets/collection-metadata.png)
+
 ## Koppelingen voor verzamelingen delen {#share-collection-links}
 
 [!DNL Assets Essentials] kunt u een koppeling genereren en verzamelingen en middelen delen in verzamelingen met externe belanghebbenden die geen toegang hebben tot de [!DNL Assets Essentials] toepassing. U kunt een vervaldatum voor de verbinding bepalen en dan het delen met anderen gebruikend uw aangewezen communicatie methode zoals e-mail of overseinendiensten. Ontvangers van de koppeling kunnen een voorbeeld van de elementen bekijken en deze downloaden.
 
+![Koppeling voor elementen delen](assets/share-link-collections.png)
+
 Voor meer informatie over hoe te om inzamelingsverbindingen met externe belanghebbenden te delen, zie [Koppelingen voor elementen delen](share-links-for-assets.md).
 
-## Verzamelingselementen downloaden {#download-collection-elements}
+## Een verzameling downloaden {#download-collection}
 
-Verzamelingselementen downloaden:
+Een verzameling downloaden:
 
 1. Klikken **[!UICONTROL Collections]** in het linkerspoor.
 
-1. Klik op de verzameling en selecteer de elementen die u wilt downloaden.
+1. Selecteer de verzameling die u wilt downloaden en klik op **[!UICONTROL Download]**.
 
-1. Klik op **[!UICONTROL Download]**.
+1. Op de [!UICONTROL Downloading Asset] dialoogvenster, klikt u op **[!UICONTROL OK]**.
 
-1. Op de [!UICONTROL Download Asset] dialoogvenster, klikt u op **[!UICONTROL OK]**.
-
-De geselecteerde verzamelingselementen worden als een ZIP-bestand gedownload op uw lokale computer.
+De verzameling wordt als een ZIP-bestand gedownload op uw lokale computer.
 
 ## Een verzameling verwijderen {#delete-collection}
 

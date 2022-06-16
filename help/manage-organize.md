@@ -4,9 +4,9 @@ description: Verplaats, verwijder, kopieer, hernoem, werk en versie uw activa in
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: 05c9903d1225cd7875cc42ffe9ed7bd98aa1b757
+source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1008'
 ht-degree: 0%
 
 ---
@@ -110,6 +110,8 @@ De elementstatus instellen:
 
 
 ### Vervaldatum van element instellen {#set-asset-expiration-date}
+
+Met Assets Essentials kunt u ook een vervaldatum instellen voor de middelen die in de repository beschikbaar zijn. U kunt vervolgens [de zoekresultaten filteren](search.md#refine-search-results) op basis van een `Expired` status van het element. Daarnaast kunt u een datumbereik voor de vervaldatum voor elementen opgeven om de zoekresultaten verder te filteren.
 
 De vervaldatum van het element instellen:
 
