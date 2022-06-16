@@ -4,14 +4,67 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 4fcac20c15ebabcafe851ce207bd937c8a7f6b03
+source-git-commit: 7c6293bb99d5be8084e6998da966bb89be9c714e
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '885'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
+
+De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 16 juni 2022.
+
+Deze release biedt:
+
+**Verbeteringen voor status van element**
+
+* Met Assets Essentials kunt u nu [een vervaldatum voor een actief instellen](manage-organize.md#set-asset-status). Bovendien kunt u [filterelementen](search.md#refine-search-results) op basis van de `Expired` de status van de activa en een vervaldatumwaaier.
+
+* U kunt nu de statusindicator van het element weergeven voor alle middelen die beschikbaar zijn in de prullenbak. Hierdoor kunt u een beslissing nemen om een element te herstellen op basis van de status.
+
+**Verbeteringen in zoekfilters**
+
+* Met Assets Essentials kunt u nu [filterelementen](search.md#refine-search-results) met de `No Status` status van het element.
+
+<!--
+
+* Assets Essentials now supports [using a wildcard operator (*) while using custom filters](search.md#custom-filters) to enable Assets Essentials to display assets in the results that partially match the search criteria.
+
+-->
+
+**Verbeteringen voor verzamelingen**
+
+<!--
+
+* Assets Essentials now enables you to [create Private collections](manage-collections.md#create-collection).
+
+-->
+
+* Assets Essentials biedt nu ondersteuning voor [een verzameling downloaden](manage-collections.md).
+
+* U kunt nu het metagegevensveld Beschrijving voor een verzameling bewerken.
+
+**Verbeterde documentatie**
+
+* Een nieuwe versie van de [Assets Essentials - overzichtsdocumentatie](introduction.md) is nu beschikbaar.
+
+**Verbeteringen gebaseerd op feedback van klanten**
+
+* Verbeteringen en foutoplossingen op basis van feedback van klanten.
+
+
+## Bekende problemen {#known-issues}
+
+De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
+
+* Assets Essentials biedt geen ondersteuning voor het maken van privéverzamelingen.
+
+Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
+
+## Eerdere versies {#past-release}
+
+### 2022,4,0 {#april-2022}
 
 De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 12 mei 2022. Deze release biedt:
 
@@ -23,25 +76,13 @@ De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 12 mei 2022
 
 * Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
-## Incognitomodus in Chrome {#incognito-mode}
+#### Incognitomodus in Chrome {#incognito-mode}
 
 Met deze release optimaliseren we de prestaties van de levering van de gebruikersinterface en de specifieke functies in Assets Essentials - opmerkingen maken over elementen en beeldbewerking - afhankelijk van de lokale opslag in de browser en van cookies van derden. De incognitomodus in de Chrome-webbrowser blokkeert cookies van derden standaard. Gebruikers hebben een aantal opties om toegang te blijven krijgen tot alle mogelijkheden:
 
 * Gebruik Chrome-profielen in plaats van Incognito-modus wanneer de gebruiker browsersessies moet scheiden
 
 * Schakel de `Block third-party cookies` op het scherm Incognito-modus in Chrome
-
-## Bekende problemen {#known-issues}
-
-De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
-
-* U kunt elementen niet filteren met de opdracht `No Status` status van het element.
-
-* Assets Essentials biedt geen ondersteuning voor het maken van privéverzamelingen.
-
-Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
-
-## Eerdere versies {#past-release}
 
 ### 2022,2,0 {#march-2022}
 
