@@ -2,7 +2,7 @@
 title: Verzamelingen beheren
 description: Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 88dd604492ffd5be305fe2f54edae1f158247e26
+source-git-commit: 466f64018a37f553c0ad0cfaa2dc98b1e84b9be1
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 1%
@@ -33,7 +33,7 @@ U kunt de volgende taken uitvoeren om inzamelingen te beheren en te gebruiken:
 
 * [Metagegevens van verzamelingen weergeven en bewerken](#view-edit-collection-metadata)
 
-* [Verzamelingselementen downloaden](#download-collection-elements)
+* [Een verzameling downloaden](#download-collection)
 
 * [Een verzameling verwijderen](#delete-collection)
 
