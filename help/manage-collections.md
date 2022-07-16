@@ -2,9 +2,9 @@
 title: Verzamelingen beheren
 description: Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 466f64018a37f553c0ad0cfaa2dc98b1e84b9be1
+source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '636'
 ht-degree: 1%
 
 ---
@@ -45,15 +45,15 @@ Een verzameling maken:
 
 1. Geef een titel en een optionele beschrijving voor de verzameling op.
 
+1. Selecteer als u een Privé inzameling of een Openbare inzameling moet tot stand brengen. Een openbare inzameling is beschikbaar voor het bekijken en het uitgeven aan alle gebruikers. Nochtans, is een Privéinzameling beschikbaar aan de schepper en de gebruikers met beheerdervoorrechten.
+
 1. Klikken **[!UICONTROL Save]** om de verzameling te maken.
 
 ![Verzameling maken](assets/create-collection.png)
 
 <!--
-
-1. Select if you need to a create a Private collection or a Public collection.
-
-   A Public collection is available for viewing and editing to all users. However, if you are a non-administrator user, a Private collection is available for viewing and editing only to users with the appropriate [permissions](#manage-collection-access). 
+   
+   for viewing and editing only to users with the appropriate [permissions](#manage-collection-access).
 
 -->
 
@@ -70,6 +70,25 @@ Elementen toevoegen aan een verzameling:
 1. Klikken **[!UICONTROL Add]** om het element aan de geselecteerde verzamelingen toe te voegen.
 
 Als u elementen aan een verzameling wilt toevoegen, klikt u ook op **[!UICONTROL Collections]** Klik in de linkertrack op de verzameling waaraan u elementen wilt toevoegen. Klik op **[!UICONTROL Add to Collection]** selecteert u de elementen en klikt u op **[!UICONTROL Select]**.
+
+## Een slimme verzameling maken {#create-smart-collection}
+
+Sla de zoekresultaten op als een slimme verzameling om de inhoud van de verzameling dynamisch bij te werken. Als er elementen aan de Assets Essentials-opslagplaats zijn toegevoegd die voldoen aan de zoekcriteria die tijdens het maken van de slimme verzameling zijn gedefinieerd, wordt de inhoud van de slimme verzameling automatisch bijgewerkt.
+
+Een slimme verzameling maken:
+
+1. Klikken **[!UICONTROL Filter]** en [de zoekcriteria definiëren](search.md##refine-search-results).
+
+1. Klikken **[!UICONTROL Save as]** en selecteer vervolgens **[!UICONTROL Smart Collection]**.
+
+1. Op de [!UICONTROL Create Smart Collection] geeft u een titel en een beschrijving op voor de slimme verzameling.
+
+1. Selecteren **[!UICONTROL Public Collection]** als u alle gebruikers nodig hebt om toegang te krijgen tot de verzameling. Selecteren **[!UICONTROL Private Collection]** als u een beperkte groep gebruikers nodig hebt om toegang te krijgen tot de verzameling.
+
+1. Klikken **[!UICONTROL Create]** om de slimme verzameling te maken.
+
+![Slimme verzameling maken](assets/create-smart-collection.png)
+
 
 ## Elementen uit een verzameling verwijderen {#remove-assets-from-collection}
 

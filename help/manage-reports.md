@@ -1,26 +1,25 @@
 ---
 title: Rapporten beheren in Assets Essentials
-description: Gebruik de informatie in de rapporten in Assets Essentials om zeer belangrijke succesmetriek af te leiden om de goedkeuring van Activa binnen uw onderneming en door klanten te meten.
-source-git-commit: 511b7904eca972e76f55e574c7c364dd88fb1721
+description: Open de gegevens in de sectie Rapporten van Assets Essentials om het product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
+exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
+source-git-commit: e445cd77c6d57281cbf2442a849b249f3da1a4ee
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '469'
 ht-degree: 2%
 
 ---
 
 # Rapporten beheren {#manage-reports}
 
-Met Asset Reporting kunnen beheerders het nut van Adobe Experience Manager Assets Essentials-implementatie beoordelen. De rapporten verstrekken nuttige informatie over hoe de gebruikers met activa in uw plaatsing in wisselwerking staan.
-
-Gebruik de informatie in de rapporten om zeer belangrijke succesmetriek af te leiden om de goedkeuring van Activa binnen uw onderneming en door klanten te meten.
+Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Experience Manager Assets Essentials-omgeving. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product omgaan.
 
 ## Toegangsrapporten {#access-reports}
 
-Alle gebruikers die zijn toegewezen aan de [Productprofiel Assets Essentials-beheerders](deploy-administer.md) heeft toegang tot live statistieken en rapporten in Assets Essentials.
+Alle gebruikers die zijn toegewezen aan de [Productprofiel Assets Essentials-beheerders](deploy-administer.md) U hebt toegang tot het dashboard Live Statistieken en u kunt door de gebruiker gedefinieerde rapporten maken in Assets Essentials.
 
 ## Live statistieken weergeven {#view-live-statistics}
 
-Met Assets Essentials kunt u automatisch gegenereerde downloadgegevens voor uw Assets Essentials-implementatie weergeven. U kunt selecteren om het aantal downloads van activa te bekijken die tijdens de afgelopen 30 dagen of voor de laatste 12 maanden worden uitgevoerd.
+Met Assets Essentials kunt u real-time gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Live Statistieken. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
 
 ![Werkbalkopties wanneer u een element selecteert](assets/asset-reports-live-statistics.png)
 
@@ -99,9 +98,9 @@ De volgende lijst verklaart het gebruik van alle kolommen die u aan het rapport 
     </tbody>
    </table>
 
-## De lijst met rapporten weergeven {#view-report-list}
+## Bestaande rapporten weergeven {#view-report-list}
 
-Na [opstellen van het rapport](#create-report)kunt u de lijst met rapporten weergeven en deze downloaden in CSV-indeling of verwijderen.
+Na [opstellen van het rapport](#create-report)kunt u de lijst met bestaande rapporten weergeven en deze downloaden in CSV-indeling of verwijderen.
 
 Als u de lijst met rapporten wilt weergeven, navigeert u naar **[!UICONTROL Settings]** > **[!UICONTROL Reports]**.
 

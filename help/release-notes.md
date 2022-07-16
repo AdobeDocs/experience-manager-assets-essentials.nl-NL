@@ -4,14 +4,58 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 7c6293bb99d5be8084e6998da966bb89be9c714e
+source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '1113'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
+
+De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 14 juli 2022.
+
+Deze release biedt:
+
+**Slimme verzamelingen**
+
+Sla de zoekresultaten op als een slimme verzameling om de inhoud van de verzameling dynamisch bij te werken. Als er activa aan de bewaarplaats van Assets Essentials worden toegevoegd die aan de bepaalde onderzoekscriteria voldoen [de slimme verzameling maken](manage-collections.md#create-smart-collection), wordt de inhoud van de slimme verzameling automatisch bijgewerkt.
+
+**Meldingen**
+
+Met Assets Essentials-berichten kunt u [de bewerkingen controleren die worden uitgevoerd op de middelen of mappen die beschikbaar zijn in de opslagplaats](manage-notifications.md). U moet de inhoud selecteren en zich erop abonneren waarvoor de meldingen naar u worden verzonden. U kunt ook de categorieën configureren waarvoor de meldingen naar u worden verzonden.
+
+**Rapportage**
+
+Met Asset Reporting kunnen beheerders de gebruikersactiviteit binnen Adobe Experience Manager Assets Essentials beoordelen. De rapporten en het levende statistiekdashboard verstrekken nuttige informatie over hoe de gebruikers met activa in uw plaatsing in wisselwerking staan. [De informatie in de rapporten gebruiken](manage-reports.md) om belangrijke succesmetriek af te leiden om de goedkeuring van Activa binnen uw onderneming en door klanten te meten.
+
+U kunt rapporten over het downloaden van middelen en de dashboardmodule voor live statistieken weergeven om te zien welke elementen worden gedownload en hoe vaak het downloaden plaatsvindt.
+
+**Verbeteringen gebaseerd op feedback van klanten**
+
+Verbeteringen en foutoplossingen op basis van feedback van klanten.
+
+
+## Bekende problemen {#known-issues}
+
+De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Assets Essentials biedt geen ondersteuning voor het bewerken van een slimme verzameling.
+
+* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
+
+Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
+
+## Eerdere versies {#past-release}
+
+### 2022,5,0 {#may-2022}
 
 De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 16 juni 2022.
 
@@ -52,17 +96,6 @@ Deze release biedt:
 **Verbeteringen gebaseerd op feedback van klanten**
 
 * Verbeteringen en foutoplossingen op basis van feedback van klanten.
-
-
-## Bekende problemen {#known-issues}
-
-De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
-
-* Assets Essentials biedt geen ondersteuning voor het maken van privéverzamelingen.
-
-Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
-
-## Eerdere versies {#past-release}
 
 ### 2022,4,0 {#april-2022}
 
