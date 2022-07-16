@@ -2,7 +2,7 @@
 title: Verzamelingen beheren
 description: Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
+source-git-commit: 096906eded35dc0a8c231534204bfc672c2430b7
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 1%
@@ -47,7 +47,7 @@ Een verzameling maken:
 
 1. Selecteer als u een Privé inzameling of een Openbare inzameling moet tot stand brengen. Een openbare inzameling is beschikbaar voor het bekijken en het uitgeven aan alle gebruikers. Nochtans, is een Privéinzameling beschikbaar aan de schepper en de gebruikers met beheerdervoorrechten.
 
-1. Klikken **[!UICONTROL Save]** om de verzameling te maken.
+1. Klikken **[!UICONTROL Create]** om de verzameling te maken.
 
 ![Verzameling maken](assets/create-collection.png)
 
