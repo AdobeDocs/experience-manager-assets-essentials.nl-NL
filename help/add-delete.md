@@ -3,9 +3,9 @@ title: Elementen uploaden naar de opslagplaats
 description: Elementen uploaden naar [!DNL Assets Essentials], uploadstatussen weergeven en uploadproblemen oplossen.
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+source-git-commit: 80cb4ba5bc56658a4ae8d162f4ae5f2ae3d822a0
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '814'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,9 @@ Als alle bestanden in de wachtrij zijn geplaatst, klikt u op **[!UICONTROL Uploa
 
 *Afbeelding: Voordat u de geselecteerde elementen uploadt, kunt u elementen toevoegen aan of verwijderen uit de wachtrij.*
 
->[!CAUTION]
+>[!TIP]
 >
->Gebruik elementen zonder witruimte in de bestandsnamen. De reacties op opmerkingen werken niet voor dergelijke middelen.
+>Als u een mapstructuur naar Assets Essentials uploadt, hoeft u geen .ZIP-bestand met de mapstructuur te maken, kunt u mapstructuren rechtstreeks uploaden. Een ZIP-bestand dat naar Assets Essentials is geüpload, wordt opgeslagen als één ZIP-element en wordt niet automatisch uitgepakt na het uploaden.
 
 ## Voortgang van uploaden en status weergeven {#upload-progress}
 
