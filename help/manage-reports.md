@@ -2,9 +2,9 @@
 title: Rapporten beheren in Assets Essentials
 description: Open de gegevens in de sectie Rapporten van Assets Essentials om het product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: e445cd77c6d57281cbf2442a849b249f3da1a4ee
+source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '678'
 ht-degree: 2%
 
 ---
@@ -21,17 +21,29 @@ Alle gebruikers die zijn toegewezen aan de [Productprofiel Assets Essentials-beh
 
 Met Assets Essentials kunt u real-time gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Live Statistieken. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
 
-![Werkbalkopties wanneer u een element selecteert](assets/asset-reports-live-statistics.png)
+![Werkbalkopties wanneer u een element selecteert](assets/assets-essentials-live-statistics.png)
 
-Navigeren naar **[!UICONTROL Settings]** > **[!UICONTROL Live Statistics]** om de automatisch gegenereerde downloadgegevens weer te geven.
+Navigeren naar **[!UICONTROL Settings]** > **[!UICONTROL Live Statistics]** om de volgende automatisch gegenereerde grafieken weer te geven:
 
-## Een rapport maken {#create-report}
+* **Downloads**: Het aantal elementen dat in de Assets Essentials-omgeving is gedownload in de laatste 30 dagen of 12 maanden, uitgedrukt met behulp van een lijndiagram.
 
-Een rapport maken:
+* **Uploads**: Het aantal elementen dat in de Assets Essentials-omgeving in de laatste 30 dagen of 12 maanden is geüpload, wordt weergegeven aan de hand van een lijndiagram.
+
+<!--
+
+* **Storage usage**: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
+
+-->
+
+## Een downloadrapport maken {#create-download-report}
+
+Een downloadrapport maken:
 
 1. Navigeren naar **[!UICONTROL Settings]** > **[!UICONTROL Reports]** en klik op **[!UICONTROL Create Report]**.
 
-1. In de [!UICONTROL Configuration] , geeft u een titel en een optionele beschrijving voor het rapport op.
+1. In de [!UICONTROL Configuration] tab, specificeer het rapporttype als **[!UICONTROL Download]**.
+
+1. Geef een titel en een optionele beschrijving voor het rapport op.
 
 1. Selecteer het mappad, waarin de elementen staan waarmee het rapport moet worden uitgevoerd. Gebruik hiervoor de optie **[!UICONTROL Select Folder Path]** veld.
 
@@ -60,7 +72,7 @@ De volgende lijst verklaart het gebruik van alle kolommen die u aan het rapport 
       <td>Het mappad waar het element beschikbaar is in Assets Essentials.</td>
      </tr>
      <tr>
-      <td>Type</td>
+      <td>MIME-type</td>
       <td>Het MIME-type voor het element.</td>
      </tr>
      <tr>
@@ -95,6 +107,69 @@ De volgende lijst verklaart het gebruik van alle kolommen die u aan het rapport 
       <td>Gedownload op gebruikersnaam</td>
       <td>De naam van de gebruiker die het element heeft gedownload.</td>
      </tr>           
+    </tbody>
+   </table>
+
+## Een uploadrapport maken {#create-upload-report}
+
+Een rapport voor uploaden maken:
+
+1. Navigeren naar **[!UICONTROL Settings]** > **[!UICONTROL Reports]** en klik op **[!UICONTROL Create Report]**.
+
+1. In de [!UICONTROL Configuration] tab, specificeer het rapporttype als **[!UICONTROL Upload]**.
+
+1. Geef een titel en een optionele beschrijving voor het rapport op.
+
+1. Selecteer het mappad, waarin de elementen staan waarmee het rapport moet worden uitgevoerd. Gebruik hiervoor de optie **[!UICONTROL Select Folder Path]** veld.
+
+1. Selecteer het datuminterval voor het rapport.
+
+1. In de [!UICONTROL Columns] selecteert u de kolomnamen die u in het rapport wilt weergeven.
+
+1. Klik op **[!UICONTROL Create]**.
+
+   ![Rapport uploaden](assets/upload-reports-config.png)
+
+De volgende lijst verklaart het gebruik van alle kolommen die u aan het rapport kunt toevoegen:
+
+<table>
+    <tbody>
+     <tr>
+      <th><strong>Kolomnaam</strong></th>
+      <th><strong>Beschrijving</strong></th>
+     </tr>
+     <tr>
+      <td>Titel</td>
+      <td>De titel van het element.</td>
+     </tr>
+     <tr>
+      <td>Pad</td>
+      <td>Het mappad waar het element beschikbaar is in Assets Essentials.</td>
+     </tr>
+     <tr>
+      <td>MIME-type</td>
+      <td>Het MIME-type voor het element.</td>
+     </tr>
+     <tr>
+      <td>Grootte</td>
+      <td>De grootte van het element.</td>
+     </tr>
+     <tr>
+      <td>Auteur</td>
+      <td>De auteur voor het element.</td>
+     </tr>
+     <tr>
+      <td>Aanmaakdatum</td>
+      <td>De datum waarop het element naar Assets Essentials is geüpload.</td>
+     </tr>
+     <tr>
+      <td>Wijzigingsdatum</td>
+      <td>De datum waarop het element voor het laatst is gewijzigd.</td>
+     </tr>
+     <tr>
+      <td>Verlopen</td>
+      <td>De vervalstatus van het actief.</td>
+     </tr>              
     </tbody>
    </table>
 
