@@ -4,9 +4,9 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 2b1b6d3503f8c96ac250d4b0ff7dd5b7c2b81d64
+source-git-commit: b118b841cbca05edc5b67d86ea87abfd09dcd452
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voo
 
 Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
 
-## Eerdere versies {#past-release}
+## Eerdere versies {#past-releases}
 
 ### 2022,6,0 {#june-2022}
 
@@ -185,7 +185,7 @@ Daarnaast [!DNL Adobe Asset Link] een extensie voor Creative Cloud (Photoshop, I
 
 ### 2021.6.0-release {#june2021}
 
-De eerste release van [!DNL Assets Essentials], beschikbaar gesteld op 21 juni 2021, biedt lichte mogelijkheden voor middelenbeheer. De volgende belangrijke functies en CRUD-bewerkingen (maken, lezen, bijwerken en verwijderen) worden ondersteund:
+De eerste release van [!DNL Assets Essentials], beschikbaar gesteld op 21 juni 2021, biedt lichte mogelijkheden voor middelenbeheer. De volgende belangrijke functies en CRUD-bewerkingen (Maken, Lezen, Bijwerken en Verwijderen) worden ondersteund:
 
 * Upload en voeg elementen toe, waaronder geneste mappen. Geef een voorvertoning weer van de elementen en versies.
 * Volledige-tekstonderzoek, genummerde onderzoeksfilters, en bewaarde onderzoeken voor snelle activaontdekking.
