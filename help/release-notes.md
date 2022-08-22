@@ -4,16 +4,16 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: b44ded8b1678e9b7c1c5eda3f350072e51b52f32
+source-git-commit: 2b1b6d3503f8c96ac250d4b0ff7dd5b7c2b81d64
 workflow-type: tm+mt
-source-wordcount: '1265'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt op 16 augustus 2022 gepubliceerd.
+De huidige release van Assets Essentials wordt op 22 augustus 2022 gepubliceerd.
 
 Deze release biedt:
 
