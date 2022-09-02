@@ -4,9 +4,9 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: b118b841cbca05edc5b67d86ea87abfd09dcd452
+source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
 workflow-type: tm+mt
-source-wordcount: '1265'
+source-wordcount: '1308'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,9 @@ Met Assets Essentials-berichten kunt u nu de bewerkingen controleren die worden 
 
 Assets Essentials biedt nu ook de mogelijkheid om de gebruikte zoekcriteria te bewerken tijdens het maken van een slimme verzameling.  Sla de nieuwe zoekcriteria op om de inhoud van de verzameling dynamisch bij te werken.
 
-<!--
+**Live-statistieken weergeven voor opslagaccount**
 
-**View live statistics for storage account**
-
-Assets Essentials now also enables you to view real-time storage account data for your Assets Essentials environment with the Live Statistics dashboard. You can view real-time event metrics for the last 30 days or for the last 12 months.
-
--->
+Met Assets Essentials kunt u nu ook realtime opslagaccountgegevens voor uw Assets Essentials-omgeving bekijken met het dashboard Live Statistics. U kunt real-time gebeurtenismetriek voor de laatste 30 dagen of voor de laatste 12 maanden bekijken.
 
 **Uploadrapporten weergeven**
 

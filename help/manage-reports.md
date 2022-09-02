@@ -2,9 +2,9 @@
 title: Rapporten beheren in Assets Essentials
 description: Open de gegevens in de sectie Rapporten van Assets Essentials om het product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
+source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '702'
 ht-degree: 2%
 
 ---
@@ -29,11 +29,7 @@ Navigeren naar **[!UICONTROL Settings]** > **[!UICONTROL Live Statistics]** om d
 
 * **Uploads**: Het aantal elementen dat in de Assets Essentials-omgeving in de laatste 30 dagen of 12 maanden is geüpload, wordt weergegeven aan de hand van een lijndiagram.
 
-<!--
-
-* **Storage usage**: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
-
--->
+* **Opslaggebruik**: Het opslaggebruik, in gigabytes (GB), voor het milieu van Assets Essentials, voor de laatste 30 dagen of 12 maanden vertegenwoordigde gebruikend een bar grafiek.
 
 ## Een downloadrapport maken {#create-download-report}
 
