@@ -9,7 +9,7 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: 511b7904eca972e76f55e574c7c364dd88fb1721
+source-git-commit: 1d7055f95e051dd0dd8790a0e655344d99f8f24d
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 4%
@@ -22,7 +22,7 @@ ht-degree: 4%
 + [Overzicht van oplossing](introduction.md)
 + [Release-opmerkingen](release-notes.md)
 + Aan de slag met Assets Essentials voor beheerders {#get-started-admins}
-   + [Gebruikers implementeren en toevoegen](deploy-administer.md)
+   + [Gebruikers beheren en toevoegen](deploy-administer.md)
    + Maptoegang beheren{#folder-access}
       + [Mapmachtigingen beheren](manage-permissions.md)
       + [Tips en trucs voor het beheer van machtigingen](permission-management-best-practices.md)
