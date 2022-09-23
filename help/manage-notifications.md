@@ -2,9 +2,9 @@
 title: Meldingen beheren
 description: Bewaak de bewerkingen die worden uitgevoerd op de middelen of mappen die beschikbaar zijn in de opslagplaats met behulp van de Assets Essentials-meldingen.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
-source-git-commit: 2a8899c333e08c50e4cf8b49399188f50a0d3a46
+source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '594'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,9 @@ Na [abonneren op de berichtcategorieën](#subscribe-to-notification-categories),
 
 >[!NOTE]
 >
->Voor **[!UICONTROL Requests]** en **[!UICONTROL Assigned to me]** berichtcategorieën. U hoeft zich niet op de inhoud te abonneren nadat u zich hebt geabonneerd op de berichtcategorieën. Meldingen worden automatisch naar u verzonden voor aanvragen die u hebt gemaakt en wanneer een taak aan u is toegewezen.
+>* Voor **[!UICONTROL Requests]** en **[!UICONTROL Assigned to me]** berichtcategorieën. U hoeft zich niet op de inhoud te abonneren nadat u zich hebt geabonneerd op de berichtcategorieën. Meldingen worden automatisch naar u verzonden voor aanvragen die u hebt gemaakt en wanneer een taak aan u is toegewezen.
+>* Assets Essentials verzendt alleen meldingen wanneer andere gebruikers handelingen uitvoeren op de geabonneerde inhoud. U ontvangt geen meldingen voor de acties die u uitvoert op de geabonneerde inhoud.
+
 
 Als u zich wilt abonneren op de inhoud, selecteert u de map, het middel of de verzameling waarop u zich wilt abonneren en klikt u **[!UICONTROL Watch]**.
 

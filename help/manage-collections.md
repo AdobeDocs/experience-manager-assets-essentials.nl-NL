@@ -2,16 +2,16 @@
 title: Verzamelingen beheren
 description: Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
+source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: '711'
 ht-degree: 1%
 
 ---
 
 # Verzamelingen beheren {#manage-collections}
 
-Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
+Een verzameling is een set elementen, mappen of andere verzamelingen in Adobe Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 
 In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten.
 
@@ -29,11 +29,11 @@ U kunt de volgende taken uitvoeren om inzamelingen te beheren en te gebruiken:
 
 * [Elementen toevoegen aan een verzameling](#add-assets-to-collection)
 
+* [Elementen uit een verzameling verwijderen](#remove-assets-from-collection)
+
 * [Een slimme verzameling maken](#create-smart-collection)
 
 * [Een slimme verzameling bewerken](#edit-smart-collection)
-
-* [Elementen uit een verzameling verwijderen](#remove-assets-from-collection)
 
 * [Metagegevens van verzamelingen weergeven en bewerken](#view-edit-collection-metadata)
 
@@ -67,7 +67,7 @@ Een verzameling maken:
 
 Elementen toevoegen aan een verzameling:
 
-1. Klikken **[!UICONTROL Assets]** in de linkerspoorstaaf en selecteer activa.
+1. Klikken **[!UICONTROL Assets]** in het linkerspoor en selecteer de activa die u aan een inzameling moet toevoegen.
 
 1. Klik op **[!UICONTROL Add to Collection]**.
 
@@ -77,9 +77,19 @@ Elementen toevoegen aan een verzameling:
 
 Als u elementen aan een verzameling wilt toevoegen, klikt u ook op **[!UICONTROL Collections]** Klik in de linkertrack op de verzameling waaraan u elementen wilt toevoegen. Klik op **[!UICONTROL Add to Collection]** selecteert u de elementen en klikt u op **[!UICONTROL Select]**.
 
+## Elementen uit een verzameling verwijderen {#remove-assets-from-collection}
+
+Elementen uit een verzameling verwijderen:
+
+1. Klikken **[!UICONTROL Collections]** in het linkerspoor om de lijst van inzamelingen te bekijken.
+
+1. Klik op de verzameling en selecteer de items die u uit de verzameling wilt verwijderen.
+
+1. Klik op **[!UICONTROL Remove]**.
+
 ## Een slimme verzameling beheren {#manage-smart-collection}
 
-Sla de zoekresultaten op als een slimme verzameling om de inhoud van de verzameling dynamisch bij te werken. Als er elementen aan de Assets Essentials-opslagplaats zijn toegevoegd die voldoen aan de zoekcriteria die tijdens het maken van de slimme verzameling zijn gedefinieerd, wordt de inhoud van de slimme verzameling automatisch bijgewerkt.
+Sla de zoekresultaten op als een slimme verzameling om de inhoud van de verzameling dynamisch bij te werken. Als er elementen aan de Assets Essentials-opslagplaats zijn toegevoegd die voldoen aan de zoekcriteria die tijdens het maken van de slimme verzameling zijn gedefinieerd, wordt de inhoud van de slimme verzameling automatisch bijgewerkt wanneer u een slimme verzameling opent.
 
 ### Een slimme verzameling maken {#create-smart-collection}
 
@@ -108,16 +118,6 @@ Een slimme verzameling bewerken:
 1. Op de [!UICONTROL Edit Smart Collection Filters] dialoogvenster, [de zoekcriteria bijwerken](search.md##refine-search-results) voor de slimme verzameling.
 
 1. Klik op **[!UICONTROL Save]**.
-
-## Elementen uit een verzameling verwijderen {#remove-assets-from-collection}
-
-Elementen uit een verzameling verwijderen:
-
-1. Klikken **[!UICONTROL Collections]** in het linkerspoor om de lijst van inzamelingen te bekijken.
-
-1. Klik op de verzameling en selecteer elementen die u uit de verzameling wilt verwijderen.
-
-1. Klik op **[!UICONTROL Remove]**.
 
 <!--
 
@@ -149,7 +149,7 @@ Metagegevens van verzamelingen weergeven en bewerken:
 
 1. Klikken **[!UICONTROL Collections]** Selecteer een verzameling in de linkertrack en klik op **[!UICONTROL Details]**.
 1. De metagegevens van de verzameling weergeven met de opdracht **[!UICONTROL Basic]** tab.
-1. Wijzig desgewenst de metagegevensvelden. U kunt de [!UICONTROL Title], [!UICONTROL Description], en [!UICONTROL Author] velden.
+1. Wijzig desgewenst de metagegevensvelden. U kunt de [!UICONTROL Title] en [!UICONTROL Description] velden.
 
 ![Metagegevens verzameling](assets/collection-metadata.png)
 

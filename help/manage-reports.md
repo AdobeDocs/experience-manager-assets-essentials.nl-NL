@@ -2,9 +2,9 @@
 title: Rapporten beheren in Assets Essentials
 description: Open de gegevens in de sectie Rapporten van Assets Essentials om het product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
+source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '720'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Expe
 
 ## Toegangsrapporten {#access-reports}
 
-Alle gebruikers die zijn toegewezen aan de [Productprofiel Assets Essentials-beheerders](deploy-administer.md) U hebt toegang tot het dashboard Live Statistieken en u kunt door de gebruiker gedefinieerde rapporten maken in Assets Essentials.
+Alle gebruikers die zijn toegewezen aan de [Productprofiel Assets Essentials-beheerders](deploy-administer.md) U kunt het dashboard Live Statistieken openen of door de gebruiker gedefinieerde rapporten maken in Assets Essentials.
 
 ## Live statistieken weergeven {#view-live-statistics}
 
@@ -44,6 +44,9 @@ Een downloadrapport maken:
 1. Selecteer het mappad, waarin de elementen staan waarmee het rapport moet worden uitgevoerd. Gebruik hiervoor de optie **[!UICONTROL Select Folder Path]** veld.
 
 1. Selecteer het datuminterval voor het rapport.
+   >[!NOTE]
+   >
+   > Assets Essentials converteert alle lokale tijdzones naar UTC (Coordinated Universal Time).
 
 1. In de [!UICONTROL Columns] selecteert u de kolomnamen die u in het rapport wilt weergeven.
 
@@ -73,7 +76,7 @@ De volgende lijst verklaart het gebruik van alle kolommen die u aan het rapport 
      </tr>
      <tr>
       <td>Grootte</td>
-      <td>De grootte van het element.</td>
+      <td>De grootte van het element in bytes.</td>
      </tr>
      <tr>
       <td>Gedownload door</td>
@@ -171,7 +174,7 @@ De volgende lijst verklaart het gebruik van alle kolommen die u aan het rapport 
 
 ## Bestaande rapporten weergeven {#view-report-list}
 
-Na [opstellen van het rapport](#create-report)kunt u de lijst met bestaande rapporten weergeven en deze downloaden in CSV-indeling of verwijderen.
+Na [opstellen van het rapport](#create-download-report)kunt u de lijst met bestaande rapporten weergeven en deze downloaden in CSV-indeling of verwijderen.
 
 Als u de lijst met rapporten wilt weergeven, navigeert u naar **[!UICONTROL Settings]** > **[!UICONTROL Reports]**.
 
@@ -190,7 +193,7 @@ Een rapport in CSV-indeling downloaden:
 
 1. Selecteer een rapport en klik op **[!UICONTROL Download CSV]**.
 
-Het geselecteerde rapport wordt gedownload in CSV-indeling. De kolommen die in het CSV-rapport worden weergegeven, zijn afhankelijk van de kolommen die u selecteert terwijl [opstellen van het rapport](#create-report).
+Het geselecteerde rapport wordt gedownload in CSV-indeling. De kolommen die in het CSV-rapport worden weergegeven, zijn afhankelijk van de kolommen die u selecteert terwijl [opstellen van het rapport](#create-download-report).
 
 ## Een rapport verwijderen {#delete-report}
 
@@ -199,3 +202,5 @@ Een rapport verwijderen:
 1. Ga naar **[!UICONTROL Settings]** > **[!UICONTROL Reports]**.
 
 1. Selecteer een rapport en klik op **[!UICONTROL Delete]**.
+
+1. Klikken **[!UICONTROL Delete]** nogmaals ter bevestiging.
