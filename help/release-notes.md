@@ -4,16 +4,68 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
+source-git-commit: fbbd982e36f2b0d126c01f71afed8da984320523
 workflow-type: tm+mt
-source-wordcount: '1308'
+source-wordcount: '1397'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt op 22 augustus 2022 gepubliceerd.
+De huidige release van Assets Essentials wordt gepubliceerd op 17 november 2022.
+
+Deze release biedt:
+
+**Documenten voorvertonen met de Document Cloud Viewer**
+
+Met Assets Essentials kunt u nu documenten in andere ondersteunde bestandsindelingen uploaden en deze voorvertonen met de inbegrepen viewer voor Documenten Cloud. Tot de ondersteunde indelingstypen behoren TXT, RTF, DOC, DOCX, PPT, PPTX, XLS en XLSX.
+
+<!--
+
+**View Smart Tags moderation reports**
+
+Asset reporting now provides administrators with visibility into the Smart Tags promoted or deleted for an asset. You can specify a folder path and the report lists the Smart Tags promoted or deleted for all assets available at the folder path.
+
+-->
+
+<!--
+**Read-only access to large number of users**
+
+Assets Essentials allows administrators to provide read-only access to a large number of users for selected assets or folders in the repository. 
+You can easily synchronize the user groups available on the external identity management of an organization with Adobe Admin Console and then manage permissions in Admin Console and Assets Essentials to provide the users with read-only access for selected assets or folders.
+
+-->
+
+
+**Nieuwe optie Metagegevens opslaan**
+
+Er is nu een nieuwe optie voor metagegevens opslaan beschikbaar in de Assets Essentials-gebruikersinterface voor een beter beheer van metagegevens.
+
+**Verbeteringen gebaseerd op feedback van klanten**
+
+Verbeteringen en foutoplossingen op basis van feedback van klanten.
+
+## Bekende problemen {#known-issues}
+
+De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
+
+Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
+
+## Eerdere versies {#past-releases}
+
+### 2022,8,0 {#august-2022}
+
+De release van augustus [!DNL Assets Essentials] wordt vrijgegeven op 22 augustus 2022.
 
 Deze release biedt:
 
@@ -36,24 +88,6 @@ Middelenrapportage biedt beheerders nu inzicht in elementen die zijn geüpload n
 **Verbeteringen gebaseerd op feedback van klanten**
 
 Verbeteringen en foutoplossingen op basis van feedback van klanten.
-
-
-## Bekende problemen {#known-issues}
-
-De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
-
-Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
-
-## Eerdere versies {#past-releases}
 
 ### 2022,6,0 {#june-2022}
 
