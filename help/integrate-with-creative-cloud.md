@@ -1,29 +1,14 @@
 ---
 title: Assets Essentials integreren met Creative Cloud-toepassingen
 description: Integreer Assets Essentials met Creative Cloud-toepassingen, zodat u in het app-deelvenster met de koppeling Adobe-element verbinding verbinding kunt maken met [!DNL Assets Essentials] opslagplaats vanuit de ondersteunde [!DNL Adobe Creative Cloud] bureaubladtoepassingen.
-exl-id: 611fd958-3fd3-4c46-bee9-8b866b7dc208
-source-git-commit: 268b7eb82b15b658207f24750eeae085ce5bb3d4
+source-git-commit: 44b8b8f3c734bd80e9d86177d607d897e696e4ed
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
 
 # Assets Essentials integreren met Creative Cloud-toepassingen {#integrate-assets-essentials-creative-cloud-applications}
-
-![Voorkeur voor schakelen tussen donker en licht thema](assets/cce-creative-cloud.png)
-
-## Het verhaal tot nu toe
-
-Na [configureren van Experience Manager Assets Essentials](adminster-aem-assets-essentials.md) in deze zelfstudie kunt u voortbouwen op de ervaring om de Creative Cloud-toepassingen te integreren met Assets Essentials.
-
-## Doelstelling
-
-* **Publiek**: Creative Cloud-beheerders
-
-* **Doelstelling**: Integreer Assets Essentials met Creative Cloud-toepassingen, zodat uw creatieve gebruikers in-app-deelvensters met de Adobe Asset Link kunnen gebruiken om verbinding te maken met [!DNL Assets Essentials] opslagplaats vanuit de ondersteunde [!DNL Adobe Creative Cloud] bureaubladtoepassingen.
-
-## Overzicht
 
 [In-app-deelvenster voor Adobe-middelenkoppeling](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) biedt professionals uit de creatieve sector de mogelijkheid verbinding te maken met [!DNL Assets Essentials] opslagplaats vanuit de ondersteunde [!DNL Adobe Creative Cloud] bureaubladtoepassingen. Het deelvenster is beschikbaar voor [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], en [!DNL Adobe XD]. Het stroomlijnt de toegang tot elementen, wat op zijn beurt de snelheid van de inhoud verhoogt.
 
@@ -53,7 +38,7 @@ Na het vestigen van folder het vertrouwen tussen de Admin Console voor Creative 
 
 Andere Assets Essentials-productprofielen - **[!DNL Assets Essentials]Beheerders** en **[!DNL Assets Essentials]Consumentengebruikers** - worden gebruikt voor verschillende gebruikersrechten (toepassingsbeheerders en gebruikers die Assets Essentials openen via Experience Cloud-integratie).
 
-Voor meer informatie over het toewijzen van gebruikers aan Assets Essentials-productprofielen raadpleegt u [Gebruikers toewijzen aan Assets Essentials-productprofielen](adminster-aem-assets-essentials.md#add-users-to-product-profiles).
+Voor meer informatie over het toewijzen van gebruikers aan Assets Essentials-productprofielen raadpleegt u [Gebruikers toewijzen aan Assets Essentials-productprofielen](deploy-administer.md#add-users-to-product-profiles).
 
 ## Adobe-elementkoppeling installeren {#install-asset-link}
 
@@ -97,7 +82,3 @@ Gebruik Adobe Asset Link om te werken met en elementen te wijzigen die zijn opge
 * Versiegeschiedenis en bestandsgegevens weergeven
 
 Voor instructies over hoe te om deze taken uit te voeren, zie [Elementen beheren met Adobe Asset Link](https://helpx.adobe.com/in/enterprise/using/manage-assets-using-adobe-asset-link.html).
-
-## Volgende functies
-
-Nu u de Creative Cloud-toepassingen hebt geïntegreerd met Assets Essentials, [Adobe Workfront integreren met Experience Manager Assets Essentials](integrate-assets-essentials-workfront.md).

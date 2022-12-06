@@ -9,10 +9,10 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: 1d7055f95e051dd0dd8790a0e655344d99f8f24d
+source-git-commit: 73a425d494b00650e917a98a35fd53e23cb2a4f1
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 4%
+source-wordcount: '121'
+ht-degree: 5%
 
 ---
 
@@ -26,11 +26,7 @@ ht-degree: 4%
    + Maptoegang beheren{#folder-access}
       + [Mapmachtigingen beheren](manage-permissions.md)
       + [Tips en trucs voor het beheer van machtigingen](permission-management-best-practices.md)
-   + Beheerderstraject voor Assets Essentials for Creative Cloud Pro met oplossingen voor werkbeheer{#admin-journey}
-      + [Overzicht van de beheerdersreis](assets-essentials-cc-pro-work-management-admin-journey.md)
-      + [Experience Manager Assets Essentials beheren](adminster-aem-assets-essentials.md)
-      + [Assets Essentials integreren met Creative Cloud-toepassingen](integrate-assets-essentials-creative-cloud.md)
-      + [Assets Essentials integreren met Adobe Workfront](integrate-assets-essentials-workfront.md)
+   + [Beheerderstraject voor Assets Essentials for Creative Cloud Pro met oplossingen voor werkbeheer](assets-essentials-cc-pro-work-management-admin-journey.md)
 + [Aan de slag met [!DNL Assets Essentials]](get-started.md)
 + [Ondersteunde bestandstypen en gebruiksgevallen](supported-file-formats.md)
 + [Elementen weergeven](navigate-view.md)
@@ -43,5 +39,8 @@ ht-degree: 4%
 + [Verzamelingen beheren](manage-collections.md)
 + [Meldingen beheren](manage-notifications.md)
 + [Rapporten beheren](manage-reports.md)
-+ [Integratie met andere oplossingen](integration.md)
++ Integratie met andere oplossingen {#integration-with-other-solutions}
+   + [Overzicht](integration.md)
+   + [Integreren met Creative Cloud for Enterprise](integrate-with-creative-cloud.md)
+   + [Integreren met Adobe Workfront](integrate-with-workfront.md)
 + [Video&#39;s](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
