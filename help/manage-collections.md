@@ -2,9 +2,9 @@
 title: Verzamelingen beheren
 description: Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
+source-git-commit: 368b27c4f1f14ff6209c4e45ff288be192809c0e
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '684'
 ht-degree: 1%
 
 ---
@@ -74,8 +74,6 @@ Elementen toevoegen aan een verzameling:
 1. Op de [!UICONTROL Collections] selecteert u de verzamelingen waaraan u de geselecteerde elementen wilt toevoegen.
 
 1. Klikken **[!UICONTROL Add]** om het element aan de geselecteerde verzamelingen toe te voegen.
-
-Als u elementen aan een verzameling wilt toevoegen, klikt u ook op **[!UICONTROL Collections]** Klik in de linkertrack op de verzameling waaraan u elementen wilt toevoegen. Klik op **[!UICONTROL Add to Collection]** selecteert u de elementen en klikt u op **[!UICONTROL Select]**.
 
 ## Elementen uit een verzameling verwijderen {#remove-assets-from-collection}
 

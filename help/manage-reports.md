@@ -2,9 +2,9 @@
 title: Rapporten beheren in Assets Essentials
 description: Open de gegevens in de sectie Rapporten van Assets Essentials om het product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
+source-git-commit: 368b27c4f1f14ff6209c4e45ff288be192809c0e
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '725'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Met Assets Essentials kunt u real-time gegevens voor uw Assets Essentials-omgevi
 
 ![Werkbalkopties wanneer u een element selecteert](assets/assets-essentials-live-statistics.png)
 
-Navigeren naar **[!UICONTROL Settings]** > **[!UICONTROL Live Statistics]** om de volgende automatisch gegenereerde grafieken weer te geven:
+Klikken **[!UICONTROL Live Statistics]** U kunt de volgende automatisch gegenereerde grafieken weergeven in het navigatievenster aan de linkerkant:
 
 * **Downloads**: Het aantal elementen dat in de Assets Essentials-omgeving is gedownload in de laatste 30 dagen of 12 maanden, uitgedrukt met behulp van een lijndiagram.
 
