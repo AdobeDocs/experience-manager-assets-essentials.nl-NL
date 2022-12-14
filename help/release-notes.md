@@ -4,9 +4,9 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: fbbd982e36f2b0d126c01f71afed8da984320523
+source-git-commit: 2a19ab3dd9c3d15916cfb93083a23569005a86b6
 workflow-type: tm+mt
-source-wordcount: '1397'
+source-wordcount: '1467'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,16 @@ Er is nu een nieuwe optie voor metagegevens opslaan beschikbaar in de Assets Ess
 **Verbeteringen gebaseerd op feedback van klanten**
 
 Verbeteringen en foutoplossingen op basis van feedback van klanten.
+
+**Adobe Asset Link versie 3.3**
+
+[Adobe-itemkoppeling](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html) versie 3.3 wordt uitgebracht op 13 december 2022, met de volgende kenmerken:
+
+* Ondersteuning voor [Creative Cloud voor teams](https://www.adobe.com/creativecloud/business/teams.html) naast [Creative Cloud voor bedrijven](https://www.adobe.com/creativecloud/business/enterprise.html) voor.
+
+* Ondersteuning voor de nieuwste Adobe InDesign-, Photoshop- en Illustrator 2023-toepassingen.
+
+* Ondersteuning voor het gebruik van de Adobe Asset Link CEP-insteekmodule in omgevingen met proxyservers.
 
 ## Bekende problemen {#known-issues}
 
