@@ -3,9 +3,9 @@ title: Gebruikers beheren en beheren
 description: Gebruiksgevallen voor beheerders zoals implementatie en gebruikersbeheer in [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 9818d06d8da806190c61aadeecd50a7c65b31cbe
+source-git-commit: 6d36813bff1dd99f9185935605a10012c7865a50
 workflow-type: tm+mt
-source-wordcount: '1310'
+source-wordcount: '1321'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Voer de volgende taken voor gebruikersrechten uit met behulp van Admin Console:
 
 ### Assets Essentials-toepassingsbeheerder maken {#create-assets-essentials-administrator}
 
-Een beheerder van een Admin Console moet een Assets Essentials-toepassingsbeheerder toevoegen om taken te beheren, zoals het maken van een mapstructuur, het uploaden van elementen, het instellen van machtigingen, het instellen van metagegevensformulieren en het maken van openbare verzamelingen. Voor informatie over het toewijzen van een gebruiker of een gebruikersgroep aan een Assets Essentials-toepassingsbeheerdersprofiel raadpleegt u [gebruikers toevoegen aan productprofielen](#add-users-to-product-profiles).
+Een beheerder van de Admin Console moet een gebruiker, en niet een gebruikersgroep, aan het de beheerderproductprofiel van Assets Essentials toevoegen. De Assets Essentials-toepassingsbeheerder kan vervolgens taken beheren, zoals het maken van een mapstructuur, het uploaden van elementen, het instellen van machtigingen, het instellen van metagegevensformulieren en het maken van openbare verzamelingen. Voor informatie over het toewijzen van een gebruiker aan een Assets Essentials-toepassingsbeheerdersprofiel raadpleegt u [gebruikers toevoegen aan productprofielen](#add-users-to-product-profiles).
 
 ### Gebruikersgroepen toevoegen {#add-user-groups}
 
@@ -166,7 +166,7 @@ In tegenstelling tot mappen kan een verzameling elementen van verschillende loca
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Admin Console] help](https://helpx.adobe.com/enterprise/using/admin-console.html)
+>* [[!DNL Admin Console] help](https://helpx.adobe.com/nl/enterprise/using/admin-console.html)
 >* [[!DNL Cloud Manager] help](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
 >* [Adobe Journey Optimizer-documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html)
 >* [Opmerkingen bij de release](release-notes.md)
