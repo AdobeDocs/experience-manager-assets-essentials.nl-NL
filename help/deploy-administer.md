@@ -3,9 +3,9 @@ title: Gebruikers beheren en beheren
 description: Gebruiksgevallen voor beheerders zoals implementatie en gebruikersbeheer in [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 940f3155a8310ace2768cdfee152c62e99ea2526
+source-git-commit: c7b863aa81337293454199e72f705e53f05a5130
 workflow-type: tm+mt
-source-wordcount: '1322'
+source-wordcount: '1323'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Voer de volgende taken voor gebruikersrechten uit met behulp van Admin Console:
 
 ### Assets Essentials-toepassingsbeheerder maken {#create-assets-essentials-administrator}
 
-Een beheerder van een Admin Console moet het Assets Essentials-beheerdersproductprofiel toevoegen aan een gebruiker en niet aan een gebruikersgroep. De Assets Essentials-toepassingsbeheerder kan vervolgens taken beheren, zoals het maken van een mapstructuur, het uploaden van elementen, het instellen van machtigingen, het instellen van metagegevensformulieren en het maken van openbare verzamelingen. Voor informatie over het toewijzen van een gebruiker aan een Assets Essentials-toepassingsbeheerdersprofiel raadpleegt u [gebruikers toevoegen aan productprofielen](#add-users-to-product-profiles).
+Een beheerder van een Admin Console moet het Assets Essentials-beheerdersproductprofiel toevoegen aan een gebruiker en niet aan een gebruikersgroep. De Assets Essentials-toepassingsbeheerder kan vervolgens taken beheren, zoals het maken van een mapstructuur, het uploaden van elementen, het instellen van machtigingen, het instellen van metagegevensformulieren en het maken van openbare verzamelingen. Voor informatie over het toewijzen van een beheerdersprofiel voor een Assets Essentials-toepassing aan een gebruiker raadpleegt u [productprofielen toevoegen aan gebruikersgroepen](#add-product-profiles-to-user-groups).
 
 ### Gebruikersgroepen toevoegen {#add-user-groups}
 
