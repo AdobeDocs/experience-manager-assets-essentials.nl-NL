@@ -3,9 +3,9 @@ title: Gebruikers beheren en beheren
 description: Gebruiksgevallen voor beheerders zoals implementatie en gebruikersbeheer in [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 6d36813bff1dd99f9185935605a10012c7865a50
+source-git-commit: 940f3155a8310ace2768cdfee152c62e99ea2526
 workflow-type: tm+mt
-source-wordcount: '1321'
+source-wordcount: '1322'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Voer de volgende taken voor gebruikersrechten uit met behulp van Admin Console:
 
 ### Assets Essentials-toepassingsbeheerder maken {#create-assets-essentials-administrator}
 
-Een beheerder van de Admin Console moet een gebruiker, en niet een gebruikersgroep, aan het de beheerderproductprofiel van Assets Essentials toevoegen. De Assets Essentials-toepassingsbeheerder kan vervolgens taken beheren, zoals het maken van een mapstructuur, het uploaden van elementen, het instellen van machtigingen, het instellen van metagegevensformulieren en het maken van openbare verzamelingen. Voor informatie over het toewijzen van een gebruiker aan een Assets Essentials-toepassingsbeheerdersprofiel raadpleegt u [gebruikers toevoegen aan productprofielen](#add-users-to-product-profiles).
+Een beheerder van een Admin Console moet het Assets Essentials-beheerdersproductprofiel toevoegen aan een gebruiker en niet aan een gebruikersgroep. De Assets Essentials-toepassingsbeheerder kan vervolgens taken beheren, zoals het maken van een mapstructuur, het uploaden van elementen, het instellen van machtigingen, het instellen van metagegevensformulieren en het maken van openbare verzamelingen. Voor informatie over het toewijzen van een gebruiker aan een Assets Essentials-toepassingsbeheerdersprofiel raadpleegt u [gebruikers toevoegen aan productprofielen](#add-users-to-product-profiles).
 
 ### Gebruikersgroepen toevoegen {#add-user-groups}
 
@@ -51,11 +51,11 @@ Voor informatie over hoe te om gebruikersgroepen te beheren, zie `Create user gr
 
 Voor informatie over hoe te om het toevoegen van gebruikers aan gebruikersgroepen te beheren, zie `Add users to groups` beschikbaar op [Gebruikersgroepen beheren](https://helpx.adobe.com/in/enterprise/using/user-groups.html#add-users-to-groups).
 
-### Gebruikersgroepen toevoegen aan productprofielen {#add-users-to-product-profiles}
+### Productprofielen toevoegen aan gebruikersgroepen {#add-product-profiles-to-user-groups}
 
-Voeg gebruikersgroepen toe aan productprofielen zodat zij toegang tot de toepassing van Assets Essentials hebben.
+Voeg productprofielen toe aan gebruikersgroepen zodat zij toegang hebben tot de Assets Essentials-toepassing.
 
-Gebruikersgroepen toevoegen aan productprofielen:
+Productprofielen toevoegen aan gebruikersgroepen:
 
 1. Toegang [Admin Console](https://adminconsole.adobe.com) voor uw organisatie klikt u op **[!UICONTROL Products]** in de bovenste balk klikt u op **[!UICONTROL AEM Assets Essentials]** en klik vervolgens op de instantie voor [!DNL Assets Essentials]. De naam van de instantie kan anders zijn dan in de onderstaande schermafbeelding.
    >[!NOTE]
