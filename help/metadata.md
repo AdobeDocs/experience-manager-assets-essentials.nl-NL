@@ -4,9 +4,9 @@ description: Metagegevens van elementen beheren in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+source-git-commit: 9a29e1a9403a9790a3e6aa50b222fa7a6bfd66ec
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '1165'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,17 @@ U kunt ook tags verwijderen uit het dialoogvenster [!UICONTROL Smart Tags] secti
 
 ## Metagegevensformulieren {#metadata-forms}
 
-Assets Essentials biedt standaard vele standaardmetagegevensvelden. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan het element [!UICONTROL Details] pagina. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen.
+Assets Essentials biedt standaard vele standaardmetagegevensvelden. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan het element [!UICONTROL Details] pagina. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen. U kunt geheel nieuwe formulieren maken of een bestaand formulier opnieuw gebruiken.
 
-U kunt metagegevensformulieren configureren voor verschillende typen elementen (verschillende MIME-typen). Gebruik dezelfde formuliernaam als het MIME-type van het bestand. Essentiële elementen komen automatisch geüploade elementen overeen met de naam van het formulier. Als een metagegevensformulier bijvoorbeeld op naam staat `PDF` of `pdf` bestaat, bevat het geüploade PDF-document metagegevensvelden zoals gedefinieerd in het formulier. U kunt geheel nieuwe formulieren maken of een bestaand formulier opnieuw gebruiken.
+U kunt metagegevensformulieren configureren voor verschillende typen elementen (verschillende MIME-typen). Gebruik dezelfde formuliernaam als het MIME-type van het bestand. Essentiële elementen komen automatisch overeen met het MIME-type voor geüploade elementen met de naam van het formulier en werken de metagegevens voor de geüploade elementen bij op basis van de formuliervelden.
+
+Als een metagegevensformulier bijvoorbeeld op naam staat `PDF` of `pdf` bestaat, bevatten de geüploade PDF-documenten metagegevensvelden zoals gedefinieerd in het formulier.
+
+Assets Essentials gebruikt de volgende reeks om te zoeken naar bestaande formuliernamen voor metagegevens om de metagegevensvelden toe te passen op de geüploade elementen van een bepaald type:
+
+MIME-subtype > MIME-type > `default` form > Out-of-the-box form
+
+Als een metagegevensformulier bijvoorbeeld op naam staat `PDF` of `pdf` bestaat, bevat het geüploade PDF-document metagegevensvelden zoals gedefinieerd in het formulier. Als een metagegevensformulier met de naam `PDF` of `pdf` bestaat niet. Assets Essentials komt overeen als er een metagegevensformulier met de naam bestaat `application`. Als er een metagegevensformulier met de naam `application`bevat de geüploade PDF-documenten metagegevensvelden zoals gedefinieerd in het formulier. Als Assets Essentials nog steeds geen overeenkomend metagegevensformulier vindt, wordt gezocht naar de `default` een metagegevensformulier om de in het formulier gedefinieerde metagegevensvelden toe te passen op de geüploade PDF-documenten. Als geen van deze stappen werkt, past Assets Essentials metagegevensvelden die in het formulier buiten de box zijn gedefinieerd, toe op alle geüploade PDF-documenten.
 
 >[!IMPORTANT]
 >
@@ -87,6 +95,10 @@ Ga als volgt te werk om een metagegevensformulier te maken:
 1. Klik optioneel op **[!UICONTROL Preview]** om een voorbeeld te bekijken van het formulier dat u maakt.
 1. Voeg desgewenst meer tabbladen en de vereiste componenten toe aan elk tabblad.
 1. Klikken **[!UICONTROL Save]** wanneer het formulier volledig is.
+
+Bekijk deze video om de reeks stappen weer te geven:
+
+>[!VIDEO](https://video.tv.adobe.com/v/341275)
 
 Nadat een formulier is gemaakt, wordt het automatisch toegepast wanneer gebruikers een element van het overeenkomende MIME-type uploaden.
 
