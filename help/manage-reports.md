@@ -2,9 +2,9 @@
 title: Rapporten beheren in Assets Essentials
 description: Open de gegevens in de sectie Rapporten van Assets Essentials om het product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: b37e633518513023dd947157d4a7a9297590ccd3
+source-git-commit: ec9cdf0d206aa59d67b8ac96504b590a2db19663
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '698'
 ht-degree: 2%
 
 ---
@@ -15,15 +15,15 @@ Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Expe
 
 ## Toegangsrapporten {#access-reports}
 
-Alle gebruikers die zijn toegewezen aan de [Productprofiel Assets Essentials-beheerders](deploy-administer.md) U kunt het dashboard Live Statistieken openen of door de gebruiker gedefinieerde rapporten maken in Assets Essentials.
+Alle gebruikers die zijn toegewezen aan de [Productprofiel Assets Essentials-beheerders](deploy-administer.md) heeft toegang tot het dashboard Inzichten of kunt u door de gebruiker gedefinieerde rapporten maken in Assets Essentials.
 
-## Live statistieken weergeven {#view-live-statistics}
+## Inzichten weergeven {#view-live-statistics}
 
-Met Assets Essentials kunt u real-time gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Live Statistieken. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
+Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Insights. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
 
 ![Werkbalkopties wanneer u een element selecteert](assets/assets-essentials-live-statistics.png)
 
-Klikken **[!UICONTROL Live Statistics]** U kunt de volgende automatisch gegenereerde grafieken weergeven in het navigatievenster aan de linkerkant:
+Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde grafieken weergeven in het navigatievenster aan de linkerkant:
 
 * **Downloads**: Het aantal elementen dat in de Assets Essentials-omgeving is gedownload in de laatste 30 dagen of 12 maanden, uitgedrukt met behulp van een lijndiagram.
 

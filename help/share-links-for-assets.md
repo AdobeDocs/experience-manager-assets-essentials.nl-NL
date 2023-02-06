@@ -2,9 +2,9 @@
 title: Hoe kan ik koppelingen naar elementen delen?
 description: Een koppeling genereren en elementen delen met anderen die geen toegang hebben tot de [!DNL Assets Essentials] toepassing.
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+source-git-commit: 79039f96a4aa44bb81923ec909766969f81e1a3f
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Een koppeling genereren voor een element of een map met elementen:
 
 1. Als u deze wilt aanpassen, klikt u op het pictogram Kalender om een vervaldatum voor de koppeling te definiëren met de opdracht **[!UICONTROL Expiration Date]** veld. U kunt ook rechtstreeks een datum opgeven in het dialoogvenster `yyyy-mm-dd` gebruiken. De vervaldatum voor een koppeling is standaard ingesteld op twee weken na de datum van delen.
 
-1. Klik op **[!UICONTROL Generate Link]**.
-
-1. Klikken **[!UICONTROL Copy Link]** om de koppeling te kopiëren. U kunt de koppeling ook kopiëren vanuit het dialoogvenster **[!UICONTROL Share Link]** veld.
+1. De koppeling kopiëren vanuit de **[!UICONTROL Share Link]** veld.
 
    ![Optie voor uitsnijden en rechttrekken](assets/share-asset-link.png)
 

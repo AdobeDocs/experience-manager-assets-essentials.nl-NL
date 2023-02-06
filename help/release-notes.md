@@ -4,16 +4,62 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 2a19ab3dd9c3d15916cfb93083a23569005a86b6
+source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
 workflow-type: tm+mt
-source-wordcount: '1467'
+source-wordcount: '1685'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt gepubliceerd op 17 november 2022.
+De huidige release van Assets Essentials wordt gepubliceerd op 27 januari 2023.
+
+Deze release biedt:
+
+**Mijn werkruimte met configureerbare widgets**
+
+De middelen verstrekken nu een aangepaste werkruimte voor u, die als één-lokoplossing dient om gemakkelijke toegang tot zeer belangrijke gebieden van het gebruikersinterface van Activa en informatie te verlenen die voor u het meest relevant is. Snellere toegang tot deze opties verhoogt de snelheid en efficiëntie van de inhoud van uw projecten.
+
+Mijn werkruimte bevat widgets voor aanstaande nieuwe functies, Inzichten, Taken, en Inhoud. U kunt configureren hoe deze widgets in uw werkruimte worden weergegeven op basis van uw voorkeuren.
+
+**Gebruikersinterface voor toegewezen taakbeheer**
+
+Met Assets Essentials kunt u nu de lijst met taken beheren die u op dat moment hebt toegewezen, die door u zijn gemaakt en die u al hebt voltooid op een gecentraliseerde locatie, met behulp van de nieuwe **[!UICONTROL Tasks]** beschikbaar in het linkernavigatievenster. U kunt ook de juiste handelingen uitvoeren door een taak te selecteren om deze goed te keuren of af te wijzen of door de taakdetails te openen om deze goed te keuren, af te wijzen, te bewerken of te verwijderen.
+
+![Taken in de werkruimte](assets/tasks-workspace.png)
+
+**Automatisch gegenereerde koppelingen om elementen te delen**
+
+Assets Essentials genereert nu automatisch een koppeling zodra u een element wilt delen via de Assets Essentials-gebruikersinterface. De gegenereerde koppeling blijft ook geldig als u de vervaldatum wijzigt.
+
+![Taken in de werkruimte](assets/share-asset.png)
+
+
+**Verbeteringen gebaseerd op feedback van klanten**
+
+Verbeteringen en foutoplossingen op basis van feedback van klanten.
+
+## Bekende problemen {#known-issues}
+
+De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
+
+Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
+
+## Eerdere versies {#past-releases}
+
+### 2022.11.0 {#november-2022}
+
+De release van november [!DNL Assets Essentials] wordt vrijgegeven op 17 november 2022.
 
 Deze release biedt:
 
@@ -56,24 +102,7 @@ Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
 * Ondersteuning voor het gebruik van de Adobe Asset Link CEP-insteekmodule in omgevingen met proxyservers.
 
-## Bekende problemen {#known-issues}
-
-De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
-
-Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
-
-## Eerdere versies {#past-releases}
-
-### 2022,8,0 {#august-2022}
+### 2022.8.0 {#august-2022}
 
 De release van augustus [!DNL Assets Essentials] wordt vrijgegeven op 22 augustus 2022.
 
@@ -99,7 +128,7 @@ Middelenrapportage biedt beheerders nu inzicht in elementen die zijn geüpload n
 
 Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
-### 2022,6,0 {#june-2022}
+### 2022.6.0 {#june-2022}
 
 De release van juni [!DNL Assets Essentials] wordt vrijgegeven op 14 juli 2022.
 
@@ -119,7 +148,7 @@ Met Asset Reporting kunnen beheerders de gebruikersactiviteit binnen Adobe Exper
 
 U kunt rapporten over het downloaden van middelen en de dashboardmodule voor live statistieken weergeven om te zien welke elementen worden gedownload en hoe vaak het downloaden plaatsvindt.
 
-### 2022,5,0 {#may-2022}
+### 2022.5.0 {#may-2022}
 
 In mei [!DNL Assets Essentials] wordt vrijgegeven op 16 juni 2022.
 
@@ -161,7 +190,7 @@ Deze release biedt:
 
 * Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
-### 2022,4,0 {#april-2022}
+### 2022.4.0 {#april-2022}
 
 De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 12 mei 2022. Deze release biedt:
 
@@ -181,7 +210,7 @@ Met deze release optimaliseren we de prestaties van de levering van de gebruiker
 
 * Schakel de `Block third-party cookies` op het scherm Incognito-modus in Chrome
 
-### 2022,2,0 {#march-2022}
+### 2022.2.0 {#march-2022}
 
 [!DNL Assets Essentials] wordt gepubliceerd op 9 maart 2022, met de volgende updates:
 
