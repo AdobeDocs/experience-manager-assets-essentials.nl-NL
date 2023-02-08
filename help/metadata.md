@@ -4,9 +4,9 @@ description: Metagegevens van elementen beheren in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: b264c9cdff39f75dce31976add8621a33bc72e4b
+source-git-commit: 274028a1fb224b045c047e63539a9b96b1cc4357
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1213'
 ht-degree: 0%
 
 ---
@@ -62,12 +62,11 @@ U kunt ook tags verwijderen uit het dialoogvenster [!UICONTROL Smart Tags] secti
 >[!CONTEXTUALHELP]
 >id="assets_metadata_forms"
 >title="Metagegevens Forms"
->abstract="Experience Manager Assets biedt standaard vele standaardmetagegevensvelden. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan de pagina Details van een element. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen."
->additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html#metadata-forms" text="Meer informatie"
+>abstract="[!DNL Experience Manager Assets] biedt standaard veel standaardmetagegevensvelden. Organisaties hebben extra metagegevensvereisten en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan de pagina Details van een element. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen."
 
 Assets Essentials biedt standaard vele standaardmetagegevensvelden. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan het element [!UICONTROL Details] pagina. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen. U kunt geheel nieuwe formulieren maken of een bestaand formulier opnieuw gebruiken.
 
-U kunt metagegevensformulieren configureren voor verschillende typen elementen (verschillende MIME-typen). Gebruik dezelfde formuliernaam als het MIME-type van het bestand. Essentiële elementen komen automatisch overeen met het MIME-type voor geüploade elementen met de naam van het formulier en werken de metagegevens voor de geüploade elementen bij op basis van de formuliervelden.
+U kunt metagegevensformulieren configureren voor verschillende typen elementen (verschillende MIME-typen). Gebruik dezelfde formuliernaam als het MIME-type van het bestand. Assets Essentials past het MIME-type voor geüploade elementen automatisch aan de naam van het formulier aan en werkt de metagegevens voor de geüploade elementen bij op basis van de formuliervelden.
 
 Als een metagegevensformulier bijvoorbeeld op naam staat `PDF` of `pdf` bestaat, bevatten de geüploade PDF-documenten metagegevensvelden zoals gedefinieerd in het formulier.
 
