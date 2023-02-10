@@ -2,14 +2,19 @@
 title: Hoe te om toestemmingen voor omslagen in de Hoofdzaak van AEM Assets te beheren?
 description: Met Assets Essentials kunnen beheerders de toegangsniveaus voor mappen in de opslagplaats beheren. Creeer gebruikersgroepen en wijs toestemmingen aan die groepen toe om toegangsniveaus te beheren. Als beheerder, kunt u de toestemmingsbeheersvoorrechten aan gebruikersgroepen op omslag-niveau ook delegeren.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+source-git-commit: 999d5106469d002deed3eccd689a802396dd42d4
 workflow-type: tm+mt
-source-wordcount: '1599'
+source-wordcount: '1647'
 ht-degree: 0%
 
 ---
 
-# Rechten voor mappen beheren
+# Rechten voor mappen beheren {#manage-permissions}
+
+>[!CONTEXTUALHELP]
+>id="assets_permissions_folders"
+>title="Rechten beheren"
+>abstract="[!DNL Assets Essentials] Hiermee kunnen beheerders de toegangsniveaus voor mappen die in de opslagplaats beschikbaar zijn, beheren. Als beheerder, kunt u gebruikersgroepen tot stand brengen en toestemmingen aan die groepen toewijzen om toegangsniveaus te beheren. U kunt de bevoegdheden voor machtigingsbeheer ook delegeren aan gebruikersgroepen op mapniveau."
 
 Met Assets Essentials kunnen beheerders de toegangsniveaus voor mappen in de opslagplaats beheren. Als beheerder, kunt u gebruikersgroepen tot stand brengen en toestemmingen aan die groepen toewijzen om toegangsniveaus te beheren. U kunt de bevoegdheden voor machtigingsbeheer ook delegeren aan gebruikersgroepen op mapniveau.
 
