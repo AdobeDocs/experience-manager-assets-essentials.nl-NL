@@ -3,14 +3,20 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
+source-git-commit: 18929733eb7ef1c862637cc5d03d44ac3c62875b
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '839'
 ht-degree: 1%
 
 ---
 
 # Middelen zoeken in [!DNL Assets Essentials] {#search-assets}
+
+>[!CONTEXTUALHELP]
+>id="assets_search"
+>title="Zoeken in middelen"
+>abstract="Zoek naar uw elementen door de zoekcriteria op te geven of door elementen te filteren op basis van hun status, bestandstype, MIME-type, grootte, aanmaak, wijziging en vervaldatum. Naast de standaardfilters kunt u ook aangepaste filters toepassen. U kunt de gefilterde resultaten opslaan als een opgeslagen zoekopdracht of als een slimme verzameling."
+>additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=en#manage-smart-collection" text="Slimme verzamelingen maken"
 
 [!DNL Assets Essentials] biedt effectief zoeken, dat werkt standaard. De zoekopdracht is uitgebreid omdat er in volledige tekst wordt gezocht. Met de krachtige zoekfunctionaliteit kunt u snel de juiste middelen vinden en de snelheid van de inhoud verbeteren. [!DNL Assets Essentials] biedt zoekopdrachten in volledige tekst en zoekopdrachten via metagegevens, zoals slimme tags, titel, gemaakte datum en copyright.
 
