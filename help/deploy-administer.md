@@ -3,9 +3,9 @@ title: Gebruikers beheren en beheren
 description: Gebruiksgevallen voor beheerders zoals implementatie en gebruikersbeheer in [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: c7b863aa81337293454199e72f705e53f05a5130
+source-git-commit: 07537aea39140f649d17353430a505c36e971aea
 workflow-type: tm+mt
-source-wordcount: '1323'
+source-wordcount: '1308'
 ht-degree: 0%
 
 ---
@@ -154,7 +154,7 @@ In tegenstelling tot mappen kan een verzameling elementen van verschillende loca
 
 ## Volgende stappen {#next-steps}
 
-* [Bekijk een video om Assets Essentials te implementeren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en)
+<!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en) -->
 
 * Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
 
