@@ -2,14 +2,19 @@
 title: Rapporten beheren in Assets Essentials
 description: Open de gegevens in de sectie Rapporten van Assets Essentials om het product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: ec9cdf0d206aa59d67b8ac96504b590a2db19663
+source-git-commit: b222e03a8eca0837ca647740baed7d77afe96ed3
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '748'
 ht-degree: 2%
 
 ---
 
 # Rapporten beheren {#manage-reports}
+
+>[!CONTEXTUALHELP]
+>id="assets_reports"
+>title="Rapporten"
+>abstract="Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Experience Manager Assets Essentials-omgeving. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product omgaan. Alle gebruikers die aan het het productprofiel van Beheerders worden toegewezen kunnen tot het dashboard van Inzichten toegang hebben of user-defined rapporten creëren."
 
 Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Experience Manager Assets Essentials-omgeving. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product omgaan.
 
