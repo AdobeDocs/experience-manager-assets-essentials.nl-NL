@@ -4,18 +4,22 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
+source-git-commit: 71760e20e7c3984f7099474e3b17db5e7d83496a
 workflow-type: tm+mt
-source-wordcount: '1685'
+source-wordcount: '1732'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt gepubliceerd op 27 januari 2023.
+De huidige release van Assets Essentials wordt gepubliceerd op 9 maart 2023.
 
-Deze release biedt:
+De nieuwe eigenschappen in de laatste twee productreleases omvatten:
+
+**Metagegevens van bulkelementen bewerken**
+
+Met updates van bulkmetagegevens kunnen gebruikers algemene updates van metagegevens tegelijkertijd uitvoeren op meerdere elementen. Gebruikers hoeven records niet meer afzonderlijk bij te werken en kunnen snel eigenschappen toepassen op elementen die via zoekopdrachten, mappen en verzamelingen worden benaderd.
 
 **Mijn werkruimte met configureerbare widgets**
 
