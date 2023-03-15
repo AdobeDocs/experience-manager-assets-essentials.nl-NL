@@ -3,9 +3,9 @@ title: Gebruikers beheren en beheren
 description: Gebruiksgevallen voor beheerders zoals implementatie en gebruikersbeheer in [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 07537aea39140f649d17353430a505c36e971aea
+source-git-commit: 989d4b2105636b03bef8b8aa5e653c3800845f69
 workflow-type: tm+mt
-source-wordcount: '1308'
+source-wordcount: '1321'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,8 @@ Productprofielen toevoegen aan gebruikersgroepen:
 
    * **[!DNL Assets Essentials]Gebruikers** toegang hebben tot de volledige gebruikersinterface. Deze gebruikers kunnen digitale elementen uploaden, organiseren, labelen en zoeken.
 
-   * **[!DNL Assets Essentials]Consumentengebruikers**: toegang hebben tot de ervaring die is opgedaan met het selecteren van ingesloten elementen in [!DNL Adobe Journey Optimizer] e-mailsjablooneditor. Zie voor meer informatie [Gebruiken [!DNL Assets Essentials] in [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
+   * **[!DNL Assets Essentials]Consumentengebruikers** kan zoek-, voorproef- en downloadbewerkingen uitvoeren in Assets Essentials. Ze kunnen ook middelen zoeken en selecteren in Adobe Journey Optimizer en middelen zoeken en selecteren voor gebruik in Workfront.
+Zie voor meer informatie [Integratie met andere oplossingen](integration.md).
 
    ![Beheerprofiel Admin Console](assets/admin-console-admin-profile.png)
 
