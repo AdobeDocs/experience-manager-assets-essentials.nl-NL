@@ -1,9 +1,9 @@
 ---
 title: Mijn werkruimte voor middelen
 description: Mijn werkruimte is een pagina die aanpasbare visuele modules voor gemakkelijke toegang tot zeer belangrijke gebieden van het gebruikersinterface van Activa en informatie verstrekt die voor de gebruiker het meest relevant is.
-source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
+source-git-commit: 184e80c88fb8e13ca24049d95146b5305b2008dc
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -12,17 +12,21 @@ ht-degree: 0%
 
 Middelen beschikken nu over een aanpasbare werkruimte die widgets biedt voor eenvoudige toegang tot belangrijke gebieden van de gebruikersinterface van Elementen en informatie die voor u het meest relevant is. Deze pagina dient als een one-stop oplossing om een overzicht van uw het werkpunten te verstrekken en snelle toegang tot zeer belangrijke werkschema&#39;s te geven. Een handiger toegang tot deze opties verhoogt de efficiëntie en snelheid van de inhoud.
 
-U hebt toegang tot mijn werkruimte door op **[!UICONTROL My Workspace]** uit de items in het linkernavigatievenster. Mijn werkruimte bevat diverse widgets met de volgende nieuwe functies, inzichten, taken en inhoudwidgets. U kunt configureren hoe deze widgets in uw werkruimte worden weergegeven op basis van uw voorkeuren.
+U hebt toegang tot mijn werkruimte door op **[!UICONTROL My Workspace]** uit de items in het linkernavigatievenster. Mijn werkruimte bevat diverse widgets die widgets Inzichten, Taken en Inhoud weergeven. U kunt configureren hoe deze widgets in uw werkruimte worden weergegeven op basis van uw voorkeuren.
 
 >[!NOTE]
 >
 >Widget Inhoudingen is alleen zichtbaar voor beheerders.
 
-**Nieuwe functies binnenkort beschikbaar**
+<!--
 
-Hiermee worden aanstaande functies voor elementen gemarkeerd.
+**New features coming soon**
 
-![Nieuwe functies die binnenkort in Workspace verschijnen](assets/new-features.png)
+Highlights upcoming features for Assets.
+
+![New features coming soon in Workspace](assets/new-features.png)
+
+-->
 
 **Inzichten**
 

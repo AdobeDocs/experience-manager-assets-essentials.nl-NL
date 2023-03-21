@@ -1,11 +1,11 @@
 ---
-title: '"[!DNL Assets Essentials] gebruikersinterface"'
+title: "[!DNL Assets Essentials] gebruikersinterface"
 description: De gebruikersinterface en navigatie begrijpen in [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+source-git-commit: b627c20ee9be9be79bb0325b55543ae9e2935b9a
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ U kunt door de mappen bladeren vanuit de hoofdgebruikersinterface of vanuit de l
 
 * **Activa**: Lijst met alle mappen in een boomstructuurweergave waartoe u toegang hebt.
 * **Onlangs bekeken**: Lijst met elementen waarvan u onlangs een voorvertoning hebt weergegeven. [!DNL Assets Essentials] geeft alleen de elementen weer die u voorvertoont. De elementen die u voorbij schuift tijdens het bladeren door de bestanden of mappen in de opslagplaats worden niet weergegeven.
-* **Prullenbak**:
+* **Prullenbak**: De elementen weergeven die zijn verwijderd uit de hoofdmap **[!UICONTROL Assets]** map. U kunt een middel in de omslag van het Afval selecteren om of het aan de originele plaats te herstellen of het permanent te schrappen.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
