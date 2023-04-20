@@ -4,10 +4,10 @@ description: Ondersteunde bestandsindelingen voor de verschillende gebruiksgeval
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
-source-git-commit: e8791aab7c99e020921bdd65ed3d579bb11ffd6b
+source-git-commit: 93c6c273e2ad82237b29f93bc42d090f219e6c79
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 5%
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ De verschillende bestandstypen bieden verschillende mate van ondersteuning voor 
 |-------------------|-------------------------|
 | ✓ | Ondersteund |
 | ✓ ‡ | voorwaardelijk ondersteund |
-| - | Niet van toepassing |
+| − | Niet van toepassing |
 
 ## Elementen toevoegen, uploaden en weergeven {#support-to-upload-view}
 
@@ -40,13 +40,13 @@ De verschillende bestandstypen bieden verschillende mate van ondersteuning voor 
 
 | Type element | [Bladeren](/help/navigate-view.md) | Kopiëren | [Uploaden](/help/add-delete.md) | Maken | [Verwijderen](/help/add-delete.md#delete-assets) | Details | Zoomen op afbeelding | [Onlangs bekeken](/help/navigate-view.md) |
 |-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
-| Rasterafbeeldingen | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| RAW-bestanden | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| Mappen | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
-| MP4-video&#39;s | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
-| PDF | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
-| PSD, AI en INDD | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
-| Overige binaire bestanden | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
+| Rasterafbeeldingen | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| RAW-bestanden | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| Mappen | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | − | − |
+| MP4-video&#39;s | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
+| PDF | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
+| PSD, AI en INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
+| Overige binaire bestanden | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
 
 <!-- Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
@@ -57,13 +57,14 @@ De verschillende bestandstypen bieden verschillende mate van ondersteuning voor 
 | Type element | [Downloaden](/help/manage-organize.md#download) | Slepen en neerzetten | [Afbeeldingseditor](/help/edit-images.md) | [Zoeken](/help/search.md) | [Slimme tags](/help/metadata.md#tags) | [Naam wijzigen](/help/manage-organize.md) | [Versies](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Rasterafbeeldingen | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| RAW-bestanden | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Mappen | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
-| Video&#39;s | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| CC-bibliotheken | - | - | - | - | - | ✓ | ✓ |
-| PDF | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| PSD, AI en INDD | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| Overige binaire bestanden | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
+| RAW-bestanden | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Mappen | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
+| Video&#39;s | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| CC-bibliotheken | − | − | − | − | − | ✓ | ✓ |
+| PDF | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| PSD | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| AI en INDD | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
+| Overige binaire bestanden | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 
 
 ## Elementen controleren en samenwerken {#support-to-review-collaborate}
@@ -72,20 +73,20 @@ De verschillende bestandstypen bieden verschillende mate van ondersteuning voor 
 |---------------|----------|----------|-------------------------|
 | Rasterafbeeldingen | ✓ | ✓ | ✓ |
 | RAW-bestanden | ✓ | ✓ | ✓ |
-| Mappen | - | - | - |
-| Video&#39;s | - | ✓ | ✓ |
-| CC-bibliotheken | - | - | - |
-| PDF | - | ✓ | ✓ |
-| PSD, AI en INDD | - | ✓ | ✓ |
-| Overige binaire bestanden | - | ✓ | ✓ |
-| DOC | - | ✓ | ✓ |
-| DOCX | - | ✓ | ✓ |
-| PPT | - | ✓ | ✓ |
-| PPTX | - | ✓ | ✓ |
-| XLS | - | ✓ | ✓ |
-| XLSX | - | ✓ | ✓ |
-| TXT | - | ✓ | ✓ |
-| RTF | - | ✓ | ✓ |
+| Mappen | − | − | − |
+| Video&#39;s | − | ✓ | ✓ |
+| CC-bibliotheken | − | − | − |
+| PDF | − | ✓ | ✓ |
+| PSD, AI en INDD | − | ✓ | ✓ |
+| Overige binaire bestanden | − | ✓ | ✓ |
+| DOC | − | ✓ | ✓ |
+| DOCX | − | ✓ | ✓ |
+| PPT | − | ✓ | ✓ |
+| PPTX | − | ✓ | ✓ |
+| XLS | − | ✓ | ✓ |
+| XLSX | − | ✓ | ✓ |
+| TXT | − | ✓ | ✓ |
+| RTF | − | ✓ | ✓ |
 
 ## Overige taken voor vermogensbeheer {#support-to-manage-assets}
 
@@ -93,12 +94,12 @@ De verschillende bestandstypen bieden verschillende mate van ondersteuning voor 
 |---------------|-------------------|------------|----------|----------|----------|
 | Rasterafbeeldingen | ✓ | ✓ | ✓ | ✓ | ✓ |
 | RAW-bestanden | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Mappen | ✓ | - | ✓ | ✓ | ✓ |
-| Video&#39;s | ✓ | - | ✓ | ✓ | ✓ |
-| CC-bibliotheken | ✓ | - | - | - | - |
-| PDF | ✓ | - | ✓ | ✓ | ✓ |
-| PSD, AI en INDD | ✓ | - | ✓ | ✓ | ✓ |
-| Overige binaire bestanden | ✓ | - | ✓ | ✓ | ✓ |
+| Mappen | ✓ | − | ✓ | ✓ | ✓ |
+| Video&#39;s | ✓ | − | ✓ | ✓ | ✓ |
+| CC-bibliotheken | ✓ | − | − | − | − |
+| PDF | ✓ | − | ✓ | ✓ | ✓ |
+| PSD, AI en INDD | ✓ | − | ✓ | ✓ | ✓ |
+| Overige binaire bestanden | ✓ | − | ✓ | ✓ | ✓ |
 
 Gebruikers van [!DNL Adobe Asset Link] kan bestanden uploaden en inchecken (een nieuwe versie uploaden) in de [!DNL Assets Essentials] opslagplaats van de ondersteunde [!DNL Adobe Creative Cloud] bureaubladtoepassingen.
 
