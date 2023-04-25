@@ -2,14 +2,14 @@
 title: Meldingen beheren
 description: Bewaak de bewerkingen die worden uitgevoerd op de middelen of mappen die beschikbaar zijn in de opslagplaats met behulp van de Assets Essentials-meldingen.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
-source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
+source-git-commit: c48ec7f5bfa1e449f461e73c5f3b725d52d9b1d1
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '597'
 ht-degree: 0%
 
 ---
 
-# Meldingen beheren {#manage-notifications}
+# Middelen, mappen en verzamelingen controleren {#watch-assets-folders}
 
 Met Assets Essentials-berichten kunt u de bewerkingen controleren die worden uitgevoerd op de middelen, mappen of verzamelingen die beschikbaar zijn in de opslagplaats. U moet de inhoud selecteren en zich erop abonneren waarvoor de meldingen naar u worden verzonden. U kunt ook de categorieën configureren waarvoor de meldingen naar u worden verzonden.
 
