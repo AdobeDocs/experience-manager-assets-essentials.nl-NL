@@ -3,9 +3,9 @@ title: "[!DNL Assets Essentials] gebruikersinterface"
 description: De gebruikersinterface en navigatie begrijpen in [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: b627c20ee9be9be79bb0325b55543ae9e2935b9a
+source-git-commit: 3cc4d8ea48b0b2c8014572fce7609ee39f5868e4
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '885'
 ht-degree: 0%
 
 ---
@@ -22,19 +22,17 @@ ht-degree: 0%
 
 Wanneer u zich aanmeldt [!DNL Assets Essentials], ziet u de volgende interface.
 
-<!-- TBD: Update this screenshot. Remove top bar. Remove 2 labels from top bar. -->
+![[!DNL Assets Essentials] gebruikersinterface](assets/essentials-interface.png)
 
-![[!DNL Assets Essentials] gebruikersinterface](assets/essentials-interface1.png)
-
-*Afbeelding: Eerste scherm na aanmelding en locatie van de aliente functies.*
-    *A: Met de linkerzijbalk kunt u bladeren in de opslagplaats en hebt u toegang tot een paar andere opties.*
-    *B: U kunt de linkerzijbalk weergeven of samenvouwen om het weergavegebied voor elementen te vergroten.*
-    *C: Zoekresultaten filteren.*
-    *D: Zoekvak.*
-    *E: Opties voor het sorteren van elementen.*
-    *F: Feedback op het product geven.*
-    *G: Bewerk uw gebruikersvoorkeuren of meld u af.*
-    *H: Schakel tussen verschillende weergaven.*
+    *A: Linkerzijbalk voor bladeren in gegevensopslagruimte en biedt toegang tot een paar andere opties*
+    *B: De linkerzijbalk weergeven of samenvouwen om het weergavegebied voor elementen te vergroten*
+    *C: Zoekresultaten filteren*
+    *D: Alle inhoud van de geselecteerde map selecteren*
+    *E: Opties voor het sorteren van elementen*
+    *F: Zoekvak*
+    *G: Bestanden uploaden of slepen en neerzetten met `Add Assets` knop*
+    *H: Nieuwe map maken*
+    *I: Schakelen tussen verschillende weergaven*
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
 
@@ -42,9 +40,15 @@ Wanneer u zich aanmeldt [!DNL Assets Essentials], ziet u de volgende interface.
 
 U kunt door de mappen bladeren vanuit de hoofdgebruikersinterface of vanuit de linkerzijbalk. Wanneer u bladert, kunt u de interface gebruiken om elementminiaturen weer te geven en visueel door de opslagplaats te bladeren of elementdetails weer te geven om snel het gewenste element te vinden. In de linkerzijbalk zijn de volgende opties beschikbaar:
 
-* **Activa**: Lijst met alle mappen in een boomstructuurweergave waartoe u toegang hebt.
+* [Mijn werkruimte](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en): Middelen beschikken nu over een aanpasbare werkruimte die widgets biedt voor eenvoudige toegang tot belangrijke gebieden van de gebruikersinterface van Elementen en informatie die voor u het meest relevant is. Deze pagina dient als een one-stop oplossing om een overzicht van uw het werkpunten te verstrekken en snelle toegang tot zeer belangrijke werkschema&#39;s te geven. Een handiger toegang tot deze opties verhoogt de efficiëntie en snelheid van de inhoud.
+* [Taken](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en): U kunt de taken bekijken die onder **Mijn taken** tab. U kunt de taken die u hebt gemaakt onder **Toegewezen taken** tab. Bovendien worden de taken die u voltooit gevestigd onder **Voltooide taken** tab.
+* [Activa](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=en): Lijst met alle mappen in een boomstructuurweergave waartoe u toegang hebt.
 * **Onlangs bekeken**: Lijst met elementen waarvan u onlangs een voorvertoning hebt weergegeven. [!DNL Assets Essentials] geeft alleen de elementen weer die u voorvertoont. De elementen die u voorbij schuift tijdens het bladeren door de bestanden of mappen in de opslagplaats worden niet weergegeven.
+* [Verzamelingen](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=en): Een verzameling is een set elementen, mappen of andere verzamelingen in Adobe Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen. In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten. U kunt meerdere verzamelingen delen met een gebruiker. Elke verzameling bevat verwijzingen naar elementen. De referentiële integriteit van activa wordt gehandhaafd over inzamelingen.
+
+* [Inzichten](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=en#view-live-statistics): In [!DNL Assets Essentials]kunt u real-time inzichten op uw dashboard bekijken. Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Insights. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
 * **Prullenbak**: De elementen weergeven die zijn verwijderd uit de hoofdmap **[!UICONTROL Assets]** map. U kunt een middel in de omslag van het Afval selecteren om of het aan de originele plaats te herstellen of het permanent te schrappen.
+* **Instellingen**: U kunt verschillende opties voor Assets Essentials configureren met **Instellingen**, zoals metagegevensformulieren, rapporten en taxonomiebeheer.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
@@ -76,20 +80,25 @@ Voordat u middelen gebruikt, deelt of downloadt, kunt u deze nauwkeuriger bekijk
 
 Als u een voorvertoning van een element wilt weergeven, selecteert u het en klikt u op [!UICONTROL Details] ![detailpictogram](assets/do-not-localize/edit-in-icon.png) van de werkbalk bovenaan. U kunt niet alleen het element weergeven, maar ook de gedetailleerde metagegevens bekijken en andere handelingen uitvoeren.
 
-![Een voorvertoning van een element weergeven](assets/preview-asset.png)
+![Een voorvertoning van een element weergeven](assets/preview-asset-2.png)
 
-*A: Ga terug naar de huidige map of het huidige zoekresultaat in de repository.*
-*B: Naam en indeling voor het bestand waarvan u een voorbeeld weergeeft.*
-*C: Standaardmetagegevens.*
-*D: Geavanceerde metagegevens.*
-*E: Trefwoorden en slimme tags.*
-*F: Voorbeeld van element bekijken en informatie over metagegevens bekijken.*
-*G: Opmerking en notitie toevoegen.*
-*H: Versies weergeven en beheren.*
-*I: Uitvoeringen van de afbeelding weergeven.*
-*J: Afbeelding bewerken.*
-*K: Meer informatie. Zoomen, volledig scherm en andere opties.*
-*L: Ga naar het vorige of volgende middel in de huidige omslag zonder terug naar de omslag te gaan.*
+*A: Terugkeren naar de huidige map of het huidige zoekresultaat in de repository*
+*B: Naam en indeling voor het bestand waarvan u een voorvertoning weergeeft*
+*C: Taken toewijzen*
+*D: Middelen downloaden*
+*E: Middel voorvertonen en metagegevens weergeven*
+*D: Geavanceerde metagegevens*
+*E: Trefwoorden en slimme tags*
+*F: Opmerkingen en notities aanbrengen*
+*G: Taken met betrekking tot het geselecteerde element weergeven*
+*H: Versies weergeven en beheren*
+*I: Uitvoeringen van de afbeelding weergeven*
+*J: Afbeelding bewerken*
+*K: Standaardmetagegevens*
+*L: Geavanceerde metagegevens*
+*M: Trefwoorden en slimme tags*
+*N: Meer informatie. Zoomen, volledig scherm en andere opties*
+*O: Naar vorig of volgend middel in de huidige omslag zonder terug naar de omslag te gaan*
 
 U kunt ook voorvertoningen van video&#39;s weergeven.
 
