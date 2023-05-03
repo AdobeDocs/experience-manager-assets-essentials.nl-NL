@@ -2,14 +2,19 @@
 title: Verzamelingen beheren
 description: Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 368b27c4f1f14ff6209c4e45ff288be192809c0e
+source-git-commit: 14048cd4c40c4d942d43a2ed955d09c71d72b684
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '740'
 ht-degree: 1%
 
 ---
 
 # Verzamelingen beheren {#manage-collections}
+
+>[!CONTEXTUALHELP]
+>id="assets_collections"
+>title="Verzamelingen beheren"
+>abstract="Een verzameling is een set elementen, mappen of andere verzamelingen in Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen. In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten. U kunt meerdere verzamelingen delen met een gebruiker. Elke verzameling bevat verwijzingen naar elementen. De referentiële integriteit van activa wordt gehandhaafd over inzamelingen."
 
 Een verzameling is een set elementen, mappen of andere verzamelingen in Adobe Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 
