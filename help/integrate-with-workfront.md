@@ -1,7 +1,8 @@
 ---
 title: Assets Essentials integreren met Adobe Workfront
 description: Integreer Assets Essentials met de Adobe Workfront-toepassing, zodat u toegang krijgt tot de Assets Essentials-opslagplaats in de Workfront-toepassing.
-source-git-commit: 8920080944981fc1a990136af46c9258c5e8627c
+exl-id: 9605fa3a-d454-48b5-9f84-b384eb1ad493
+source-git-commit: 6194a778133842d40c4ef2bc257eec8a34b0a481
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 0%

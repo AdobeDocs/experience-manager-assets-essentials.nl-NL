@@ -1,7 +1,8 @@
 ---
 title: Assets Essentials integreren met Creative Cloud-toepassingen
 description: Integreer Assets Essentials met Creative Cloud-toepassingen, zodat u in het app-deelvenster met de koppeling Adobe-element verbinding verbinding kunt maken met [!DNL Assets Essentials] opslagplaats vanuit de ondersteunde [!DNL Adobe Creative Cloud] bureaubladtoepassingen.
-source-git-commit: 44b8b8f3c734bd80e9d86177d607d897e696e4ed
+exl-id: 817bc955-0074-435e-83a8-3fd5f7f2505a
+source-git-commit: 6194a778133842d40c4ef2bc257eec8a34b0a481
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%

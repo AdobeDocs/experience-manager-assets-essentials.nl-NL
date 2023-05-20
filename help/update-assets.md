@@ -24,6 +24,6 @@ Link to versioning once an asset is updated.
 >[!MORELIKETHIS]
 >
 >* [Afbeeldingen bewerken](edit-images.md)
-* [Versies van een element weergeven](navigate-view.md#view-versions)
-* [Een element verwijderen](manage-organize.md#delete-assets)
+>* [Versies van een element weergeven](navigate-view.md#view-versions)
+>* [Een element verwijderen](manage-organize.md#delete-assets)
 

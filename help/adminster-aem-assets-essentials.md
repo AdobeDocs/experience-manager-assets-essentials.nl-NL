@@ -1,13 +1,13 @@
 ---
 title: Experience Manager Assets Essentials beheren
 description: Configureer de toegang tot de Assets Essentials-toepassing met behulp van de Admin Console en beheer vervolgens de taken die kunnen worden uitgevoerd nadat u zich hebt aangemeld bij de Assets Essentials-toepassing.
-source-git-commit: 1f01dd340f79d1c2d9748232c2b1a589ae7f8545
+exl-id: ffd65741-21b7-47cd-9779-63a7903879e6
+source-git-commit: a40b608ec72691c10dfbf7dff518a2cfc87d6552
 workflow-type: tm+mt
 source-wordcount: '1385'
 ht-degree: 0%
 
 ---
-
 
 # Experience Manager Assets Essentials beheren {#administer-assets-essentials}
 
@@ -168,4 +168,3 @@ Ga voor meer informatie over Metadata Forms naar [Metagegevens Forms in Assets E
 ## Volgende functies
 
 Nu u de Assets Essentials-toepassing hebt geconfigureerd en beheerd, [Creative Cloud-toepassingen integreren met de toepassing Experience Manager Assets Essentials](integrate-assets-essentials-creative-cloud.md).
-
