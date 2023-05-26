@@ -2,9 +2,9 @@
 title: Mijn werkruimte voor middelen
 description: Mijn werkruimte is een pagina die aanpasbare visuele modules voor gemakkelijke toegang tot zeer belangrijke gebieden van het gebruikersinterface van Activa en informatie verstrekt die voor de gebruiker het meest relevant is.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
-source-git-commit: 7234af017de7e5d5ebf31e8855a322d846c3a389
+source-git-commit: e6c6a7ee20fca5e87f521708fb7ddec453131e40
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,8 @@ Toont de lijst van taken momenteel aan u in worden toegewezen **[!UICONTROL My T
 **Inhoud**
 
 Hiermee geeft u een overzicht weer van de elementen, inclusief de lijst met elementen die u onlangs hebt bekeken. U kunt ervoor kiezen om elementen in de widget weer te geven in een Lijstweergave, Rasterweergave, Galerijweergave of Watervalweergave en de elementen te sorteren op naam, grootte en gewijzigde datum. U kunt ook een element selecteren om de elementdetails weer te geven of het uit de lijst met onlangs weergegeven elementen te verwijderen.
+
+De **[!UICONTROL Top Downloads]** worden de bovenste tien meest gedownloade middelen weergegeven die beschikbaar zijn in uw Assets Essentials-omgeving. U kunt selecteren om elementen weer te geven in de Lijstweergave of de Rasterweergave. In beide weergaven worden het indelingstype en het aantal downloads voor elk element weergegeven. U kunt ook een element selecteren en op **[!UICONTROL Details]** om de eigenschappen ervan weer te geven.
 
 ![Inhoudswidget in werkruimte](assets/workspace-content.png)
 

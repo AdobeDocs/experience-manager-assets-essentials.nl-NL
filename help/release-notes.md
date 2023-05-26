@@ -4,28 +4,32 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: aefa3e0c76a4b92b00ff069655297387cfe733b0
+source-git-commit: de0a8e4f31a378f79c5b94414886c8ec9d3d7891
 workflow-type: tm+mt
-source-wordcount: '1729'
+source-wordcount: '1777'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt gepubliceerd op 30 maart 2023.
+De huidige release van Assets Essentials wordt gepubliceerd op 24 mei 2023.
 
 De lijst met onlangs toegevoegde functies bevat:
 
+**Meest gedownloade elementen**
+
+In Mijn werkruimte worden nu de tien meest gedownloade middelen voor uw Assets Essentials-omgeving weergegeven in de [!UICONTROL Content] sectie. U kunt ook het formaattype en het aantal downloads voor elk vermeld element bekijken.
+
 **Bulkupdates van metagegevens van elementen**
 
-Met updates van bulkmetagegevens kunt u algemene updates van metagegevens tegelijkertijd op meerdere elementen uitvoeren. U hoeft records niet afzonderlijk bij te werken en kunt snel eigenschappen toepassen op elementen die worden benaderd via zoeken, mappen en verzamelingen.
+Met updates van bulkmetagegevens kunt u algemene updates van metagegevens tegelijkertijd op meerdere elementen uitvoeren. U hoeft de records niet afzonderlijk bij te werken en kunt snel eigenschappen toepassen op elementen of mappen die via de zoekopdracht worden benaderd.
 
 **Mijn werkruimte met configureerbare widgets**
 
 De middelen verstrekken nu een aangepaste werkruimte voor u, die als één-lokoplossing dient om gemakkelijke toegang tot zeer belangrijke gebieden van het gebruikersinterface van Activa en informatie te verlenen die voor u het meest relevant is. Snellere toegang tot deze opties verhoogt de snelheid en efficiëntie van de inhoud van uw projecten.
 
-Mijn werkruimte bevat widgets voor aanstaande nieuwe functies, Inzichten, Taken, en Inhoud. U kunt configureren hoe deze widgets in uw werkruimte worden weergegeven op basis van uw voorkeuren.
+Mijn werkruimte bevat widgets voor inzicht, taken en inhoud. U kunt configureren hoe deze widgets in uw werkruimte worden weergegeven op basis van uw voorkeuren.
 
 **Gebruikersinterface voor toegewezen taakbeheer**
 
@@ -56,6 +60,8 @@ De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voo
 
 
 * De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
+
+* Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
 
 Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
 
