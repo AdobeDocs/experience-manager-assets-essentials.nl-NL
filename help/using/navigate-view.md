@@ -3,9 +3,9 @@ title: "[!DNL Assets Essentials] gebruikersinterface"
 description: De gebruikersinterface en navigatie begrijpen in [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: b2ec3dde3d231cdb772833dfa7c9de01b7c3dd38
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ U kunt door de mappen bladeren vanuit de hoofdgebruikersinterface of vanuit de l
 * [Verzamelingen](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=en): Een verzameling is een set elementen, mappen of andere verzamelingen in Adobe Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen. In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten. U kunt meerdere verzamelingen delen met een gebruiker. Elke verzameling bevat verwijzingen naar elementen. De referentiële integriteit van activa wordt gehandhaafd over inzamelingen.
 
 * [Inzichten](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=en#view-live-statistics): In [!DNL Assets Essentials]kunt u real-time inzichten op uw dashboard bekijken. Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Insights. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
-* **Prullenbak**: De elementen weergeven die zijn verwijderd uit de hoofdmap **[!UICONTROL Assets]** map. U kunt een middel in de omslag van het Afval selecteren om of het aan de originele plaats te herstellen of het permanent te schrappen.
+* **Prullenbak**: De elementen weergeven die zijn verwijderd uit de hoofdmap **[!UICONTROL Assets]** map. U kunt een middel in de omslag van het Afval selecteren om of het aan de originele plaats te herstellen of het permanent te schrappen. U kunt ook een trefwoord opgeven of standaard- of aangepaste filters toepassen om te zoeken naar de juiste elementen in de map Prullenbak. Ga voor meer informatie over het gebruik van standaard- en aangepaste filters naar [Middelen zoeken in Assets Essentials](search.md).
 * **Instellingen**: U kunt verschillende opties voor Assets Essentials configureren met **Instellingen**, zoals metagegevensformulieren, rapporten en taxonomiebeheer.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
