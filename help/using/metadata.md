@@ -4,14 +4,14 @@ description: Metagegevens van elementen beheren in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: d22d6690196b330e7893b062fee103ffac1d6c78
 workflow-type: tm+mt
-source-wordcount: '1214'
+source-wordcount: '1497'
 ht-degree: 0%
 
 ---
 
-# Metagegevens in [!DNL Assets Essentials] {#metadata}
+# Metagegevens in middelenweergave {#metadata}
 
 Metagegevens zijn gegevens of een beschrijving van de gegevens. Uw afbeeldingen als element kunnen bijvoorbeeld informatie bevatten over de camera waarop u hebt geklikt of over copyrightgegevens. Deze informatie is metagegevens van de afbeelding. Metagegevens zijn essentieel voor efficiënt middelenbeheer. Metagegevens zijn de verzameling van alle gegevens die voor een element beschikbaar zijn, maar hoeven niet noodzakelijkerwijs in dat element te zijn opgenomen.
 
@@ -37,11 +37,11 @@ De basismetagegevens, zoals titel, beschrijving en uploaddatum, zijn beschikbaar
 
 ## Metagegevens bijwerken {#update-metadata}
 
-U kunt een aantal metagegevensvelden handmatig bijwerken. De velden bevatten [!UICONTROL Title], [!UICONTROL Description], [!UICONTROL Author], en [!UICONTROL Keywords].
+Nadat het metagegevensformulier door Admin is geconfigureerd, kunnen andere velden handmatig worden bijgewerkt. U kunt dit wijzigen omdat het alleen leest op basis van het metagegevensformulier in het vak.
 
-## Tags {#tags}
+## Slimme tags {#smart-tags}
 
-[!DNL Assets Essentials] maakt gebruik van kunstmatige intelligentie, verstrekt door [Adobe Sensei](https://www.adobe.com/sensei.html) om automatisch relevante tags toe te passen op alle geüploade elementen. Deze labels, met de juiste naam Slimme tags, verhogen de snelheid van de inhoud van uw projecten door u te helpen snel relevante elementen te vinden. De slimme tags zijn een voorbeeld van metagegevens die niet in de afbeelding voorkomen.
+[!DNL Experience Manager Assets] maakt gebruik van kunstmatige intelligentie, verstrekt door [Adobe Sensei](https://www.adobe.com/sensei.html) om automatisch relevante tags toe te passen op alle geüploade elementen. Deze labels, met de juiste naam Slimme tags, verhogen de snelheid van de inhoud van uw projecten door u te helpen snel relevante elementen te vinden. De slimme tags zijn een voorbeeld van metagegevens die niet in de afbeelding voorkomen.
 
 De slimme tags worden toegepast in de buurt van realtime en worden gegenereerd op basis van de inhoud van de afbeelding. Wanneer u een element uploadt, wordt de gebruikersinterface weergegeven [!UICONTROL Processing] gedurende enige tijd op de miniatuur van het element. Zodra de verwerking is voltooid, kunt u [de metagegevens weergeven](#view-metadata) en de slimme tags.
 
@@ -51,11 +51,15 @@ De slimme tags worden toegepast in de buurt van realtime en worden gegenereerd o
 
 Slimme tags bevatten ook een betrouwbaarheidsscore als percentage. Het geeft het vertrouwen aan dat aan de toegepaste tag is gekoppeld. U kunt de automatisch toegepaste slimme tags verkleinen.
 
-## Tags toevoegen of bijwerken {#manually-tag}
+## Trefwoorden toevoegen of bijwerken {#manually-tag}
 
 U kunt meer tags toevoegen aan uw elementen, naast de slimme tags die automatisch worden toegevoegd met de opdracht [!DNL Adobe Sensei] intelligente service. Een element openen voor een voorvertoning, klikt u op [!UICONTROL Tags]en typ de gewenste trefwoorden in het veld [!UICONTROL Keywords] veld. Druk op Return om de tag toe te voegen. [!DNL Assets Essentials] indexeert het sleutelwoord in dichtbij echt - tijd en uw team kan spoedig de bijgewerkte activa zoeken gebruikend de nieuwe sleutelwoorden.
 
 U kunt ook tags verwijderen uit het dialoogvenster [!UICONTROL Smart Tags] sectie die automatisch wordt toegevoegd door [!DNL Assets Essentials] naar alle geüploade elementen.
+
+## Taxonomiebeheer {#taxonomy-management}
+
+Tags kunnen ook in een hiërarchie worden genest ter ondersteuning van relaties zoals categorie en subcategorie. Als u hiërarchische tags moet invoegen, worden deze eenvoudig beheerd door de beheerder in het dialoogvenster [!UICONTROL Taxonomy Management] deel van [!UICONTROL Settings]. U kunt een beheerde set naamruimten en tags maken die alle gebruikers kunnen gebruiken tijdens het beschrijven van inhoud. Alleen de beheerders kunnen taghiërarchieën instellen in [!UICONTROL Taxonomy Manager] ervoor zorgen dat de waarden op consistente wijze worden gecontroleerd en gebruikt.
 
 ## Metagegevens Forms instellen {#metadata-forms}
 
@@ -74,7 +78,7 @@ Assets Essentials gebruikt de volgende reeks om te zoeken naar bestaande formuli
 
 MIME-subtype > MIME-type > `default` form > Out-of-the-box form
 
-Als een metagegevensformulier bijvoorbeeld op naam staat `PDF` of `pdf` bestaat, bevat het geüploade PDF-document metagegevensvelden zoals gedefinieerd in het formulier. Als een metagegevensformulier met de naam `PDF` of `pdf` bestaat niet. Assets Essentials komt overeen als er een metagegevensformulier met de naam bestaat `application`. Als er een metagegevensformulier met de naam `application`bevat de geüploade PDF-documenten metagegevensvelden zoals gedefinieerd in het formulier. Als Assets Essentials nog steeds geen overeenkomend metagegevensformulier vindt, wordt gezocht naar de `default` een metagegevensformulier om de in het formulier gedefinieerde metagegevensvelden toe te passen op de geüploade PDF-documenten. Als geen van deze stappen werkt, past Assets Essentials metagegevensvelden die in het formulier buiten de box zijn gedefinieerd, toe op alle geüploade PDF-documenten.
+Als een metagegevensformulier bijvoorbeeld op naam staat `PDF` of `pdf` bestaat, bevat het geüploade PDF-document metagegevensvelden zoals gedefinieerd in het formulier. Als een metagegevensformulier met de naam `PDF` of `pdf` bestaat niet. Assets Essentials komt overeen als er een metagegevensformulier met de naam bestaat `application`. Als er een metagegevensformulier met de naam `application`De geüploade PDF-documenten bevatten metagegevensvelden zoals gedefinieerd in het formulier. Als Assets Essentials nog steeds geen overeenkomend metagegevensformulier vindt, wordt gezocht naar de `default` een metagegevensformulier om de in het formulier gedefinieerde metagegevensvelden toe te passen op de geüploade PDF-documenten. Als geen van deze stappen werkt, past Assets Essentials metagegevensvelden die in het formulier buiten de box zijn gedefinieerd, toe op alle geüploade PDF-documenten.
 
 >[!IMPORTANT]
 >
@@ -95,7 +99,7 @@ Ga als volgt te werk om een metagegevensformulier te maken:
 
    *Afbeelding: Metagegevens maken interface met opties voor het toevoegen van componenten en optie voor het weergeven van een voorbeeld van het formulier.*
 
-1. Geef voor elke component in het dialoogvenster een naam op in het dialoogvenster **[!UICONTROL Settings]** in de rechterspoorstaaf een kaart van de ondersteunde eigenschappen leveren.
+1. Geef voor elke component een naam op in het dialoogvenster **[!UICONTROL Settings]** in de rechterspoorstaaf een kaart van de ondersteunde eigenschappen leveren.
 1. Selecteer optioneel voor een component **[!UICONTROL Required]** om het metagegevensveld verplicht te maken en selecteer **[!UICONTROL Read-Only]** om het veld in het element onbewerkbaar te maken [!UICONTROL Details] pagina.
 1. Klik optioneel op **[!UICONTROL Preview]** om een voorbeeld te bekijken van het formulier dat u maakt.
 1. Voeg desgewenst meer tabbladen en de vereiste componenten toe aan elk tabblad.
@@ -108,6 +112,27 @@ Bekijk deze video om de reeks stappen weer te geven:
 Nadat een formulier is gemaakt, wordt het automatisch toegepast wanneer gebruikers een element van het overeenkomende MIME-type uploaden.
 
 Als u een bestaand formulier opnieuw wilt gebruiken om een nieuw formulier te maken, selecteert u een metagegevensformulier. Klik op **[!UICONTROL Copy]** Geef een naam op in de werkbalk en klik op **[!UICONTROL Confirm]**. U kunt een metagegevensformulier bewerken om het te wijzigen. Wanneer u een formulier wijzigt, wordt dit gebruikt voor elementen die na de wijziging worden geüpload. De bestaande activa blijven ongewijzigd.
+
+## Eigenschapcomponenten {#property-components}
+
+U kunt het metagegevensformulier aanpassen met een van de volgende eigenschapcomponenten. U sleept het componenttype gewoon naar het formulier op de gewenste locatie en wijzigt de componentinstellingen.
+Hieronder ziet u een overzicht van elk type eigenschap en de manier waarop deze worden opgeslagen.
+
+| Componentnaam | Beschrijving |
+|---|---|
+| Accordeoncontainer | Voeg een inklapbare rubriek voor een lijst van gemeenschappelijke componenten en eigenschappen toe. Deze kan standaard worden uitgevouwen of samengevouwen. |
+| Tekst met één regel | Voeg een teksteigenschap voor één regel toe. |
+| Tekst met meerdere regels | Voeg meerdere tekstregels of een alinea toe. Het wordt uitgebreid als gebruikerstypes om alle inhoud te bevatten. |
+| Tekst met meerdere waarden | Voeg een teksteigenschap voor meerdere waarden toe. |
+| Getal | Voeg een getalcomponent toe. |
+| Selectievakje | Voeg een Booleaanse waarde toe. Opgeslagen als TRUE of FALSE zodra een waarde is opgeslagen. |
+| Datum | Voeg een datumcomponent toe. |
+| Vervolgkeuzelijst | Voeg een vervolgkeuzelijst toe. |
+| Staat | De statuseigenschap voor de repository toevoegen (toegewezen aan repo:state) |
+| Status van element | De standaardeigenschap Asset Status toevoegen (toegewezen aan dam:assetStatus) |
+| Tags | Voeg een tag toe uit waarden die zijn opgeslagen in Taxonomy Management (toegewezen aan xcm:tags). |
+| Trefwoorden | Vrije-vormtrefwoorden toevoegen (toegewezen aan dc:subject). |
+| Slimme tags | U kunt zoekmogelijkheden uitbreiden door automatisch metagegevenstags toe te voegen. |
 
 ## Volgende stappen {#next-steps}
 
