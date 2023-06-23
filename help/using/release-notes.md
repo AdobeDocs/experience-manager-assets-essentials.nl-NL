@@ -4,16 +4,77 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: d6737d903b8010e2a3b7434584a7aae0d7bc68bd
 workflow-type: tm+mt
-source-wordcount: '1777'
+source-wordcount: '2034'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt gepubliceerd op 24 mei 2023.
+De huidige release van Assets Essentials wordt gepubliceerd op 8 juni 2023.
+
+De lijst met functies bevat:
+
+
+**Hiërarchische codering van elementen voor sneller zoeken**
+
+Vlakke lijsten met gecontroleerde woordenboeken worden in de loop der tijd onbeheersbaar. Assets Essentials biedt nu ondersteuning voor hiërarchische coderingsstructuur, die het toepassen van relevante metagegevens, het indelen van elementen, het ondersteunen van zoeken, het hergebruiken van tags, het verbeteren van de ontdekkingsmogelijkheden, enzovoort, vergemakkelijkt.
+
+![Tagbeheer](assets/tags-hierarchy.png)
+
+**Bestanden, mappen en verzamelingen vastzetten voor snelle toegang**
+
+U kunt nu bestanden, mappen en verzamelingen vastzetten zodat u deze items sneller kunt openen wanneer u ze later nodig hebt. De vastgezette items worden weergegeven in het dialoogvenster **Snelle toegang** van Mijn werkruimte. U kunt ze openen met Mijn werkruimte in plaats van naar de locatie te navigeren waar ze zijn opgeslagen in de opslagplaats.
+
+![Taken in de werkruimte](assets/quick-access.png)
+
+**Elementen filteren in de map Prullenbak**
+
+Met Assets Essentials kunt u nu de middelen filteren die beschikbaar zijn in de map Prullenbak. U kunt standaard- of aangepaste filters toepassen om te zoeken in de juiste middelen in de map met prullenmand om deze te herstellen of permanent te verwijderen.
+
+**Voorvertoningen van miniaturen voor 3D-elementen**
+
+Assets Essentials genereert nu miniatuurvoorvertoningen voor veelgebruikte 3D-bestandsindelingen, zoals gLB, USDz, FBX, 3DS, OBJ en SBSAR. Wanneer deze bestanden naar Assets Essentials worden geüpload, worden automatisch miniaturen gegenereerd door het systeem.
+
+![Taken in de werkruimte](assets/3d-preview.png)
+
+**Bovenste gezochte termen weergeven**
+
+Assets Essentials biedt nu ondersteuning voor het bekijken van de belangrijkste gezochte termen binnen uw Assets Essentials-implementatie met behulp van de **Inzichten** van Mijn werkruimte. U kunt ook naar gedetailleerde inzichten navigeren om de belangrijkste zoekopdrachten in de afgelopen 30 dagen of 12 maanden weer te geven.
+
+![Taken in de werkruimte](assets/insights-top-searches.png)
+
+**Verbeteringen in metagegevensformulieren**
+
+Met Assets Essentials kunt u nu meerwaardetekst- en vervolgkeuzelijsteigenschappen toevoegen aan de metagegevensformulieren.
+
+
+**Verbeteringen gebaseerd op feedback van klanten**
+
+Verbeteringen en foutoplossingen op basis van feedback van klanten.
+
+## Bekende problemen {#known-issues}
+
+De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
+
+* Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
+
+Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
+
+## Eerdere versies {#past-releases}
+
+### Meerdere releases in 2023 {#multiple-releases-2023}
 
 De lijst met onlangs toegevoegde functies bevat:
 
@@ -47,25 +108,6 @@ Assets Essentials genereert nu automatisch een koppeling zodra u een element wil
 **Verbeteringen gebaseerd op feedback van klanten**
 
 Verbeteringen en foutoplossingen op basis van feedback van klanten.
-
-## Bekende problemen {#known-issues}
-
-De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
-
-* Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
-
-Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
-
-## Eerdere versies {#past-releases}
 
 ### 2022.11.0 {#november-2022}
 
@@ -253,7 +295,7 @@ Daarnaast [!DNL Adobe Asset Link] een extensie voor Creative Cloud (Photoshop, I
 
 [!DNL Assets Essentials] 2021.8.0 wordt gepubliceerd op 30 augustus 2021, met de volgende updates:
 
-* Integratie met [!DNL Adobe Workfront] die [!DNL Workfront] gebruikers beheren hun digitale middelen in de context van het beheer van hun werk. Zie voor meer informatie [integratie met andere Adobe-oplossingen](/help/using/integration.md).
+* Integratie met [!DNL Adobe Workfront] die [!DNL Workfront] gebruikers beheren hun digitale middelen in de context van het beheer van hun werk.
 
 ### release 2021.7.0 {#july2021}
 
@@ -269,4 +311,4 @@ De eerste release van [!DNL Assets Essentials], beschikbaar gesteld op 21 juni 2
 * Upload en voeg elementen toe, waaronder geneste mappen. Geef een voorvertoning weer van de elementen en versies.
 * Volledige-tekstonderzoek, genummerde onderzoeksfilters, en bewaarde onderzoeken voor snelle activaontdekking.
 * Basisbewerkingen voor middelenbeheer, zoals het bijwerken, verwijderen, downloaden en beheren van metagegevens.
-* [!DNL Assets Essentials] is beschikbaar voor [!DNL Adobe Journey Optimizer] gebruikers om de elementen te beheren wanneer ze berichten maken. Zie voor meer informatie [integratie met andere Adobe-oplossingen](/help/using/integration.md).
+* [!DNL Assets Essentials] is beschikbaar voor [!DNL Adobe Journey Optimizer] gebruikers om de elementen te beheren wanneer ze berichten maken.

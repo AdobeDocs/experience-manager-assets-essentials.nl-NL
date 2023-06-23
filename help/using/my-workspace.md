@@ -2,9 +2,9 @@
 title: Mijn werkruimte voor middelen
 description: Mijn werkruimte is een pagina die aanpasbare visuele modules voor gemakkelijke toegang tot zeer belangrijke gebieden van het gebruikersinterface van Activa en informatie verstrekt die voor de gebruiker het meest relevant is.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Middelen beschikken nu over een aanpasbare werkruimte die widgets biedt voor eenvoudige toegang tot belangrijke gebieden van de gebruikersinterface van Elementen en informatie die voor u het meest relevant is. Deze pagina dient als een one-stop oplossing om een overzicht van uw het werkpunten te verstrekken en snelle toegang tot zeer belangrijke werkschema&#39;s te geven. Een handiger toegang tot deze opties verhoogt de efficiëntie en snelheid van de inhoud.
 
-U hebt toegang tot mijn werkruimte door op **[!UICONTROL My Workspace]** uit de items in het linkernavigatievenster. Mijn werkruimte bevat diverse widgets die widgets Inzichten, Taken en Inhoud weergeven. U kunt configureren hoe deze widgets in uw werkruimte worden weergegeven op basis van uw voorkeuren.
+U hebt toegang tot mijn werkruimte door op **[!UICONTROL My Workspace]** uit de items in het linkernavigatievenster. Mijn werkruimte bevat diverse widgets die Snelle toegang, Inzichten, Taken en Inhoudswidgets weergeven. U kunt configureren hoe deze widgets in uw werkruimte worden weergegeven op basis van uw voorkeuren.
 
 >[!NOTE]
 >
@@ -34,9 +34,21 @@ Highlights upcoming features for Assets.
 
 -->
 
+
+
+**Snelle toegang**
+
+Bestanden, mappen en verzamelingen vastzetten om sneller toegang te krijgen tot deze items wanneer u deze later nodig hebt. Alle vastgezette items worden weergegeven in het dialoogvenster **Snelle toegang** van Mijn werkruimte. U kunt ze openen met Mijn werkruimte in plaats van naar de locatie te navigeren waar ze zijn opgeslagen in de opslagplaats.
+
+Als u een element, map of verzameling wilt vastzetten, selecteert u het item en klikt u op **[!UICONTROL Pin to Quick Access]**.
+
+![Taken in de werkruimte](assets/quick-access.png)
+
 **Inzichten**
 
 Beheerders kunnen een overzicht weergeven van het aantal downloads en uploads dat de afgelopen 30 dagen in de omgeving van middelen is uitgevoerd. U kunt op **[!UICONTROL View all]** om snel naar de pagina Inzichten voor gedetailleerdere dashboards te navigeren.
+
+U kunt ook de belangrijkste gezochte termen weergeven, samen met het aantal keren dat deze termen binnen uw Assets Essentials-implementatie worden doorzocht met de **Inzichten** van Mijn werkruimte. U kunt ook naar gedetailleerde inzichten navigeren om de belangrijkste zoekopdrachten in de afgelopen 30 dagen of 12 maanden weer te geven.
 
 ![Inzichten in werkruimte](assets/insights.png)
 
