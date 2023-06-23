@@ -4,9 +4,9 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 9b05b9cec106b426038d53d195516a1c616a07a1
+source-git-commit: 84b830af6225242aa8cb851ac6458a66394a281a
 workflow-type: tm+mt
-source-wordcount: '2034'
+source-wordcount: '2038'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De huidige release van Assets Essentials wordt gepubliceerd op 22 juni 2023.
 
-De lijst met functies bevat:
+De release bevat de volgende functies:
 
 
 **Hiërarchische codering van elementen voor sneller zoeken**
