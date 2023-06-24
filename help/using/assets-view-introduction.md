@@ -1,14 +1,17 @@
 ---
 title: Inleiding tot de weergave Middelen
 description: Nieuwe functies in de weergave Elementen
-source-git-commit: faa88352204ffa607f669e90fce0fb25320f3de8
+source-git-commit: d725a3525c7f451b6dd3377ff267adb50df72280
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
 
+
 # Inleiding tot middelenweergave {#assets-view}
+
+![Assets Essentials implementeren](assets/banner-image.jpg)
 
 In het snelle digitale-eerste landschap van vandaag, waar het creëren en leveren van inhoud in real time essentieel zijn, is een Ervaring van het Beheer van Digitale Middelen (DAM) die voor stroomafwaartse marketing snelheid wordt ontworpen van het grootste belang. Adobe, die gebruik maakt van zijn expertise op het gebied van het verbeteren van marketing en creatieve professionals, introduceert een game veranderende nieuwe ervaring voor de gebruiker van de Weergave van Activa. Deze workfloweerste aanpak zorgt voor een revolutie in de manier waarop bedrijven omgaan met hun dynamische digitale middelen, waardoor marketers de mogelijkheid krijgen om efficiënter te zoeken, samen te werken, te personaliseren en middelen te leveren. Deze gestroomlijnde workflows versnellen de snelheid van de inhoud en brengen uw marketinginspanningen naar nieuwe hoogten.
 
