@@ -1,9 +1,9 @@
 ---
 title: Inleiding tot de weergave Middelen
 description: Nieuwe functies in de weergave Elementen
-source-git-commit: d725a3525c7f451b6dd3377ff267adb50df72280
+source-git-commit: 839c85efa1ba91db5644c7463ff269b6b06f69a1
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
@@ -46,5 +46,10 @@ Doe een groeten aan een Digital Asset Management-oplossing die de uiteenlopende 
 
 [![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
+## Eerste benadering zoeken om de efficiëntie te verbeteren
+
+Ontgrendel het potentieel van de digitale bibliotheek van uw organisatie met de kracht van zoekmogelijkheden met de meest geavanceerde functionaliteit. Je kunt afscheid nemen van het probleem van het handmatig doorzoeken van talloze bestanden en mappen. Elke gebruiker kan direct het perfecte beeld, de video, of het document vinden u moet creëren verbluffende marketing campagnes maken, presentaties fascineren, en het aansprekende inhoud. Met onze eerste zoekfunctie kunt u moeiteloos door elementtypen, metagegevens, slimme tags en zelfs de inhoud zelf navigeren zonder het exacte trefwoord te kennen. Met de functie Eerste zoeken kunt u de toekomst van de DAM benutten en het volledige potentieel van uw digitale assetbibliotheek benutten.
+
+![Assets Essentials implementeren](assets/search-first.gif)
 
 
