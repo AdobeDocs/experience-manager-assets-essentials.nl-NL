@@ -1,7 +1,7 @@
 ---
 title: Inleiding tot de weergave Middelen
 description: Nieuwe functies in de weergave Elementen
-source-git-commit: c633c6195efc1f249b7c7568a8688409dfa7465e
+source-git-commit: 9d14827d10d2bae34b19a318aac1cc0820e81f35
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Herhaal deze stappen om terug te schakelen naar de beheerweergave.
 
 Doe een groeten aan een Digital Asset Management-oplossing die de uiteenlopende behoeften van verschillende organisatorische rollen begrijpt. De gestroomlijnde nieuwe middelenweergave geeft voorrang aan gebruiksgemak en snelheid, waarbij de voorkeur van de marketers wordt afgestemd op visuele aantrekkingskracht en werkruimten zonder rommeligheid. Met een aanpasbaar gebruikersspecifiek dashboard voor Mijn werkruimte kunnen marketers snel middelen zoeken, voorvertonen, bewerken, beheren en leveren met opmerkelijke efficiëntie. Bodyvakantie naar eindeloze uren besteed aan het zoeken naar specifieke middelen en verwelkom een gestroomlijnde ervaring die alles wat u nodig hebt binnen handbereik brengt.
 
-![Assets Essentials implementeren](assets/my-workspace1.gif)
+![Assets Essentials implementeren](assets/workspace.gif)
 
 [![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
