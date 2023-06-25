@@ -3,7 +3,7 @@ title: Inleiding tot de weergave Middelen
 description: Nieuwe functies in de weergave Elementen
 hidefromtoc: true
 hide: true
-source-git-commit: 836f4524bde739614cca0595e7aace5f7674a954
+source-git-commit: 1ff1ced0910f1b2ca18e9130b07a399da1ccf27f
 workflow-type: tm+mt
 source-wordcount: '549'
 ht-degree: 0%
@@ -65,6 +65,8 @@ Om gelijke tred te houden met de snelheid van de inhoud, zijn activeerbare inzic
 ## Werk sneller {#accelerate-collaboration}
 
 De nieuwe ervaring verstrekt een robuuste reeks samenwerkingseigenschappen, met inbegrip van het uitgeven in real time van ingebouwde mogelijkheden van Adobe Photoshop, versiecontroles, en annotatiehulpmiddelen. Dit maakt naadloze samenwerking mogelijk tussen ontwerp-, creatieve, branding- en marketingteams, zodat deze knelpunten kunnen overwinnen en het marketingproces kunnen versnellen. Marktdeelnemers beschikken nu over krachtige instrumenten om de levering van projecten te versnellen en hun algehele productiviteit te verhogen.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3420922)
 
 
 
