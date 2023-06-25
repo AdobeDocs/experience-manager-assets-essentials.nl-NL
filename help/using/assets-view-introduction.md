@@ -3,17 +3,15 @@ title: Inleiding tot de weergave Middelen
 description: Nieuwe functies in de weergave Elementen
 hidefromtoc: true
 hide: true
-source-git-commit: 2378e09a21dfa3c87964058bca38a3d6d2ead98f
+source-git-commit: 1a7bb00371ae51159b8712156d852b5e107a3be6
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
 
 
 # Inleiding tot middelenweergave {#assets-view}
-
-![Assets Essentials implementeren](assets/banner-image.jpg)
 
 ![Assets Essentials implementeren](assets/banner-image1.png)
 
