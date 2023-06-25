@@ -3,9 +3,9 @@ title: Inleiding tot de weergave Middelen
 description: Nieuwe functies in de weergave Elementen
 hidefromtoc: true
 hide: true
-source-git-commit: 1a7bb00371ae51159b8712156d852b5e107a3be6
+source-git-commit: 836f4524bde739614cca0595e7aace5f7674a954
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Inleiding tot middelenweergave {#assets-view}
 
-![Assets Essentials implementeren](assets/banner-image1.png)
+![Assets Essentials implementeren](assets/banner-image.jpg)
 
 In het snelle digitale-eerste landschap van vandaag, waar het creëren en leveren van inhoud in real time essentieel zijn, is een Ervaring van het Beheer van Digitale Middelen (DAM) die voor stroomafwaartse marketing snelheid wordt ontworpen van het grootste belang. Adobe, die gebruik maakt van zijn expertise op het gebied van het verbeteren van marketing en creatieve professionals, introduceert een game veranderende nieuwe ervaring voor de gebruiker van de Weergave van Activa. Deze workfloweerste aanpak zorgt voor een revolutie in de manier waarop bedrijven omgaan met hun dynamische digitale middelen, waardoor marketers de mogelijkheid krijgen om efficiënter te zoeken, samen te werken, te personaliseren en middelen te leveren. Deze gestroomlijnde workflows versnellen de snelheid van de inhoud en brengen uw marketinginspanningen naar nieuwe hoogten.
 
@@ -44,7 +44,7 @@ Herhaal deze stappen om terug te schakelen naar de beheerweergave.
 
 Doe een groeten aan een Digital Asset Management-oplossing die de uiteenlopende behoeften van verschillende organisatorische rollen begrijpt. De gestroomlijnde nieuwe middelenweergave geeft voorrang aan gebruiksgemak en snelheid, waarbij de voorkeur van de marketers wordt afgestemd op visuele aantrekkingskracht en werkruimten zonder rommeligheid. Met een aanpasbaar gebruikersspecifiek dashboard voor Mijn werkruimte kunnen marketers snel middelen zoeken, voorvertonen, bewerken, beheren en leveren met opmerkelijke efficiëntie. Bodyvakantie naar eindeloze uren besteed aan het zoeken naar specifieke middelen en verwelkom een gestroomlijnde ervaring die alles wat u nodig hebt binnen handbereik brengt.
 
-![Assets Essentials implementeren](assets/experiment.gif)
+![Assets Essentials implementeren](assets/my-workspace-demo.gif)
 
 [![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
@@ -61,5 +61,11 @@ Om gelijke tred te houden met de snelheid van de inhoud, zijn activeerbare inzic
 ![Assets Essentials implementeren](assets/insights-overview.gif)
 
 [![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
+
+## Werk sneller {#accelerate-collaboration}
+
+De nieuwe ervaring verstrekt een robuuste reeks samenwerkingseigenschappen, met inbegrip van het uitgeven in real time van ingebouwde mogelijkheden van Adobe Photoshop, versiecontroles, en annotatiehulpmiddelen. Dit maakt naadloze samenwerking mogelijk tussen ontwerp-, creatieve, branding- en marketingteams, zodat deze knelpunten kunnen overwinnen en het marketingproces kunnen versnellen. Marktdeelnemers beschikken nu over krachtige instrumenten om de levering van projecten te versnellen en hun algehele productiviteit te verhogen.
+
+
 
 
