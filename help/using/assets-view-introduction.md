@@ -3,9 +3,9 @@ title: Inleiding tot de weergave Middelen
 description: Nieuwe functies in de weergave Elementen
 hidefromtoc: true
 hide: true
-source-git-commit: 1ff1ced0910f1b2ca18e9130b07a399da1ccf27f
+source-git-commit: 7a1d9c01ed19015f8552b088142122b354c6074b
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '640'
 ht-degree: 0%
 
 ---
@@ -62,11 +62,17 @@ Om gelijke tred te houden met de snelheid van de inhoud, zijn activeerbare inzic
 
 [![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
-## Werk sneller {#accelerate-collaboration}
+## Werk sneller samen met Adobe Photoshop Express-integratie {#accelerate-collaboration}
 
 De nieuwe ervaring verstrekt een robuuste reeks samenwerkingseigenschappen, met inbegrip van het uitgeven in real time van ingebouwde mogelijkheden van Adobe Photoshop, versiecontroles, en annotatiehulpmiddelen. Dit maakt naadloze samenwerking mogelijk tussen ontwerp-, creatieve, branding- en marketingteams, zodat deze knelpunten kunnen overwinnen en het marketingproces kunnen versnellen. Marktdeelnemers beschikken nu over krachtige instrumenten om de levering van projecten te versnellen en hun algehele productiviteit te verhogen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420922)
+
+[![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
+
+## Snelle hiërarchische structuurinstellingen met behulp van mappen uploaden {#folder-uploads}
+
+Stel snel een mapstructuur voor uw organisatie in met de weergave Middelen door mappen te uploaden die op uw lokale bestandssysteem aanwezig zijn. U hoeft geen mappen te maken onder de hoofdmap en vervolgens handmatig elementen te uploaden naar die mappen om de logische hiërarchische structuur te behouden. Alle mappen en elementen in de hoofdmap worden automatisch geüpload naar Experience Manager Assets.
 
 
 
