@@ -3,9 +3,9 @@ title: Inleiding tot de weergave Middelen
 description: Nieuwe functies in de weergave Elementen
 hidefromtoc: true
 hide: true
-source-git-commit: f370e2e3e1c7fc5798e6873bd37098e5c22b8e5a
+source-git-commit: 9ce744b0a920dc553a41e631d0f1be1d8f26bb93
 workflow-type: tm+mt
-source-wordcount: '1005'
+source-wordcount: '1020'
 ht-degree: 0%
 
 ---
@@ -65,6 +65,8 @@ Om gelijke tred te houden met de snelheid van de inhoud, zijn activeerbare inzic
 ## Adobe Photoshop Express-integratie om samenwerking te versnellen {#accelerate-collaboration}
 
 De nieuwe ervaring verstrekt een robuuste reeks samenwerkingseigenschappen, met inbegrip van het uitgeven in real time van ingebouwde mogelijkheden van Adobe Photoshop, versiecontroles, en annotatiehulpmiddelen. Dit maakt naadloze samenwerking mogelijk tussen ontwerp-, creatieve, branding- en marketingteams, zodat deze knelpunten kunnen overwinnen en het marketingproces kunnen versnellen. Marktdeelnemers beschikken nu over krachtige instrumenten om de levering van projecten te versnellen en hun algehele productiviteit te verhogen.
+
+Bekijk deze video om te zien hoe krachtig de integratie van de middelenweergave met Adobe Photoshop Express is:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420922)
 
