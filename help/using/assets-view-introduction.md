@@ -3,9 +3,9 @@ title: Inleiding tot de weergave Middelen
 description: Nieuwe functies in de weergave Elementen
 hidefromtoc: true
 hide: true
-source-git-commit: 7a1d9c01ed19015f8552b088142122b354c6074b
+source-git-commit: dd6734b4e43eef875515e48704757a4f53a1a185
 workflow-type: tm+mt
-source-wordcount: '640'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,10 @@ De nieuwe ervaring verstrekt een robuuste reeks samenwerkingseigenschappen, met 
 ## Snelle hiërarchische structuurinstellingen met behulp van mappen uploaden {#folder-uploads}
 
 Stel snel een mapstructuur voor uw organisatie in met de weergave Middelen door mappen te uploaden die op uw lokale bestandssysteem aanwezig zijn. U hoeft geen mappen te maken onder de hoofdmap en vervolgens handmatig elementen te uploaden naar die mappen om de logische hiërarchische structuur te behouden. Alle mappen en elementen in de hoofdmap worden automatisch geüpload naar Experience Manager Assets.
+
+![Assets Essentials implementeren](assets/folder-uploads.gif)
+
+[![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
 
 
