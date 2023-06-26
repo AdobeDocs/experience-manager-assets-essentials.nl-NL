@@ -3,9 +3,9 @@ title: Inleiding tot de weergave Middelen
 description: Nieuwe functies in de weergave Elementen
 hidefromtoc: true
 hide: true
-source-git-commit: 547dd9dab9a2b176f9fb7bed62289d60f96243dc
+source-git-commit: cd99934326eab5f7701e691a7f98329c57f8d2c4
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '844'
 ht-degree: 0%
 
 ---
@@ -78,13 +78,21 @@ Stel snel een mapstructuur voor uw organisatie in met de weergave Middelen door 
 
 [![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
-## Abonneren op inhoud om meldingen te ontvangen
+## Abonneren op inhoud in opslagplaats voor efficiënt middelenbeheer
 
 De weergave Middelen biedt de mogelijkheid om de bewerkingen te controleren die worden uitgevoerd op de middelen, mappen of verzamelingen die beschikbaar zijn in de opslagplaats. U moet de inhoud selecteren en zich erop abonneren waarvoor de meldingen naar u worden verzonden. U kunt de gebeurtenistypen, zoals schrapping van uw geabonneerde inhoud, wijzigingen op geabonneerde inhoud, etc. ook vormen. De meldingen worden vervolgens alleen naar u verzonden voor deze gebeurtenistypen.
 
 ![Meldingen ontvangen](assets/notifications.gif)
 
 [![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
+
+## Soft delete activa om betere controle aan beheerders te verstrekken {#soft-delete-assets}
+
+In de map met prullenmand die beschikbaar is in de weergave Middelen, worden de elementen weergegeven die zijn verwijderd uit de hoofdmap Middelen. U kunt middelen van de omslag van het Afval selecteren om of het aan de originele plaats te herstellen of het permanent te schrappen. U kunt ook een trefwoord opgeven of standaard- of aangepaste filters toepassen om te zoeken naar de juiste elementen in de map Prullenbak.
+
+![Zacht verwijderen](assets/soft-delete.gif)
+
+[![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](navigate-view.md)
 
 
 
