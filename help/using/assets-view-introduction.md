@@ -3,9 +3,9 @@ title: Inleiding tot de weergave Middelen
 description: Nieuwe functies in de weergave Elementen
 hidefromtoc: true
 hide: true
-source-git-commit: cd99934326eab5f7701e691a7f98329c57f8d2c4
+source-git-commit: f370e2e3e1c7fc5798e6873bd37098e5c22b8e5a
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '1005'
 ht-degree: 0%
 
 ---
@@ -93,6 +93,16 @@ In de map met prullenmand die beschikbaar is in de weergave Middelen, worden de 
 ![Zacht verwijderen](assets/soft-delete.gif)
 
 [![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](navigate-view.md)
+
+Naast deze functies kunt u in de weergave Middelen ook de volgende functies uitvoeren die niet beschikbaar zijn in de beheerweergave:
+
+* Upload een nieuwe versie van een element, met een andere naam, van uw lokale bestandssysteem naar de gegevensopslagruimte. Het geüploade element is beschikbaar als een nieuwe versie met dezelfde naam als het oorspronkelijke element.
+
+* Wijzig de naam van elementen en mappen die beschikbaar zijn in de opslagplaats.
+
+## Conclusie {#conclusion}
+
+Het tijdperk van digitaal-eerst is aangebroken en het is tijd om onze marketingtools om te zetten om het evoluerende zakelijke landschap te ondersteunen. De nieuwe Adobe Experience Manager Assets View is speciaal ontworpen om workflows te stroomlijnen, samenwerking te bevorderen en de levering van middelen te versnellen. Door de snelheid van de inhoud te omarmen, kunnen marketers het volledige potentieel van hun digitale middelen ontsluiten en creativiteit ontketenen zoals nooit tevoren. Kies voor de kracht van de nieuwe Adobe Weergave-ervaring en maak uw marketingcampagnes optimaal. Het is tijd om de toekomst van DAM te omarmen en uw bedrijf vooruit te helpen.
 
 
 
