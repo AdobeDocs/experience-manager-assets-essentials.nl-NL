@@ -3,9 +3,9 @@ title: Inleiding tot de weergave Middelen
 description: Nieuwe functies in de weergave Elementen
 hidefromtoc: true
 hide: true
-source-git-commit: dd6734b4e43eef875515e48704757a4f53a1a185
+source-git-commit: 547dd9dab9a2b176f9fb7bed62289d60f96243dc
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,7 @@ Om gelijke tred te houden met de snelheid van de inhoud, zijn activeerbare inzic
 
 [![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
-## Werk sneller samen met Adobe Photoshop Express-integratie {#accelerate-collaboration}
+## Adobe Photoshop Express-integratie om samenwerking te versnellen {#accelerate-collaboration}
 
 De nieuwe ervaring verstrekt een robuuste reeks samenwerkingseigenschappen, met inbegrip van het uitgeven in real time van ingebouwde mogelijkheden van Adobe Photoshop, versiecontroles, en annotatiehulpmiddelen. Dit maakt naadloze samenwerking mogelijk tussen ontwerp-, creatieve, branding- en marketingteams, zodat deze knelpunten kunnen overwinnen en het marketingproces kunnen versnellen. Marktdeelnemers beschikken nu over krachtige instrumenten om de levering van projecten te versnellen en hun algehele productiviteit te verhogen.
 
@@ -70,13 +70,21 @@ De nieuwe ervaring verstrekt een robuuste reeks samenwerkingseigenschappen, met 
 
 [![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
 
-## Snelle hiërarchische structuurinstellingen met behulp van mappen uploaden {#folder-uploads}
+## De omslag uploadt aan opstelling hiërarchische structuur voor uw organisatie {#folder-uploads}
 
 Stel snel een mapstructuur voor uw organisatie in met de weergave Middelen door mappen te uploaden die op uw lokale bestandssysteem aanwezig zijn. U hoeft geen mappen te maken onder de hoofdmap en vervolgens handmatig elementen te uploaden naar die mappen om de logische hiërarchische structuur te behouden. Alle mappen en elementen in de hoofdmap worden automatisch geüpload naar Experience Manager Assets.
 
-![Assets Essentials implementeren](assets/folder-uploads.gif)
+![Mappen uploaden](assets/folder-uploads.gif)
 
 [![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
+
+## Abonneren op inhoud om meldingen te ontvangen
+
+De weergave Middelen biedt de mogelijkheid om de bewerkingen te controleren die worden uitgevoerd op de middelen, mappen of verzamelingen die beschikbaar zijn in de opslagplaats. U moet de inhoud selecteren en zich erop abonneren waarvoor de meldingen naar u worden verzonden. U kunt de gebeurtenistypen, zoals schrapping van uw geabonneerde inhoud, wijzigingen op geabonneerde inhoud, etc. ook vormen. De meldingen worden vervolgens alleen naar u verzonden voor deze gebeurtenistypen.
+
+![Meldingen ontvangen](assets/notifications.gif)
+
+[![Zie de Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
 
 
 
