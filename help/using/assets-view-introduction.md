@@ -4,9 +4,9 @@ description: Nieuwe functies in de weergave Elementen
 mini-toc-levels: 3
 hidefromtoc: true
 hide: true
-source-git-commit: 138e8eaa8e4c0ff83c46e2b6a62e92740c87f366
+source-git-commit: 52ec2263e237e6c3b47dc967eb5cc3e6acbe814f
 workflow-type: tm+mt
-source-wordcount: '1086'
+source-wordcount: '1020'
 ht-degree: 0%
 
 ---
@@ -22,23 +22,29 @@ In het snelle digitale-eerste landschap van vandaag, waar het creëren en levere
 
 U kunt de weergave Middelen op de volgende manieren openen:
 
-* **Schakelen in beheerweergave**
+![Overzicht van Mijn werkruimte](assets/assets-view.png)
 
-   * Aanmelden [!DNL Experience Manager] met Cloud Manager.
-   * Ga naar **[!UICONTROL Assets]** > **[!UICONTROL Files]**.
-   * Klik op het profielpictogram in de rechterbovenhoek.
-   * Klikken **[!UICONTROL Switch View]** van de **[!UICONTROL Profile Settings]** sectie.
-Herhaal deze stappen om terug te schakelen naar de beheerweergave.
+<!--
 
-* **Productschakelaar**
-   * Aanmelden [!DNL Experience Manager] en klik op
-   * Selecteren **[!UICONTROL Experience Manager Assets]** om de weergave Elementen te openen.
-   * Selecteren **[!UICONTROL Experience Manager]** om de beheerweergave te openen.
+* **Toggle in Admin view**
 
-* **Snelle koppelingen**
-   * Meld u aan bij Experience.adobe.com.
-   * Klikken **[!UICONTROL Experience Manager Assets]** om de weergave Elementen te openen.
-   * Klikken **[!UICONTROL Experience Manager Assets]** om de weergave Elementen te openen.
+    * Log into [!DNL Experience Manager] using Cloud Manager.
+    * Navigate to **[!UICONTROL Assets]** > **[!UICONTROL Files]**.
+    * Click the profile icon on the top right corner.
+    * Click **[!UICONTROL Switch View]** from the **[!UICONTROL Profile Settings]** section.
+    Repeat these steps to switch back to the Admin view.
+
+* **Product Switcher**
+    * Log into [!DNL Experience Manager] and click ![Product selector](assets/waffle-icon.svg).
+    * Select **[!UICONTROL Experience Manager Assets]** to access the Assets view.
+    * Select **[!UICONTROL Experience Manager]** to access the Admin view.
+
+* **Quick Links** 
+    * Log into experience.adobe.com.
+    * Click **[!UICONTROL Experience Manager Assets]** to access the Assets view.
+    * Click **[!UICONTROL Experience Manager Assets]** to access the Assets view.
+
+    -->
 
 ## Waarom middelenweergave?
 
