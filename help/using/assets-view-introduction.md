@@ -4,9 +4,9 @@ description: Nieuwe functies in de weergave Elementen
 mini-toc-levels: 3
 hidefromtoc: true
 hide: true
-source-git-commit: 256d42b06e66e9f152823f507412de360474b3b7
+source-git-commit: 2ef7fb0d0671a9dfe054608f068c64623f6b488a
 workflow-type: tm+mt
-source-wordcount: '1070'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ![Assets Essentials implementeren](assets/banner-image.jpg)
 
-In het snelle digitale-eerste landschap van vandaag, waar het creëren en leveren van inhoud in real time essentieel zijn, is een Ervaring van het Beheer van Digitale Middelen (DAM) die voor stroomafwaartse marketing snelheid wordt ontworpen van het grootste belang. Adobe, die gebruik maakt van zijn expertise op het gebied van het verbeteren van marketing en creatieve professionals, introduceert een game veranderende nieuwe ervaring voor de gebruiker van de Weergave van Activa. Deze workfloweerste aanpak zorgt voor een revolutie in de manier waarop bedrijven omgaan met hun dynamische digitale middelen, waardoor marketers de mogelijkheid krijgen om efficiënter te zoeken, samen te werken, te personaliseren en middelen te leveren. Deze gestroomlijnde workflows versnellen de snelheid van de inhoud en brengen uw marketinginspanningen naar nieuwe hoogten.
+In het snelle digitale-eerste landschap van vandaag, waar het creëren en leveren van inhoud in real time essentieel zijn, is een Ervaring van het Beheer van Digitale Middelen (DAM) die voor stroomafwaartse marketing snelheid wordt ontworpen van het grootste belang. Adobe, die gebruik maakt van zijn expertise op het gebied van het versterken van marketing en creatieve professionals, introduceert een game veranderende nieuwe gebruikerservaring. Deze workfloweerste aanpak zorgt voor een revolutie in de manier waarop bedrijven omgaan met hun dynamische digitale middelen, waardoor marketers de mogelijkheid krijgen om efficiënter te zoeken, samen te werken, te personaliseren en middelen te leveren. Deze gestroomlijnde workflows versnellen de snelheid van de inhoud en brengen uw marketinginspanningen naar nieuwe hoogten.
 
 ## Hoe te om tot de mening van Activa toegang te hebben? {#access-assets-view}
 
@@ -59,7 +59,7 @@ De weergave Elementen biedt de volgende belangrijke voordelen die niet beschikba
 
 ### Mijn werkruimtemashboard biedt gestroomlijnde ervaringen {#my-workspace-for-streamlined-experience}
 
-Doe een groeten aan een Digital Asset Management-oplossing die de uiteenlopende behoeften van verschillende organisatorische rollen begrijpt. De gestroomlijnde nieuwe middelenweergave geeft voorrang aan gebruiksgemak en snelheid, waarbij de voorkeur van de marketers wordt afgestemd op visuele aantrekkingskracht en werkruimten zonder rommeligheid. Met een aanpasbaar gebruikersspecifiek dashboard voor Mijn werkruimte kunnen marketers snel middelen zoeken, voorvertonen, bewerken, beheren en leveren met opmerkelijke efficiëntie. Bodyvakantie naar eindeloze uren besteed aan het zoeken naar specifieke middelen en verwelkom een gestroomlijnde ervaring die alles wat u nodig hebt binnen handbereik brengt.
+Doe een groeten aan een Digital Asset Management-oplossing die de uiteenlopende behoeften van verschillende organisatorische rollen begrijpt. De gestroomlijnde nieuwe middelenweergave geeft voorrang aan gebruiksgemak en snelheid, waarbij de voorkeur van de marketers wordt afgestemd op visuele aantrekkingskracht en werkruimten zonder rommel. Met een aanpasbaar gebruikersspecifiek dashboard voor Mijn werkruimte kunnen marketers snel middelen zoeken, voorvertonen, bewerken, beheren en leveren met opmerkelijke efficiëntie. Bodyvakantie naar eindeloze uren besteed aan het zoeken naar specifieke middelen en verwelkom een gestroomlijnde ervaring die alles wat u nodig hebt binnen handbereik brengt.
 
 ![Overzicht van Mijn werkruimte](assets/my-workspace-demo.gif)
 
@@ -67,7 +67,7 @@ Doe een groeten aan een Digital Asset Management-oplossing die de uiteenlopende 
 
 ### Inzichten om gegevensgestuurde beslissingen te nemen {#insights-data}
 
-Om gelijke tred te houden met de snelheid van de inhoud, zijn activeerbare inzichten essentieel. De nieuwe ervaring van de Mening van Activa biedt geavanceerd inzicht binnen Mijn Werkruimte, die waardevolle gegevens over activa, publiek gebruik, en overeenkomsten verstrekt. Marktdeelnemers kunnen gegevensgestuurde beslissingen nemen, inhoudsstrategieën optimaliseren en hun aflevering achteraf verfijnen om optimale resultaten te behalen. Met toegang tot betekenisvolle inzichten kunnen bedrijven de concurrentie blijven voorlopen en uitzonderlijke resultaten aansturen.
+Om gelijke tred te houden met de snelheid van de inhoud, zijn activeerbare inzichten essentieel. De nieuwe middelenweergave biedt geavanceerde inzichten in de Mijn werkruimte en biedt waardevolle gegevens over de prestaties van bedrijfsmiddelen, het gebruik van het publiek en services. Marktdeelnemers kunnen gegevensgestuurde beslissingen nemen, inhoudsstrategieën optimaliseren en hun aflevering achteraf verfijnen om optimale resultaten te behalen. Met toegang tot betekenisvolle inzichten kunnen bedrijven de concurrentie blijven voorlopen en uitzonderlijke resultaten aansturen.
 
 ![Overzicht van inzichten](assets/insights-overview.gif)
 
@@ -123,7 +123,7 @@ Naast deze functies kunt u in de weergave Middelen ook de volgende functies uitv
 
 ## Conclusie {#conclusion}
 
-Het tijdperk van digitaal-eerst is aangebroken en het is tijd om onze marketingtools om te zetten om het evoluerende zakelijke landschap te ondersteunen. De nieuwe Adobe Experience Manager Assets View is speciaal ontworpen om workflows te stroomlijnen, samenwerking te bevorderen en de levering van middelen te versnellen. Door de snelheid van de inhoud te omarmen, kunnen marketers het volledige potentieel van hun digitale middelen ontsluiten en creativiteit ontketenen zoals nooit tevoren. Kies voor de kracht van de nieuwe Adobe Weergave-ervaring en maak uw marketingcampagnes optimaal. Het is tijd om de toekomst van DAM te omarmen en uw bedrijf vooruit te helpen.
+Het tijdperk van digitaal-eerst is aangebroken en het is tijd om onze marketingtools om te zetten om het evoluerende zakelijke landschap te ondersteunen. De nieuwe Adobe Experience Manager Assets-weergave is toegesneden op het stroomlijnen van workflows, het bevorderen van samenwerking en het versnellen van de levering van middelen. Door de snelheid van de inhoud te omarmen, kunnen marketers het volledige potentieel van hun digitale middelen ontsluiten en creativiteit ontketenen zoals nooit tevoren. Bereid u voor om de kracht van de nieuwe Adobe in te zetten voor een weergave en om de uitzonderlijke resultaten van uw marketingcampagnes te optimaliseren. Het is tijd om de toekomst van DAM te omarmen en uw bedrijf vooruit te helpen.
 
 
 
