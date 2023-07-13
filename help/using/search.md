@@ -3,9 +3,9 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 839ec4e2dcd324c481d9b4b5aba2210ec95203ba
+source-git-commit: 99f843be67ca6ca9dc1afe4887937b0fbcbfcf8e
 workflow-type: tm+mt
-source-wordcount: '861'
+source-wordcount: '997'
 ht-degree: 0%
 
 ---
@@ -141,6 +141,34 @@ What about temporarily hiding an asset (suspending search on it) from the search
 
 When userA is searching and userB add an asset that matches search results, will the asset display in search as soon as userA refreshes the page? Assuming indexing is near real-time. May not be so for bulk uploads.
 -->
+
+## Werken met zoekresultaten {#work-with-search-results}
+
+U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de volgende handelingen uitvoeren:
+
+* **Details**: Elementeigenschappen weergeven en bewerken.
+
+* **Toevoegen aan verzameling**: Voeg het geselecteerde element toe aan een verzameling.
+
+* **Downloaden**: Een middel downloaden.
+
+* **Verwijderen**: Een element verwijderen.
+
+* **Kopiëren**: Kopieer een element naar een andere maplocatie.
+
+* **Verplaatsen**: Middelen naar een andere maplocatie verplaatsen.
+
+* **Naam wijzigen**: Wijzig de naam van een element.
+
+* **Taken toewijzen**: Taken toewijzen aan gebruikers voor een element.
+
+* **Koppeling delen**: [Koppelingen delen](share-links-for-assets.md) voor een middel met andere gebruikers zodat zij tot het kunnen toegang hebben en downloaden.
+
+* **Controle**: [De bewerkingen controleren](manage-notifications.md) uitgevoerd op een element.
+
+* **Bestandslocatie tonen**: Navigeer naar de locatie van de elementmap.
+
+* **Vastmaken aan snelle toegang**: [Een element vastzetten](my-workspace.md) voor snellere toegang wanneer u het later nodig hebt. Alle vastgezette items worden weergegeven in het dialoogvenster **Snelle toegang** van Mijn werkruimte.
 
 ## Volgende stappen {#next-steps}
 
