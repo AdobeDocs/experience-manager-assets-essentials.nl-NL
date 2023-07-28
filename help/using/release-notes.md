@@ -4,19 +4,68 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 84b830af6225242aa8cb851ac6458a66394a281a
+source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
 workflow-type: tm+mt
-source-wordcount: '2038'
+source-wordcount: '2148'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt gepubliceerd op 22 juni 2023.
+De huidige release van Assets Essentials wordt gepubliceerd op 27 juli 2023.
 
 De release bevat de volgende functies:
 
+<!--
+
+**Assign metadata form to a folder**
+
+You can now assign metadata form to a specific folder within your Assets Essentials deployment. All assets in the folder, including assets in the sub-folders, then display properties defined in the assigned metadata form.
+
+![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
+
+-->
+
+**Verbeterd kunstmatig intelligentiekader voor beeld Slimme Markeringen**
+
+Experience Manager Assets maakt nu gebruik van een verbeterd kader voor kunstmatige intelligentie voor slimme afbeeldingstags. Deze inhoudsinfo geeft een betere relevantie en nauwkeurigheid van slimme tags die beschikbaar zijn voor alle afbeeldingselementen bij opname.
+
+**Weergave van kolommen configureren voor de weergave Lijst met elementen**
+
+Assets Essentials biedt nu de mogelijkheid om de kolommen te selecteren die in de weergave Lijst met elementen worden weergegeven, zoals Status, Indeling, Dimension, Grootte, enzovoort.
+
+![Kolommen configureren](/help/using/assets/configure-columns.png)
+
+**Zoekresultaten sorteren op basis van relevantie**
+
+Assets Essentials sorteert de zoekresultaten nu standaard op Relevance. U kunt de gezochte middelen in stijgende of dalende orde van sorteren `Name`, `Relevance`, `Size`, `Modified`, en `Created`.
+
+**Verbeteringen gebaseerd op feedback van klanten**
+
+Verbeteringen en foutoplossingen op basis van feedback van klanten.
+
+
+## Bekende problemen {#known-issues}
+
+De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
+
+* Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
+
+Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
+
+## Eerdere versies {#past-releases}
+
+### Release juni {#june2023-release}
 
 **Hiërarchische codering van elementen voor sneller zoeken**
 
@@ -50,30 +99,6 @@ Assets Essentials biedt nu ondersteuning voor het bekijken van de belangrijkste 
 
 Met Assets Essentials kunt u nu meerwaardetekst- en vervolgkeuzelijsteigenschappen toevoegen aan de metagegevensformulieren.
 
-
-**Verbeteringen gebaseerd op feedback van klanten**
-
-Verbeteringen en foutoplossingen op basis van feedback van klanten.
-
-## Bekende problemen {#known-issues}
-
-De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
-
-* Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
-
-Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
-
-## Eerdere versies {#past-releases}
-
 ### Meerdere releases in 2023 {#multiple-releases-2023}
 
 De lijst met onlangs toegevoegde functies bevat:
@@ -94,7 +119,7 @@ Mijn werkruimte bevat widgets voor inzicht, taken en inhoud. U kunt configureren
 
 **Gebruikersinterface voor toegewezen taakbeheer**
 
-Met Assets Essentials kunt u nu de lijst met taken beheren die u op dat moment hebt toegewezen, die door u zijn gemaakt en die u al hebt voltooid op een gecentraliseerde locatie, met behulp van de nieuwe **[!UICONTROL Tasks]** beschikbaar in het linkernavigatievenster. U kunt ook de juiste handelingen uitvoeren door een taak te selecteren om deze goed te keuren of af te wijzen of door de taakdetails te openen om deze goed te keuren, af te wijzen, te bewerken of te verwijderen.
+Met Assets Essentials kunt u nu de lijst met taken beheren die u op dat moment hebt toegewezen, die door u zijn gemaakt en die u al hebt voltooid op een gecentraliseerde locatie, met behulp van de nieuwe **[!UICONTROL Tasks]** beschikbaar in het linkernavigatiegebied. U kunt ook de juiste handelingen uitvoeren door een taak te selecteren om deze goed te keuren of af te wijzen of door de taakdetails te openen om deze goed te keuren, af te wijzen, te bewerken of te verwijderen.
 
 ![Taken in de werkruimte](assets/tasks-workspace.png)
 
@@ -156,7 +181,7 @@ Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
 ### 2022.8.0 {#august-2022}
 
-De release van augustus [!DNL Assets Essentials] wordt vrijgegeven op 22 augustus 2022.
+In augustus [!DNL Assets Essentials] wordt vrijgegeven op 22 augustus 2022.
 
 Deze release biedt:
 
@@ -174,7 +199,7 @@ Met Assets Essentials kunt u nu ook realtime opslagaccountgegevens voor uw Asset
 
 **Uploadrapporten weergeven**
 
-Middelenrapportage biedt beheerders nu inzicht in elementen die zijn geüpload naar de Adobe Experience Manager Assets Essentials-implementatie. Beheerders kunnen al rapporten genereren voor de elementen die zijn gedownload van de Assets Essentials-implementatie. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product omgaan.
+Middelenrapportage biedt beheerders nu inzicht in elementen die zijn geüpload naar de Adobe Experience Manager Assets Essentials-implementatie. Beheerders kunnen al rapporten genereren voor de elementen die zijn gedownload van de Assets Essentials-implementatie. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product werken.
 
 **Verbeteringen gebaseerd op feedback van klanten**
 
@@ -202,7 +227,7 @@ U kunt rapporten over het downloaden van middelen en de dashboardmodule voor liv
 
 ### 2022.5.0 {#may-2022}
 
-In mei [!DNL Assets Essentials] wordt vrijgegeven op 16 juni 2022.
+In mei wordt [!DNL Assets Essentials] wordt vrijgegeven op 16 juni 2022.
 
 Deze release biedt:
 
@@ -230,7 +255,7 @@ Deze release biedt:
 
 -->
 
-* Assets Essentials biedt nu ondersteuning voor [een verzameling downloaden](manage-collections.md).
+* Assets Essentials ondersteunt nu [een verzameling downloaden](manage-collections.md).
 
 * U kunt nu het metagegevensveld Beschrijving voor een verzameling bewerken.
 
@@ -246,7 +271,7 @@ Deze release biedt:
 
 De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 12 mei 2022. Deze release biedt:
 
-* [!DNL Assets Essentials] now supports [verzamelingen maken](manage-collections.md). Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen. In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten.
+* [!DNL Assets Essentials] now supports [maken, verzamelingen](manage-collections.md). Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen. In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten.
 
 * Met Assets Essentials kunt u nu ook [Aangepaste filters toevoegen](search.md#custom-filters) naar de gebruikersinterface. Vervolgens kunt u deze aangepaste filters naast de standaardfilters toepassen om de zoekresultaten te verfijnen.
 
@@ -256,7 +281,7 @@ De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 12 mei 2022
 
 #### Incognitomodus in Chrome {#incognito-mode}
 
-Met deze release optimaliseren we de prestaties van de levering van de gebruikersinterface en de specifieke functies in Assets Essentials - opmerkingen maken over elementen en beeldbewerking - afhankelijk van de lokale opslag in de browser en van cookies van derden. De incognitomodus in de Chrome-webbrowser blokkeert cookies van derden standaard. Gebruikers hebben een aantal opties om toegang te blijven krijgen tot alle mogelijkheden:
+Met deze release optimaliseren we de prestaties van de levering van de gebruikersinterface en de specifieke functies in Assets Essentials - opmerkingen maken over elementen en beeldbewerking - afhankelijk van de lokale opslag in de browser en het inschakelen van cookies van derden. De incognitomodus in de Chrome-webbrowser blokkeert cookies van derden standaard. Gebruikers hebben een aantal opties om toegang te blijven krijgen tot alle mogelijkheden:
 
 * Gebruik Chrome-profielen in plaats van Incognito-modus wanneer de gebruiker browsersessies moet scheiden
 
@@ -281,7 +306,7 @@ Daarnaast [!DNL Adobe Asset Link] een extensie voor Creative Cloud (Photoshop, I
 
 [!DNL Assets Essentials] wordt gepubliceerd op 3 februari 2022, met de volgende updates:
 
-* Prestatieverbeteringen voor de [!UICONTROL Create Folder] bewerking. <!-- CQ-4338818 -->
+* Prestatieverbeteringen voor de [!UICONTROL Create Folder] -bewerking. <!-- CQ-4338818 -->
 
 ### release 2021.11.0 {#november-2021}
 
@@ -310,5 +335,5 @@ De eerste release van [!DNL Assets Essentials], beschikbaar gesteld op 21 juni 2
 
 * Upload en voeg elementen toe, waaronder geneste mappen. Geef een voorvertoning weer van de elementen en versies.
 * Volledige-tekstonderzoek, genummerde onderzoeksfilters, en bewaarde onderzoeken voor snelle activaontdekking.
-* Basisbewerkingen voor middelenbeheer, zoals het bijwerken, verwijderen, downloaden en beheren van metagegevens.
+* Elementbeheerbewerkingen zoals het bijwerken, verwijderen, downloaden en beheren van metagegevens.
 * [!DNL Assets Essentials] is beschikbaar voor [!DNL Adobe Journey Optimizer] gebruikers om de elementen te beheren wanneer ze berichten maken.

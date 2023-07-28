@@ -3,9 +3,9 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 99f843be67ca6ca9dc1afe4887937b0fbcbfcf8e
+source-git-commit: 5942762ec76b25cc89168015edfbe3fce4c4368f
 workflow-type: tm+mt
-source-wordcount: '997'
+source-wordcount: '1006'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Als u elementen wilt zoeken,
 
    * Zoeken met een trefwoord en desgewenst map wijzigen. Druk op Return.
 
-   * Begin met werken met een onlangs weergegeven element door er direct naar te zoeken. Klik in het zoekvak en selecteer een element dat onlangs is weergegeven in de suggesties.
+   * Begin met het werken met een onlangs weergegeven element door er direct naar te zoeken. Klik in het zoekvak en selecteer een element dat onlangs is weergegeven in de suggesties.
 
 ## De zoekresultaten filteren {#refine-search-results}
 
@@ -36,21 +36,21 @@ U kunt de zoekresultaten filteren op basis van de volgende parameters.
 
 ![Zoekfilters](assets/filters1.png)
 
-*Afbeelding: Gezochte elementen filteren op basis van verschillende parameters.*
+*Afbeelding: gezochte elementen filteren op basis van verschillende parameters.*
 
-* Status van element: De zoekresultaten filteren met een `Approved`, `Rejected`, of `No Status` status van het element.
+* De Status van het element: Filter de onderzoeksresultaten gebruikend een `Approved`, `Rejected`, of `No Status` status van het element.
 
-* Bestandstype: Filter de zoekresultaten op de ondersteunde bestandstypen, namelijk `Images`, `Documents`, en `Videos`.
-* MIME-type: Filter voor een of meer ondersteunde bestandsindelingen. <!-- TBD:  [supported file formats](/help/using/supported-file-formats.md). -->
-* Afbeeldingsgrootte: Geef een van de minimale en maximale afmetingen op voor het filteren van afbeeldingen. De grootte wordt opgegeven in pixelafmetingen en is niet de bestandsgrootte van de afbeeldingen.
-* Gemaakt op: De aanmaakdatum van het element, zoals vermeld in de metagegevens. De standaard datumnotatie die wordt gebruikt is `yyyy-mm-dd`.
-* Datum gewijzigd: De laatste gewijzigde datum van de elementen. De standaard datumnotatie die wordt gebruikt is `yyyy-mm-dd`.
+* Bestandstype: filtreer de zoekresultaten op de ondersteunde bestandstypen, namelijk `Images`, `Documents`, en `Videos`.
+* MIME-type: filter voor een of meer ondersteunde bestandsindelingen. <!-- TBD:  [supported file formats](/help/using/supported-file-formats.md). -->
+* Afbeeldingsgrootte: geef een van de minimale en maximale afmetingen op voor het filteren van afbeeldingen. De grootte wordt opgegeven in pixelafmetingen en is niet de bestandsgrootte van de afbeeldingen.
+* Aanmaakdatum: de aanmaakdatum van het element zoals vermeld in de metagegevens. De standaard datumnotatie die wordt gebruikt is `yyyy-mm-dd`.
+* Gewijzigde datum: de datum waarop de elementen als laatste zijn gewijzigd. De standaard datumnotatie die wordt gebruikt is `yyyy-mm-dd`.
 
-* Vervaldatum: De zoekresultaten filteren op basis van een `Expired` status van het element. Daarnaast kunt u een datumbereik voor de vervaldatum voor elementen opgeven om de zoekresultaten verder te filteren.
+* Vervaldatum: filter de zoekresultaten op basis van een `Expired` status van het element. Daarnaast kunt u een datumbereik voor de vervaldatum voor elementen opgeven om de zoekresultaten verder te filteren.
 
 * Aangepaste filters: [Aangepaste filters toevoegen](#custom-filters) naar Assets Essentials-gebruikersinterface. Pas de aangepaste filters toe naast de standaardfilters om de zoekresultaten te verfijnen.
 
-U kunt de gezochte middelen in stijgende of dalende orde van sorteren `Name`, `Relevancy`, `Size`, `Modified`, en `Created`.
+U kunt de gezochte middelen in stijgende of dalende orde van sorteren `Name`, `Relevance`, `Size`, `Modified`, en `Created`. De gezochte elementen worden gesorteerd op `Relevance`, standaard.
 
 ## Aangepaste filters beheren {#custom-filters}
 
@@ -100,7 +100,7 @@ Aangepaste filters toevoegen:
 
 1. Klik op **[!UICONTROL Filters]**.
 
-1. In de **[!UICONTROL Custom Filters]** sectie, klikt u op **[!UICONTROL Edit]** of **[!UICONTROL Add Filters]**.
+1. In de **[!UICONTROL Custom Filters]** sectie, klikken **[!UICONTROL Edit]** of **[!UICONTROL Add Filters]**.
 
    ![Aangepaste filters toevoegen](assets/add-custom-filters.png)
 
@@ -114,7 +114,7 @@ Aangepaste filters verwijderen:
 
 1. Klik op **[!UICONTROL Filters]**.
 
-1. In de **[!UICONTROL Custom Filters]** sectie, klikt u op **[!UICONTROL Edit]**.
+1. In de **[!UICONTROL Custom Filters]** sectie, klikken **[!UICONTROL Edit]**.
 
 1. Op de **[!UICONTROL Custom filters management]** schakelt u de filters uit die u uit de bestaande lijst met filters wilt verwijderen.
 
@@ -150,13 +150,13 @@ U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de
 
 * **Toevoegen aan verzameling**: Voeg het geselecteerde element toe aan een verzameling.
 
-* **Downloaden**: Een middel downloaden.
+* **Downloaden**: Download een middel.
 
 * **Verwijderen**: Een element verwijderen.
 
 * **Kopiëren**: Kopieer een element naar een andere maplocatie.
 
-* **Verplaatsen**: Middelen naar een andere maplocatie verplaatsen.
+* **Verplaatsen**: Verplaats een element naar een andere maplocatie.
 
 * **Naam wijzigen**: Wijzig de naam van een element.
 
@@ -174,7 +174,7 @@ U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de
 
 * [Een video bekijken om middelen te zoeken in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html)
 
-* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met de [!UICONTROL Feedback] beschikbaar in de gebruikersinterface van Assets Essentials
 
 * Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
 

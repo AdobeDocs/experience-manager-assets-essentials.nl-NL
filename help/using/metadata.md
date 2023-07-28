@@ -4,7 +4,7 @@ description: Metagegevens van elementen beheren in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 5b9e3297c37bca0e5badc2073f8c6467e012ccde
+source-git-commit: 5942762ec76b25cc89168015edfbe3fce4c4368f
 workflow-type: tm+mt
 source-wordcount: '1519'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Metagegevens in middelenweergave {#metadata}
 
-Metagegevens zijn gegevens of een beschrijving van de gegevens. Uw afbeeldingen als element kunnen bijvoorbeeld informatie bevatten over de camera waarop u hebt geklikt of over copyrightgegevens. Deze informatie is metagegevens van de afbeelding. Metagegevens zijn essentieel voor efficiënt middelenbeheer. Metagegevens zijn de verzameling van alle gegevens die voor een element beschikbaar zijn, maar hoeven niet noodzakelijkerwijs in dat element te zijn opgenomen.
+Metagegevens zijn gegevens of een beschrijving van de gegevens. Uw afbeeldingen als een element kunnen bijvoorbeeld informatie bevatten over de camera waarop u hebt geklikt of over copyrightgegevens. Deze informatie is metagegevens van de afbeelding. Metagegevens zijn essentieel voor efficiënt middelenbeheer. Metagegevens zijn de verzameling van alle gegevens die voor een element beschikbaar zijn, maar hoeven niet noodzakelijkerwijs in dat element te zijn opgenomen.
 
-Met metagegevens kunt u elementen verder indelen. Dit is handig wanneer de hoeveelheid digitale informatie toeneemt. Het is mogelijk om een paar honderd bestanden te beheren op basis van alleen de bestandsnamen, miniaturen en het geheugen. Deze aanpak is echter niet schaalbaar. Het is te kort wanneer het aantal betrokken personen en het aantal beheerde activa toenemen.
+Met metagegevens kunt u elementen verder indelen. Dit is handig wanneer de hoeveelheid digitale informatie toeneemt. U kunt een paar honderd bestanden beheren op basis van alleen de bestandsnamen, miniaturen en het geheugen. Deze aanpak is echter niet schaalbaar. Het is te kort wanneer het aantal betrokken personen en het aantal beheerde activa toenemen.
 
 Als er metagegevens worden toegevoegd, neemt de waarde van een digitaal element toe, omdat het element
 
@@ -23,7 +23,7 @@ Als er metagegevens worden toegevoegd, neemt de waarde van een digitaal element 
 * Gemakkelijker te beheren - u kunt gemakkelijker middelen met de zelfde reeks eigenschappen vinden en veranderingen op hen toepassen.
 * Volledig - asset bevat meer informatie en context met meer metagegevens.
 
-Om deze redenen beschikt u over de juiste middelen om metagegevens voor uw digitale elementen te maken, beheren en uit te wisselen.
+Om deze redenen beschikt u over de juiste middelen om metagegevens voor uw digitale elementen te maken, te beheren en uit te wisselen.
 
 ## De metagegevens weergeven {#view-metadata}
 
@@ -47,7 +47,7 @@ De slimme tags worden toegepast in de buurt van realtime en worden gegenereerd o
 
 ![Slimme tags van een element weergeven](assets/metadata-view-tags.png)
 
-*Afbeelding: Als u de slimme tags van een element wilt weergeven, klikt u op **[!UICONTROL Details]**op de werkbalk of dubbelklikt u op het element.*
+*Figuur: Om de Slimme Markeringen van een activa te bekijken, klik **[!UICONTROL Details]**op de werkbalk of dubbelklikt u op het element.*
 
 Slimme tags bevatten ook een betrouwbaarheidsscore als percentage. Het geeft het vertrouwen aan dat aan de toegepaste tag is gekoppeld. U kunt de automatisch toegepaste slimme tags verkleinen.
 
@@ -66,7 +66,7 @@ Tags kunnen ook in een hiërarchie worden genest ter ondersteuning van relaties 
 >[!CONTEXTUALHELP]
 >id="assets_metadata_forms"
 >title="Metagegevens Forms"
->abstract="[!DNL Experience Manager Assets] biedt standaard veel standaardmetagegevensvelden. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan de pagina Details van een element. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen."
+>abstract="[!DNL Experience Manager Assets] biedt standaard veel standaardvelden voor metagegevens. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan de pagina Details van een element. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen."
 >additional-url="https://images-tv.adobe.com/mpcv3/4477/ac1b52fa-823e-447f-8e96-e880b33fe12e_1687708758.854x480at800_h264.mp4" text="De functie in actie bekijken"
 
 Assets Essentials biedt standaard vele standaardmetagegevensvelden. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan het element [!UICONTROL Details] pagina. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen. U kunt geheel nieuwe formulieren maken of een bestaand formulier opnieuw gebruiken.
@@ -79,7 +79,7 @@ Assets Essentials gebruikt de volgende reeks om te zoeken naar bestaande formuli
 
 MIME-subtype > MIME-type > `default` form > Out-of-the-box form
 
-Als een metagegevensformulier bijvoorbeeld op naam staat `PDF` of `pdf` bestaat, bevat het geüploade PDF-document metagegevensvelden zoals gedefinieerd in het formulier. Als een metagegevensformulier met de naam `PDF` of `pdf` bestaat niet. Assets Essentials komt overeen als er een metagegevensformulier met de naam bestaat `application`. Als er een metagegevensformulier met de naam `application`De geüploade PDF-documenten bevatten metagegevensvelden zoals gedefinieerd in het formulier. Als Assets Essentials nog steeds geen overeenkomend metagegevensformulier vindt, wordt gezocht naar de `default` een metagegevensformulier om de in het formulier gedefinieerde metagegevensvelden toe te passen op de geüploade PDF-documenten. Als geen van deze stappen werkt, past Assets Essentials metagegevensvelden die in het formulier buiten de box zijn gedefinieerd, toe op alle geüploade PDF-documenten.
+Als een metagegevensformulier bijvoorbeeld op naam staat `PDF` of `pdf` bestaat, bevat het geüploade PDF-document metagegevensvelden zoals gedefinieerd in het formulier. Als een metagegevensformulier met de naam `PDF` of `pdf` bestaat niet. Assets Essentials komt overeen als er een metagegevensformulier met de naam bestaat `application`. Als er een metagegevensformulier met de naam `application`De geüploade PDF-documenten bevatten metagegevensvelden zoals gedefinieerd in het formulier. Als Assets Essentials nog steeds geen overeenkomend metagegevensformulier vindt, wordt gezocht naar de `default` metagegevensformulier waarmee u in het formulier gedefinieerde metagegevensvelden kunt toepassen op de geüploade PDF-documenten. Als geen van deze stappen werkt, past Assets Essentials metagegevensvelden die in het formulier buiten de box zijn gedefinieerd, toe op alle geüploade PDF-documenten.
 
 >[!IMPORTANT]
 >
@@ -91,14 +91,14 @@ Ga als volgt te werk om een metagegevensformulier te maken:
 
    ![metagegevensformulieren, optie in linkerzijbalk](assets/metadata-forms-sidebar.png)
 
-1. Klikken **[!UICONTROL Create]** in de rechterbovenhoek van de gebruikersinterface.
-1. Geef een naam op voor het formulier en klik op **[!UICONTROL Create]**.
+1. Klikken **[!UICONTROL Create]**, in de rechterbovenhoek van de gebruikersinterface.
+1. Geef het formulier een naam en klik op **[!UICONTROL Create]**.
 1. Geef een naam op voor de tab in **[!UICONTROL Settings]** in het rechterspoor.
 1. Van de **[!UICONTROL Components]** Sleep de vereiste componenten naar een tabblad in het formulier. Sleep de componenten in de gewenste volgorde.
 
    ![metagegevensformulieren, optie in linkerzijbalk](assets/metadata-form-new.png)
 
-   *Afbeelding: Metagegevens maken interface met opties voor het toevoegen van componenten en optie voor het weergeven van een voorbeeld van het formulier.*
+   *Afbeelding: interface voor het maken van metagegevens met opties voor het toevoegen van componenten en de optie voor een voorbeeldweergave van het formulier.*
 
 1. Geef voor elke component een naam op in het dialoogvenster **[!UICONTROL Settings]** in de rechterspoorstaaf een kaart van de ondersteunde eigenschappen leveren.
 1. Selecteer optioneel voor een component **[!UICONTROL Required]** om het metagegevensveld verplicht te maken en selecteer **[!UICONTROL Read-Only]** om het veld in het element onbewerkbaar te maken [!UICONTROL Details] pagina.
@@ -114,7 +114,7 @@ Nadat een formulier is gemaakt, wordt het automatisch toegepast wanneer gebruike
 
 Als u een bestaand formulier opnieuw wilt gebruiken om een nieuw formulier te maken, selecteert u een metagegevensformulier. Klik op **[!UICONTROL Copy]** Geef een naam op in de werkbalk en klik op **[!UICONTROL Confirm]**. U kunt een metagegevensformulier bewerken om het te wijzigen. Wanneer u een formulier wijzigt, wordt dit gebruikt voor elementen die na de wijziging worden geüpload. De bestaande activa blijven ongewijzigd.
 
-## Eigenschapcomponenten {#property-components}
+### Eigenschapcomponenten {#property-components}
 
 U kunt het metagegevensformulier aanpassen met een van de volgende eigenschapcomponenten. U sleept het componenttype gewoon naar het formulier op de gewenste locatie en wijzigt de componentinstellingen.
 Hieronder ziet u een overzicht van elk type eigenschap en de manier waarop deze worden opgeslagen.
@@ -135,11 +135,29 @@ Hieronder ziet u een overzicht van elk type eigenschap en de manier waarop deze 
 | Trefwoorden | Vrije-vormtrefwoorden toevoegen (toegewezen aan dc:subject). |
 | Slimme tags | U kunt zoekmogelijkheden uitbreiden door automatisch metagegevenstags toe te voegen. |
 
+<!--
+
+### Assign metadata form to a folder {#assign-metadata-form-folder}
+
+You can also assign a metadata form to a folder within your Assets Essentials deployment. The metadata form assigned to a folder as per the MIME type is overwritten when you apply a metadata form to a folder manually. All assets in the folder, including assets in the sub-folders, then display properties defined in the metadata form.
+
+To assign a metadata form to a folder:
+
+1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]** and select a metadata form.
+
+2. Click **[!UICONTROL Assign to Folder]**.
+
+3. Select the folder and click **[!UICONTROL Assign]**.
+
+   ![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
+
+-->
+
 ## Volgende stappen {#next-steps}
 
 * [Een video bekijken om metagegevensformulieren te beheren in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
 
-* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met de [!UICONTROL Feedback] beschikbaar in de gebruikersinterface van Assets Essentials
 
 * Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
 
