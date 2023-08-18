@@ -4,9 +4,9 @@ description: Metagegevens van elementen beheren in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 6a9bc34907f9eb8c7d18a8fbb139e27244538256
+source-git-commit: 50b9ba30eac2d99fe72a8cfacf4b0361b8955a87
 workflow-type: tm+mt
-source-wordcount: '1567'
+source-wordcount: '1519'
 ht-degree: 0%
 
 ---
@@ -58,11 +58,6 @@ U kunt meer tags toevoegen aan uw elementen, naast de slimme tags die automatisc
 U kunt ook tags verwijderen uit het dialoogvenster [!UICONTROL Smart Tags] sectie die automatisch wordt toegevoegd door [!DNL Assets Essentials] naar alle geüploade elementen.
 
 ## Taxonomiebeheer {#taxonomy-management}
-
->[!CONTEXTUALHELP]
->id="assets_express_integration"
->title="Adobe Express-integratie"
->abstract="[!DNL Experience Manager Assets] biedt standaard veel standaardvelden voor metagegevens. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan de pagina Details van een element. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen."
 
 Tags kunnen ook in een hiërarchie worden genest ter ondersteuning van relaties zoals categorie en subcategorie. Als u hiërarchische tags moet invoegen, worden deze eenvoudig beheerd door de beheerder in het dialoogvenster [!UICONTROL Taxonomy Management] deel van [!UICONTROL Settings]. U kunt een beheerde set naamruimten en tags maken die alle gebruikers kunnen gebruiken tijdens het beschrijven van inhoud. Alleen de beheerders kunnen taghiërarchieën instellen in [!UICONTROL Taxonomy Manager] ervoor zorgen dat de waarden op consistente wijze worden gecontroleerd en gebruikt.
 
