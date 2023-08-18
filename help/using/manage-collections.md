@@ -14,7 +14,7 @@ ht-degree: 1%
 >[!CONTEXTUALHELP]
 >id="assets_collections"
 >title="Verzamelingen beheren"
->abstract="Een verzameling is een set elementen, mappen of andere verzamelingen in Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen. In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten. U kunt meerdere verzamelingen delen met een gebruiker. Elke verzameling bevat verwijzingen naar elementen. De referentiële integriteit van activa wordt gehandhaafd over inzamelingen."
+>abstract="Een verzameling is een set elementen, mappen of andere verzamelingen binnen Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen. In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten. U kunt meerdere verzamelingen delen met een gebruiker. Elke verzameling bevat verwijzingen naar elementen. De referentiële integriteit van activa wordt gehandhaafd over inzamelingen."
 
 Een verzameling is een set elementen, mappen of andere verzamelingen in Adobe Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 
@@ -92,7 +92,7 @@ Elementen uit een verzameling verwijderen:
 
 ## Een slimme verzameling beheren {#manage-smart-collection}
 
-Sla de zoekresultaten op als een slimme verzameling om de inhoud van de verzameling dynamisch bij te werken. Als er elementen aan de Assets Essentials-opslagplaats zijn toegevoegd die voldoen aan de zoekcriteria die tijdens het maken van de slimme verzameling zijn gedefinieerd, wordt de inhoud van de slimme verzameling automatisch bijgewerkt wanneer u een slimme verzameling opent.
+Sla de zoekresultaten op als een slimme verzameling om de inhoud van de verzameling dynamisch bij te werken. Als er activa aan de bewaarplaats van Assets Essentials worden toegevoegd die de onderzoekscriteria passen die tijdens het creëren van de Slimme Inzameling worden bepaald, wordt de inhoud van de Slimme Inzameling automatisch bijgewerkt wanneer u een Slimme Inzameling opent.
 
 ### Een slimme verzameling maken {#create-smart-collection}
 
@@ -108,7 +108,7 @@ Een slimme verzameling maken:
 
 1. Selecteren **[!UICONTROL Public Collection]** als u alle gebruikers nodig hebt om toegang te krijgen tot de verzameling. Selecteren **[!UICONTROL Private Collection]** als u een beperkte groep gebruikers nodig hebt om toegang te krijgen tot de verzameling.
 
-1. Klikken **[!UICONTROL Create]** om de slimme verzameling te maken.
+1. Klikken **[!UICONTROL Create]** de slimme verzameling maken.
 
 ### Een slimme verzameling bewerken {#edit-smart-collection}
 
@@ -158,7 +158,7 @@ Metagegevens van verzamelingen weergeven en bewerken:
 
 ## Koppelingen voor verzamelingen delen {#share-collection-links}
 
-[!DNL Assets Essentials] kunt u een koppeling genereren en verzamelingen en middelen delen in verzamelingen met externe belanghebbenden die geen toegang hebben tot de [!DNL Assets Essentials] toepassing. U kunt een vervaldatum voor de verbinding bepalen en dan het delen met anderen gebruikend uw aangewezen communicatie methode zoals e-mail of overseinendiensten. Ontvangers van de koppeling kunnen een voorbeeld van de elementen bekijken en deze downloaden.
+[!DNL Assets Essentials] kunt u een koppeling genereren en verzamelingen en middelen delen in verzamelingen met externe belanghebbenden die geen toegang hebben tot [!DNL Assets Essentials] toepassing. U kunt een vervaldatum voor de verbinding bepalen en dan het delen met anderen gebruikend uw aangewezen communicatie methode zoals e-mail of overseinendiensten. Ontvangers van de koppeling kunnen een voorbeeld van de elementen bekijken en deze downloaden.
 
 ![Koppeling voor elementen delen](assets/share-link-collections.png)
 
@@ -172,7 +172,7 @@ Een verzameling downloaden:
 
 1. Selecteer de verzameling die u wilt downloaden en klik op **[!UICONTROL Download]**.
 
-1. Op de [!UICONTROL Downloading Asset] dialoogvenster, klikt u op **[!UICONTROL OK]**.
+1. Op de [!UICONTROL Downloading Asset] klikt u op **[!UICONTROL OK]**.
 
 De verzameling wordt als een ZIP-bestand gedownload op uw lokale computer.
 
@@ -188,7 +188,7 @@ Een verzameling verwijderen:
 
 ## Volgende stappen {#next-steps}
 
-* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met de [!UICONTROL Feedback] optie beschikbaar in de gebruikersinterface van Assets Essentials
 
 * Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
 

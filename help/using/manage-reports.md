@@ -1,6 +1,6 @@
 ---
 title: Rapporten beheren in Assets Essentials
-description: Open de gegevens in de sectie Rapporten van Assets Essentials om het product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
+description: Heb toegang tot de gegevens in de rapportsectie van Assets Essentials om product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
 workflow-type: tm+mt
@@ -14,25 +14,25 @@ ht-degree: 1%
 >[!CONTEXTUALHELP]
 >id="assets_reports"
 >title="Rapporten"
->abstract="Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Experience Manager Assets Essentials-omgeving. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product omgaan. Alle gebruikers die aan het het productprofiel van Beheerders worden toegewezen kunnen tot het dashboard van Inzichten toegang hebben of user-defined rapporten creëren."
+>abstract="Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Experience Manager Assets Essentials-omgeving. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product werken. Alle gebruikers die aan het het productprofiel van Beheerders worden toegewezen kunnen tot het dashboard van Inzichten toegang hebben of user-defined rapporten creëren."
 
-Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Experience Manager Assets Essentials-omgeving. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product omgaan.
+Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Experience Manager Assets Essentials-omgeving. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product werken.
 
 ## Toegangsrapporten {#access-reports}
 
-Alle gebruikers die zijn toegewezen aan de [Productprofiel Assets Essentials-beheerders](deploy-administer.md) heeft toegang tot het dashboard Inzichten of kunt u door de gebruiker gedefinieerde rapporten maken in Assets Essentials.
+Alle gebruikers die zijn toegewezen aan de [Productprofiel Assets Essentials-beheerders](deploy-administer.md) U kunt het dashboard van Inzichten openen of user-defined rapporten in Assets Essentials tot stand brengen.
 
 ## Inzichten weergeven {#view-live-statistics}
 
-Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Insights. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
+Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Inzichten. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
 
 ![Werkbalkopties wanneer u een element selecteert](assets/assets-essentials-live-statistics.png)
 
-Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde grafieken weergeven in het navigatievenster aan de linkerkant:
+Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde grafieken weergeven in het linkernavigatiegebied:
 
-* **Downloads**: Het aantal elementen dat in de Assets Essentials-omgeving is gedownload in de laatste 30 dagen of 12 maanden, uitgedrukt met behulp van een lijndiagram.
+* **Downloads**: Het aantal elementen dat in de laatste 30 dagen of twaalf maanden in de omgeving van de Assets Essentials is gedownload, uitgedrukt aan de hand van een lijndiagram.
 
-* **Uploads**: Het aantal elementen dat in de Assets Essentials-omgeving is geüpload in de laatste 30 dagen of 12 maanden, uitgedrukt aan de hand van een lijndiagram.
+* **Uploads**: Het aantal elementen dat in de laatste 30 dagen of twaalf maanden in de omgeving van de Assets Essentials is geüpload, uitgedrukt aan de hand van een lijndiagram.
 
 * **Meest gebruikte zoekopdrachten**: Bekijk de belangrijkste gezochte termen samen met het aantal keren dat deze termen binnen uw Assets Essentials-omgeving zijn doorzocht in de laatste 30 dagen of 12 maanden, weergegeven in een tabelindeling.
 
@@ -57,7 +57,7 @@ Een downloadrapport maken:
 1. Selecteer het datuminterval voor het rapport.
    >[!NOTE]
    >
-   > Assets Essentials converteert alle lokale tijdzones naar UTC (Coordinated Universal Time).
+   > Assets Essentials zetten alle lokale tijdzones om in UTC (Coordinated Universal Time).
 
 1. In de [!UICONTROL Columns] selecteert u de kolomnamen die u in het rapport wilt weergeven.
 
@@ -103,7 +103,7 @@ De volgende lijst verklaart het gebruik van alle kolommen die u aan het rapport 
      </tr>
      <tr>
       <td>Aanmaakdatum</td>
-      <td>De datum waarop het element naar Assets Essentials is geüpload.</td>
+      <td>De datum waarop het element naar Assets Essentials wordt geüpload.</td>
      </tr>
      <tr>
       <td>Wijzigingsdatum</td>
@@ -120,7 +120,7 @@ De volgende lijst verklaart het gebruik van alle kolommen die u aan het rapport 
     </tbody>
    </table>
 
-## Een uploadrapport maken {#create-upload-report}
+## Een rapport voor uploaden maken {#create-upload-report}
 
 Een rapport voor uploaden maken:
 
@@ -170,7 +170,7 @@ De volgende lijst verklaart het gebruik van alle kolommen die u aan het rapport 
      </tr>
      <tr>
       <td>Aanmaakdatum</td>
-      <td>De datum waarop het element naar Assets Essentials is geüpload.</td>
+      <td>De datum waarop het element naar Assets Essentials wordt geüpload.</td>
      </tr>
      <tr>
       <td>Wijzigingsdatum</td>
