@@ -2,9 +2,9 @@
 title: Rapporten beheren in Assets Essentials
 description: Heb toegang tot de gegevens in de rapportsectie van Assets Essentials om product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
+source-git-commit: 7bda2024fd9e9d2ad05ccffccf76a51b16a113fa
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '806'
 ht-degree: 1%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 1%
 >[!CONTEXTUALHELP]
 >id="assets_reports"
 >title="Rapporten"
->abstract="Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Experience Manager Assets Essentials-omgeving. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product werken. Alle gebruikers die aan het het productprofiel van Beheerders worden toegewezen kunnen tot het dashboard van Inzichten toegang hebben of user-defined rapporten creëren."
+>abstract="Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Experience Manager Assets Essentials-omgeving. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product werken. Alle gebruikers kunnen tot het dashboard van Inzichten toegang hebben en degenen die aan het het productprofiel van Beheerders worden toegewezen kunnen user-defined rapporten tot stand brengen."
 
-Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Experience Manager Assets Essentials-omgeving. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product werken.
+Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Experience Manager Assets Essentials-omgeving. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product werken. Alle gebruikers kunnen tot het dashboard van Inzichten toegang hebben en degenen die aan het het productprofiel van Beheerders worden toegewezen kunnen user-defined rapporten tot stand brengen.
 
 ## Toegangsrapporten {#access-reports}
 
@@ -55,6 +55,7 @@ Een downloadrapport maken:
 1. Selecteer het mappad, waarin de elementen staan waarmee het rapport moet worden uitgevoerd. Gebruik hiervoor de optie **[!UICONTROL Select Folder Path]** veld.
 
 1. Selecteer het datuminterval voor het rapport.
+
    >[!NOTE]
    >
    > Assets Essentials zetten alle lokale tijdzones om in UTC (Coordinated Universal Time).
