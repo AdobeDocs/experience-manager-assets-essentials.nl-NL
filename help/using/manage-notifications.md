@@ -2,9 +2,9 @@
 title: Meldingen beheren
 description: Bewaak de bewerkingen die worden uitgevoerd op de middelen of mappen die beschikbaar zijn in de opslagplaats met behulp van de meldingen voor Assets Essentials.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
-source-git-commit: 07457e86a37b5d39a6c843c2c2cf8750a6acb354
+source-git-commit: c34fa28a698523dee00f972ede0781305aee6e60
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '597'
 ht-degree: 0%
 
 ---
@@ -95,11 +95,6 @@ Assets Essentials verzenden nu meldingen voor de geabonneerde categorieën. U ku
 Als u uw abonnement wilt opzeggen, selecteert u het element, de map of de verzameling waarvoor u een abonnement hebt genomen en klikt u op **[!UICONTROL Unwatch]**.
 
 ## Meldingen weergeven {#view-notifications}
-
->[!CONTEXTUALHELP]
->id="assets_express_integration"
->title="Adobe Express-integratie"
->abstract="[!DNL Experience Manager Assets] biedt standaard veel standaardvelden voor metagegevens. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan de pagina Details van een element. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen."
 
 De meldingen worden rechts op de menubalk in de gebruikersinterface van Assets Essentials weergegeven.
 

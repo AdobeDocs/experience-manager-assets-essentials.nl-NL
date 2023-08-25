@@ -3,9 +3,9 @@ title: Afbeeldingen bewerken
 description: Afbeeldingen bewerken met [!DNL Adobe Photoshop Express] Aangedreven opties en sparen bijgewerkte beelden als versies.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 10709417b2656ab15a3bade94bea701f50ec5ae3
+source-git-commit: c34fa28a698523dee00f972ede0781305aee6e60
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '791'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,12 @@ Nadat u een afbeelding hebt bewerkt, kunt u de nieuwe afbeelding opslaan als een
 
 <!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
-## Afbeeldingen bewerken met [!DNL Adobe Express] {#edit-using-express}
+## Afbeeldingen bewerken met Adobe Express {#edit-using-express}
+
+>[!CONTEXTUALHELP]
+>id="assets_express_integration"
+>title="Adobe Express-integratie"
+>abstract="Eenvoudig en intuïtief gereedschap voor het bewerken van afbeeldingen, aangedreven door Adobe Express die rechtstreeks in AEM Assets beschikbaar is, om het hergebruik van inhoud te verhogen en de snelheid van de inhoud te versnellen."
 
 ### Grootte afbeelding wijzigen {#resize-image-using-express}
 
