@@ -4,16 +4,16 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
+source-git-commit: de90b6958e4db44e8706d4a74558006702c3057c
 workflow-type: tm+mt
-source-wordcount: '2148'
+source-wordcount: '2292'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt gepubliceerd op 27 juli 2023.
+De huidige release van Assets Essentials wordt gepubliceerd op 24 augustus 2023.
 
 De release bevat de volgende functies:
 
@@ -27,19 +27,23 @@ You can now assign metadata form to a specific folder within your Assets Essenti
 
 -->
 
-**Verbeterd kunstmatig intelligentiekader voor beeld Slimme Markeringen**
+**Bulkimportelementen uit gegevensbronnen**
 
-Experience Manager Assets maakt nu gebruik van een verbeterd kader voor kunstmatige intelligentie voor slimme afbeeldingstags. Deze inhoudsinfo geeft een betere relevantie en nauwkeurigheid van slimme tags die beschikbaar zijn voor alle afbeeldingselementen bij opname.
+Beheerders kunnen nu een groot aantal elementen uit een gegevensbron importeren in AEM Assets. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar AEM Assets. Tot de ondersteunde gegevensbronnen voor bulkimport behoren Azure, AWS, Google Cloud en Dropbox.
 
-**Weergave van kolommen configureren voor de weergave Lijst met elementen**
+![Elementen voor bulkimport uit een gegevensbron](/help/using/assets/bulk-import.png)
 
-Assets Essentials biedt nu de mogelijkheid om de kolommen te selecteren die in de weergave Lijst met elementen worden weergegeven, zoals Status, Indeling, Dimension, Grootte, enzovoort.
+**Gereedschappen voor het bewerken van afbeeldingen aangedreven door Adobe Express**
 
-![Kolommen configureren](/help/using/assets/configure-columns.png)
+Eenvoudig en intuïtief gereedschap voor het bewerken van afbeeldingen, aangedreven door Adobe Express die rechtstreeks in AEM Assets beschikbaar is, om het hergebruik van inhoud te verhogen en de snelheid van de inhoud te versnellen.
 
-**Zoekresultaten sorteren op basis van relevantie**
+![Afbeeldingen bewerken met Adobe Express](/help/using/assets/edit-adobe-express.png)
 
-Assets Essentials sorteert de zoekresultaten nu standaard op Relevance. U kunt de gezochte middelen in stijgende of dalende orde van sorteren `Name`, `Relevance`, `Size`, `Modified`, en `Created`.
+**Flexibiliteit bij het vastzetten van items voor Mijn werkruimte Snelle toegang**
+
+Mogelijkheid om items voor u, voor uw hele organisatie of voor een lijst met groepen te selecteren en vast te zetten, zodat deze in de sectie Snelle toegang van Mijn werkruimte worden weergegeven op basis van uw selectie.
+
+![Items vastzetten voor groepen](assets/pin-items-for-groups.png)
 
 **Verbeteringen gebaseerd op feedback van klanten**
 
@@ -65,11 +69,27 @@ Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#prov
 
 ## Eerdere versies {#past-releases}
 
-### Release juni {#june2023-release}
+### Release juli 2023 {#july2023-release}
+
+**Verbeterd kunstmatig intelligentiekader voor beeld Slimme Markeringen**
+
+Experience Manager Assets maakt nu gebruik van een verbeterd kunstmatig intelligentiekader voor slimme tags voor afbeeldingen. Deze inhoudsinfo geeft een betere relevantie en nauwkeurigheid van slimme tags die beschikbaar zijn voor alle afbeeldingselementen bij opname.
+
+**Weergave van kolommen configureren voor de weergave Lijst met elementen**
+
+Met Assets Essentials kunt u nu de kolommen selecteren die worden weergegeven in de weergave Lijst met elementen, zoals Status, Indeling, Dimensionen, Grootte, enzovoort.
+
+![Kolommen configureren](/help/using/assets/configure-columns.png)
+
+**Zoekresultaten sorteren op basis van relevantie**
+
+Assets Essentials sorteren nu standaard de zoekresultaten op Relevantie. U kunt de gezochte middelen in stijgende of dalende orde van sorteren `Name`, `Relevance`, `Size`, `Modified`, en `Created`.
+
+### Release juni 2023 {#june2023-release}
 
 **Hiërarchische codering van elementen voor sneller zoeken**
 
-Vlakke lijsten met gecontroleerde woordenboeken worden in de loop der tijd onbeheersbaar. Assets Essentials biedt nu ondersteuning voor hiërarchische coderingsstructuur, die het toepassen van relevante metagegevens, het indelen van elementen, het ondersteunen van zoeken, het hergebruiken van tags, het verbeteren van de ontdekkingsmogelijkheden, enzovoort, vergemakkelijkt.
+Vlakke lijsten met gecontroleerde woordenboeken worden in de loop der tijd onbeheersbaar. Assets Essentials ondersteunen nu de hiërarchische coderingsstructuur, die het toepassen van relevante metagegevens, het indelen van elementen, het ondersteunen van zoeken, het hergebruiken van tags, het verbeteren van de ontdekkingsmogelijkheden, enzovoort, vergemakkelijkt.
 
 ![Tagbeheer](assets/tags-hierarchy.png)
 
@@ -85,19 +105,19 @@ Met Assets Essentials kunt u nu de middelen filteren die beschikbaar zijn in de 
 
 **Voorvertoningen van miniaturen voor 3D-elementen**
 
-Assets Essentials genereert nu miniatuurvoorvertoningen voor veelgebruikte 3D-bestandsindelingen, zoals gLB, USDz, FBX, 3DS, OBJ en SBSAR. Wanneer deze bestanden naar Assets Essentials worden geüpload, worden automatisch miniaturen gegenereerd door het systeem.
+Assets Essentials genereren nu miniatuurvoorvertoningen voor veelgebruikte 3D-bestandsindelingen, zoals gLB, USDz, FBX, 3DS, OBJ en SBSAR. Wanneer deze bestanden naar Assets Essentials worden geüpload, worden automatisch miniaturen gegenereerd door het systeem.
 
 ![Taken in de werkruimte](assets/3d-preview.png)
 
 **Bovenste gezochte termen weergeven**
 
-Assets Essentials biedt nu ondersteuning voor het bekijken van de belangrijkste gezochte termen binnen uw Assets Essentials-implementatie met behulp van de **Inzichten** van Mijn werkruimte. U kunt ook naar gedetailleerde inzichten navigeren om de belangrijkste zoekopdrachten in de afgelopen 30 dagen of 12 maanden weer te geven.
+Assets Essentials bieden nu ondersteuning voor het weergeven van de belangrijkste gezochte termen binnen de implementatie van uw Assets Essentials met behulp van de **Inzichten** van Mijn werkruimte. U kunt ook naar gedetailleerde inzichten navigeren om de belangrijkste zoekopdrachten in de afgelopen 30 dagen of 12 maanden weer te geven.
 
 ![Taken in de werkruimte](assets/insights-top-searches.png)
 
 **Verbeteringen in metagegevensformulieren**
 
-Met Assets Essentials kunt u nu meerwaardetekst- en vervolgkeuzelijsteigenschappen toevoegen aan de metagegevensformulieren.
+Met Assets Essentials kunt u nu tekst met meerdere waarden en vervolgkeuzelijsteigenschappen toevoegen aan de metagegevensformulieren.
 
 ### Meerdere releases in 2023 {#multiple-releases-2023}
 
@@ -119,13 +139,13 @@ Mijn werkruimte bevat widgets voor inzicht, taken en inhoud. U kunt configureren
 
 **Gebruikersinterface voor toegewezen taakbeheer**
 
-Met Assets Essentials kunt u nu de lijst met taken beheren die u op dat moment hebt toegewezen, die door u zijn gemaakt en die u al hebt voltooid op een gecentraliseerde locatie, met behulp van de nieuwe **[!UICONTROL Tasks]** beschikbaar in het linkernavigatiegebied. U kunt ook de juiste handelingen uitvoeren door een taak te selecteren om deze goed te keuren of af te wijzen of door de taakdetails te openen om deze goed te keuren, af te wijzen, te bewerken of te verwijderen.
+Met de Assets Essentials kunt u nu de lijst met taken beheren die u op dat moment hebt toegewezen, die door u zijn gemaakt en die u al hebt voltooid op een gecentraliseerde locatie, met de nieuwe **[!UICONTROL Tasks]** beschikbaar in het linkernavigatiegebied. U kunt ook de juiste handelingen uitvoeren door een taak te selecteren om deze goed te keuren of af te wijzen of door de taakdetails te openen om deze goed te keuren, af te wijzen, te bewerken of te verwijderen.
 
 ![Taken in de werkruimte](assets/tasks-workspace.png)
 
 **Automatisch gegenereerde koppelingen om elementen te delen**
 
-Assets Essentials genereert nu automatisch een koppeling zodra u een element wilt delen via de Assets Essentials-gebruikersinterface. De gegenereerde koppeling blijft ook geldig als u de vervaldatum wijzigt.
+Assets Essentials genereren nu automatisch een koppeling zodra u een element deelt via de gebruikersinterface van Assets Essentials. De gegenereerde koppeling blijft ook geldig als u de vervaldatum wijzigt.
 
 ![Taken in de werkruimte](assets/share-asset.png)
 
@@ -142,7 +162,7 @@ Deze release biedt:
 
 **Documenten voorvertonen met de Document Cloud Viewer**
 
-Met Assets Essentials kunt u nu documenten in andere ondersteunde bestandsindelingen uploaden en deze voorvertonen met de inbegrepen viewer voor Documenten Cloud. Tot de ondersteunde indelingstypen behoren TXT, RTF, DOC, DOCX, PPT, PPTX, XLS en XLSX.
+Met Assets Essentials kunt u nu documenten in andere ondersteunde indelingen uploaden en deze voorvertonen met de inbegrepen viewer voor Documenten Cloud. Tot de ondersteunde indelingstypen behoren TXT, RTF, DOC, DOCX, PPT, PPTX, XLS en XLSX.
 
 <!--
 
@@ -163,7 +183,7 @@ You can easily synchronize the user groups available on the external identity ma
 
 **Nieuwe optie Metagegevens opslaan**
 
-Er is nu een nieuwe optie voor metagegevens opslaan beschikbaar in de Assets Essentials-gebruikersinterface voor een beter beheer van metagegevens.
+Er is nu een nieuwe optie voor metagegevens opslaan beschikbaar in de gebruikersinterface van Assets Essentials voor een beter beheer van metagegevens.
 
 **Verbeteringen gebaseerd op feedback van klanten**
 
@@ -173,7 +193,7 @@ Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
 [Adobe-itemkoppeling](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html) versie 3.3 wordt uitgebracht op 13 december 2022, met de volgende kenmerken:
 
-* Ondersteuning voor [Creative Cloud voor teams](https://www.adobe.com/creativecloud/business/teams.html) naast [Creative Cloud voor bedrijven](https://www.adobe.com/creativecloud/business/enterprise.html) voor.
+* Ondersteuning voor [Creative Cloud voor teams](https://www.adobe.com/creativecloud/business/teams.html) naast [Creative Cloud voor ondernemingen](https://www.adobe.com/creativecloud/business/enterprise.html) voor.
 
 * Ondersteuning voor de nieuwste Adobe InDesign-, Photoshop- en Illustrator 2023-toepassingen.
 
@@ -187,19 +207,19 @@ Deze release biedt:
 
 **Meldingen voor verzamelingen**
 
-Met Assets Essentials-berichten kunt u nu de bewerkingen controleren die worden uitgevoerd op de verzamelingen die beschikbaar zijn in de opslagplaats. U moet de verzamelingen waarvoor de meldingen naar u worden verzonden selecteren en er een abonnement op nemen. U kunt ook de bewerkingen configureren waarvoor de meldingen worden verzonden, zoals bewerkingen voor het verwijderen, delen van koppelingen, verplaatsen, hernoemen en bijwerken van verzamelingen.
+Met meldingen over Assets Essentials kunt u nu de bewerkingen controleren die worden uitgevoerd op de verzamelingen die beschikbaar zijn in de opslagplaats. U moet de verzamelingen waarvoor de meldingen naar u worden verzonden selecteren en er een abonnement op nemen. U kunt ook de bewerkingen configureren waarvoor de meldingen worden verzonden, zoals bewerkingen voor het verwijderen, delen van koppelingen, verplaatsen, hernoemen en bijwerken van verzamelingen.
 
 **Slimme verzamelingen bewerken**
 
-Assets Essentials biedt nu ook de mogelijkheid om de gebruikte zoekcriteria te bewerken tijdens het maken van een slimme verzameling.  Sla de nieuwe zoekcriteria op om de inhoud van de verzameling dynamisch bij te werken.
+Assets Essentials bieden nu ook de mogelijkheid om de gebruikte zoekcriteria te bewerken tijdens het maken van een slimme verzameling.  Sla de nieuwe zoekcriteria op om de inhoud van de verzameling dynamisch bij te werken.
 
 **Live-statistieken weergeven voor opslagaccount**
 
-Met Assets Essentials kunt u nu ook realtime opslagaccountgegevens voor uw Assets Essentials-omgeving bekijken met het dashboard Live Statistics. U kunt real-time gebeurtenismetriek voor de laatste 30 dagen of voor de laatste 12 maanden bekijken.
+Met de Assets Essentials kunt u nu ook realtime opslagaccountgegevens voor uw Assets Essentials-omgeving bekijken met het dashboard Actieve statistieken. U kunt real-time gebeurtenismetriek voor de laatste 30 dagen of voor de laatste 12 maanden bekijken.
 
 **Uploadrapporten weergeven**
 
-Middelenrapportage biedt beheerders nu inzicht in elementen die zijn geüpload naar de Adobe Experience Manager Assets Essentials-implementatie. Beheerders kunnen al rapporten genereren voor de elementen die zijn gedownload van de Assets Essentials-implementatie. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product werken.
+Middelenrapportage biedt beheerders nu inzicht in elementen die zijn geüpload naar de Adobe Experience Manager Assets Essentials-implementatie. Beheerders kunnen al rapporten genereren voor de elementen die zijn gedownload van de implementatie van Assets Essentials. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product werken.
 
 **Verbeteringen gebaseerd op feedback van klanten**
 
@@ -213,11 +233,11 @@ Deze release biedt:
 
 **Slimme verzamelingen**
 
-Sla de zoekresultaten op als een slimme verzameling om de inhoud van de verzameling dynamisch bij te werken. Als er activa aan de bewaarplaats van Assets Essentials worden toegevoegd die aan de bepaalde onderzoekscriteria voldoen [de slimme verzameling maken](manage-collections.md#create-smart-collection), wordt de inhoud van de slimme verzameling automatisch bijgewerkt.
+Sla de zoekresultaten op als een slimme verzameling om de inhoud van de verzameling dynamisch bij te werken. Als er aan de gegevensopslagplaats van Assets Essentials activa worden toegevoegd die aan de vastgestelde onderzoekscriteria voldoen [de slimme verzameling maken](manage-collections.md#create-smart-collection), wordt de inhoud van de slimme verzameling automatisch bijgewerkt.
 
 **Meldingen**
 
-Met Assets Essentials-berichten kunt u [de bewerkingen controleren die worden uitgevoerd op de middelen of mappen die beschikbaar zijn in de opslagplaats](manage-notifications.md). U moet de inhoud selecteren en zich erop abonneren waarvoor de meldingen naar u worden verzonden. U kunt ook de categorieën configureren waarvoor de meldingen naar u worden verzonden.
+Met meldingen voor Assets Essentials kunt u [de bewerkingen controleren die worden uitgevoerd op de middelen of mappen die beschikbaar zijn in de opslagplaats](manage-notifications.md). U moet de inhoud selecteren en zich erop abonneren waarvoor de meldingen naar u worden verzonden. U kunt ook de categorieën configureren waarvoor de meldingen naar u worden verzonden.
 
 **Rapportage**
 
@@ -255,13 +275,13 @@ Deze release biedt:
 
 -->
 
-* Assets Essentials ondersteunt nu [een verzameling downloaden](manage-collections.md).
+* Assets Essentials worden nu ondersteund [een verzameling downloaden](manage-collections.md).
 
 * U kunt nu het metagegevensveld Beschrijving voor een verzameling bewerken.
 
 **Verbeterde documentatie**
 
-* Een nieuwe versie van de [Assets Essentials - overzichtsdocumentatie](introduction.md) is nu beschikbaar.
+* Een nieuwe versie van de [Overzicht van Assets Essentials - documentatie](introduction.md) is nu beschikbaar.
 
 **Verbeteringen gebaseerd op feedback van klanten**
 
@@ -281,7 +301,7 @@ De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 12 mei 2022
 
 #### Incognitomodus in Chrome {#incognito-mode}
 
-Met deze release optimaliseren we de prestaties van de levering van de gebruikersinterface en de specifieke functies in Assets Essentials - opmerkingen maken over elementen en beeldbewerking - afhankelijk van de lokale opslag in de browser en het inschakelen van cookies van derden. De incognitomodus in de Chrome-webbrowser blokkeert cookies van derden standaard. Gebruikers hebben een aantal opties om toegang te blijven krijgen tot alle mogelijkheden:
+Met deze release optimaliseren we de prestaties van de levering van de gebruikersinterface en zijn specifieke functies in Assets Essentials - opmerkingen maken over elementen en beeldbewerking - afhankelijk van de lokale browseropslag en van cookies van derden. De incognitomodus in de Chrome-webbrowser blokkeert cookies van derden standaard. Gebruikers hebben een aantal opties om toegang te blijven krijgen tot alle mogelijkheden:
 
 * Gebruik Chrome-profielen in plaats van Incognito-modus wanneer de gebruiker browsersessies moet scheiden
 
@@ -295,7 +315,7 @@ Met deze release optimaliseren we de prestaties van de levering van de gebruiker
 
 * De [!DNL Assets Essentials] now includes [een beheerdersproductprofiel](deploy-administer.md#add-users-to-essentials) Admin Console, naast de bestaande normale productprofielen en de profielen van consumentenproducten. Een beheerder kan nu andere gebruikers toewijzen aan het beheerdersproductprofiel.
 
-* In Assets Essentials kunnen beheerders nu: [de toegangsniveaus beheren voor mappen die beschikbaar zijn in de opslagplaats](manage-permissions.md). Als beheerder, kunt u gebruikersgroepen tot stand brengen en toestemmingen aan die groepen toewijzen om toegangsniveaus te beheren. U kunt de bevoegdheden voor machtigingsbeheer ook delegeren aan gebruikersgroepen op mapniveau.
+* Met Assets Essentials kunnen beheerders nu [de toegangsniveaus beheren voor mappen die beschikbaar zijn in de opslagplaats](manage-permissions.md). Als beheerder, kunt u gebruikersgroepen tot stand brengen en toestemmingen aan die groepen toewijzen om toegangsniveaus te beheren. U kunt de bevoegdheden voor machtigingsbeheer ook delegeren aan gebruikersgroepen op mapniveau.
 
 * Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
@@ -312,8 +332,8 @@ Daarnaast [!DNL Adobe Asset Link] een extensie voor Creative Cloud (Photoshop, I
 
 [!DNL Assets Essentials] wordt gepubliceerd op 16 december 2021, met de volgende updates:
 
-* Adobe implementeert Assets Essentials automatisch nadat het inrichtingsproces is voltooid. De beheerders hoeven geen extra stappen uit te voeren om Assets Essentials te implementeren met [!DNL Cloud Manager] gebruikersinterface. Deze automatische implementatie is beschikbaar voor omgevingen die na 6 januari 2022 zijn ingericht.
-* Nieuwe versies van Creative Cloud-plug-ins die werken met Assets Essentials zijn beschikbaar op Adobe Exchange - [Adobe Asset Link voor Adobe XD v 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) en [Adobe Asset Link voor Photoshop / InDesign / Illustrator v 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
+* Adobe implementeert automatisch Assets Essentials nadat het inrichtingsproces is voltooid. De beheerders hoeven geen extra stappen uit te voeren om Assets Essentials op te stellen die [!DNL Cloud Manager] gebruikersinterface. Deze automatische implementatie is beschikbaar voor omgevingen die na 6 januari 2022 zijn ingericht.
+* De nieuwe versies van Creative Cloud stoppen die met Assets Essentials werken zijn beschikbaar op de Uitwisseling van de Adobe - [Adobe Asset Link voor Adobe XD v 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) en [Adobe Asset Link for Photoshop / InDesign / Illustrator v 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
 * Verschillende foutoplossingen en productverbeteringen, inclusief bekende problemen (mappen worden nu correct weergegeven in de linkernavigatiestructuur na het uploaden)<!-- CQ-4337638 -->, uploaden via slepen en neerzetten zorgt ervoor dat de gebruiker de huidige map of een submap kan selecteren bij het neerzetten voor uploaden<!-- CQ-4327753 -->).
 
 ### release 2021.8.0 {#august2021}
