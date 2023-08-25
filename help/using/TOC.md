@@ -9,10 +9,10 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: 95720f448d45e1e3f36d10dacbe5c0903a83b3e8
+source-git-commit: e6720e7f3f19e81b50feece7e7adaddca0b861d8
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 25%
+source-wordcount: '134'
+ht-degree: 24%
 
 ---
 
@@ -28,11 +28,12 @@ ht-degree: 25%
    + Maptoegang beheren{#folder-access}
       + [Mapmachtigingen beheren](manage-permissions.md)
       + [Tips en trucs voor het beheer van machtigingen](permission-management-best-practices.md)
-   + [Beheerderstraject voor Assets Essentials for Creative Cloud Pro met oplossingen voor werkbeheer](assets-essentials-cc-pro-work-management-admin-journey.md)
+   + [Beheerderstraject voor Assets Essentials voor Creative Cloud Pro met oplossingen voor werkbeheer](assets-essentials-cc-pro-work-management-admin-journey.md)
 + [Aan de slag met [!DNL Assets Essentials]](get-started.md)
 + [Ondersteunde bestandstypen en gebruiksgevallen](supported-file-formats.md)
 + [Elementen weergeven](navigate-view.md)
 + [Elementen uploaden en toevoegen](add-delete.md)
++ [Bulkimportmiddelen](bulk-import-assets-view.md)
 + [Elementen zoeken en ontdekken](search.md)
 + [Taken voor middelenbeheer](manage-organize.md)
 + [Afbeeldingen bewerken](edit-images.md)
@@ -44,7 +45,7 @@ ht-degree: 25%
 + [Tags beheren](tagging-management.md)
 + Integratie met andere oplossingen {#integration-with-other-solutions}
    + [Overzicht](integration.md)
-   + [Integreren met Creative Cloud for Enterprise](integrate-with-creative-cloud.md)
+   + [Integreren met Creative Cloud voor Enterprise](integrate-with-creative-cloud.md)
    + [Integreren met Adobe Workfront](integrate-with-workfront.md)
 + [Video&#39;s](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
 + [Weergave Elementen](assets-view-introduction.md)
