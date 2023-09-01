@@ -3,7 +3,7 @@ title: Afbeeldingen bewerken
 description: Afbeeldingen bewerken met [!DNL Adobe Photoshop Express] Aangedreven opties en sparen bijgewerkte beelden als versies.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: c34fa28a698523dee00f972ede0781305aee6e60
+source-git-commit: 701da4ddf9dcadb9e8ad3070877788344d0210fc
 workflow-type: tm+mt
 source-wordcount: '791'
 ht-degree: 0%
@@ -34,10 +34,10 @@ Nadat u een afbeelding hebt bewerkt, kunt u de nieuwe afbeelding opslaan als een
 Een afbeelding vergroten of verkleinen tot een bepaalde grootte is een veelgebruikte optie. [!DNL Assets Essentials] Hiermee kunt u snel het formaat van een afbeelding aanpassen aan de gebruikelijke fotoformaten door vooraf berekende nieuwe resoluties voor specifieke fotoformaten te bieden. De grootte van de afbeelding wijzigen met [!DNL Assets Essentials]volgt u de onderstaande stappen:
 
 1. Selecteer een afbeelding en klik op **Bewerken**.
-2. Klikken **[!DNL Resize Image]** uit de snelle acties die beschikbaar zijn in het linkerdeelvenster.
+2. Klikken **[!UICONTROL Resize Image]** uit de snelle acties die beschikbaar zijn in het linkerdeelvenster.
 3. Selecteer het juiste sociale-mediaplatform in het menu **[!UICONTROL Resize for]** en selecteert u de afbeeldingsgrootte in de weergegeven opties.
 4. De afbeelding indien nodig schalen met de **[!UICONTROL Image Scale]** veld.
-5. Klikken **[!DNL Apply]** om uw wijzigingen toe te passen.
+5. Klikken **[!UICONTROL Apply]** om uw wijzigingen toe te passen.
    ![Afbeeldingen bewerken met Adobe Express](/help/using/assets/adobe-express-resize-image.png)
 
    De bewerkte afbeelding kan worden gedownload. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element.
@@ -48,8 +48,8 @@ Een afbeelding vergroten of verkleinen tot een bepaalde grootte is een veelgebru
 U kunt de achtergrond uit een afbeelding verwijderen in een paar eenvoudige stappen, zoals hieronder wordt beschreven:
 
 1. Selecteer een afbeelding en klik op **Bewerken**.
-2. Klikken **[!DNL Remove Background]** uit de snelle acties die beschikbaar zijn in het linkerdeelvenster. Experience Manager Assets geeft de afbeelding zonder achtergrond weer.
-3. Klikken **[!DNL Apply]** om uw wijzigingen toe te passen.
+2. Klikken **[!UICONTROL Remove Background]** uit de snelle acties die beschikbaar zijn in het linkerdeelvenster. Experience Manager Assets geeft de afbeelding zonder achtergrond weer.
+3. Klikken **[!UICONTROL Apply]** om uw wijzigingen toe te passen.
    ![Afbeelding opslaan met Adobe Express](/help/using/assets/adobe-express-remove-background.png)
 
    De bewerkte afbeelding kan worden gedownload. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element.
@@ -59,9 +59,9 @@ U kunt de achtergrond uit een afbeelding verwijderen in een paar eenvoudige stap
 Een afbeelding transformeren tot een perfecte grootte is eenvoudig met ingesloten [!DNL Adobe Express] snelle acties.
 
 1. Selecteer een afbeelding en klik op **Bewerken**.
-2. Klikken **[!DNL Crop Image]** uit de snelle acties die beschikbaar zijn in het linkerdeelvenster.
+2. Klikken **[!UICONTROL Crop Image]** uit de snelle acties die beschikbaar zijn in het linkerdeelvenster.
 3. Sleep de grepen op de hoeken van de afbeelding om de gewenste uitsnijding te maken.
-4. Klik op **[!DNL Apply]**.
+4. Klik op **[!UICONTROL Apply]**.
    ![Afbeelding opslaan met Adobe Express](/help/using/assets/adobe-express-crop-image.png)
 De uitgesneden afbeelding kan worden gedownload. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element.
 
@@ -70,7 +70,7 @@ De uitgesneden afbeelding kan worden gedownload. U kunt het bewerkte element ops
 U kunt een JPEG-afbeelding snel met Adobe Express omzetten in een PNG-indeling. Voer de volgende stappen uit:
 
 1. Selecteer een afbeelding en klik op **Bewerken**.
-2. Klikken **[!DNL JPEG to PNG]** uit de snelle acties die beschikbaar zijn in het linkerdeelvenster.
+2. Klikken **[!UICONTROL JPEG to PNG]** uit de snelle acties die beschikbaar zijn in het linkerdeelvenster.
    ![Omzetten in PNG met Adobe Express](/help/using/assets/adobe-express-convert-image.png)
 3. Klik op **[!UICONTROL Download]**.
 
