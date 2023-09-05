@@ -1,16 +1,25 @@
 ---
 title: Bulkimportelementen met middelenweergave
 description: Leer hoe u importmiddelen in bulk importeert met de gebruikersinterface voor nieuwe elementen (weergave Middelen). Hiermee kunnen beheerders een groot aantal elementen uit een gegevensbron importeren in AEM Assets.
-source-git-commit: ceadd99c1d846a97752ed13097bafd0d10bb2a35
+source-git-commit: 946dc5ea27c61eb5f2dc74054ebdd65cdbdb71a8
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '1164'
 ht-degree: 0%
 
 ---
 
 # Bulkimportelementen met middelenweergave  {#bulk-import-assets-view}
 
+>[!CONTEXTUALHELP]
+>id="assets_bulk_import"
+>title="Bulkimportmiddelen"
+>abstract="Beheerders kunnen nu een groot aantal elementen uit een gegevensbron importeren naar Experience Manager Assets met de middelenweergave. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar Experience Manager Assets. Tot de ondersteunde leveranciers voor cloudopslag voor bulkimport behoren Azure, AWS, Google Cloud en Dropbox."
+
 Bulkimport in de weergave AEM Assets biedt beheerders de mogelijkheid om een groot aantal elementen uit een gegevensbron te importeren in AEM Assets. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar AEM Assets.
+
+>[!NOTE]
+>
+>In de overzichtsweergave van de middelenweergave wordt dezelfde achtergrond gebruikt als in de bulkimportmodule van de Admin-weergave. Het biedt echter meer gegevensbronnen om uit te importeren en een gestroomlijnde gebruikerservaring.
 
 U kunt elementen importeren uit de volgende gegevensbronnen:
 
@@ -58,6 +67,14 @@ Voer de volgende stappen uit om een bulkimportconfiguratie tot stand te brengen:
    ![bulkimport uitvoeren](assets/bulk-import-run.png)
 
 1. Klikken **[!UICONTROL Save]** om de geselecteerde optie uit te voeren.
+
+### Bestandsnamen verwerken tijdens bulkimport {#filename-handling-bulkimport-assets-view}
+
+Wanneer u elementen of mappen in bulk importeert, [!DNL Experience Manager Assets] importeert de gehele structuur van wat er in de invoerbron bestaat. [!DNL Experience Manager] volgt de ingebouwde regels voor speciale tekens in de naam van het element en de map. Deze bestandsnamen moeten daarom worden ontsmet. Voor zowel de mapnaam als de elementnaam blijft de door de gebruiker gedefinieerde titel ongewijzigd en wordt deze opgeslagen in `jcr:title`.
+
+Tijdens de bulkinvoer [!DNL Experience Manager] zoekt u naar de bestaande mappen om te voorkomen dat de elementen en mappen opnieuw worden geïmporteerd, en controleert u ook de ontsmettingsregels die zijn toegepast in de bovenliggende map waar het importeren plaatsvindt. Als de ontsmettingsregels worden toegepast in de bovenliggende map, worden dezelfde regels toegepast op de importbron. Voor nieuwe importbewerkingen worden de volgende ontsmettingsregels toegepast om de bestandsnamen van elementen en mappen te beheren.
+
+Voor meer informatie over niet-toegestane namen, het verwerken van namen van elementen en het verwerken van mapnamen tijdens het importeren van grote hoeveelheden raadpleegt u [Bestandsnamen verwerken tijdens het bulkimporteren in de beheerweergave](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport).
 
 ## Bestaande configuraties voor bulkimport weergeven {#view-import-configuration}
 
