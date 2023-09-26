@@ -1,22 +1,22 @@
 ---
-title: Integratie met andere Adobe-oplossingen
+title: Integratie met andere oplossingen voor Adobe
 description: "[!DNL Assets Essentials] integreert met andere Adobe-oplossingen en biedt een ingesloten ervaring vanuit de oorspronkelijke toepassing."
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: 5bcd55313d1fb8bcf3dedbb24742eca5e2663aa8
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '443'
 ht-degree: 1%
 
 ---
 
-# Integratie met andere Adobe-oplossingen {#integrations}
+# Integratie met andere oplossingen voor Adobe {#integrations}
 
 [!DNL Adobe Experience Manager Assets Essentials] integreert goed met de gesteunde oplossingen van de Adobe en verstrekt een ingebedde ervaring van binnen de interfaces van deze toepassingen. Het laat gebruikers de basiselementfunctionaliteit van activa binnen de inheemse toepassing of interface gebruiken, zonder het moeten hun vertrouwde toepassingen verlaten.
 
 Ingesloten [!DNL Assets Essentials] de ervaring kan met de volgende oplossingen worden geïntegreerd :
 
-* **[!DNL Creative Cloud for Enterprise]**: [In-app-deelvenster voor Adobe-middelenkoppeling](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) biedt professionals uit de creatieve sector de mogelijkheid verbinding te maken met [!DNL Assets Essentials] opslagplaats vanuit de ondersteunde [!DNL Adobe Creative Cloud] bureaubladtoepassingen. Het deelvenster is beschikbaar voor [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], en [!DNL Adobe XD]. Het stroomlijnt de toegang tot activa die op zijn beurt inhoudssnelheid verhogen. Zie [elementen beheren met [!DNL Adobe Asset Link]](https://helpx.adobe.com/nl/enterprise/using/manage-assets-using-adobe-asset-link.html).
+* **[!DNL Creative Cloud for Enterprise]**: [Deelvenster Adobe Asset Link in app](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) biedt professionals uit de creatieve sector de mogelijkheid om [!DNL Assets Essentials] opslagplaats vanuit de ondersteunde [!DNL Adobe Creative Cloud] bureaubladtoepassingen. Het deelvenster is beschikbaar voor [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], en [!DNL Adobe XD]. Het stroomlijnt de toegang tot activa die op zijn beurt inhoudssnelheid verhogen. Zie [elementen beheren met [!DNL Adobe Asset Link]](https://helpx.adobe.com/nl/enterprise/using/manage-assets-using-adobe-asset-link.html).
 
   [Bekijk een video om Assets Essentials te integreren met Adobe Creative Cloud Libraries](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html)
 
@@ -26,9 +26,15 @@ Ingesloten [!DNL Assets Essentials] de ervaring kan met de volgende oplossingen 
 
   [Bekijk een video om de integratie van Adobe Workfront en Assets Essentials te configureren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
 
+## Integratie met op documenten gebaseerde authoring voor Edge Delivery Services {#integrate-doc-authoring-edge-and-assets}
+
+Met Edge Delivery kunt u snel aantrekkelijke websites maken waar auteurs inhoud snel kunnen bijwerken en publiceren en nieuwe sites snel kunnen worden gestart.
+
+Integreer AEM Assets met op documenten gebaseerde authoring voor Edge Delivery Services zodat websiteauteurs afbeeldingen kunnen gebruiken die beschikbaar zijn in AEM Assets-opslagruimten tijdens het ontwerpen van documenten in Microsoft Word of Google Docs. Zie voor meer informatie [AEM Assets integreren met op documenten gebaseerde authoring](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html#integrate-assets-edge).
+
 ## Volgende stappen {#next-steps}
 
-* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met de [!UICONTROL Feedback] optie beschikbaar in de gebruikersinterface van Assets Essentials
 
 * Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
 
