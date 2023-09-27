@@ -4,28 +4,24 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: de90b6958e4db44e8706d4a74558006702c3057c
+source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
 workflow-type: tm+mt
-source-wordcount: '2292'
+source-wordcount: '2336'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt gepubliceerd op 24 augustus 2023.
+De huidige release van Assets Essentials wordt gepubliceerd op 21 september 2023.
 
-De release bevat de volgende functies:
+De lijst met onlangs toegevoegde functies bevat:
 
-<!--
+**Metagegevensformulier toewijzen aan een map**
 
-**Assign metadata form to a folder**
+U kunt nu een metagegevensformulier toewijzen aan een specifieke map in de implementatie van Assets Essentials. Alle elementen in de map, inclusief de elementen in de submappen, geven vervolgens de eigenschappen weer die in het toegewezen metagegevensformulier zijn gedefinieerd.
 
-You can now assign metadata form to a specific folder within your Assets Essentials deployment. All assets in the folder, including assets in the sub-folders, then display properties defined in the assigned metadata form.
-
-![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
-
--->
+![metagegevensformulier toewijzen aan een map](/help/using/assets/assign-to-folder.png)
 
 **Bulkimportelementen uit gegevensbronnen**
 
