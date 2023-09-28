@@ -4,14 +4,14 @@ description: Metagegevens van elementen beheren in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
+source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
 workflow-type: tm+mt
 source-wordcount: '1640'
 ht-degree: 0%
 
 ---
 
-# Metagegevens in middelenweergave {#metadata}
+# Metagegevens in Assets Essentials {#metadata}
 
 Metagegevens zijn gegevens of een beschrijving van de gegevens. Uw afbeeldingen als een element kunnen bijvoorbeeld informatie bevatten over de camera waarop u hebt geklikt of over copyrightgegevens. Deze informatie is metagegevens van de afbeelding. Metagegevens zijn essentieel voor efficiënt middelenbeheer. Metagegevens zijn de verzameling van alle gegevens die voor een element beschikbaar zijn, maar hoeven niet noodzakelijkerwijs in dat element te zijn opgenomen.
 

@@ -1,25 +1,25 @@
 ---
-title: Bulkimportelementen met middelenweergave
-description: Leer hoe u importmiddelen in bulk importeert met de gebruikersinterface voor nieuwe elementen (weergave Middelen). Hiermee kunnen beheerders een groot aantal elementen uit een gegevensbron importeren in AEM Assets.
-source-git-commit: 946dc5ea27c61eb5f2dc74054ebdd65cdbdb71a8
+title: Elementen voor bulkimport die gebruikmaken van Assets Essentials
+description: Leer hoe u importmiddelen in bulk importeert met de gebruikersinterface voor nieuwe middelen (Assets Essentials). Hiermee kunnen beheerders een groot aantal elementen uit een gegevensbron importeren in AEM Assets.
+source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
 workflow-type: tm+mt
-source-wordcount: '1164'
+source-wordcount: '1165'
 ht-degree: 0%
 
 ---
 
-# Bulkimportelementen met middelenweergave  {#bulk-import-assets-view}
+# Elementen voor bulkimport die gebruikmaken van Assets Essentials  {#bulk-import-essentials}
 
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
 >title="Bulkimportmiddelen"
->abstract="Beheerders kunnen nu een groot aantal elementen uit een gegevensbron importeren naar Experience Manager Assets met de middelenweergave. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar Experience Manager Assets. Tot de ondersteunde leveranciers voor cloudopslag voor bulkimport behoren Azure, AWS, Google Cloud en Dropbox."
+>abstract="Beheerders kunnen nu een groot aantal elementen uit een gegevensbron importeren in Experience Manager Assets met behulp van Assets Essentials. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar Experience Manager Assets. Tot de ondersteunde leveranciers voor cloudopslag voor bulkimport behoren Azure, AWS, Google Cloud en Dropbox."
 
-Bulkimport in de weergave AEM Assets biedt beheerders de mogelijkheid om een groot aantal elementen uit een gegevensbron te importeren in AEM Assets. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar AEM Assets.
+Bulk Import in AEM Assets Essentials biedt beheerders de mogelijkheid om een groot aantal elementen uit een gegevensbron te importeren in AEM Assets. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar AEM Assets.
 
 >[!NOTE]
 >
->In de overzichtsweergave van de middelenweergave wordt dezelfde achtergrond gebruikt als in de bulkimportmodule van de Admin-weergave. Het biedt echter meer gegevensbronnen om uit te importeren en een gestroomlijnde gebruikerservaring.
+>De bulkimporteur van de Assets Essentials gebruikt dezelfde achterkant als de as a Cloud Service bulkimporteur van de activa. Assets Essentials bieden echter meer gegevensbronnen om uit te importeren en een gestroomlijnde gebruikerservaring.
 
 U kunt elementen importeren uit de volgende gegevensbronnen:
 
@@ -74,7 +74,7 @@ Wanneer u elementen of mappen in bulk importeert, [!DNL Experience Manager Asset
 
 Tijdens de bulkinvoer [!DNL Experience Manager] zoekt u naar de bestaande mappen om te voorkomen dat de elementen en mappen opnieuw worden geïmporteerd, en controleert u ook de ontsmettingsregels die zijn toegepast in de bovenliggende map waar het importeren plaatsvindt. Als de ontsmettingsregels worden toegepast in de bovenliggende map, worden dezelfde regels toegepast op de importbron. Voor nieuwe importbewerkingen worden de volgende ontsmettingsregels toegepast om de bestandsnamen van elementen en mappen te beheren.
 
-Voor meer informatie over niet-toegestane namen, het verwerken van namen van elementen en het verwerken van mapnamen tijdens het importeren van grote hoeveelheden raadpleegt u [Bestandsnamen verwerken tijdens het bulkimporteren in de beheerweergave](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport).
+Voor meer informatie over niet-toegestane namen, het verwerken van namen van elementen en het verwerken van mapnamen tijdens het importeren van grote hoeveelheden raadpleegt u [Bestandsnamen verwerken tijdens bulkimport](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport).
 
 ## Bestaande configuraties voor bulkimport weergeven {#view-import-configuration}
 
