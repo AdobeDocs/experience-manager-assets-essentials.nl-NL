@@ -1,9 +1,10 @@
 ---
 title: Elementen voor bulkimport die gebruikmaken van Assets Essentials
 description: Leer hoe u importmiddelen in bulk importeert met de gebruikersinterface voor nieuwe middelen (Assets Essentials). Hiermee kunnen beheerders een groot aantal elementen uit een gegevensbron importeren in AEM Assets.
-source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
+exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
+source-git-commit: db664a94a8e0c8bddcd415477518ab9d354faee0
 workflow-type: tm+mt
-source-wordcount: '1165'
+source-wordcount: '1183'
 ht-degree: 0%
 
 ---
@@ -14,6 +15,7 @@ ht-degree: 0%
 >id="assets_bulk_import"
 >title="Bulkimportmiddelen"
 >abstract="Beheerders kunnen nu een groot aantal elementen uit een gegevensbron importeren in Experience Manager Assets met behulp van Assets Essentials. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar Experience Manager Assets. Tot de ondersteunde leveranciers voor cloudopslag voor bulkimport behoren Azure, AWS, Google Cloud en Dropbox."
+>additional-url="https://images-tv.adobe.com/mpcv3/4477/513abbee-d037-44dc-bc3a-47a91d4b0078_1696935015.854x480at800_h264.mp4" text="De functie in actie bekijken"
 
 Bulk Import in AEM Assets Essentials biedt beheerders de mogelijkheid om een groot aantal elementen uit een gegevensbron te importeren in AEM Assets. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar AEM Assets.
 
@@ -138,4 +140,3 @@ Klik op ... voor de configuratienaam in **[!UICONTROL Executed Imports]**, **[!U
 ## Navigeren naar elementen nadat bulkimport is uitgevoerd {#view-assets-after-bulk-import}
 
 Als u de doellocatie voor middelen wilt weergeven waar de elementen worden geïmporteerd nadat de Bulkimporttaak is uitgevoerd, klikt u op ... voor de configuratienaam en klikt u vervolgens op **[!UICONTROL View Assets]**.
-
