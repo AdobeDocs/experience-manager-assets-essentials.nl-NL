@@ -1,7 +1,8 @@
 ---
 title: Hoe kan ik tags in Assets Essentials beheren?
 description: Leer hoe u tags in Assets Essentials beheert. Met tags kunt u elementen categoriseren waarin u efficiënter kunt bladeren en zoeken.
-source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
+exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
+source-git-commit: 74f78f0675e01c09a8654d7f7d0db14a0ee674a2
 workflow-type: tm+mt
 source-wordcount: '1292'
 ht-degree: 0%
@@ -150,21 +151,3 @@ Bekijk deze korte video om te zien hoe u de component Tags aan het metagegevensf
 
 1. Selecteer een of meer tags. De subtag wordt automatisch geselecteerd samen met de bovenliggende tag of naamruimte.
 Tags die in de Assets Essentials zijn gewijzigd, worden ook in as a Cloud Service elementen toegepast.
-
-<!--
-*   Overview
-*   Benefits
-*   Prerequisites and Permissions
-*   Configuration
-*   Managing Tags
-    *   Creating a Namespace
-    *   Adding Tags to a Namespace
-    *   Adding Tags to Standard Tags
-    *   Moving Tags
-    *   Editing Tags
-    *   Deleting Tags
-*   Applying Tags
-    *   Adding Tags to the Metadata form
-    *   Adding Tags to Assets
-*   Limitations
--->
