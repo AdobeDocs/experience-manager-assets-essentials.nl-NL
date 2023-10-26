@@ -48,7 +48,7 @@ U kunt de zoekresultaten filteren op basis van de volgende parameters.
 
 * Vervaldatum: filter de zoekresultaten op basis van een `Expired` status van het element. Daarnaast kunt u een datumbereik voor de vervaldatum voor elementen opgeven om de zoekresultaten verder te filteren.
 
-* Aangepaste filters: [Aangepaste filters toevoegen](#custom-filters) naar Assets Essentials-gebruikersinterface. Pas de aangepaste filters toe naast de standaardfilters om de zoekresultaten te verfijnen.
+* Aangepaste filters: [Aangepaste filters toevoegen](#custom-filters) naar Assets Essentials gebruikersinterface. Pas de aangepaste filters toe naast de standaardfilters om de zoekresultaten te verfijnen.
 
 U kunt de gezochte middelen in stijgende of dalende orde van sorteren `Name`, `Relevance`, `Size`, `Modified`, en `Created`. De gezochte elementen worden gesorteerd op `Relevance`, standaard.
 
@@ -58,7 +58,7 @@ U kunt de gezochte middelen in stijgende of dalende orde van sorteren `Name`, `R
 
 Met Assets Essentials kunt u ook aangepaste filters toevoegen aan de gebruikersinterface. Vervolgens kunt u deze aangepaste filters toepassen naast de [standaardfilters](#refine-search-results) om de zoekresultaten te verfijnen.
 
-Assets Essentials biedt de volgende aangepaste filters:
+Assets Essentials bieden de volgende aangepaste filters:
 
 <table>
     <tbody>
@@ -172,9 +172,9 @@ U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de
 
 ## Volgende stappen {#next-steps}
 
-* [Een video bekijken om middelen te zoeken in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html)
+* [Een video bekijken om elementen in Assets Essentials te zoeken](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html)
 
-* Feedback geven op het product met de [!UICONTROL Feedback] beschikbaar in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met de [!UICONTROL Feedback] optie beschikbaar in de gebruikersinterface van Assets Essentials
 
 * Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
 
