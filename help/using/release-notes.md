@@ -4,18 +4,54 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
+source-git-commit: 347ec8c64daa46f603b41dd3845503863a1ccedd
 workflow-type: tm+mt
-source-wordcount: '2336'
+source-wordcount: '2429'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt gepubliceerd op 21 september 2023.
+De huidige release van Assets Essentials wordt gepubliceerd op 26 oktober 2023.
 
-De lijst met onlangs toegevoegde functies bevat:
+De nieuwe functies zijn onder andere:
+
+**Bulkimportmiddelen van OneDrive-gegevensbron**
+
+Beheerders kunnen nu [Een groot aantal middelen importeren van OneDrive naar AEM Assets](/help/using/bulk-import-assets-view.md). De bijgewerkte lijst voor de ondersteunde gegevensbronnen voor bulkimport bevat Azure, AWS, Google Cloud, Dropbox en OneDrive.
+
+![metagegevensformulier toewijzen aan een map](/help/using/assets/bulk-import-source-details.png)
+
+**Ondersteuning voor interdomeinrechten voor bibliotheken**
+
+Experience Manager Assets stelt u nu in staat om toegang tot Creatives Cloud bibliotheken in een andere IMS-organisatie te configureren. Het maakt gemakkelijker toegang tot de recentste productoverschrijdende werkschema&#39;s tussen Creative Cloud en Experience Manager mogelijk en vermindert tijd en moeite voor creatieve personen.
+
+**Verbeteringen gebaseerd op feedback van klanten**
+
+Verbeteringen en foutoplossingen op basis van feedback van klanten.
+
+
+## Bekende problemen {#known-issues}
+
+De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
+
+* Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
+
+Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
+
+## Eerdere versies {#past-releases}
+
+### Release september 2023 {#september2023-release}
 
 **Metagegevensformulier toewijzen aan een map**
 
@@ -41,29 +77,6 @@ Mogelijkheid om items voor u, voor uw hele organisatie of voor een lijst met gro
 
 ![Items vastzetten voor groepen](assets/pin-items-for-groups.png)
 
-**Verbeteringen gebaseerd op feedback van klanten**
-
-Verbeteringen en foutoplossingen op basis van feedback van klanten.
-
-
-## Bekende problemen {#known-issues}
-
-De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
-
-* Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
-
-Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
-
-## Eerdere versies {#past-releases}
 
 ### Release juli 2023 {#july2023-release}
 
