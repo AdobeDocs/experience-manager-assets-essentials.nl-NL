@@ -2,9 +2,9 @@
 title: Elementen voor bulkimport die gebruikmaken van Assets Essentials
 description: Leer hoe u importmiddelen in bulk importeert met de gebruikersinterface voor nieuwe middelen (Assets Essentials). Hiermee kunnen beheerders een groot aantal elementen uit een gegevensbron importeren in AEM Assets.
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
-source-git-commit: d7e239008c5235cc423f0a2d168f37c315a0118e
+source-git-commit: 34679d7950f5c33faec1e8b936fd97ab27cb6cb8
 workflow-type: tm+mt
-source-wordcount: '1629'
+source-wordcount: '1646'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 0%
 >id="assets_bulk_import"
 >title="Bulkimportmiddelen"
 >abstract="Beheerders kunnen nu een groot aantal elementen uit een gegevensbron importeren in Experience Manager Assets met behulp van Assets Essentials. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar Experience Manager Assets. Tot de ondersteunde leveranciers voor cloudopslag voor bulkimport behoren Azure, AWS, Google Cloud en Dropbox."
+>additional-url="https://images-tv.adobe.com/mpcv3/4477/98bce651-721c-442e-98b8-c43e7708e44c_1698834577.854x480at800_h264.mp4" text="Video bekijken"
 
 Bulk Import in AEM Assets Essentials biedt beheerders de mogelijkheid om een groot aantal elementen uit een gegevensbron te importeren in AEM Assets. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar AEM Assets.
 
