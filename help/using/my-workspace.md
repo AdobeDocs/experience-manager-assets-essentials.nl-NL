@@ -2,9 +2,9 @@
 title: Mijn werkruimte voor middelen
 description: Mijn werkruimte is een pagina die aanpasbare visuele modules voor gemakkelijke toegang tot zeer belangrijke gebieden van het gebruikersinterface van Activa en informatie verstrekt die voor de gebruiker het meest relevant is.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
-source-git-commit: 1db631a927e806d4b8ed83b1e0fc4a1e4f5bef71
+source-git-commit: 8a52d79ecd1ce8fdafd181e0f9b166e8d827c665
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 >[!CONTEXTUALHELP]
 >id="assets_my_workspace"
 >title="Mijn werkruimte"
->abstract="Middelen beschikken nu over een aanpasbare werkruimte die widgets biedt voor eenvoudige toegang tot belangrijke gebieden van de gebruikersinterface van Elementen en informatie die voor u het meest relevant is. Deze pagina dient als een one-stop oplossing om een overzicht van uw het werkpunten te verstrekken en snelle toegang tot zeer belangrijke werkschema&#39;s te geven."
+>abstract="De elementen omvatten een aanpasbare werkruimte die widgets voor gemakkelijke toegang tot zeer belangrijke gebieden van het gebruikersinterface van Activa en informatie verstrekt die voor u het meest relevant is. Deze pagina dient als een one-stop oplossing om een overzicht van uw het werkpunten te verstrekken en snelle toegang tot zeer belangrijke werkschema&#39;s te geven."
 
 Middelen beschikken nu over een aanpasbare werkruimte die widgets biedt voor eenvoudige toegang tot belangrijke gebieden van de gebruikersinterface van Elementen en informatie die voor u het meest relevant is. Deze pagina dient als een one-stop oplossing om een overzicht van uw het werkpunten te verstrekken en snelle toegang tot zeer belangrijke werkschema&#39;s te geven. Een handiger toegang tot deze opties verhoogt de efficiëntie en snelheid van de inhoud.
 
