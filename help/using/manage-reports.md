@@ -2,19 +2,14 @@
 title: Rapporten beheren in Assets Essentials
 description: Heb toegang tot de gegevens in de rapportsectie van Assets Essentials om product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 7bda2024fd9e9d2ad05ccffccf76a51b16a113fa
+source-git-commit: 43ecb9862b6553ffd34cf1e116eb018505eff28e
 workflow-type: tm+mt
-source-wordcount: '806'
+source-wordcount: '794'
 ht-degree: 1%
 
 ---
 
 # Rapporten beheren {#manage-reports}
-
->[!CONTEXTUALHELP]
->id="assets_reports"
->title="Rapporten"
->abstract="Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Experience Manager Assets Essentials-omgeving. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product werken. Alle gebruikers kunnen tot het dashboard van Inzichten toegang hebben en degenen die aan het het productprofiel van Beheerders worden toegewezen kunnen user-defined rapporten tot stand brengen."
 
 Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Experience Manager Assets Essentials-omgeving. Deze gegevens bevatten nuttige informatie over de manier waarop gebruikers met inhoud en het product werken. Alle gebruikers kunnen tot het dashboard van Inzichten toegang hebben en degenen die aan het het productprofiel van Beheerders worden toegewezen kunnen user-defined rapporten tot stand brengen.
 
@@ -23,6 +18,11 @@ Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Expe
 Alle gebruikers die zijn toegewezen aan de [Productprofiel Assets Essentials-beheerders](deploy-administer.md) U kunt het dashboard van Inzichten openen of user-defined rapporten in Assets Essentials tot stand brengen.
 
 ## Inzichten weergeven {#view-live-statistics}
+
+>[!CONTEXTUALHELP]
+>id="assets_reports"
+>title="Rapporten"
+>abstract="Met het dashboard Inzichten kunt u real-time gegevens over gebeurtenissen weergeven voor uw Experience Manager Assets-omgeving in de afgelopen 30 dagen of de laatste 12 maanden. De lijst met gebeurtenissen bevat het aantal downloads, uploads, topzoekopdrachten, enzovoort."
 
 Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Inzichten. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
 
