@@ -2,9 +2,9 @@
 title: Rapporten beheren in Assets Essentials
 description: Heb toegang tot de gegevens in de rapportsectie van Assets Essentials om product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 43ecb9862b6553ffd34cf1e116eb018505eff28e
+source-git-commit: aee57f5a83bfa5a292e9c0c50e2cb00499dbb08c
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '881'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,20 @@ Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Expe
 ## Toegangsrapporten {#access-reports}
 
 Alle gebruikers die zijn toegewezen aan de [Productprofiel Assets Essentials-beheerders](deploy-administer.md) U kunt het dashboard van Inzichten openen of user-defined rapporten in Assets Essentials tot stand brengen.
+
+Ga naar om rapporten te openen **[!UICONTROL Reports]** krachtens **[!UICONTROL Settings]**.
+
+![Rapporten](assets/reports.png)
+<!--
+In the **[!UICONTROL Reports]** screen, various components are shown in the tabular format which includes the following:
+
+* **Title**: Title of the report
+* **Type**: Determines whether the report is uploaded or downloaded to the repository
+* **Description**: Provide details of the report that was given during uploading/downloading the report
+* **Status**: Determines whether the report is completed, under progress, or deleted.
+* **Author**: Provides email of the author who has uploaded/downloaded the report.
+* **Created**: Gives information of the date when the report was generated.
+-->
 
 ## Inzichten weergeven {#view-live-statistics}
 
@@ -34,13 +48,18 @@ Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde gr
 
 * **Uploads**: Het aantal elementen dat in de laatste 30 dagen of twaalf maanden in de omgeving van de Assets Essentials is geüpload, uitgedrukt aan de hand van een lijndiagram.
 
+* **Elementen tellen op grootte**: De verdeling van het aantal elementen op basis van hun verschillende grootten van 0 MB tot 100 GB.
+
+* **Opslaggebruik**: Het opslaggebruik, in bytes, voor het milieu van Assets Essentials dat gebruikend een bar grafiek wordt vertegenwoordigd, afhankelijk van de bruikbaarheid.
+
+  ![Opslag](assets/storage.png)
+
+
+* **Aflevering**: De grafiek geeft het aantal elementen weer als de leveringsdatums.
+
+* **Elementen tellen per type element**: Geeft het aantal verschillende MIME-typen van de beschikbare elementen aan. Bijvoorbeeld application/zip, image/png, video/mp4, application/postscripte.
+
 * **Meest gebruikte zoekopdrachten**: Bekijk de belangrijkste gezochte termen samen met het aantal keren dat deze termen binnen uw Assets Essentials-omgeving zijn doorzocht in de laatste 30 dagen of 12 maanden, weergegeven in een tabelindeling.
-
-<!--
-
-* **Storage usage**: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
-
--->
 
 ## Een downloadrapport maken {#create-download-report}
 
