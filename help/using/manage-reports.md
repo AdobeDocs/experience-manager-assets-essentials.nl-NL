@@ -2,9 +2,9 @@
 title: Rapporten beheren in Assets Essentials
 description: Heb toegang tot de gegevens in de rapportsectie van Assets Essentials om product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: aee57f5a83bfa5a292e9c0c50e2cb00499dbb08c
+source-git-commit: 37a0692c47d4fa14e9c2582a34000ec8bf975692
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '875'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ In the **[!UICONTROL Reports]** screen, various components are shown in the tabu
 
 Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Inzichten. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
 
-![Werkbalkopties wanneer u een element selecteert](assets/assets-essentials-live-statistics.png)
+<!--![Toolbar options when you select an asset](assets/assets-essentials-live-statistics.png)-->
 
 Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde grafieken weergeven in het linkernavigatiegebied:
 
@@ -52,7 +52,7 @@ Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde gr
 
 * **Opslaggebruik**: Het opslaggebruik, in bytes, voor het milieu van Assets Essentials dat gebruikend een bar grafiek wordt vertegenwoordigd, afhankelijk van de bruikbaarheid.
 
-  ![Opslag](assets/storage.png)
+  <!--![Storage](assets/storage.png)-->
 
 
 * **Aflevering**: De grafiek geeft het aantal elementen weer als de leveringsdatums.
@@ -60,6 +60,9 @@ Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde gr
 * **Elementen tellen per type element**: Geeft het aantal verschillende MIME-typen van de beschikbare elementen aan. Bijvoorbeeld application/zip, image/png, video/mp4, application/postscripte.
 
 * **Meest gebruikte zoekopdrachten**: Bekijk de belangrijkste gezochte termen samen met het aantal keren dat deze termen binnen uw Assets Essentials-omgeving zijn doorzocht in de laatste 30 dagen of 12 maanden, weergegeven in een tabelindeling.
+
+  ![Inzichten](assets/insights1.png)
+  ![Inzichten](assets/insights2.png)
 
 ## Een downloadrapport maken {#create-download-report}
 
