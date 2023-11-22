@@ -2,9 +2,9 @@
 title: Rapporten beheren in Assets Essentials
 description: Heb toegang tot de gegevens in de rapportsectie van Assets Essentials om product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 37a0692c47d4fa14e9c2582a34000ec8bf975692
+source-git-commit: b065a56bbd0ce86bc9dd6ac568364de30d77be4e
 workflow-type: tm+mt
-source-wordcount: '875'
+source-wordcount: '815'
 ht-degree: 1%
 
 ---
@@ -48,21 +48,23 @@ Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde gr
 
 * **Uploads**: Het aantal elementen dat in de laatste 30 dagen of twaalf maanden in de omgeving van de Assets Essentials is geüpload, uitgedrukt aan de hand van een lijndiagram.
 
-* **Elementen tellen op grootte**: De verdeling van het aantal elementen op basis van hun verschillende grootten van 0 MB tot 100 GB.
+<!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Opslaggebruik**: Het opslaggebruik, in bytes, voor het milieu van Assets Essentials dat gebruikend een bar grafiek wordt vertegenwoordigd, afhankelijk van de bruikbaarheid.
 
   <!--![Storage](assets/storage.png)-->
 
 
-* **Aflevering**: De grafiek geeft het aantal elementen weer als de leveringsdatums.
+<!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
-* **Elementen tellen per type element**: Geeft het aantal verschillende MIME-typen van de beschikbare elementen aan. Bijvoorbeeld application/zip, image/png, video/mp4, application/postscripte.
+<!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Meest gebruikte zoekopdrachten**: Bekijk de belangrijkste gezochte termen samen met het aantal keren dat deze termen binnen uw Assets Essentials-omgeving zijn doorzocht in de laatste 30 dagen of 12 maanden, weergegeven in een tabelindeling.
 
-  ![Inzichten](assets/insights1.png)
-  ![Inzichten](assets/insights2.png)
+  <!--
+   ![Insights](assets/insights1.png)
+   ![Insights](assets/insights2.png)
+   -->
 
 ## Een downloadrapport maken {#create-download-report}
 
