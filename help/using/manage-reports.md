@@ -2,7 +2,7 @@
 title: Rapporten beheren in Assets Essentials
 description: Heb toegang tot de gegevens in de rapportsectie van Assets Essentials om product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: cf5cba28d20d1633566881a7f651da6bcaa48c7b
+source-git-commit: 7ceeeda677e845cc7cb31964edaa687c806f3afe
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 1%
@@ -44,6 +44,8 @@ Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgevin
 
 Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde grafieken weergeven in het linkernavigatiegebied:
 
+![Inzichten](assets/insights.png)
+
 * **Downloads**: Het aantal elementen dat in de laatste 30 dagen of twaalf maanden in de omgeving van de Assets Essentials is gedownload, uitgedrukt aan de hand van een lijndiagram.
 
 * **Uploads**: Het aantal elementen dat in de laatste 30 dagen of twaalf maanden in de omgeving van de Assets Essentials is geüpload, uitgedrukt aan de hand van een lijndiagram.
@@ -58,9 +60,7 @@ Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde gr
 
 * **Meest gebruikte zoekopdrachten**: Bekijk de belangrijkste gezochte termen samen met het aantal keren dat deze termen binnen uw Assets Essentials-omgeving zijn doorzocht in de laatste 30 dagen of 12 maanden, weergegeven in een tabelindeling.
 
-![Inzichten](assets/insights.png)
-
-<!--
+  <!--
    ![Insights](assets/insights1.png)
    ![Insights](assets/insights2.png)
    -->
