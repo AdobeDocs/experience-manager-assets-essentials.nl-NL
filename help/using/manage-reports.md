@@ -2,9 +2,9 @@
 title: Rapporten beheren in Assets Essentials
 description: Heb toegang tot de gegevens in de rapportsectie van Assets Essentials om product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 7ceeeda677e845cc7cb31964edaa687c806f3afe
+source-git-commit: b24113299b5f8d32b3c4aef453923b23dc775228
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '812'
 ht-degree: 1%
 
 ---
@@ -52,7 +52,7 @@ Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde gr
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
-* **Opslaggebruik**: Het opslaggebruik, in bytes, voor het milieu van Assets Essentials dat gebruikend een bar grafiek wordt vertegenwoordigd, afhankelijk van de bruikbaarheid.
+* **Opslaggebruik**: Het opslaggebruik, in bytes, voor het milieu van Assets Essentials dat gebruikend een bar grafiek wordt vertegenwoordigd.
 
 <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
