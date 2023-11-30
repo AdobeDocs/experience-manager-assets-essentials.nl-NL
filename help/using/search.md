@@ -3,9 +3,9 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 8a52d79ecd1ce8fdafd181e0f9b166e8d827c665
+source-git-commit: 2a885eb87d29be19f2e1206fe44e592137e43fe2
 workflow-type: tm+mt
-source-wordcount: '1005'
+source-wordcount: '1241'
 ht-degree: 0%
 
 ---
@@ -169,6 +169,39 @@ U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de
 * **Bestandslocatie tonen**: Navigeer naar de locatie van de elementmap.
 
 * **Vastmaken aan snelle toegang**: [Een element vastzetten](my-workspace.md) voor snellere toegang wanneer u het later nodig hebt. Alle vastgezette items worden weergegeven in het dialoogvenster **Snelle toegang** van Mijn werkruimte.
+
+## Eerste homepage van zoekopdracht configureren {#configuring-search-first-homepage}
+
+Op de eerste homepage van zoekopdrachten kunt u direct door verschillende bestanden en mappen navigeren. U kunt gemakkelijk door elementtypen, metagegevens, slimme tags en zelfs de inhoud zelf navigeren zonder het exacte trefwoord te kennen. [!DNL Assets Essentials] staat u toe om uw homepage te vormen door te controleren wat zou moeten verschijnen wanneer u login aan [!DNL Assets Essentials].
+
+Voer de onderstaande stappen uit om de eerste homepage van de zoekopdracht te configureren:
+
+1. Ga naar **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
+1. Selecteer **[!UICONTROL Search first]**. Het opent verder onderzoek eerst verwante configuratie. U kunt instellen [uitlijning](#setting-alignment-search-bar) of [achtergrond- en logoafbeelding instellen](#setting-background-image-and-logo) van uw homepage.
+
+### Uitlijning van zoekbalk instellen {#setting-alignment-search-bar}
+
+[!DNL Assets Essentials] kunt u de uitlijning van de zoekbalk wijzigen. U kunt de zoekbalk in het midden of boven aan het scherm weergeven. Selecteer de gewenste uitlijning en klik op **[!UICONTROL Save]**.
+
+![Eerste homepage-uitlijning zoeken](assets/search-first-alignment.png)
+
+### Achtergrond- en logoafbeelding van homepage instellen {#setting-background-image-and-logo}
+
+U kunt het merklogo en de achtergrondafbeelding toevoegen aan uw eerste zoekpagina. Voer de volgende stappen uit:
+
+1. Navigeren naar **[!UICONTROL Background and Logo image]** deel onder **[!UICONTROL Homepage]**.
+1. Klikken **[!UICONTROL Replace]** om afbeeldingen te zoeken in de bestaande gegevensopslagruimte.
+1. Klik op **[!UICONTROL Save]**. [Voorvertoning](#preview-configured-homepage) de wijzigingen die moeten worden doorgevoerd.
+
+### Voorvertoning geconfigureerde homepage {#preview-configured-homepage}
+
+U kunt een voorvertoning weergeven om de lay-out en opmaak van de eerste homepage van de zoekopdracht te controleren. Gebruiken **[!UICONTROL Preview]** kunt u de layout herstellen of de layout naar wens wijzigen. Voer de onderstaande stappen uit om een voorvertoning van de geconfigureerde homepage weer te geven:
+
+1. Klik op **[!UICONTROL General Settings]** en selecteer **[!UICONTROL Search first]**.
+1. Navigeren naar **[!UICONTROL Customize search first homepage]** en klik op **[!UICONTROL Preview]**. Doorschakelen **[!UICONTROL Dark theme]** om de homepage in het donkere of lichte thema voor te vertonen.
+1. Klikken **[!UICONTROL Close]** om het voorvertoningsscherm te sluiten.
+
+   ![Eerste homepatievoorvertoning zoeken](assets/search-first-preview.gif)
 
 ## Volgende stappen {#next-steps}
 
