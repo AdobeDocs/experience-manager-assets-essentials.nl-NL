@@ -4,28 +4,48 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 347ec8c64daa46f603b41dd3845503863a1ccedd
+source-git-commit: 7a34bf9aa740c647530306c3edde6e493f80790a
 workflow-type: tm+mt
-source-wordcount: '2429'
+source-wordcount: '2542'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt gepubliceerd op 26 oktober 2023.
+De huidige release van Assets Essentials wordt gepubliceerd op 30 november 2023.
 
 De nieuwe functies zijn onder andere:
 
-**Bulkimportmiddelen van OneDrive-gegevensbron**
+**Ingesloten Adobe Express-editor in AEM Assets**
 
-Beheerders kunnen nu [Een groot aantal middelen importeren van OneDrive naar AEM Assets](/help/using/bulk-import-assets-view.md). De bijgewerkte lijst voor de ondersteunde gegevensbronnen voor bulkimport bevat Azure, AWS, Google Cloud, Dropbox en OneDrive.
+Gebruikers met toegang tot Express beschikken nu over geïntegreerde gereedschappen voor het bewerken en maken van afbeeldingen op basis van Adobe Express en Adobe Firefly die rechtstreeks in AEM Assets beschikbaar zijn om het hergebruik van inhoud te verbeteren en de snelheid van de inhoud te versnellen.
 
-![metagegevensformulier toewijzen aan een map](/help/using/assets/bulk-import-source-details.png)
+![metagegevensformulier toewijzen aan een map](/help/using/assets/adobe-express-aem-assets.png)
 
-**Ondersteuning voor interdomeinrechten voor bibliotheken**
+<!--
 
-Experience Manager Assets stelt u nu in staat om toegang tot Creatives Cloud bibliotheken in een andere IMS-organisatie te configureren. Het maakt gemakkelijker toegang tot de recentste productoverschrijdende werkschema&#39;s tussen Creative Cloud en Experience Manager mogelijk en vermindert tijd en moeite voor creatieve personen.
+**Smart tags blocklist** 
+
+Assets Essentials now enables you to define a list of blocked tags. These tags are automatically removed from the auto-generated smart tags when you upload assets to the repository. This capability performs tags governance and saves a lot of time as you can add a tag to the block list and Assets Essentials automatically excludes it from the list of tags for any of the assets that are added to the repository.
+
+  ![storage usage insights](/help/using/assets/block-tags.png)
+
+-->
+
+**Opslaggebruiksrapporten in Insights**:
+
+Beheerders kunnen nu de rapporten over het opslaggebruik bekijken die beschikbaar zijn als onderdeel van Inzichten.
+
+![inzichten in opslaggebruik](/help/using/assets/storage-usage-insights.png)
+
+**Eerste homepage-configuratie zoeken**
+
+Met Assets Essentials kunt u nu de homepage-ervaring voor uw organisatie configureren. Als u eerst zoeken selecteert als startpagina, kunt u de uitlijning van de zoekbalk, de achtergrondafbeelding en het logo voor uw organisatie configureren.
+
+![eerste zoekconfiguratie](/help/using/assets/search-first-configuration.png)
+
+
 
 **Verbeteringen gebaseerd op feedback van klanten**
 
@@ -50,6 +70,18 @@ De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voo
 Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
 
 ## Eerdere versies {#past-releases}
+
+### Release oktober 2023 {#october2023-release}
+
+**Bulkimportmiddelen van OneDrive-gegevensbron**
+
+Beheerders kunnen nu [Een groot aantal middelen importeren van OneDrive naar AEM Assets](/help/using/bulk-import-assets-view.md). De bijgewerkte lijst voor de ondersteunde gegevensbronnen voor bulkimport bevat Azure, AWS, Google Cloud, Dropbox en OneDrive.
+
+![metagegevensformulier toewijzen aan een map](/help/using/assets/bulk-import-source-details.png)
+
+**Ondersteuning voor interdomeinrechten voor bibliotheken**
+
+Experience Manager Assets stelt u nu in staat om toegang tot Creatives Cloud bibliotheken in een andere IMS-organisatie te configureren. Het maakt gemakkelijker toegang tot de recentste productoverschrijdende werkschema&#39;s tussen Creative Cloud en Experience Manager mogelijk en vermindert tijd en moeite voor creatieve personen.
 
 ### Release september 2023 {#september2023-release}
 
