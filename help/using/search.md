@@ -3,9 +3,9 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 2a885eb87d29be19f2e1206fe44e592137e43fe2
+source-git-commit: dee5bde4837795b800fad6307d18914ed4c90af9
 workflow-type: tm+mt
-source-wordcount: '1241'
+source-wordcount: '1233'
 ht-degree: 0%
 
 ---
@@ -172,7 +172,7 @@ U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de
 
 ## Eerste homepage van zoekopdracht configureren {#configuring-search-first-homepage}
 
-Op de eerste homepage van zoekopdrachten kunt u direct door verschillende bestanden en mappen navigeren. U kunt gemakkelijk door elementtypen, metagegevens, slimme tags en zelfs de inhoud zelf navigeren zonder het exacte trefwoord te kennen. [!DNL Assets Essentials] staat u toe om uw homepage te vormen door te controleren wat zou moeten verschijnen wanneer u login aan [!DNL Assets Essentials].
+Met Assets Essentials kunt u de standaardbestemmingspagina voor uw organisatie selecteren. Wanneer u de startpagina Zoekopdracht eerst gebruikt, hebt u ook de mogelijkheid om de branding van de pagina aan te passen door de achtergrond- en logoafbeeldingen zo te configureren dat deze overeenkomen met uw merk.
 
 Voer de onderstaande stappen uit om de eerste homepage van de zoekopdracht te configureren:
 
@@ -191,7 +191,7 @@ U kunt het merklogo en de achtergrondafbeelding toevoegen aan uw eerste zoekpagi
 
 1. Navigeren naar **[!UICONTROL Background and Logo image]** deel onder **[!UICONTROL Homepage]**.
 1. Klikken **[!UICONTROL Replace]** om afbeeldingen te zoeken in de bestaande gegevensopslagruimte.
-1. Klik op **[!UICONTROL Save]**. [Voorvertoning](#preview-configured-homepage) de wijzigingen die moeten worden doorgevoerd.
+1. Klik op **[!UICONTROL Save]**. [Voorvertoning](#preview-configured-homepage) de wijzigingen om de wijzigingen te herzien.
 
 ### Voorvertoning geconfigureerde homepage {#preview-configured-homepage}
 
