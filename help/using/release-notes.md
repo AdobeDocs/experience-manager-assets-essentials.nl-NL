@@ -4,18 +4,28 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 7a34bf9aa740c647530306c3edde6e493f80790a
+source-git-commit: 10d82a8a90e718272c9bb1c5b14db30785bb1ded
 workflow-type: tm+mt
-source-wordcount: '2542'
+source-wordcount: '2611'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt gepubliceerd op 30 november 2023.
+De huidige release van Assets Essentials wordt op 19 december 2023 gepubliceerd.
 
-De nieuwe functies zijn onder andere:
+Enkele onlangs toegevoegde eigenschappen omvatten:
+
+**GenAI-afbeeldingen maken met Adobe Firefly**
+
+Maak nieuwe afbeeldingen op basis van zoekquery&#39;s met een Adobe Firefly van de functie voor tekst naar afbeelding (licentie voor Adobe Firefly vereist).
+
+![Integratie van Fireflys](/help/using/assets/assets-firefly-integration.png)
+
+**Gelijksoortige afbeeldingen zoeken**
+
+U kunt nu eenvoudig inhoud zoeken door een afbeelding te selecteren en vergelijkbare afbeeldingen weer te geven in de Experience Manager Assets-opslagplaats.
 
 **Ingesloten Adobe Express-editor in AEM Assets**
 
@@ -195,7 +205,7 @@ Assets Essentials genereren nu automatisch een koppeling zodra u een element dee
 
 Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
-### 2022.11.0 {#november-2022}
+### 2022 11,0 {#november-2022}
 
 De release van november [!DNL Assets Essentials] wordt vrijgegeven op 17 november 2022.
 
@@ -240,7 +250,7 @@ Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
 * Ondersteuning voor het gebruik van de Adobe Asset Link CEP-insteekmodule in omgevingen met proxyservers.
 
-### 2022.8.0 {#august-2022}
+### 2022,8,0 {#august-2022}
 
 In augustus [!DNL Assets Essentials] wordt vrijgegeven op 22 augustus 2022.
 
@@ -266,7 +276,7 @@ Middelenrapportage biedt beheerders nu inzicht in elementen die zijn geüpload n
 
 Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
-### 2022.6.0 {#june-2022}
+### 2022,6,0 {#june-2022}
 
 De release van juni [!DNL Assets Essentials] wordt vrijgegeven op 14 juli 2022.
 
@@ -286,7 +296,7 @@ Met Asset Reporting kunnen beheerders de gebruikersactiviteit binnen Adobe Exper
 
 U kunt rapporten over het downloaden van middelen en de dashboardmodule voor live statistieken weergeven om te zien welke elementen worden gedownload en hoe vaak het downloaden plaatsvindt.
 
-### 2022.5.0 {#may-2022}
+### 2022,5,0 {#may-2022}
 
 In mei wordt [!DNL Assets Essentials] wordt vrijgegeven op 16 juni 2022.
 
@@ -328,7 +338,7 @@ Deze release biedt:
 
 * Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
-### 2022.4.0 {#april-2022}
+### 2022,4,0 {#april-2022}
 
 De huidige release van [!DNL Assets Essentials] wordt vrijgegeven op 12 mei 2022. Deze release biedt:
 
@@ -348,7 +358,7 @@ Met deze release optimaliseren we de prestaties van de levering van de gebruiker
 
 * Schakel de `Block third-party cookies` op het scherm Incognito-modus in Chrome
 
-### 2022.2.0 {#march-2022}
+### 2022,2,0 {#march-2022}
 
 [!DNL Assets Essentials] wordt gepubliceerd op 9 maart 2022, met de volgende updates:
 
