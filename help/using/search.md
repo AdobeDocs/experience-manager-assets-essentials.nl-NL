@@ -3,9 +3,9 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: dee5bde4837795b800fad6307d18914ed4c90af9
+source-git-commit: 608cd11dbdee46606e898fe3c79ffbad0101cebc
 workflow-type: tm+mt
-source-wordcount: '1233'
+source-wordcount: '1332'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,14 @@ Als u elementen wilt zoeken,
    * Zoeken met een trefwoord en desgewenst map wijzigen. Druk op Return.
 
    * Begin met het werken met een onlangs weergegeven element door er direct naar te zoeken. Klik in het zoekvak en selecteer een element dat onlangs is weergegeven in de suggesties.
+
+## Middelen zoeken met behulp van Adobe Firefly
+
+Met de integratie van [!UICONTROL Adobe Firefly] en [!UICONTROL Adobe Experience Manager Assets]kunt u op efficiënte wijze zoeken naar elementen die niet beschikbaar zijn in een map met middelen. <br> U kunt bijvoorbeeld een element zoeken met het trefwoord `Bugatti Type 57`. Bij het zoeken naar `Bugatti Type 57`, worden er geen resultaten gevonden.
+
+Voer in de zoekbalk de naam van het element in en klik op **[!UICONTROL Generate]**. De voorbeeldelementen worden op het scherm weergegeven. U kunt deze elementen uploaden naar de map van uw voorkeur, zodat u ze gemakkelijk kunt openen.
+
+![Integratie van Fireflys](assets/bugatti-type-57.jpg)
 
 ## De zoekresultaten filteren {#refine-search-results}
 
@@ -146,11 +154,21 @@ When userA is searching and userB add an asset that matches search results, will
 
 U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de volgende handelingen uitvoeren:
 
+* **Vergelijkbare afbeelding zoeken**: Zoek vergelijkbare afbeeldingselementen in de interface Middelen op basis van de metagegevens en slimme tags.
+
 * **Details**: Elementeigenschappen weergeven en bewerken.
+
+* **Downloaden**: Download een middel.
 
 * **Toevoegen aan verzameling**: Voeg het geselecteerde element toe aan een verzameling.
 
-* **Downloaden**: Download een middel.
+* **Vastmaken aan snelle toegang**: [Een element vastzetten](my-workspace.md) voor snellere toegang wanneer u het later nodig hebt. Alle vastgezette items worden weergegeven in het dialoogvenster **Snelle toegang** van Mijn werkruimte.
+
+* **Openen in Adobe Express**: Bewerk een afbeelding in de geïntegreerde Adobe Express vanuit het Adobe Experience Manager Assets-scherm.
+
+* **Bewerken**: Bewerk de afbeelding met Adobe Express.
+
+* **Koppeling delen**: [Koppelingen delen](share-links-for-assets.md) voor een middel met andere gebruikers zodat zij tot het kunnen toegang hebben en downloaden.
 
 * **Verwijderen**: Een element verwijderen.
 
@@ -160,15 +178,11 @@ U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de
 
 * **Naam wijzigen**: Wijzig de naam van een element.
 
+* **Kopiëren naar bibliotheken**: Voeg een element toe aan de bibliotheek.
+
 * **Taken toewijzen**: Taken toewijzen aan gebruikers voor een element.
 
-* **Koppeling delen**: [Koppelingen delen](share-links-for-assets.md) voor een middel met andere gebruikers zodat zij tot het kunnen toegang hebben en downloaden.
-
 * **Controle**: [De bewerkingen controleren](manage-notifications.md) uitgevoerd op een element.
-
-* **Bestandslocatie tonen**: Navigeer naar de locatie van de elementmap.
-
-* **Vastmaken aan snelle toegang**: [Een element vastzetten](my-workspace.md) voor snellere toegang wanneer u het later nodig hebt. Alle vastgezette items worden weergegeven in het dialoogvenster **Snelle toegang** van Mijn werkruimte.
 
 ## Eerste homepage van zoekopdracht configureren {#configuring-search-first-homepage}
 
@@ -197,7 +211,7 @@ U kunt het merklogo en de achtergrondafbeelding toevoegen aan uw eerste zoekpagi
 
 U kunt een voorvertoning weergeven om de lay-out en opmaak van de eerste homepage van de zoekopdracht te controleren. Gebruiken **[!UICONTROL Preview]** kunt u de layout herstellen of de layout naar wens wijzigen. Voer de onderstaande stappen uit om een voorvertoning van de geconfigureerde homepage weer te geven:
 
-1. Klik op **[!UICONTROL General Settings]** en selecteer **[!UICONTROL Search first]**.
+1. Klikken **[!UICONTROL General Settings]** en selecteert u **[!UICONTROL Search first]**.
 1. Navigeren naar **[!UICONTROL Customize search first homepage]** en klik op **[!UICONTROL Preview]**. Doorschakelen **[!UICONTROL Dark theme]** om de homepage in het donkere of lichte thema voor te vertonen.
 1. Klikken **[!UICONTROL Close]** om het voorvertoningsscherm te sluiten.
 
