@@ -3,9 +3,9 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
+source-git-commit: 41cbb7a26d632ef24f6997ab6fe741e5d060e70a
 workflow-type: tm+mt
-source-wordcount: '1373'
+source-wordcount: '1382'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Als u elementen wilt zoeken,
 
 ## Middelen zoeken met behulp van Adobe Firefly
 
-Als u een middel zoekt dat niet beschikbaar in om het even welke elementenomslag is, gebruik [!UICONTROL Adobe Firefly] zoekfunctie voor elementen binnen [!UICONTROL Adobe Experience Manager Assets]. Met deze functie kunt u op efficiënte wijze zoeken naar elementen die niet in de toegewezen mappen zijn opgeslagen.  <br> U kunt bijvoorbeeld een element zoeken met het trefwoord `Bugatti Type 57`. Bij het zoeken naar `Bugatti Type 57`, worden er geen resultaten gevonden. <br>
+Als u een middel zoekt dat niet beschikbaar in om het even welke elementenomslag is, gebruik [!UICONTROL Adobe Firefly] zoekfunctie voor elementen binnen [!UICONTROL Adobe Experience Manager Assets]. Hiermee kunt u op efficiënte wijze zoeken naar elementen die niet in de toegewezen mappen zijn opgeslagen. Deze functie is momenteel alleen toegankelijk voor gebruikers met de Express-machtiging.  <br> U kunt bijvoorbeeld een element zoeken met het trefwoord `Bugatti Type 57`. Bij het zoeken naar `Bugatti Type 57`, worden er geen resultaten gevonden. <br>
 Voer in de zoekbalk de naam van het element in en klik op **[!UICONTROL Generate]**.
 
 ![Integratie van Fireflys](firefly-integration.jpg)
