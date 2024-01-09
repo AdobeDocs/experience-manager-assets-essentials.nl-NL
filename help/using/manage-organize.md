@@ -4,9 +4,9 @@ description: Verplaats, verwijder, kopieer, hernoem, werk en versie uw activa in
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: e13e204482e480b3a66b48263e965787bd980842
+source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
 workflow-type: tm+mt
-source-wordcount: '998'
+source-wordcount: '1124'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,43 @@ U kunt verschillende DAM-taken (Digital Asset Management) eenvoudig uitvoeren me
 
 Gebruiken [!DNL Assets Essentials] om de volgende taken voor middelenbeheer uit te voeren. Wanneer u een element selecteert, worden de volgende opties bovenaan op de werkbalk weergegeven.
 
-![Werkbalkopties wanneer u een element selecteert](assets/toolbar-image-selected.png)
+![Werkbalkopties wanneer u een element selecteert](assets/asset-options.png)
 
 *Afbeelding: op de werkbalk zijn opties beschikbaar voor een geselecteerde afbeelding.*
 
+U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de volgende handelingen uitvoeren:
+
 * ![pictogram deselecteren](assets/do-not-localize/close-icon.png) Schakel de selectie uit.
+
+* ![vergelijkbaar pictogram zoeken](assets/do-not-localize/find-similar.svg) Vind gelijkaardig beeldmiddel in de UI van Activa die op de meta-gegevens en slimme markeringen wordt gebaseerd.
+
 * ![detailpictogram](assets/do-not-localize/edit-in-icon.png) Klik om een voorvertoning van een element weer te geven en de gedetailleerde metagegevens weer te geven. Als u een voorvertoning weergeeft, kunt u de versies weergeven en een afbeelding bewerken.
+
 * ![downloadpictogram](assets/do-not-localize/download-icon.png) Download het geselecteerde element naar uw lokale bestandssysteem.
+
+* ![pictogram Verzameling toevoegen](assets/do-not-localize/add-collection.svg) Voeg het geselecteerde element toe aan een verzameling.
+
+* ![Pictogram Elementen vastzetten](assets/do-not-localize/pin-quick-access.svg) Een element vastzetten om sneller toegang te krijgen wanneer u het later nodig hebt. Alle vastgezette items worden weergegeven in het dialoogvenster **Snelle toegang** van Mijn werkruimte.
+
+* ![bewerken in pictogram Expressie](assets/do-not-localize/edit-e.svg) Bewerk een afbeelding in de geïntegreerde Adobe Express in Adobe Experience Manager Assets.
+
+* ![middelenpictogram bewerken](assets/do-not-localize/edit-e.svg) Bewerk de afbeelding met Adobe Express.
+
+* ![pictogram voor delen van elementkoppeling](assets/do-not-localize/share-link.svg) voor een middel met andere gebruikers zodat zij tot het kunnen toegang hebben en downloaden.
+
 * ![verwijderpictogram](assets/do-not-localize/delete-icon.png) Verwijder het geselecteerde element of de geselecteerde map.
-* ![uitcheckpictogram](assets/do-not-localize/checkout-icon.png) Het geselecteerde element uitchecken.
+
 * ![kopieerpictogram](assets/do-not-localize/copy-icon.png) Kopieer het geselecteerde bestand of de geselecteerde map.
+
 * ![verplaatsingspictogram](assets/do-not-localize/move-icon.png) Verplaats het geselecteerde element of de geselecteerde map naar een andere locatie in de hiërarchie van de opslagplaats.
+
 * ![pictogram hernoemen](assets/do-not-localize/rename-icon.png) Wijzig de naam van het geselecteerde element of de geselecteerde map. Gebruik een unieke naam anders ontbreekt het anders noemen met een waarschuwing. U kunt het opnieuw proberen met een nieuwe naam.
+
+* ![bibliotheekpictogram kopiëren](assets/do-not-localize/copy-icon.png) Voeg een element toe aan de bibliotheek.
+
 * ![taakpictogram toewijzen](assets/do-not-localize/review-delegate-icon.png) Taken toewijzen aan andere gebruikers om samen te werken aan een element.
+
+* ![taakpictogram toewijzen](assets/do-not-localize/watch-asset.svg) De bewerkingen controleren die op een element worden uitgevoerd.
 
 U kunt dezelfde opties weergeven op de miniaturen van elementen.
 
@@ -148,9 +172,3 @@ Als u het metagegevensveld Vervaldatum aan het formulier wilt toevoegen, sleept 
 * Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
 
 * Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)
-
-
-
-<!-- * ![find similar icon](assets/do-not-localize/find-similar-image-icon.svg) Find similar image asset in the Assets UI based on the metadata and smart tags.
-* ![Add to Collection]() Add the selected asset to a collection.
-* **Pin to Quick Access**: Pin an asset to quickly access the asset when you need it later. -->

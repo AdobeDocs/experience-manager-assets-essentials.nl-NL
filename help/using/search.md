@@ -3,9 +3,9 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 608cd11dbdee46606e898fe3c79ffbad0101cebc
+source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
 workflow-type: tm+mt
-source-wordcount: '1332'
+source-wordcount: '1373'
 ht-degree: 0%
 
 ---
@@ -32,11 +32,16 @@ Als u elementen wilt zoeken,
 
 ## Middelen zoeken met behulp van Adobe Firefly
 
-Met de integratie van [!UICONTROL Adobe Firefly] en [!UICONTROL Adobe Experience Manager Assets]kunt u op efficiënte wijze zoeken naar elementen die niet beschikbaar zijn in een map met middelen. <br> U kunt bijvoorbeeld een element zoeken met het trefwoord `Bugatti Type 57`. Bij het zoeken naar `Bugatti Type 57`, worden er geen resultaten gevonden.
+Als u een middel zoekt dat niet beschikbaar in om het even welke elementenomslag is, gebruik [!UICONTROL Adobe Firefly] zoekfunctie voor elementen binnen [!UICONTROL Adobe Experience Manager Assets]. Met deze functie kunt u op efficiënte wijze zoeken naar elementen die niet in de toegewezen mappen zijn opgeslagen.  <br> U kunt bijvoorbeeld een element zoeken met het trefwoord `Bugatti Type 57`. Bij het zoeken naar `Bugatti Type 57`, worden er geen resultaten gevonden. <br>
+Voer in de zoekbalk de naam van het element in en klik op **[!UICONTROL Generate]**.
 
-Voer in de zoekbalk de naam van het element in en klik op **[!UICONTROL Generate]**. De voorbeeldelementen worden op het scherm weergegeven. U kunt deze elementen uploaden naar de map van uw voorkeur, zodat u ze gemakkelijk kunt openen.
+![Integratie van Fireflys](firefly-integration.jpg)
+*Afbeelding: Geen resultaten gevonden voor Bugatti Type 57 in de elementenmap.*
+
+De voorbeeldelementen worden op het scherm weergegeven. U kunt deze elementen uploaden naar de map van uw voorkeur, zodat u ze gemakkelijk kunt openen.
 
 ![Integratie van Fireflys](assets/bugatti-type-57.jpg)
+*Afbeelding: Referentie-elementen doorzocht met de zoekfunctie voor Adobe Firefly-elementen.*
 
 ## De zoekresultaten filteren {#refine-search-results}
 
