@@ -3,9 +3,9 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 41cbb7a26d632ef24f6997ab6fe741e5d060e70a
+source-git-commit: 92cfe963d37df919b8bc29c49da7c8e9bd62638e
 workflow-type: tm+mt
-source-wordcount: '1382'
+source-wordcount: '1458'
 ht-degree: 0%
 
 ---
@@ -29,19 +29,6 @@ Als u elementen wilt zoeken,
    * Zoeken met een trefwoord en desgewenst map wijzigen. Druk op Return.
 
    * Begin met het werken met een onlangs weergegeven element door er direct naar te zoeken. Klik in het zoekvak en selecteer een element dat onlangs is weergegeven in de suggesties.
-
-## Middelen zoeken met behulp van Adobe Firefly
-
-Als u een middel zoekt dat niet beschikbaar in om het even welke elementenomslag is, gebruik [!UICONTROL Adobe Firefly] zoekfunctie voor elementen binnen [!UICONTROL Adobe Experience Manager Assets]. Hiermee kunt u op efficiënte wijze zoeken naar elementen die niet in de toegewezen mappen zijn opgeslagen. Deze functie is momenteel alleen toegankelijk voor gebruikers met de Express-machtiging.  <br> U kunt bijvoorbeeld een element zoeken met het trefwoord `Bugatti Type 57`. Bij het zoeken naar `Bugatti Type 57`, worden er geen resultaten gevonden. <br>
-Voer in de zoekbalk de naam van het element in en klik op **[!UICONTROL Generate]**.
-
-![Integratie van Fireflys](firefly-integration.jpg)
-*Afbeelding: Geen resultaten gevonden voor Bugatti Type 57 in de elementenmap.*
-
-De voorbeeldelementen worden op het scherm weergegeven. U kunt deze elementen uploaden naar de map van uw voorkeur, zodat u ze gemakkelijk kunt openen.
-
-![Integratie van Fireflys](assets/bugatti-type-57.jpg)
-*Afbeelding: Referentie-elementen doorzocht met de zoekfunctie voor Adobe Firefly-elementen.*
 
 ## De zoekresultaten filteren {#refine-search-results}
 
@@ -133,6 +120,37 @@ Aangepaste filters verwijderen:
 
 1. Klikken **[!UICONTROL Confirm]** om de filters uit de gebruikersinterface te verwijderen.
 
+## Middelen zoeken met [!DNL Adobe Firefly] {#search-firefly}
+
+U kunt zoeken naar elementen die niet beschikbaar zijn in een van de mappen met elementen door de opdracht [!DNL Adobe Firefly] zoekfunctie voor elementen binnen [!DNL Experience Manager Assets]. Op deze manier kunt u op efficiënte wijze elementen in real-time genereren die niet in de mappen met elementen zijn opgeslagen.
+
+### Voordat u begint
+
+U moet een actieve [!DNL Adobe Express] abonnement.
+
+### Elementen genereren
+
+Nieuwe elementen genereren met [!DNL Adobe Firefly]:
+
+1. Ga naar de [!DNL AEM Assets] werkruimte.
+1. Typ de naam van het element in de zoekbalk boven aan de pagina.<br>
+U kunt bijvoorbeeld een element zoeken met het trefwoord `Bugatti Type 57`. Bij het zoeken naar het element worden geen resultaten gevonden, omdat het element in geen van de elementmappen aanwezig is.
+1. Typ de elementnaam in de zoekbalk midden op de pagina en klik op **[!UICONTROL Generate]**.
+   ![Integratie van Fireflys](firefly-integration.jpg)
+   *Afbeelding: Geen resultaten gevonden voor Bugatti Type 57 in de elementenmap.*<br>
+De nieuwe elementen worden gegenereerd.
+   ![Integratie van Fireflys](assets/bugatti-type-57.jpg)
+   *Afbeelding: Referentie-elementen doorzocht met [!DNL Adobe Firefly] zoekfunctie voor middelen.* <br>
+U kunt deze elementen uploaden naar de map van uw voorkeur, zodat u ze gemakkelijk kunt openen.
+
+### Elementen uploaden
+
+Het gegenereerde element uploaden naar de gegevensopslagplaats:
+
+1. Klik op **[!UICONTROL Upload]**.
+1. Selecteer de elementmap waarnaar u het element wilt uploaden en klik op **[!UICONTROL Select Folder]**.
+   ![Element uploaden](assets/upload-asset-firefly.jpg)
+   *Afbeelding: selecteer de map die u wilt uploaden.*
 
 ## Opgeslagen zoekopdrachten {#saved-search}
 
@@ -169,7 +187,7 @@ U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de
 
 * **Vastmaken aan snelle toegang**: [Een element vastzetten](my-workspace.md) voor snellere toegang wanneer u het later nodig hebt. Alle vastgezette items worden weergegeven in het dialoogvenster **Snelle toegang** van Mijn werkruimte.
 
-* **Openen in Adobe Express**: Bewerk een afbeelding in de geïntegreerde Adobe Express vanuit het Adobe Experience Manager Assets-scherm.
+* **Openen in Adobe Express**: Bewerk een afbeelding in de geïntegreerde Adobe Express vanuit het Experience Manager Assets-scherm.
 
 * **Bewerken**: Bewerk de afbeelding met Adobe Express.
 
