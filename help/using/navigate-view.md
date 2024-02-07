@@ -3,9 +3,9 @@ title: "[!DNL Assets Essentials] gebruikersinterface"
 description: De gebruikersinterface en navigatie begrijpen in [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 4f3141fe95a0c33b22042da4f234dd2a921cbac6
+source-git-commit: 7dbba95fef582cff32fa705a529f8da8b7e98124
 workflow-type: tm+mt
-source-wordcount: '981'
+source-wordcount: '973'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,11 @@ U kunt door de mappen bladeren vanuit de hoofdgebruikersinterface of vanuit de l
 * **Onlangs bekeken**: Lijst met elementen waarvan u onlangs een voorvertoning hebt weergegeven. [!DNL Assets Essentials] geeft alleen de elementen weer die u voorvertoont. De elementen die u voorbij schuift tijdens het bladeren door de bestanden of mappen in de opslagplaats worden niet weergegeven.
 * [Verzamelingen](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=en): Een verzameling is een set elementen, mappen of andere verzamelingen in Adobe Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen. In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten. U kunt meerdere verzamelingen delen met een gebruiker. Elke verzameling bevat verwijzingen naar elementen. De referentiële integriteit van activa wordt gehandhaafd over inzamelingen.
 
-* [Inzichten](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=en#view-live-statistics): In [!DNL Assets Essentials]kunt u real-time inzichten op uw dashboard bekijken. Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Insights. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
-* **Prullenbak**: Maak een lijst met de elementen die uit de hoofdmap zijn verwijderd **[!UICONTROL Assets]** map. U kunt een middel in de omslag van het Afval selecteren om of het aan de originele plaats te herstellen of het permanent te schrappen. U kunt ook een trefwoord opgeven of standaard- of aangepaste filters toepassen om te zoeken naar de juiste elementen in de map Prullenbak. Ga voor meer informatie over het gebruik van standaard- en aangepaste filters naar [Middelen zoeken in Assets Essentials](search.md).
-* **Instellingen**: U kunt verschillende opties van Assets Essentials configureren met **Instellingen**, zoals metagegevensformulieren, rapporten en taxonomiebeheer.
+* [Inzichten](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=en#view-live-statistics): In [!DNL Assets Essentials]kunt u real-time inzichten op uw dashboard bekijken. Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Inzichten. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
+
+* **Prullenbak**: Maak een lijst met de elementen die uit de hoofdmap zijn verwijderd **[!UICONTROL Assets]** map. U kunt een middel in de omslag van het Afval selecteren om of het aan zijn originele plaats te herstellen of het permanent te schrappen. U kunt een trefwoord opgeven of filters toepassen, zoals de status van het element, het bestandstype, het mime-type, de afbeeldingsgrootte, het maken van elementen, wijzigingen en vervaldatums, en het filteren op elementen die door de huidige gebruiker zijn verwijderd. U kunt ook aangepaste filters toepassen om te zoeken naar de juiste middelen in de map met prullenmand. Voor meer informatie over het gebruiken van standaard en douanefilters, zie hoe te [zoekelementen in Assets Essentials](search.md).
+
+* **Instellingen**: U kunt verschillende opties voor Assets Essentials configureren met **Instellingen**, zoals metagegevensformulieren, rapporten en taxonomiebeheer.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
@@ -114,7 +116,7 @@ Other use cases after previewing.
 
 ## Weergave van kolommen configureren voor de weergave Lijst met elementen {#configure-columns-list-view}
 
-U kunt de kolommen selecteren die in de weergave Lijst met elementen worden weergegeven, zoals Status, Indeling, Dimension, Grootte, enzovoort:
+U kunt de kolommen selecteren die in de weergave Lijst met elementen worden weergegeven, zoals Status, Indeling, Dimensionen, Grootte, enzovoort:
 
 1. Selecteren **[!UICONTROL Assets]** in het linkernavigatievenster schakelt u over naar de weergave Lijst met elementen en klikt u op ![instellingenpictogram](assets/settings-icon.svg).
 
@@ -124,7 +126,7 @@ U kunt de kolommen selecteren die in de weergave Lijst met elementen worden weer
 
 ## Volgende stappen {#next-steps}
 
-* Feedback geven op het product met de [!UICONTROL Feedback] beschikbaar in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met de [!UICONTROL Feedback] optie beschikbaar in de gebruikersinterface van Assets Essentials
 
 * Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
 
