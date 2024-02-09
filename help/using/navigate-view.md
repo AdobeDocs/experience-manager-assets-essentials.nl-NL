@@ -3,7 +3,7 @@ title: "[!DNL Assets Essentials] gebruikersinterface"
 description: De gebruikersinterface en navigatie begrijpen in [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: c56e4950e85efd671260c5235ebb54d95b13606c
+source-git-commit: 028c9fbe496e2f29f0b1d46cfcc3cdc20c3d5857
 workflow-type: tm+mt
 source-wordcount: '973'
 ht-degree: 0%
@@ -48,7 +48,7 @@ U kunt door de mappen bladeren vanuit de hoofdgebruikersinterface of vanuit de l
 
 * [Inzichten](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=en#view-live-statistics): In [!DNL Assets Essentials]kunt u real-time inzichten op uw dashboard bekijken. Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Inzichten. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
 
-* **Prullenbak**: Maak een lijst met de elementen die uit de hoofdmap zijn verwijderd **[!UICONTROL Assets]** map. U kunt een middel in de omslag van het Afval selecteren om of het aan zijn originele plaats te herstellen of het permanent te schrappen. U kunt een trefwoord opgeven of filters toepassen, zoals de status van het element, het bestandstype, het mime-type, de afbeeldingsgrootte, het maken van elementen, wijzigingen en vervaldatums, en het filteren op elementen die door de huidige gebruiker zijn verwijderd. U kunt ook aangepaste filters toepassen om te zoeken naar de juiste middelen in de map met prullenmand. Voor meer informatie over het gebruiken van standaard en douanefilters, zie hoe te [zoekelementen in Assets Essentials](search.md).
+* **Prullenbak**: Maak een lijst met de elementen die uit de hoofdmap zijn verwijderd **[!UICONTROL Assets]** map. U kunt een middel in de omslag van het Afval selecteren om het aan zijn originele plaats te herstellen of het permanent te schrappen. U kunt een trefwoord opgeven of filters toepassen, zoals de status van het element, het bestandstype, het mime-type, de afbeeldingsgrootte, het maken van elementen, wijzigingen en vervaldatums, en het filteren op elementen die de huidige gebruiker heeft verwijderd. U kunt ook aangepaste filters toepassen om te zoeken naar de juiste middelen in de map met prullenmand. Voor meer informatie over het gebruiken van standaard en douanefilters, zie hoe te [zoekelementen in Assets Essentials](search.md).
 
 * **Instellingen**: U kunt verschillende opties voor Assets Essentials configureren met **Instellingen**, zoals metagegevensformulieren, rapporten en taxonomiebeheer.
 
