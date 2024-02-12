@@ -3,9 +3,9 @@ title: "[!DNL Assets Essentials] gebruikersinterface"
 description: De gebruikersinterface en navigatie begrijpen in [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 028c9fbe496e2f29f0b1d46cfcc3cdc20c3d5857
+source-git-commit: 3b70810a264dac062032b07dc3d8ce169b56b4cd
 workflow-type: tm+mt
-source-wordcount: '973'
+source-wordcount: '963'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,7 @@ Wanneer u zich aanmeldt [!DNL Assets Essentials], ziet u de volgende interface.
 
 ![[!DNL Assets Essentials] gebruikersinterface](assets/essentials-interface.png)
 
-    *A: Linkerzijbalk voor bladeren in gegevensopslagruimte en biedt toegang tot een paar andere opties*
-    *B: De linkerzijbalk weergeven of samenvouwen om het gebied voor weergave van elementen te vergroten*
-    *C: Zoekresultaten filteren*
-    *D: Alle inhoud van de geselecteerde map selecteren*
-    *E: Opties voor het sorteren van elementen*
-    *F: Zoekvak*
-    *G: Bestanden uploaden of slepen en neerzetten met `Add Assets` knop*
-    *H: Een nieuwe map maken*
-    *I: Schakelen tussen verschillende weergaven*
+**A**: linkerzijbalk om in de opslagplaats te bladeren en biedt toegang tot een paar andere opties **B**: De linkerzijbalk weergeven of samenvouwen om het gebied voor weergave van elementen te vergroten **C**: Zoekresultaten filteren **D**: Selecteer alle inhoud van de geselecteerde map **E**: Opties voor het sorteren van elementen **F**: Zoekvak **G**: Bestanden uploaden of slepen met `Add Assets` knop **H**: Een nieuwe map maken **I**: Schakelen tussen verschillende weergaven
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
 
@@ -84,23 +76,7 @@ Als u een voorvertoning van een element wilt weergeven, selecteert u het en klik
 
 ![Een voorvertoning van een element weergeven](assets/preview-asset-2.png)
 
-*A: Ga terug naar de huidige map of het huidige zoekresultaat in de repository*
-*B: Naam en indeling voor het bestand waarvan u een voorvertoning weergeeft*
-*C: Taken toewijzen*
-*D: Middel downloaden*
-*E: Voorbeeld van element bekijken en informatie over metagegevens bekijken*
-*D: Geavanceerde metagegevens*
-*E: Trefwoorden en slimme tags*
-*F: Opmerking en annotatie*
-*G: Taken weergeven met betrekking tot het geselecteerde element*
-*H: Versies weergeven en beheren*
-*I: Uitvoeringen van de afbeelding weergeven*
-*J: Afbeelding bewerken*
-*K: Basismetagegevens*
-*L: Geavanceerde metagegevens*
-*M: Trefwoorden en slimme tags*
-*N: Meer informatie. Zoomen, volledig scherm en andere opties*
-*O: Ga naar het vorige of volgende middel in de huidige omslag zonder terug naar de omslag te gaan*
+**A**: Ga terug naar de huidige map of het huidige zoekresultaat in de repository **B**: Naam en indeling voor het bestand waarvan u een voorvertoning weergeeft **C**: Taken toewijzen **D**: Geavanceerde metagegevens **E**: Trefwoorden en slimme tags **F**: Opmerking en annotatie **G**: Taken weergeven met betrekking tot het geselecteerde element **H**: Versies weergeven en beheren **I**: Geef uitvoeringen van de afbeelding weer **J**: Afbeelding bewerken **K**: Basismetagegevens **L**: Geavanceerde metagegevens **M**: Trefwoorden en slimme tags **N**: Meer informatie. Zoomen, volledig scherm en andere opties **O**: Ga naar het vorige of volgende element in de huidige map zonder terug te gaan naar de map
 
 U kunt ook voorvertoningen van video&#39;s weergeven.
 
