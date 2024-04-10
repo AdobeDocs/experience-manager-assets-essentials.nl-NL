@@ -2,7 +2,7 @@
 title: Elementen voor bulkimport die gebruikmaken van Assets Essentials
 description: Leer hoe u importmiddelen in bulk importeert met de gebruikersinterface voor nieuwe middelen (Assets Essentials). Hiermee kunnen beheerders een groot aantal elementen uit een gegevensbron importeren in AEM Assets.
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
-source-git-commit: 530880cdd7536a4370cc0315f0d485d258d40102
+source-git-commit: 4d4b239b0b75ac8a26a7c3001e5b28dcb6243f63
 workflow-type: tm+mt
 source-wordcount: '1634'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Bulk Import in AEM Assets Essentials biedt beheerders de mogelijkheid om een gro
 
 U kunt elementen importeren uit de volgende gegevensbronnen:
 
-* Azure
 * AWS
 * Google Cloud
 * Dropbox
 * OneDrive
+* Azure
 
 ## Vereisten {#prerequisites}
 
