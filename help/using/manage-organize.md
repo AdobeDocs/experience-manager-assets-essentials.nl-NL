@@ -4,9 +4,9 @@ description: Verplaats, verwijder, kopieer, hernoem, werk en versie uw activa in
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
+source-git-commit: a49bfcdf3dbd6601ed15ae8a3309922c0483b3d7
 workflow-type: tm+mt
-source-wordcount: '1124'
+source-wordcount: '1165'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,9 @@ U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de
 * ![verplaatsingspictogram](assets/do-not-localize/move-icon.png) Verplaats het geselecteerde element of de geselecteerde map naar een andere locatie in de hiërarchie van de opslagplaats.
 
 * ![pictogram hernoemen](assets/do-not-localize/rename-icon.png) Wijzig de naam van het geselecteerde element of de geselecteerde map. Gebruik een unieke naam anders ontbreekt het anders noemen met een waarschuwing. U kunt het opnieuw proberen met een nieuwe naam.
+Bovendien kunt u op de titel van een element of map klikken om de naam ervan te wijzigen. De nieuwe tekst in het deelvenster **Naam element wijzigen** textbox en klik **Opslaan**. Deze mogelijkheid is beschikbaar in de raster-, galerie-, waterval- en lijstweergaven.
+
+* ![pictogram watervalweergave](assets/do-not-localize/waterfall-view.png) [!UICONTROL Waterfall View].
 
 * ![bibliotheekpictogram kopiëren](assets/do-not-localize/copy-icon.png) Voeg een element toe aan de bibliotheek.
 
