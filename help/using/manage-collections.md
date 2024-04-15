@@ -2,10 +2,10 @@
 title: Verzamelingen beheren
 description: Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: 27ac4035863924dfda1abf2593da9278a57b02a2
 workflow-type: tm+mt
-source-wordcount: '740'
-ht-degree: 1%
+source-wordcount: '861'
+ht-degree: 0%
 
 ---
 
@@ -48,6 +48,8 @@ U kunt de volgende taken uitvoeren om inzamelingen te beheren en te gebruiken:
 
 * [Een verzameling verwijderen](#delete-collection)
 
+* [Rechten beheren voor een privéverzameling](#manage-permissions-to-a-private-collection)
+
 ## Een verzameling maken {#create-collection}
 
 Een verzameling maken:
@@ -60,7 +62,7 @@ Een verzameling maken:
 
 1. Klikken **[!UICONTROL Create]** om de verzameling te maken.
 
-![Verzameling maken](assets/create-collection.png)
+   ![Verzameling maken](assets/create-collection.png)
 
 <!--
    
@@ -154,7 +156,7 @@ Metagegevens van verzamelingen weergeven en bewerken:
 1. De metagegevens van de verzameling weergeven met de opdracht **[!UICONTROL Basic]** tab.
 1. Wijzig desgewenst de metagegevensvelden. U kunt de [!UICONTROL Title] en [!UICONTROL Description] velden.
 
-![Metagegevens verzameling](assets/collection-metadata.png)
+   ![Metagegevens verzameling](assets/collection-metadata.png)
 
 ## Koppelingen voor verzamelingen delen {#share-collection-links}
 
@@ -185,6 +187,18 @@ Een verzameling verwijderen:
 1. Selecteer de verzameling die u wilt verwijderen.
 
 1. Klik op **[!UICONTROL Delete]**.
+
+## Rechten voor een privéverzameling beheren{#manage-permissions-private-collection}
+
+U kunt beheerders toestaan om te beheren [toegangsniveaus](/help/using/manage-permissions.md#manage-permissions-on-folders) voor privéverzamelingen die beschikbaar zijn in de repository. U kunt machtigingen toewijzen zoals `Can View` en `Can Edit` aan de gebruikersgroepen of gebruikers. U kunt toestemmingsbeheervoorrechten aan gebruikersgroepen ook delegeren. De gebruikers die privé inzamelingen tot stand brengen zijn de eigenaars van die inzamelingen. Ze kunnen de [!UICONTROL Manage Permissions] actie om toegang te verlenen aan de andere gebruikers. Bovendien kunnen beheerders machtigingen van de privéverzamelingen in de [!DNL Experience Manager] opslagplaats.
+
+>[!NOTE]
+>
+>De Adobe adviseert niet om toestemmingen aan gebruikers toe te wijzen.
+
+Voor informatie over hoe u de beschikbare machtigingen aan gebruikersgroepen kunt toewijzen, raadpleegt u [Machtigingen toevoegen aan gebruikersgroepen](/help/using/manage-permissions.md#add-permissions).
+
+Voor meer informatie over het werkschema van begin tot eind, zie [machtigingen beheren](/help/using/manage-permissions.md).
 
 ## Volgende stappen {#next-steps}
 
