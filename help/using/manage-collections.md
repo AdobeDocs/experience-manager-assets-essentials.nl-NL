@@ -2,9 +2,9 @@
 title: Verzamelingen beheren
 description: Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 27ac4035863924dfda1abf2593da9278a57b02a2
+source-git-commit: d0884f7c5a50d89cb8ce4166dc038814bd7fd07d
 workflow-type: tm+mt
-source-wordcount: '861'
+source-wordcount: '852'
 ht-degree: 0%
 
 ---
@@ -191,11 +191,11 @@ Een verzameling verwijderen:
 ## Rechten voor een privéverzameling beheren{#manage-permissions-private-collection}
 
 U kunt beheerders toestaan om te beheren [toegangsniveaus](/help/using/manage-permissions.md#manage-permissions-on-folders) voor privéverzamelingen die beschikbaar zijn in de repository. U kunt machtigingen toewijzen zoals `Can View` en `Can Edit` aan de gebruikersgroepen of gebruikers. U kunt toestemmingsbeheervoorrechten aan gebruikersgroepen ook delegeren. De gebruikers die privé inzamelingen tot stand brengen zijn de eigenaars van die inzamelingen. Ze kunnen de [!UICONTROL Manage Permissions] actie om toegang te verlenen aan de andere gebruikers. Bovendien kunnen beheerders machtigingen van de privéverzamelingen in de [!DNL Experience Manager] opslagplaats.
-
+<!--
 >[!NOTE]
 >
->De Adobe adviseert niet om toestemmingen aan gebruikers toe te wijzen.
-
+>Adobe does not recommend to assign permissions to users.
+-->
 Voor informatie over hoe u de beschikbare machtigingen aan gebruikersgroepen kunt toewijzen, raadpleegt u [Machtigingen toevoegen aan gebruikersgroepen](/help/using/manage-permissions.md#add-permissions).
 
 Voor meer informatie over het werkschema van begin tot eind, zie [machtigingen beheren](/help/using/manage-permissions.md).
