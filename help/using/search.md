@@ -3,9 +3,9 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 92cfe963d37df919b8bc29c49da7c8e9bd62638e
+source-git-commit: 0da570c129407b6ecaf3e41223f61ce279a308d0
 workflow-type: tm+mt
-source-wordcount: '1458'
+source-wordcount: '1809'
 ht-degree: 0%
 
 ---
@@ -205,7 +205,7 @@ U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de
 
 * **Taken toewijzen**: Taken toewijzen aan gebruikers voor een element.
 
-* **Controle**: [De bewerkingen controleren](manage-notifications.md) uitgevoerd op een element.
+* **Controle**: [De bewerkingen controleren](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/search-assets) uitgevoerd op een element.
 
 ## Eerste homepage van zoekopdracht configureren {#configuring-search-first-homepage}
 
@@ -239,6 +239,92 @@ U kunt een voorvertoning weergeven om de lay-out en opmaak van de eerste homepag
 1. Klikken **[!UICONTROL Close]** om het voorvertoningsscherm te sluiten.
 
    ![Eerste homepatievoorvertoning zoeken](assets/search-first-preview.gif)
+
+## Contextueel zoeken {#contextual-search}
+
+U kunt ook zoeken in middelen die beschikbaar zijn in de repository door tekstherinneringen te definiëren. Experience Manager Assets transformeert automatisch die tekstherinneringen om filters te zoeken en toont de onderzoeksresultaten. Met het deelvenster Filters kunt u automatische filters weergeven en wijzigen om de zoekresultaten verder te beperken.
+
+### Toegang tot contextafhankelijke zoekopdracht {#access-contextual-search}
+
+Toegang krijgen tot contextafhankelijke zoekopdrachten in Experience Manager Assets:
+
+1. Klikken **[!UICONTROL Search]** in het linkerdeelvenster.
+
+   ![Contextueel zoeken](/help/using/assets/access-contextual-search.png)
+
+1. Definieer de tekstprompt in het tekstvak Zoeken en klik op **[!UICONTROL Contextual Search]**.
+
+   ![Contextuele zoektekstprompt](/help/using/assets/contextual-search-text-prompt.png)
+
+   [!DNL Experience Manager Assets] geeft de zoekresultaten weer.
+
+
+### Ondersteunde filters {#supported-filters}
+
+Contextueel zoeken ondersteunt de volgende filters uit de verpakking. Baseer uw tekstherinneringen op deze filters om aangewezen onderzoeksresultaten te bekijken.
+
+* Hoogte afbeelding
+
+* Breedte afbeelding
+
+* Bestandstype: afbeelding, document, video of map.
+
+* MIME-type: JPG, PNG, TIFF, GIF, MP4, PDF, PPTX, DOCX of XLSX
+
+* Aanmaakdatum
+
+* Datum gewijzigd
+
+* Vervaldatum
+
+* De status van het element: Goedgekeurd, Afgewezen, of al
+
+* Verlopen activa
+
+### Voorbeelden voor de tekstaanwijzingen {#text-prompts-examples}
+
+**Voorbeeld 1**
+
+**Tekstvraag**: Afbeeldingen gemaakt deze maand.
+
+[!DNL Experience Manager Assets] past de volgende filters automatisch toe en toont de onderzoeksresultaten:
+
+![Voorbeeld 1 van contextueel zoeken](/help/using/assets/contextual-search-example1.png)
+
+**Voorbeeld 2**
+
+**Tekstprompt**: Afbeeldingen van minimaal 200 px hoog en 100 px breed met strand en heldere lucht.
+
+[!DNL Experience Manager Assets] past de volgende filters automatisch toe en toont de onderzoeksresultaten:
+
+![Contextueel zoekvoorbeeld 2](/help/using/assets/contextual-search-example2.png)
+
+**Voorbeeld 3**
+
+**Tekstprompt**: Ik heb beelden van blauwe hemel nodig die 1500 en 2500 pixelhoogte zijn en in de afgelopen maand worden gecreeerd die niet verlopen en goedgekeurd zijn.
+
+[!DNL Experience Manager Assets] past de volgende filters automatisch toe en toont de onderzoeksresultaten:
+
+![Voorbeeld van contextueel zoeken 3](/help/using/assets/contextual-search-example3.png)
+
+De volgende video illustreert het proces van begin tot eind van de toegang tot van het Contextual Onderzoek Gebruikersinterface tot het bepalen van tekstherinneringen, en het bekijken van de onderzoeksresultaten.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3428407)
+
+### Contextueel zoeken uitschakelen {#disable-contextual-search}
+
+Beheerders hebben ook de mogelijkheid om contextafhankelijke zoekopdrachten voor gebruikers in uw organisatie uit te schakelen. Voer daartoe de volgende stappen uit:
+
+1. Ga naar **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
+
+1. In de [!UICONTROL Contextual Search] in, schakelt u de **[!UICONTROL Enable Contextual Search for your organization]** Schakel deze optie in om de functie Contextual Search uit te schakelen voor alle gebruikers in uw organisatie.
+
+### Feedback op contextuele zoekopdrachten {#contextual-search-feedback}
+
+Als u feedback moet geven over de functie Contextual Search, klikt u op ![Pictogram Contextueel zoeken](assets/do-not-localize/contextual-search-icon.png)  en klik op het pictogram Feedback. Selecteer het type feedback, geef het onderwerp en de beschrijving op en klik op **[!UICONTROL Submit]**.
+
+![Feedback op contextuele zoekopdrachten](/help/using/assets/contextual-search-feedback.png)
+
 
 ## Volgende stappen {#next-steps}
 
