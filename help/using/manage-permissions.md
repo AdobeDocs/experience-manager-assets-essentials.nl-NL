@@ -2,7 +2,7 @@
 title: Hoe te om toestemmingen voor omslagen in de Hoofdzaak van AEM Assets te beheren?
 description: Met Assets Essentials kunnen beheerders de toegangsniveaus voor mappen die in de opslagplaats beschikbaar zijn, beheren. Creeer gebruikersgroepen en wijs toestemmingen aan die groepen toe om toegangsniveaus te beheren. Als beheerder, kunt u de toestemmingsbeheersvoorrechten aan gebruikersgroepen op omslag-niveau ook delegeren.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: a77513f925203f9ad6cad9fd517f28989385af95
+source-git-commit: ec723ae4222254c64e8ddc2e03f8a523203f9f8a
 workflow-type: tm+mt
 source-wordcount: '1614'
 ht-degree: 0%
@@ -118,7 +118,7 @@ Groepmachtigingen toewijzen voor mappen:
 
 1. Op de **[!UICONTROL Manage Permissions]** de naam van de groep of een gebruiker in het dialoogvenster **[!UICONTROL Groups & Users]** veld.
 
-1. Selecteer de [toegangsniveau](#manage-permissions-folders) van de **[!UICONTROL Access]** vervolgkeuzelijst.
+1. Selecteer de [toegangsniveau](#manage-permissions-on-folders) van de **[!UICONTROL Access]** vervolgkeuzelijst.
 
 1. Klikken **[!UICONTROL Add]** om een directe wijziging aan te brengen in de machtigingen voor de gebruiker of gebruikersgroep.
 
@@ -144,7 +144,7 @@ Machtigingen bewerken die zijn toegewezen aan gebruikersgroepen in mappen:
 
 1. Selecteer de map en klik op **[!UICONTROL Manage Permissions]**.
 
-1. Op de **[!UICONTROL Manage Permissions]** dialoogvenster, bewerkt u de [toegangsniveau](#manage-permissions-folders) van de **[!UICONTROL Access]** vervolgkeuzelijst.
+1. Op de **[!UICONTROL Manage Permissions]** dialoogvenster, bewerkt u de [toegangsniveau](#manage-permissions-on-folders) van de **[!UICONTROL Access]** vervolgkeuzelijst.
 
 1. [Meer gebruikersgroepen of gebruikers toevoegen](#add-permissions) de bestaande machtigingsregels, indien nodig.
 

@@ -4,9 +4,9 @@ description: Metagegevens van elementen beheren in [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: b14d8533854df448e2cb7b527ef5b7e69c072380
+source-git-commit: 37beb971f1e675162eb4b8e9ab008b20a241c066
 workflow-type: tm+mt
-source-wordcount: '1618'
+source-wordcount: '1712'
 ht-degree: 0%
 
 ---
@@ -134,7 +134,7 @@ Hieronder ziet u een overzicht van elk type eigenschap en de manier waarop deze 
 | Trefwoorden | Vrije-vormtrefwoorden toevoegen (toegewezen aan dc:subject). |
 | Slimme tags | U kunt zoekmogelijkheden uitbreiden door automatisch metagegevenstags toe te voegen. |
 
-### Metagegevensformulier toewijzen aan een map {#assign-metadata-form-folder}
+### Metagegevensformulier toewijzen aan mappen {#assign-metadata-form-folder}
 
 U kunt ook een metagegevensformulier toewijzen aan een map binnen de implementatie van Assets Essentials. Het metagegevensformulier dat volgens het MIME-type aan een map is toegewezen, wordt overschreven wanneer u handmatig een metagegevensformulier op een map toepast. Alle elementen in de map, inclusief de elementen in de submappen, geven vervolgens de eigenschappen weer die in het metagegevensformulier zijn gedefinieerd.
 
@@ -142,13 +142,29 @@ Een metagegevensformulier toewijzen aan een map:
 
 1. Navigeren naar **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]** en selecteert u een metagegevensformulier.
 
-2. Klik op **[!UICONTROL Assign to Folder]**.
+2. Klik op **[!UICONTROL Assign to Folder(s)]**.
 
-3. Selecteer de map en klik op **[!UICONTROL Assign]**.
+3. Selecteer de map(pen) en klik op **[!UICONTROL Assign]**. U kunt de mappen selecteren door op de mapnamen te klikken.
 
    ![metagegevensformulier toewijzen aan een map](/help/using/assets/assign-to-folder.png)
 
    U kunt ook naar de pagina met mapdetails navigeren en een metagegevensformulier selecteren uit de makeigenschappen in het rechterdeelvenster om het metagegevensformulier aan de map toe te wijzen.
+
+   ![eigenschappen van metaformuliermap](/help/using/assets/folder-properties-metadata-forms.png)
+
+### Metagegevens uit mappen verwijderen {#remove-metadata-form-folder}
+
+Nadat u een metagegevensformulier aan een of meerdere mappen hebt toegewezen, kunt u met Experience Manager Assets ook het metagegevensformulier uit de geselecteerde mappen verwijderen.
+
+Een metagegevensformulier verwijderen uit een map:
+
+1. Navigeren naar **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]** en selecteert u een metagegevensformulier.
+
+1. Klik op **[!UICONTROL Remove from Folder(s)]**. De lijst met toegewezen mappen voor de weergave van het metagegevensformulier.
+
+1. Selecteer de map en klik op **[!UICONTROL Remove]**. U kunt ook meerdere mappen in de lijst selecteren.
+
+U kunt ook naar de pagina met mapdetails navigeren en **[!UICONTROL System mapped Metadata Form]** van de **[!UICONTROL Metadata Forms]** veld om het toegewezen metagegevensformulier uit een map te verwijderen.
 
 ## Volgende stappen {#next-steps}
 
