@@ -2,7 +2,7 @@
 title: Video's bewerken
 description: Video's bewerken met [!DNL Adobe Express] Aangedreven opties en sparen bijgewerkte video's als versies.
 role: User
-source-git-commit: 4d279f2744abe563abc39639b6541bd67aad3c4d
+source-git-commit: 5bcec500ff6bf67426f532a98eec5d351cc1ad03
 workflow-type: tm+mt
 source-wordcount: '754'
 ht-degree: 0%
