@@ -4,9 +4,9 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 8ad7c9e02e94656200b715047bb25ed79bdbf06d
+source-git-commit: ae72670b4e66b79ac531f4050703951e0e7852e0
 workflow-type: tm+mt
-source-wordcount: '2859'
+source-wordcount: '2841'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Experience Manager Assets biedt nu een vereenvoudigde gebruikerservaring door mi
 
 **Snelle videohandelingen**
 
-Experience Manager Assets beschikt nu over eenvoudige en intuïtieve videobewerkingsgereedschappen, aangedreven door Adobe Express, om het hergebruik van inhoud te verbeteren en de snelheid van de inhoud te versnellen. Lichtbewerking van video&#39;s in AEM Assets vereist geen uitgebreide kennis van gereedschappen en concepten voor videobewerking. Tot de bewerkingsopties behoren bijsnijden, bijsnijden, het formaat van een video wijzigen en het omzetten van een MP4 in een GIF-bestand.
+Experience Manager Assets beschikt nu over eenvoudige en intuïtieve videobewerkingsgereedschappen, aangedreven door Adobe Express, om het hergebruik van inhoud te verbeteren en de snelheid van de inhoud te versnellen. Tot de bewerkingsopties behoren bijsnijden, bijsnijden, het formaat van een video wijzigen en het omzetten van een MP4 in een GIF-bestand.
 
 ![video uitsnijden met Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
