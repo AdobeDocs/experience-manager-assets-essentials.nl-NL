@@ -4,18 +4,77 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 196fa10fd6788b306aaad3c63100e5763be566b2
+source-git-commit: 8ad7c9e02e94656200b715047bb25ed79bdbf06d
 workflow-type: tm+mt
-source-wordcount: '2660'
+source-wordcount: '2859'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt gepubliceerd op 11 januari 2024.
+De huidige release van Assets Essentials wordt gepubliceerd op 18 april 2024.
 
 Enkele onlangs toegevoegde eigenschappen omvatten:
+
+**Contextueel zoeken**
+
+U kunt nu ook de middelen zoeken die beschikbaar zijn in de repository door tekstherinneringen te definiëren. Experience Manager Assets transformeert automatisch die tekstherinneringen om filters te zoeken en toont de onderzoeksresultaten. Met het deelvenster Filters kunt u automatische filters weergeven en wijzigen om de zoekresultaten verder te beperken.
+
+![inzichten in opslaggebruik](/help/using/assets/contextual-search-text-prompt1.png)
+
+<!--
+
+**Dynamic renditions**
+
+You can now view and download dynamic renditions (including smart crops) in Experience Manager Assets. Dynamic renditions are customized versions of image assets created in real-time to meet specific needs, such as resizing images based on device resolution or cropping to fit different aspect ratios. These renditions enable organizations to deliver personalized and optimized experiences to diverse audience needs.
+
+![storage usage insights](/help/using/assets/renditions-view-download.png)
+
+-->
+
+**Naam op plaats wijzigen voor elementen en mappen**
+
+Experience Manager Assets biedt nu een vereenvoudigde gebruikerservaring door middel van de mogelijkheid om de naam van een element of map te wijzigen via één klik.
+
+**Snelle videohandelingen**
+
+Experience Manager Assets beschikt nu over eenvoudige en intuïtieve videobewerkingsgereedschappen, aangedreven door Adobe Express, om het hergebruik van inhoud te verbeteren en de snelheid van de inhoud te versnellen. Lichtbewerking van video&#39;s in AEM Assets vereist geen uitgebreide kennis van gereedschappen en concepten voor videobewerking. Tot de bewerkingsopties behoren bijsnijden, bijsnijden, het formaat van een video wijzigen en het omzetten van een MP4 in een GIF-bestand.
+
+![video uitsnijden met Adobe Express](/help/using/assets/adobe-express-crop-video.png)
+
+**Metagegevensformulier toewijzen aan of verwijderen uit meerdere mappen**
+
+U kunt nu metagegevensformulieren toewijzen aan of verwijderen uit meerdere mappen.
+
+**Rechten voor privéverzamelingen beheren**
+
+U kunt beheerders toestaan om toegangsniveaus voor privé inzamelingen te beheren beschikbaar in de bewaarplaats. U kunt machtigingen toewijzen zoals `Can View` en `Can Edit` aan de gebruikersgroepen of gebruikers. U kunt toestemmingsbeheervoorrechten aan gebruikersgroepen ook delegeren.
+
+
+**Verbeteringen gebaseerd op feedback van klanten**
+
+Verbeteringen en foutoplossingen op basis van feedback van klanten.
+
+
+## Bekende problemen {#known-issues}
+
+De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
+
+Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
+
+## Eerdere versies {#past-releases}
+
+### Release januari 2024 {#january-2024-release}
 
 **Lijst van gewezen personen slimme tags**
 
@@ -50,32 +109,6 @@ Beheerders kunnen nu de rapporten over het opslaggebruik bekijken die beschikbaa
 Met Assets Essentials kunt u nu de homepage-ervaring voor uw organisatie configureren. Als u eerst zoeken selecteert als startpagina, kunt u de uitlijning van de zoekbalk, de achtergrondafbeelding en het logo voor uw organisatie configureren.
 
 ![eerste zoekconfiguratie](/help/using/assets/search-first-configuration.png)
-
-
-
-**Verbeteringen gebaseerd op feedback van klanten**
-
-Verbeteringen en foutoplossingen op basis van feedback van klanten.
-
-
-## Bekende problemen {#known-issues}
-
-De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
-
-* Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
-
-Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
-
-## Eerdere versies {#past-releases}
 
 ### Release oktober 2023 {#october2023-release}
 
@@ -380,7 +413,7 @@ Daarnaast [!DNL Adobe Asset Link] een extensie voor Creative Cloud (Photoshop, I
 [!DNL Assets Essentials] wordt gepubliceerd op 16 december 2021, met de volgende updates:
 
 * Adobe implementeert automatisch Assets Essentials nadat het inrichtingsproces is voltooid. De beheerders hoeven geen extra stappen uit te voeren om Assets Essentials op te stellen die [!DNL Cloud Manager] gebruikersinterface. Deze automatische implementatie is beschikbaar voor omgevingen die na 6 januari 2022 zijn ingericht.
-* De nieuwe versies van Creative Cloud stoppen die met Assets Essentials werken zijn beschikbaar op de Uitwisseling van de Adobe - [Adobe Asset Link voor Adobe XD v 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) en [Adobe Asset Link for Photoshop / InDesign / Illustrator v 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
+* De nieuwe versies van Creative Cloud stoppen die met Assets Essentials werken zijn beschikbaar op Adobe Exchange - [Adobe Asset Link voor Adobe XD v 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) en [Adobe Asset Link for Photoshop / InDesign / Illustrator v 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
 * Verschillende foutoplossingen en productverbeteringen, inclusief bekende problemen (mappen worden nu correct weergegeven in de linkernavigatiestructuur na het uploaden)<!-- CQ-4337638 -->, uploaden via slepen en neerzetten zorgt ervoor dat de gebruiker de huidige map of een submap kan selecteren bij het neerzetten voor uploaden<!-- CQ-4327753 -->).
 
 ### release 2021.8.0 {#august2021}
