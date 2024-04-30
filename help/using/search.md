@@ -3,9 +3,9 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 0da570c129407b6ecaf3e41223f61ce279a308d0
+source-git-commit: 5d6cc2c27fc416d3f616a25db0e6497d9ad946c1
 workflow-type: tm+mt
-source-wordcount: '1809'
+source-wordcount: '1764'
 ht-degree: 0%
 
 ---
@@ -311,17 +311,19 @@ De volgende video illustreert het proces van begin tot eind van de toegang tot v
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428407)
 
-### Contextueel zoeken uitschakelen {#disable-contextual-search}
+<!--
+### Disable Contextual Search {#disable-contextual-search}
 
-Beheerders hebben ook de mogelijkheid om contextafhankelijke zoekopdrachten voor gebruikers in uw organisatie uit te schakelen. Voer daartoe de volgende stappen uit:
+Administrators also have the option to disable Contextual Search for users in your organization. To do so, execute the following steps:
 
-1. Ga naar **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
+1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
 
-1. In de [!UICONTROL Contextual Search] in, schakelt u de **[!UICONTROL Enable Contextual Search for your organization]** Schakel deze optie in om de functie Contextual Search uit te schakelen voor alle gebruikers in uw organisatie.
+1. In the [!UICONTROL Contextual Search] section, turn off the **[!UICONTROL Enable Contextual Search for your organization]** toggle to disable the Contextual Search feature for all users in your organization.  
+-->
 
 ### Feedback op contextuele zoekopdrachten {#contextual-search-feedback}
 
-Als u feedback moet geven over de functie Contextual Search, klikt u op ![Pictogram Contextueel zoeken](assets/do-not-localize/contextual-search-icon.png)  en klik op het pictogram Feedback. Selecteer het type feedback, geef het onderwerp en de beschrijving op en klik op **[!UICONTROL Submit]**.
+Als u feedback moet geven over de functie Contextual Search, klikt u op ![Pictogram Contextueel zoeken](assets/do-not-localize/Smock_Help_18_N.svg)  en klik op het pictogram Feedback. Selecteer het type feedback, geef het onderwerp en de beschrijving op en klik op **[!UICONTROL Submit]**.
 
 ![Feedback op contextuele zoekopdrachten](/help/using/assets/contextual-search-feedback.png)
 
