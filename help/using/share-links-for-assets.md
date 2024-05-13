@@ -2,9 +2,9 @@
 title: Hoe kan ik koppelingen naar elementen delen?
 description: Een koppeling genereren en elementen delen met anderen die geen toegang hebben tot de [!DNL Assets Essentials] toepassing.
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: 0ce79167583178f2b81b7ac9f91dd518455cc49f
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,12 @@ Een koppeling genereren voor een element of een map met elementen:
 
 1. Als u deze wilt aanpassen, klikt u op het pictogram Kalender om een vervaldatum voor de koppeling te definiëren met de opdracht **[!UICONTROL Expiration Date]** veld. U kunt ook rechtstreeks een datum opgeven in het dialoogvenster `yyyy-mm-dd` gebruiken. De vervaldatum voor een koppeling is standaard ingesteld op twee weken na de datum van delen.
 
-1. De koppeling kopiëren vanuit de **[!UICONTROL Share Link]** veld.
+>[!NOTE]
+> De datumnotatie verandert op basis van de gekozen landinstelling.
+> Bijvoorbeeld de `de-DE` gebruik `dd-mm-yyyy`, `ja-JA` gebruik `yyyy-mm-dd`overwegende dat `en-EN` gebruik `mm-dd-yyyy`.
+>
+
+1. Kopieer de koppeling vanuit de **[!UICONTROL Share Link]** veld.
 
    ![Optie voor uitsnijden en rechttrekken](assets/share-asset-link.png)
 
@@ -29,7 +34,7 @@ Een koppeling genereren voor een element of een map met elementen:
 
 ## Toegang tot gedeelde elementen {#access-shared-assets}
 
-Nadat de openbare koppeling voor elementen is gedeeld, kunnen de ontvangers op de koppeling klikken om de gedeelde elementen in een webbrowser voor te vertonen of te downloaden zonder dat ze zich hoeven aan te melden bij [!DNL Assets Essentials].
+Nadat de openbare koppeling voor elementen is gedeeld, kunnen de ontvangers op de koppeling klikken om de gedeelde elementen in een webbrowser voor te vertonen of te downloaden zonder zich aan te melden bij [!DNL Assets Essentials].
 
 Klik op de koppeling, klik op de map om naar het element te navigeren en klik vervolgens op het element om er een voorvertoning van weer te geven. U kunt de gedeelde elementen weergeven in een Lijstweergave of Kaartweergave.
 
@@ -43,10 +48,10 @@ Als u alle elementen tegelijk wilt downloaden, schakelt u over naar de **[!UICON
 
 ## Volgende stappen {#next-steps}
 
-* [Een video bekijken om koppelingen naar middelen in Assets Essentials te delen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html)
+* [Een video bekijken om koppelingen voor elementen in Assets Essentials te delen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html).
 
-* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met de [!UICONTROL Feedback] beschikbaar in de gebruikersinterface van Assets Essentials.
 
-* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk.
 
-* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)
+* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support).

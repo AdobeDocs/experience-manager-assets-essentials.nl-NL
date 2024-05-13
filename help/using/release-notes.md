@@ -4,9 +4,9 @@ description: Opmerkingen bij de release en bekende problemen met [!DNL Assets Es
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: ae72670b4e66b79ac531f4050703951e0e7852e0
+source-git-commit: eac31e102b9e26241cd513b1aeb8774802120a9d
 workflow-type: tm+mt
-source-wordcount: '2841'
+source-wordcount: '2891'
 ht-degree: 0%
 
 ---
@@ -43,13 +43,16 @@ Experience Manager Assets beschikt nu over eenvoudige en intuïtieve videobewerk
 
 ![video uitsnijden met Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
+>[!NOTE]
+> Recht op toegang [!DNL Adobe Express] is vereist en ten minste één omgeving in AEM Assets. De omgeving kan elk van de opslagplaatsen binnen [!DNL Assets as a Cloud Service] of [!DNL Assets Essentials].
+
 **Metagegevensformulier toewijzen aan of verwijderen uit meerdere mappen**
 
-U kunt nu metagegevensformulieren toewijzen aan of verwijderen uit meerdere mappen.
+Een metagegevensformulier kan nu worden toegewezen aan of verwijderd uit meerdere mappen.
 
 **Rechten voor privéverzamelingen beheren**
 
-U kunt beheerders toestaan om toegangsniveaus voor privé inzamelingen te beheren beschikbaar in de bewaarplaats. U kunt machtigingen toewijzen zoals `Can View` en `Can Edit` aan de gebruikersgroepen of gebruikers. U kunt toestemmingsbeheervoorrechten aan gebruikersgroepen ook delegeren.
+U kunt beheerders of niet-beheerders (andere gebruikers) toestaan om toegangsniveaus voor privé inzamelingen te beheren beschikbaar in de bewaarplaats. U kunt machtigingen toewijzen zoals `Can View` en `Can Edit` aan de gebruikersgroepen of gebruikers. U kunt toestemmingsbeheervoorrechten aan gebruikersgroepen ook delegeren.
 
 
 **Verbeteringen gebaseerd op feedback van klanten**
@@ -59,7 +62,7 @@ Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
 ## Bekende problemen {#known-issues}
 
-De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voortdurend herzien en bijgewerkt:
+De lijst met bekende problemen van [!DNL Assets Essentials] het aanbod wordt voortdurend herzien en bijgewerkt.
 
 <!--
 
@@ -68,7 +71,7 @@ De lijst met bekende problemen van [!DNL Assets Essentials] Het aanbod wordt voo
 -->
 
 
-* De privé inzamelingen zijn beschikbaar aan schepper en de gebruikers met beheerdervoorrechten. Als beheerder, kunt u niet de toestemmingen delegeren om tot de inzameling aan andere gebruikers toegang te hebben.
+<!--* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.-->
 
 Als u problemen of zelfs verbeteringsverzoeken tegenkomt, [feedback geven](#provide-feedback) naar het team.
 
@@ -106,7 +109,7 @@ Beheerders kunnen nu de rapporten over het opslaggebruik bekijken die beschikbaa
 
 **Eerste homepage-configuratie zoeken**
 
-Met Assets Essentials kunt u nu de homepage-ervaring voor uw organisatie configureren. Als u eerst zoeken selecteert als startpagina, kunt u de uitlijning van de zoekbalk, de achtergrondafbeelding en het logo voor uw organisatie configureren.
+Met Assets Essentials kunt u nu de homepage-ervaring voor uw organisatie configureren. Als u eerst zoeken selecteert als startpagina, kunt u de uitlijning van de zoekbalk, de achtergrondafbeelding en het logo voor uw organisatie configureren. Kiezen [!UICONTROL General Settings] Hiermee overschrijft u de standaardbestemmingspagina. De standaardlanding is bijvoorbeeld [!UICONTROL My Workspace] voor beheerders en [!UICONTROL Search First] voor niet-beheerders geldt dat als u een van de opties onder Algemene instellingen kiest, dit voor alle gebruikers geldt
 
 ![eerste zoekconfiguratie](/help/using/assets/search-first-configuration.png)
 
@@ -209,7 +212,7 @@ In Mijn werkruimte worden nu de tien meest gedownloade middelen voor uw Assets E
 
 **Bulkupdates van metagegevens van elementen**
 
-Met updates van bulkmetagegevens kunt u algemene updates van metagegevens tegelijkertijd op meerdere elementen uitvoeren. U hoeft de records niet afzonderlijk bij te werken en kunt snel eigenschappen toepassen op elementen of mappen die via de zoekopdracht worden benaderd.
+Met updates van bulkmetagegevens kunt u algemene updates van metagegevens tegelijkertijd op meerdere elementen uitvoeren. U hoeft de records niet afzonderlijk bij te werken en kunt snel eigenschappen toepassen op elementen of mappen die via de zoekopdracht worden benaderd. Bovendien overschrijft updates van bulkmetagegevens alle bestaande waarden. Dit betekent dat bestaande trefwoorden worden overschreven door de update voor metagegevens van bulkgegevens.
 
 **Mijn werkruimte met configureerbare widgets**
 
