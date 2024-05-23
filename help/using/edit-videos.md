@@ -2,7 +2,8 @@
 title: Video's bewerken
 description: Video's bewerken met [!DNL Adobe Express] Aangedreven opties en sparen bijgewerkte video's als versies.
 role: User
-source-git-commit: 5bcec500ff6bf67426f532a98eec5d351cc1ad03
+exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
+source-git-commit: 2b27cf67be1cc0466a41b29f04a96adddedd1977
 workflow-type: tm+mt
 source-wordcount: '754'
 ht-degree: 0%
@@ -84,7 +85,7 @@ Uw video is beschikbaar in GIF-indeling voor downloaden. U kunt het bewerkte ele
 
 * Alleen video&#39;s in de MP4-indeling worden ondersteund voor bewerking.
 
-* De maximale ondersteunde bronbestandsgrootte is 200 MB
+* De maximale ondersteunde grootte van het bronbestand is 1 GB
 
 * De ondersteunde video&#39;s zijn groter dan 46 pixels en kleiner dan 3840 pixels aan weerszijden
 
