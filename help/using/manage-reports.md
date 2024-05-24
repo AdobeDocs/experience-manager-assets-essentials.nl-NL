@@ -2,9 +2,9 @@
 title: Rapporten beheren in Assets Essentials
 description: Heb toegang tot de gegevens in de rapportsectie van Assets Essentials om product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: b24113299b5f8d32b3c4aef453923b23dc775228
+source-git-commit: eede4280258595b7c74061786a8c173afaeee058
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '895'
 ht-degree: 1%
 
 ---
@@ -44,26 +44,32 @@ Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgevin
 
 Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde grafieken weergeven in het linkernavigatiegebied:
 
-![Inzichten](assets/insights.png)
-
 * **Downloads**: Het aantal elementen dat in de laatste 30 dagen of twaalf maanden in de omgeving van de Assets Essentials is gedownload, uitgedrukt aan de hand van een lijndiagram.
+  ![downloads](/help/using/assets/insights-downloads2341.svg)
 
 * **Uploads**: Het aantal elementen dat in de laatste 30 dagen of twaalf maanden in de omgeving van de Assets Essentials is geüpload, uitgedrukt aan de hand van een lijndiagram.
+  ![uploads](/help/using/assets/insights-uplods2.svg)
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Opslaggebruik**: Het opslaggebruik, in bytes, voor het milieu van Assets Essentials dat gebruikend een bar grafiek wordt vertegenwoordigd.
-
-<!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
+  ![opslaggebruik](/help/using/assets/insights-storage-usage1.svg)
+  <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Meest gebruikte zoekopdrachten**: Bekijk de belangrijkste gezochte termen samen met het aantal keren dat deze termen binnen uw Assets Essentials-omgeving zijn doorzocht in de laatste 30 dagen of 12 maanden, weergegeven in een tabelindeling.
+  ![opslaggebruik](/help/using/assets/insights-top-search.svg)
 
   <!--
    ![Insights](assets/insights1.png)
    ![Insights](assets/insights2.png)
    -->
+
+* **Aantal elementen op grootte:** Hiermee segmenteert u het totale aantal elementen binnen uw omgeving van Assets Essentials, waarbij het aantal en het percentage elementen wordt gemarkeerd op basis van hun bestandstypen, weergegeven door een donutdiagram.
+  ![inzichten-activa-telling-door grootte](/help/using/assets/insights-assets-count-by-size.svg)
+* **Aantal elementen per type element:** Hiermee segmenteert u het totale aantal elementen binnen uw omgeving van Assets Essentials in verschillende groottebereiken, waarbij het aantal en het percentage elementen in elk groottebereik worden gemarkeerd met behulp van een donutdiagram.
+  ![inzichten-activa-telling-door grootte](/help/using/assets/insights-assest-count-by-asset-type1.svg)
 
 ## Een downloadrapport maken {#create-download-report}
 
