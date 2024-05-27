@@ -2,9 +2,9 @@
 title: Rapporten beheren in Assets Essentials
 description: Heb toegang tot de gegevens in de rapportsectie van Assets Essentials om product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: eede4280258595b7c74061786a8c173afaeee058
+source-git-commit: 8f91cd833712363e09b81a5f59b08e2f41237d90
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '827'
 ht-degree: 1%
 
 ---
@@ -65,11 +65,6 @@ Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde gr
    ![Insights](assets/insights1.png)
    ![Insights](assets/insights2.png)
    -->
-
-* **Aantal elementen op grootte:** Hiermee segmenteert u het totale aantal elementen binnen uw omgeving van Assets Essentials, waarbij het aantal en het percentage elementen wordt gemarkeerd op basis van hun bestandstypen, weergegeven door een donutdiagram.
-  ![inzichten-activa-telling-door grootte](/help/using/assets/insights-assets-count-by-size.svg)
-* **Aantal elementen per type element:** Hiermee segmenteert u het totale aantal elementen binnen uw omgeving van Assets Essentials in verschillende groottebereiken, waarbij het aantal en het percentage elementen in elk groottebereik worden gemarkeerd met behulp van een donutdiagram.
-  ![inzichten-activa-telling-door grootte](/help/using/assets/insights-assest-count-by-asset-type1.svg)
 
 ## Een downloadrapport maken {#create-download-report}
 
