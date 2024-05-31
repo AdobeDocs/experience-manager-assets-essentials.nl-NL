@@ -2,7 +2,7 @@
 title: Rapporten beheren in Assets Essentials
 description: Heb toegang tot de gegevens in de rapportsectie van Assets Essentials om product en eigenschapgebruik te beoordelen en inzichten van zeer belangrijke succesmetriek af te leiden.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 5b5fe779f1dd50470016706a5ba3f6f59ab46793
+source-git-commit: 71a0381f5f7c32d3da1923778b3cd7b678391cae
 workflow-type: tm+mt
 source-wordcount: '827'
 ht-degree: 1%
@@ -86,7 +86,7 @@ Een downloadrapport maken:
 
 1. In de [!UICONTROL Columns] selecteert u de kolomnamen die u in het rapport wilt weergeven.
 
-1. Klik op **[!UICONTROL Create]**.
+1. Klikken **[!UICONTROL Create]**
 
    ![Rapport downloaden](assets/download-reports-config.png)
 
