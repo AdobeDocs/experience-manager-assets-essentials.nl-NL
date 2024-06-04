@@ -3,9 +3,9 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 5d6cc2c27fc416d3f616a25db0e6497d9ad946c1
+source-git-commit: 34e710243a77647c50c2057c54f68dbe23d3997a
 workflow-type: tm+mt
-source-wordcount: '1764'
+source-wordcount: '1809'
 ht-degree: 0%
 
 ---
@@ -311,15 +311,13 @@ De volgende video illustreert het proces van begin tot eind van de toegang tot v
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428407)
 
-<!--
-### Disable Contextual Search {#disable-contextual-search}
+### Contextueel zoeken uitschakelen {#disable-contextual-search}
 
-Administrators also have the option to disable Contextual Search for users in your organization. To do so, execute the following steps:
+Beheerders hebben ook de mogelijkheid om contextafhankelijke zoekopdrachten voor gebruikers in uw organisatie uit te schakelen. Voer daartoe de volgende stappen uit:
 
-1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
+1. Ga naar **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
 
-1. In the [!UICONTROL Contextual Search] section, turn off the **[!UICONTROL Enable Contextual Search for your organization]** toggle to disable the Contextual Search feature for all users in your organization.  
--->
+1. In de [!UICONTROL Contextual Search] in, schakelt u de **[!UICONTROL Enable Contextual Search for your organization]** Schakel deze optie in om de functie Contextual Search uit te schakelen voor alle gebruikers in uw organisatie.
 
 ### Feedback op contextuele zoekopdrachten {#contextual-search-feedback}
 
