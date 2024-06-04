@@ -3,7 +3,7 @@ title: Middelen zoeken en ontdekken in [!DNL Assets Essentials]
 description: Middelen zoeken en ontdekken in [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 34e710243a77647c50c2057c54f68dbe23d3997a
+source-git-commit: a471074ec0eee8487222cc344046715ed5d90d0b
 workflow-type: tm+mt
 source-wordcount: '1809'
 ht-degree: 0%
@@ -332,6 +332,6 @@ Als u feedback moet geven over de functie Contextual Search, klikt u op ![Pictog
 
 * Feedback geven op het product met de [!UICONTROL Feedback] optie beschikbaar in de gebruikersinterface van Assets Essentials
 
-* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk.
 
 * Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)
