@@ -3,16 +3,16 @@ title: Afbeeldingen bewerken
 description: Afbeeldingen bewerken met [!DNL Adobe Express] Aangedreven opties en sparen bijgewerkte beelden als versies.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 35f92dfe66fa2cae6a512b6b59bfe2bacc87511c
+source-git-commit: 5947e7db586b691f1db3bf734481de8438e5a3b5
 workflow-type: tm+mt
 source-wordcount: '1104'
 ht-degree: 0%
 
 ---
 
-# Afbeeldingen bewerken in [!DNL Assets Essentials] {#edit-images-in-asset-essentials}
+# Afbeeldingen bewerken in [!DNL Assets Essentials] {#edit-images-in-assets-essentials}
 
-Met de interface Essentiële elementen voor middelen kunt u basisbewerkingen voor afbeeldingen uitvoeren, zoals vergroten/verkleinen, verwijderen van de achtergrond, bijsnijden en omzetten tussen JPEG- en PNG-indelingen. Bovendien is geavanceerde bewerking mogelijk dankzij integratie met Adobe Express. Nadat u een afbeelding hebt bewerkt, kunt u de nieuwe afbeelding opslaan als een nieuwe versie. Met Versioning kunt u het oorspronkelijke element later herstellen als dat nodig is. Als u een afbeelding wilt bewerken, [zijn voorvertoning openen](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) en klik op **Afbeelding bewerken**.
+De gebruikersinterface van Assets Essentials maakt basisbewerkingen voor afbeeldingen mogelijk, zoals vergroten/verkleinen, verwijderen van de achtergrond, uitsnijden en omzetten tussen de indelingen JPEG en PNG. Bovendien is geavanceerde bewerking mogelijk dankzij integratie met Adobe Express. Nadat u een afbeelding hebt bewerkt, kunt u de nieuwe afbeelding opslaan als een nieuwe versie. Met Versioning kunt u het oorspronkelijke element later herstellen als dat nodig is. Als u een afbeelding wilt bewerken, [zijn voorvertoning openen](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) en klik op **Afbeelding bewerken**.
 
 >[!NOTE]
 >
@@ -22,8 +22,8 @@ Met de interface Essentiële elementen voor middelen kunt u basisbewerkingen voo
 
 ## Afbeelding bewerken {#edit-images}
 
-Grondstof op de Hoofdzaak van Activa UI, die de verbinding gebruikt - [UI voor essentiële elementen van bedrijfsmiddelen](https://experience.adobe.com/#/assets) en het selecteren van de juiste opslagplaats. Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
-Zie voor aanvullende informatie: [Ga aan de slag met Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [inzicht in de gebruikersinterface](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [Hoofdgebruik van bedrijfsmiddelen](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) en [bekende problemen](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
+Land op Assets Essentials UI, die de verbinding gebruikt - [UI ASSETS ESSENTIALS](https://experience.adobe.com/#/assets) en het selecteren van de juiste opslagplaats. Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
+Zie voor aanvullende informatie: [Ga aan de slag met Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [inzicht in de gebruikersinterface](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [Hoofdgebruik van Assets](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) en [bekende problemen](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
 <!--
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
@@ -86,11 +86,11 @@ Gebruikers met Express-machtiging kunnen de ingesloten Express-editor vanuit de 
 ![UI voor het uitdrukken in essentiële gegevens](/help/using/assets/express-in-essentials-ui.jpg)
 Voer de onderstaande stappen uit als u afbeeldingen wilt bewerken met een ingesloten Adobe Express:
 
-1. Bouw op aan AEM de UI van de Hoofdzaak van Activa - [Gebruikersinterface voor essentiële AEM](https://experience.adobe.com/#/assets) en selecteer de juiste opslagplaats.
+1. Land op aan AEM Assets Essentials UI die de verbinding gebruikt - [UI AEM Assets Essentials](https://experience.adobe.com/#/assets) en selecteer de juiste opslagplaats.
 1. Klikken **Assets**, voert u een map in en selecteert u een afbeelding.
 1. Klikken **Openen in Adobe Express**. De afbeelding wordt geopend op een express canvas.
 1. Breng de gewenste wijzigingen in de afbeelding aan.
-1. Als voor uw project meer pagina&#39;s moeten worden toegevoegd, klikt u op **Toevoegen**, selecteert u Assets, voert u een map in, selecteert u de afbeelding die u op de canvaspagina wilt plaatsen en voert u de vereiste bewerkingen uit op de afbeelding.
+1. Als voor uw project meer pagina&#39;s moeten worden toegevoegd, klikt u op **Toevoegen** selecteert u elementen, voert u een map in, selecteert u een afbeelding die u naar de canvaspagina wilt brengen en voert u de vereiste bewerkingen uit op de afbeelding.
 1. Klik op **Opslaan**. Het dialoogvenster Opslaan wordt weergegeven.
 
    >[!NOTE]
