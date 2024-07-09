@@ -3,9 +3,9 @@ title: Afbeeldingen bewerken
 description: Afbeeldingen bewerken met [!DNL Adobe Express] Aangedreven opties en sparen bijgewerkte beelden als versies.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 5947e7db586b691f1db3bf734481de8438e5a3b5
+source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
 workflow-type: tm+mt
-source-wordcount: '1104'
+source-wordcount: '1126'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ De gebruikersinterface van Assets Essentials maakt basisbewerkingen voor afbeeld
 
 <!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
-## Afbeelding bewerken {#edit-images}
+## Afbeeldingen bewerken {#edit-images}
 
 Land op Assets Essentials UI, die de verbinding gebruikt - [UI ASSETS ESSENTIALS](https://experience.adobe.com/#/assets) en het selecteren van de juiste opslagplaats. Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
 Zie voor aanvullende informatie: [Ga aan de slag met Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [inzicht in de gebruikersinterface](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [Hoofdgebruik van Assets](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) en [bekende problemen](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
-<!--
+
+### Afbeeldingen bewerken met Adobe Express {#edit-images-using-adobe-express}
+
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
->title="Adobe Express Integration"
->abstract="Easy and intuitive image-editing tools powered by Adobe Express available directly within AEM Assets to increase content reuse and accelerate content velocity."-->
-
-### Afbeelding bewerken in de gebruikersinterface Essentiële elementen met behulp van Adobe Express {#edit-image-on-essentials-ui-using-adobe-express}
+>title="Adobe Express-integratie"
+>abstract="Eenvoudig en intuïtief gereedschap voor het bewerken van afbeeldingen, aangedreven door Adobe Express die rechtstreeks in AEM Assets beschikbaar is, om het hergebruik van inhoud te verhogen en de snelheid van de inhoud te versnellen."
 
 Na het landen op Essentiële UI, klik **Assets** selecteert u een afbeelding en klikt u op **Bewerken** vanaf de bovenste spoorstaaf. In het nieuwe scherm worden de beschikbare bewerkingsopties weergegeven, zoals vergroten/verkleinen, verwijderen van de achtergrond, uitsnijden en omzetten tussen de JPEG- en PNG-indeling.
 

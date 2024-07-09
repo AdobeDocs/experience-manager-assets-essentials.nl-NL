@@ -3,16 +3,16 @@ title: Video's bewerken
 description: Video's bewerken met [!DNL Adobe Express] Aangedreven opties en sparen bijgewerkte video's als versies.
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
-source-git-commit: 78187929a6baa0f1ab5d8675287408a24e1ada98
+source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '801'
 ht-degree: 0%
 
 ---
 
 # Video&#39;s bewerken [!DNL Assets Essentials] {#edit-videos}
 
-Het maken van variaties in video-inhoud is eenvoudig voor middelengebruikers met de ingesloten [!DNL Adobe Express] snelle acties voor video. Snelle handelingen in [!DNL Assets Essentials] aangedreven door [!DNL Adobe Express] biedt gebruiksvriendelijke opties voor het bewerken van video&#39;s, zoals het uitsnijden van video, het vergroten of verkleinen van video en het omzetten van video in GIF.
+Het maken van variaties in video-inhoud is eenvoudig voor Assets-gebruikers met de ingesloten [!DNL Adobe Express] snelle acties voor video. Snelle handelingen in [!DNL Assets Essentials] aangedreven door [!DNL Adobe Express] biedt gebruiksvriendelijke opties voor het bewerken van video&#39;s, zoals het uitsnijden van video, het vergroten of verkleinen van video en het omzetten van video in GIF.
 
 Ga naar de details van de video en klik op [!UICONTROL Edit Video]. U kunt ook het element selecteren en op details klikken en vervolgens op ![schaar](assets/do-not-localize/cut.svg) beschikbaar in het rechterdeelvenster. Nadat u een video hebt bewerkt, kunt u de nieuwe video opslaan als een nieuwe versie of als een nieuw element.
 
@@ -23,6 +23,11 @@ Meer weten over de [voorvertoningsinterface](/help/using/navigate-view.md#previe
 Recht op toegang [!DNL Adobe Express] en ten minste één omgeving in AEM Assets. De omgeving kan elk van de opslagplaatsen binnen [!DNL Assets as a Cloud Service] of [!DNL Assets Essentials].
 
 ## Video&#39;s bewerken met Adobe Express {#edit-video-using-express}
+
+>[!CONTEXTUALHELP]
+>id="assets_express_integration_videos"
+>title="Adobe Express-integratie voor videobewerking"
+>abstract="Experience Manager Assets beschikt nu over eenvoudige en intuïtieve videobewerkingsgereedschappen, aangedreven door Adobe Express, om het hergebruik van inhoud te verbeteren en de snelheid van de inhoud te versnellen. Tot de bewerkingsopties behoren bijsnijden, bijsnijden, het formaat van een video wijzigen en het omzetten van een MP4 in een GIF-bestand."
 
 Een video transformeren tot een perfecte grootte en richting is eenvoudig met ingesloten [!DNL Adobe Express] snelle acties.
 
