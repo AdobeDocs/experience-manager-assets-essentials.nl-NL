@@ -60,44 +60,44 @@ U kunt een keuze maken in een lijst met categorieën en u kunt zich hierop abonn
 
 Abonneer u op de berichtcategorieën:
 
-1. Klikken ![belpictogram](assets/bell-icon.svg) rechts van de menubalk in de gebruikersinterface van Assets Essentials.
+1. Klik ![ belpictogram ](assets/bell-icon.svg) bij het rechtereind van de menubar op het gebruikersinterface van Assets Essentials.
 
-1. Klikken ![instellingenpictogram](assets/settings-icon.svg) om de [!UICONTROL Experience Cloud preferences] pagina.
+1. Klik ![ montagespictogram ](assets/settings-icon.svg) om de [!UICONTROL Experience Cloud preferences] pagina te bekijken.
 
-1. Klik op de knop **[!UICONTROL Notifications]** beschikbaar in het linkerdeelvenster.
+1. Klik op de optie **[!UICONTROL Notifications]** in het linkerdeelvenster.
 
-1. In de **[!UICONTROL Notifications]** , naar de sectie [!UICONTROL Assets Essentials] en zorgt u ervoor dat de schakeloptie wordt overgeschakeld naar de status ON.
+1. Navigeer in de sectie **[!UICONTROL Notifications]** naar de sectie [!UICONTROL Assets Essentials] en controleer of de schakeloptie is ingesteld op Aan.
 
-   ![Meldingen in Assets Essentials](assets/enable-notifications.png)
+   ![ Meldingen in Assets Essentials ](assets/enable-notifications.png)
 
-1. Klikken **[!UICONTROL Customize]** om de berichtcategorieën te bekijken.
-   ![Meldingen in Assets Essentials](assets/enable-notification-categories.png)
+1. Klik op **[!UICONTROL Customize]** om de berichtcategorieën weer te geven.
+   ![ Meldingen in Assets Essentials ](assets/enable-notification-categories.png)
 
 1. Selecteer de berichtcategorieën waarvoor u op de hoogte moet worden gesteld.
 
 ## Mappen, elementen of verzamelingen controleren en de controle ervan opheffen {#watch-unwatch-assets}
 
-Na [abonneren op de berichtcategorieën](#subscribe-to-notification-categories), moet u zich op de inhoud abonneren om meldingen te ontvangen.
+Na [ het intekenen aan de berichtcategorieën ](#subscribe-to-notification-categories), moet u aan de inhoud intekenen beginnen berichten te ontvangen.
 
 >[!NOTE]
 >
->* Voor **[!UICONTROL Requests]** en **[!UICONTROL Assigned to me]** berichtcategorieën. U hoeft zich niet op de inhoud te abonneren nadat u zich hebt geabonneerd op de berichtcategorieën. Meldingen worden automatisch naar u verzonden voor aanvragen die u hebt gemaakt en wanneer een taak aan u is toegewezen.
+>* Voor de berichtcategorieën **[!UICONTROL Requests]** en **[!UICONTROL Assigned to me]** hoeft u zich niet op de inhoud te abonneren nadat u zich hebt geabonneerd op de berichtcategorieën. Meldingen worden automatisch naar u verzonden voor aanvragen die u hebt gemaakt en wanneer een taak aan u is toegewezen.
 >* Assets Essentials verzenden alleen meldingen wanneer andere gebruikers handelingen op de geabonneerde inhoud uitvoeren. U ontvangt geen meldingen voor de acties die u uitvoert op de geabonneerde inhoud.
 
-Als u zich wilt abonneren op de inhoud, selecteert u de map, het middel of de verzameling waarop u zich wilt abonneren en klikt u **[!UICONTROL Watch]**.
+Als u zich wilt abonneren op de inhoud, selecteert u de map, het element of de verzameling waarop u zich wilt abonneren en klikt u op **[!UICONTROL Watch]** .
 
-Assets Essentials geven een succesbericht weer. U kunt op **[!UICONTROL Go to notification preferences]** beschikbaar op het succesbericht om uw [abonnement op berichtcategorieën](#subscribe-to-notification-categories).
+Assets Essentials geven een succesbericht weer. U kunt **[!UICONTROL Go to notification preferences]** beschikbaar op het succesbericht klikken om uw [ abonnement aan berichtcategorieën ](#subscribe-to-notification-categories) uit te geven.
 
-![Meldingen in Assets Essentials](assets/watch-assets.png)
+![ Meldingen in Assets Essentials ](assets/watch-assets.png)
 
-Assets Essentials verzenden nu meldingen voor de geabonneerde categorieën. U kunt ook meerdere elementen, mappen of verzamelingen selecteren en op **[!UICONTROL Watch]** tijd besparen. Als u echter meerdere entiteiten selecteert waarop een aantal van deze al is geabonneerd, **[!UICONTROL Watch]** wordt niet weergegeven.
+Assets Essentials verzenden nu meldingen voor de geabonneerde categorieën. U kunt ook meerdere elementen, mappen of verzamelingen selecteren en op **[!UICONTROL Watch]** klikken om tijd te besparen. Als u echter meerdere entiteiten selecteert waarvan sommige al zijn geabonneerd, wordt de optie **[!UICONTROL Watch]** niet weergegeven.
 
-Als u uw abonnement wilt opzeggen, selecteert u het element, de map of de verzameling waarvoor u een abonnement hebt genomen en klikt u op **[!UICONTROL Unwatch]**.
+Als u een abonnement wilt opzeggen, selecteert u het element, de map of de verzameling waarvoor u een abonnement hebt genomen en klikt u op **[!UICONTROL Unwatch]** .
 
 ## Meldingen weergeven {#view-notifications}
 
 De meldingen worden rechts op de menubalk in de gebruikersinterface van Assets Essentials weergegeven.
 
-![Meldingen in Assets Essentials](assets/notifications-assets-essentials.png)
+![ Meldingen in Assets Essentials ](assets/notifications-assets-essentials.png)
 
 Wanneer u op een melding klikt, gaan de Assets Essentials naar het juiste middel of de juiste map waarnaar in het bericht wordt verwezen.

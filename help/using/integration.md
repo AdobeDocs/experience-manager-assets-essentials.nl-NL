@@ -1,44 +1,44 @@
 ---
 title: Integratie met andere oplossingen voor Adobe
-description: "[!DNL Assets Essentials] integreert met andere Adobe-oplossingen en biedt een ingesloten ervaring vanuit de oorspronkelijke toepassing."
+description: "[!DNL Assets Essentials] integreert met andere oplossingen van de Adobe en verstrekt een ingebedde ervaring van binnen de inheemse toepassing."
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
 source-git-commit: 5bcd55313d1fb8bcf3dedbb24742eca5e2663aa8
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 1%
+source-wordcount: '378'
+ht-degree: 0%
 
 ---
 
 # Integratie met andere oplossingen voor Adobe {#integrations}
 
-[!DNL Adobe Experience Manager Assets Essentials] integreert goed met de gesteunde oplossingen van de Adobe en verstrekt een ingebedde ervaring van binnen de interfaces van deze toepassingen. Het laat gebruikers de basiselementfunctionaliteit van activa binnen de inheemse toepassing of interface gebruiken, zonder het moeten hun vertrouwde toepassingen verlaten.
+[!DNL Adobe Experience Manager Assets Essentials] kan goed worden geïntegreerd met de ondersteunde Adobe-oplossingen en biedt een ingesloten ervaring vanuit de interfaces van deze toepassingen. Het laat gebruikers de basiselementfunctionaliteit van activa binnen de inheemse toepassing of interface gebruiken, zonder het moeten hun vertrouwde toepassingen verlaten.
 
-Ingesloten [!DNL Assets Essentials] de ervaring kan met de volgende oplossingen worden geïntegreerd :
+De ingesloten [!DNL Assets Essentials] ervaring kan met de volgende oplossingen worden geïntegreerd:
 
-* **[!DNL Creative Cloud for Enterprise]**: [Deelvenster Adobe Asset Link in app](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) biedt professionals uit de creatieve sector de mogelijkheid om [!DNL Assets Essentials] opslagplaats vanuit de ondersteunde [!DNL Adobe Creative Cloud] bureaubladtoepassingen. Het deelvenster is beschikbaar voor [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], en [!DNL Adobe XD]. Het stroomlijnt de toegang tot activa die op zijn beurt inhoudssnelheid verhogen. Zie [elementen beheren met [!DNL Adobe Asset Link]](https://helpx.adobe.com/nl/enterprise/using/manage-assets-using-adobe-asset-link.html).
+* **[!DNL Creative Cloud for Enterprise]**: [ Adobe de Verbinding van Activa in-app paneel ](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) laat creatieve beroeps met [!DNL Assets Essentials] bewaarplaats van binnen gesteunde [!DNL Adobe Creative Cloud] Desktop apps verbinden. Het deelvenster is beschikbaar voor [!DNL Adobe Photoshop] , [!DNL Adobe Illustrator] , [!DNL Adobe InDesign] en [!DNL Adobe XD] . Het stroomlijnt de toegang tot activa die op zijn beurt inhoudssnelheid verhogen. Zie [ activa beheren gebruikend  [!DNL Adobe Asset Link] ](https://helpx.adobe.com/nl/enterprise/using/manage-assets-using-adobe-asset-link.html).
 
-  [Bekijk een video om Assets Essentials te integreren met Adobe Creative Cloud Libraries](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html)
+  [ bekijk een video om Assets Essentials met de Bibliotheken van Adobe Creative Cloud te integreren ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html)
 
-* **[!DNL Adobe Journey Optimizer]**: [[!DNL Adobe Journey Optimizer]](https://business.adobe.com/products/journey-optimizer/adobe-journey-optimizer.html) vereenvoudigt het reisbeheer voor klanten om omnichannel campagnes van intelligente besluitvorming en inzichten te voorzien. Bij het ontwerpen van berichten met [!DNL Journey Optimizer], kunt u [!DNL Assets Essentials] rechtstreeks vanuit de [!DNL Journey Optimizer] interface. Gebruikers krijgen toegang tot elementen via de ingesloten gebruikersinterface van [!DNL Assets Essentials]. Zie [gebruiken [!DNL Assets Essentials] Help-artikel](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html) of [videozelfstudie om e-mailinhoud te maken](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html).
+* **[!DNL Adobe Journey Optimizer]**: [[!DNL Adobe Journey Optimizer] ](https://business.adobe.com/products/journey-optimizer/adobe-journey-optimizer.html) vereenvoudigt reisbeheer voor klanten om omnichannel campagnes van intelligente besluitvorming en inzichten te voorzien. Wanneer u berichten ontwerpt met [!DNL Journey Optimizer] , hebt u rechtstreeks vanuit de interface van [!DNL Assets Essentials] repository toegang tot [!DNL Journey Optimizer] . Gebruikers krijgen toegang tot elementen via de ingesloten gebruikersinterface van [!DNL Assets Essentials] . Zie [ gebruikend  [!DNL Assets Essentials]  hulpartikel ](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html) of [ videoleerprogramma om e-mailinhoud ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html) tot stand te brengen.
 
-* **[!DNL Adobe Workfront]**: [[!DNL Adobe Workfront]](https://www.workfront.com/) is een werkbeheertoepassing waarmee u de volledige levenscyclus van het werk op één locatie kunt beheren. De native integratie tussen [!DNL Adobe Workfront] en [!DNL Assets Essentials] kunnen organisaties de snelheid van de inhoud en de tijd-aan-markt verbeteren door werk en activabeheer intrinsiek met elkaar te verbinden. In het kader van het beheer van hun werk hebben gebruikers toegang tot de vereiste documenten en afbeeldingen in dezelfde oplossing. [!DNL Assets Essentials] is beschikbaar als een invoegtoepassing die nieuw is [!DNL Workfront] klanten kunnen afzonderlijk aanschaffen. Zie [configureren en gebruiken [!DNL Workfront] en [!DNL Essentials] integratie](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
+* **[!DNL Adobe Workfront]**: [[!DNL Adobe Workfront] ](https://www.workfront.com/) is een werkbeheertoepassing die u helpt de volledige levenscyclus van het werk op één plaats beheren. Dankzij de native integratie tussen [!DNL Adobe Workfront] en [!DNL Assets Essentials] kunnen organisaties de snelheid van inhoud en de tijd-tot-markt verbeteren door het werk- en middelenbeheer intrinsiek met elkaar te verbinden. In het kader van het beheer van hun werk hebben gebruikers toegang tot de vereiste documenten en afbeeldingen in dezelfde oplossing. [!DNL Assets Essentials] is beschikbaar als een invoegtoepassing die nieuwe [!DNL Workfront] -klanten afzonderlijk kunnen aanschaffen. Zie [ vormen en gebruik  [!DNL Workfront]  en  [!DNL Essentials]  integratie ](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
 
-  [Bekijk een video om de integratie van Adobe Workfront en Assets Essentials te configureren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+  [ bekijk een video om de integratie van Adobe Workfront en van Assets Essentials te vormen ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
 
 ## Integratie met op documenten gebaseerde authoring voor Edge Delivery Services {#integrate-doc-authoring-edge-and-assets}
 
 Met Edge Delivery kunt u snel aantrekkelijke websites maken waar auteurs inhoud snel kunnen bijwerken en publiceren en nieuwe sites snel kunnen worden gestart.
 
-Integreer AEM Assets met op documenten gebaseerde authoring voor Edge Delivery Services zodat websiteauteurs afbeeldingen kunnen gebruiken die beschikbaar zijn in AEM Assets-opslagruimten tijdens het ontwerpen van documenten in Microsoft Word of Google Docs. Zie voor meer informatie [AEM Assets integreren met op documenten gebaseerde authoring](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html#integrate-assets-edge).
+Integreer AEM Assets met op documenten gebaseerde authoring voor Edge Delivery Services zodat websiteauteurs afbeeldingen kunnen gebruiken die beschikbaar zijn in AEM Assets-opslagruimten tijdens het ontwerpen van documenten in Microsoft Word of Google Docs. Voor meer informatie, zie [ AEM Assets met op document-gebaseerde creatie ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html#integrate-assets-edge) integreren.
 
 ## Volgende stappen {#next-steps}
 
-* Feedback geven op het product met de [!UICONTROL Feedback] optie beschikbaar in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface van Assets Essentials
 
-* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)
+* De Zorg van de Klant van het contact ](https://experienceleague.adobe.com/?support-solution=General#support)[
 
 <!-- TBD: Hiding this link till GA. Do not even include the beta mention as discussed with Greg. Beta is done with customers selected by the Accounts team. It is not an open Beta program. At GA, document this.
 

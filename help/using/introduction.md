@@ -1,11 +1,11 @@
 ---
-title: Inleiding tot [!DNL Assets Essentials]
-description: Beheer uw bedrijfsmiddelen met Experience Manager Assets Essentials, een lichtgewicht Digital Asset Management-tool die in Experience Cloud-toepassingen werkt.
+title: Inleiding tot  [!DNL Assets Essentials]
+description: Beheer uw bedrijfsmiddelen met Experience Manager Assets Essentials, een lichtgewicht Digital Asset Management-tool die in Experience Cloud toepassingen werkt.
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 -->
 
-Adobe biedt robuuste DAM-oplossingen (Digital Asset Management) waarmee u optimaal kunt profiteren van uw digitale middelen. Adobe Experience Manager Assets Essentials is de lichtgewicht oplossing voor middelenbeheer van Adobe om digitale middelen op te slaan, te beheren, te ontdekken en te gebruiken.
+Adobe biedt robuuste DAM-oplossingen (Digital Asset Management) waarmee u optimaal kunt profiteren van uw digitale middelen. Adobe Experience Manager Assets Essentials is de lichtgewicht oplossing van de Adobe voor middelenbeheer voor het opslaan, beheren, ontdekken en gebruiken van digitale middelen.
 
-## Wat is Assets Essentials? {#assets-essemtials-overview}
+## Wat zijn Assets Essentials? {#assets-essemtials-overview}
 
-Experience Manager Assets Essentials is een lichtgewicht editie van Adobe Experience Manager Assets Cloud Service. Assets Essentials biedt een uniforme functionaliteit voor middelenbeheer en samenwerking met een vereenvoudigde, moderne gebruikersinterface. Met de gebruiksvriendelijke oplossing kunnen meer creatieve en marketingteams digitale middelen opslaan, ontdekken en distribueren.
+Experience Manager Assets Essentials is een lichtgewicht editie van Adobe Experience Manager Assets Cloud Service. Assets Essentials zorgen voor een uniform beheer van bedrijfsmiddelen en voor een vereenvoudigde, moderne gebruikersinterface. Met de gebruiksvriendelijke oplossing kunnen meer creatieve en marketingteams digitale middelen opslaan, ontdekken en distribueren.
 
 Met Assets Essentials kunt u:
 
@@ -33,66 +33,66 @@ Met Assets Essentials kunt u:
 
 * U kunt middelen delen en downloaden voor levering achteraf.
 
-## Hoe kan ik Assets Essentials openen? {#access-options}
+## Hoe te om tot Assets Essentials toegang te hebben? {#access-options}
 
-Assets Essentials biedt een standalone Web-gebruikersinterface voor eind - gebruikers en beheerders aan, die hen toegang tot alle mogelijkheden van de oplossing geven. Gebruikers van andere Adobe-oplossingen hebben ook toegang tot en werken met middelen van Assets Essentials via een ingesloten ervaring, die beschikbaar is in Creative Cloud voor bedrijven, Adobe Journey Optimizer en Adobe Workfront-toepassingen.
+Assets Essentials bieden een standalone Webgebruikersinterface voor eind - gebruikers en beheerders aan, die hen toegang tot alle mogelijkheden van de oplossing geven. Gebruikers van andere Adobe-oplossingen kunnen ook via een ingesloten ervaring toegang krijgen tot en werken met middelen van Assets Essentials. Deze ervaring is beschikbaar in Creative Cloud voor bedrijfs-, Adobe Journey Optimizer- en Adobe Workfront-toepassingen.
 
-![Integratie met andere oplossingen](assets/assets-essentials-integration.svg)
+![ Integraties met andere oplossingen ](assets/assets-essentials-integration.svg)
 
 ## Waarom Assets Essentials? {#assets-essentials-features}
 
-Assets Essentials biedt belangrijke voordelen, zodat u:
+Assets Essentials bieden belangrijke voordelen, zodat u:
 
-* **Snel aan de slag** met hulpmiddelen voor middelenbeheer die niet in de handel zijn.
+* **begin snel** met uit-van-de-doos hulpmiddelen van het activabeheer.
 
-* Breid toegang tot activa tot meer teams uit om verenigbare klantenervaringen te leveren met **vereenvoudigd beheer van bedrijfsmiddelen**.
+* Breid toegang tot activa tot meer teams uit om verenigbare klantenervaringen met **vereenvoudigd activabeheer** te leveren.
 
-* Levenscyclus van inhoud verenigen met native **integratie in andere Adobe-oplossingen**.
+* Verenigen inhoudslevenscyclus met inheemse **integratie in andere oplossingen van de Adobe**.
 
-* Een **cloudplatform**, veilig en klaar om op elk gewenst moment en overal te schalen.
+* Hefboomwerking a **op wolk-Gebaseerd platform**, veilig en klaar om op om het even welk ogenblik, overal te schrapen.
 
-* Begin met essentiële DAM-mogelijkheden en **groeien** aan DAM.
+* Begin met essentiële mogelijkheden DAM en **kweek** aan onderneming DAM.
 
-**Snel aan de slag**
+**begin snel**
 
 De oplossing van Assets Essentials wordt verstrekt aan klanten door Adobe en beschikbaar nadat het leveringsproces voltooit. Beheerders krijgen toegang tot het product in Adobe Admin Console en kunnen de systeemconfiguratie en de instaptoegang van gebruikers direct starten.
 
-Meer informatie op de Assets Essentials [administratie en gebruikerstoegang](deploy-administer.md).
+Leer meer op het beleid van Assets Essentials [ en gebruiker aan boord gaan ](deploy-administer.md).
 
-**Vereenvoudigd beheer van bedrijfsmiddelen**
+**Vereenvoudigd activabeheer**
 
 Dankzij de vereenvoudigde gebruikersinterface van Assets Essentials kunt u uw digitale middelen eenvoudig beheren, ontdekken en distribueren. Een brede reeks gebruikers van verschillende functies, met inbegrip van creatieve, marketing en brancheteams kunnen aan activa samenwerken en tot de juiste, goedgekeurde activa toegang hebben wanneer en waar zij hen nodig hebben.
 
-Zie voor meer informatie [Ga aan de slag met uw behoeften voor middelenbeheer met Assets Essentials](get-started.md).
+Voor meer informatie, zie [ begonnen worden met uw behoeften van het activabeheer gebruikend Assets Essentials ](get-started.md).
 
-**Integratie met andere Adobe-toepassingen**
+**Integratie met andere toepassingen van de Adobe**
 
-Assets Essentials integreert met de ondersteunde Adobe-oplossingen en biedt een ingesloten ervaring vanuit de interfaces van deze toepassingen. Hiermee kunnen gebruikers eenvoudig toegang krijgen tot elementen die ze rechtstreeks in hun toepassing nodig hebben. Alle gebruikers kunnen met de zelfde, centraal beheerde activa in hun vertrouwde hulpmiddelen en toepassingen werken.
+De Assets Essentials integreren met de gesteunde oplossingen van de Adobe en verstrekken een ingebedde ervaring van binnen de interfaces van deze toepassingen. Hiermee kunnen gebruikers eenvoudig toegang krijgen tot elementen die ze rechtstreeks in hun toepassing nodig hebben. Alle gebruikers kunnen met de zelfde, centraal beheerde activa in hun vertrouwde hulpmiddelen en toepassingen werken.
 
-De ingesloten Assets Essentials-ervaring is beschikbaar voor Creative Cloud voor zakelijke, Adobe Journey Optimizer- en Adobe Workfront-toepassingen.
+De ervaring van ingebedde Assets Essentials is beschikbaar voor Creative Cloud voor onderneming, Adobe Journey Optimizer, en toepassingen van Adobe Workfront.
 
-Zie voor meer informatie [Integratie met andere Adobe-oplossingen](integration.md).
+Voor meer informatie, zie [ Integratie met andere oplossingen van de Adobe ](integration.md).
 
-**Cloudplatform**
+**op wolk-Gebaseerd platform**
 
-Met Assets Essentials, gebaseerd op de Adobe cloud-infrastructuur, kunnen organisaties zich richten op hun bedrijfsbehoeften door digitale middelen te maken, te beheren en te distribueren. Bovendien zorgt Adobe ervoor dat de oplossing beschikbaar, veilig, schaalbaar en altijd up-to-date is, met productinnovaties die naadloos aan gebruikers via frequente updates worden verstrekt.
+Op basis van de cloudinfrastructuur van de Adobe kunnen organisaties zich op hun bedrijfsbehoeften concentreren rond het maken, beheren en distribueren van digitale middelen. Bovendien zorgt de Adobe ervoor dat de oplossing beschikbaar, veilig, scalable en altijd bijgewerkt is, met productinnovaties die naadloos aan gebruikers door frequente updates worden verstrekt.
 
-**Groei met je mogelijkheden**
+**groei-met-u mogelijkheden**
 
-Ga snel aan de slag met Assets Essentials en profiteer van de belangrijkste mogelijkheden van Digital Asset Management in verschillende teams.
+Ga snel aan de slag met Assets Essentials om te profiteren van de belangrijkste mogelijkheden van Digital Asset Management in verschillende teams.
 
-Wanneer uw bedrijfsbehoeften toenemen en u ondersteuning nodig hebt voor geavanceerde vereisten voor het beheer van digitale bedrijfsmiddelen, zoals aanpassingen, uitbreidbaarheid en integratie, automatisering, Dynamic Media en Brand Portal, biedt Adobe ook [Adobe Experience Manager Assets as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=en).
+Wanneer uw bedrijfsbehoeften groeien en u steun voor geavanceerde Vereisten van het Beheer van Activa, zoals aanpassingen, rekbaarheid en integratie, automatisering, Dynamic Media, en Brand Portal nodig hebt, biedt de Adobe ook [ Adobe Experience Manager Assets as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=en) aan.
 
 
 ## Volgende stappen {#next-steps}
 
-* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface van Assets Essentials
 
-* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)
+* De Zorg van de Klant van het contact ](https://experienceleague.adobe.com/?support-solution=General#support)[
 
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Assets Essentials] pagina met zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=en)
+>* [[!DNL Assets Essentials]  leerprogramma&#39;s pagina ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=en)

@@ -14,13 +14,13 @@ ht-degree: 0%
 >[!CONTEXTUALHELP]
 >id="assets_permissions_folders"
 >title="Rechten beheren"
->abstract="[!DNL Assets Essentials] Hiermee kunnen beheerders de toegangsniveaus voor mappen die in de opslagplaats beschikbaar zijn, beheren. Als beheerder, kunt u gebruikersgroepen tot stand brengen en toestemmingen aan die groepen toewijzen om toegangsniveaus te beheren. U kunt de bevoegdheden voor machtigingsbeheer ook delegeren aan gebruikersgroepen op mapniveau."
+>abstract="Met [!DNL Assets Essentials] kunnen beheerders de toegangsniveaus beheren voor mappen die beschikbaar zijn in de opslagplaats. Als beheerder, kunt u gebruikersgroepen tot stand brengen en toestemmingen aan die groepen toewijzen om toegangsniveaus te beheren. U kunt de bevoegdheden voor machtigingsbeheer ook delegeren aan gebruikersgroepen op mapniveau."
 
 Met Assets Essentials kunnen beheerders de toegangsniveaus voor mappen die in de opslagplaats beschikbaar zijn, beheren. Als beheerder, kunt u gebruikersgroepen tot stand brengen en toestemmingen aan die groepen toewijzen om toegangsniveaus te beheren. U kunt de bevoegdheden voor machtigingsbeheer ook delegeren aan gebruikersgroepen op mapniveau.
 
 Het volgende gegevensstroomdiagram illustreert de opeenvolging van taken die u uitvoert om toestemmingen op omslagen te vormen en te beheren beschikbaar in de bewaarplaats van Assets Essentials:
 
-![Werkbalkopties wanneer u een element selecteert](assets/permissions-management-new.png)
+![ de opties van de Toolbar wanneer u activa ](assets/permissions-management-new.png) selecteert
 
 ## Voordat u machtigingen voor mappen beheert {#before-managing-permissions}
 
@@ -32,48 +32,48 @@ Voeg beheerders voor de toepassing van Assets Essentials toe zodat zij omslagtoe
 
 Beheerders toevoegen:
 
-1. Toegang [Admin Console](https://adminconsole.adobe.com) voor uw organisatie klikt u op **[!UICONTROL Products]** in de bovenste balk klikt u op **[!UICONTROL AEM Assets Essentials]** en klik vervolgens op [!DNL Assets Essentials] milieu. [!DNL Assets Essentials] heeft drie productprofielen die toegang voor beheerders, regelmatige, en consumenten gebruikers vertegenwoordigen.
+1. De toegang [ Admin Console ](https://adminconsole.adobe.com) voor uw organisatie, klikt **[!UICONTROL Products]** in de hoogste bar, klikt **[!UICONTROL AEM Assets Essentials]**, en klikt dan [!DNL Assets Essentials] milieu. [!DNL Assets Essentials] heeft drie productprofielen die toegang vertegenwoordigen voor beheerders, gewone gebruikers en gebruikers van consumenten.
 
-   ![Beheerprofiel Admin Console](assets/admin-console-admin-profile.png)
+   ![ Admin Console admin profiel ](assets/admin-console-admin-profile.png)
 
-1. Als u een gebruiker aan een groep wilt toevoegen, klikt u op de groep Assets Essentials Beheerders en selecteert u **[!UICONTROL Add User]**, geef de gebruikersgegevens op en klik op **[!UICONTROL Save]**.
+1. Als u een gebruiker aan een groep wilt toevoegen, klikt u op de groep Assets Essentials Beheerders, selecteert u **[!UICONTROL Add User]** , geeft u de gebruikersgegevens op en klikt u op **[!UICONTROL Save]** .
 
-   ![Beheerdersprofiel voor gebruikers toevoegen](assets/add-users-admin-profile.png)
+   ![ voeg gebruikers admin profiel ](assets/add-users-admin-profile.png) toe
 
-   Wanneer u een gebruiker toevoegt, ontvangt de gebruiker een e-mailuitnodiging om aan de slag te gaan. U kunt de e-mailuitnodigingen in de instellingen voor het productprofiel uitschakelen in [!DNL Admin Console].
+   Wanneer u een gebruiker toevoegt, ontvangt de gebruiker een e-mailuitnodiging om aan de slag te gaan. U kunt de e-mailuitnodigingen uitschakelen in de instellingen voor het productprofiel in [!DNL Admin Console] .
 
-1. Als u een gebruiker uit een groep wilt verwijderen, klikt u op de groep, selecteert u een bestaande gebruiker en selecteert u **[!UICONTROL Remove User]**.
+1. Als u een gebruiker uit een groep wilt verwijderen, klikt u op de groep, selecteert u een bestaande gebruiker en selecteert u **[!UICONTROL Remove User]** .
 
 ### Gebruikersgroepen toevoegen {#add-user-groups}
 
 Maak gebruikersgroepen en wijs aan deze groepen machtigingen toe om de toegangsniveaus voor mappen in de opslagplaats van Assets Essentials te beheren. Vervolgens kunt u uw gebruikers toewijzen aan de gebruikersgroepen.
 
-![Gebruikers toevoegen aan groepen en productprofielen](assets/user-groups-product-profiles.svg)
+![ voeg gebruikers aan groepen en productprofielen ](assets/user-groups-product-profiles.svg) toe
 
-U kunt gebruikers toevoegen aan gebruikersgroepen (1) en [gebruikers van Assets Essentials productprofielen (2)](#add-admin-users). U kunt gebruikersgroepen echter niet rechtstreeks toevoegen aan productprofielen van Assets Essentials (3).
+U kunt gebruikers aan gebruikersgroepen (1) toevoegen en [ gebruikers aan de Profielen van het Product van Assets Essentials (2) ](#add-admin-users). U kunt gebruikersgroepen echter niet rechtstreeks toevoegen aan productprofielen van Assets Essentials (3).
 
-Voor informatie over hoe te om gebruikersgroepen te beheren, zie `Create user groups` en `Edit user groups` beschikbaar op [Gebruikersgroepen beheren](https://helpx.adobe.com/enterprise/using/user-groups.html).
+Voor informatie over hoe te om gebruikersgroepen te beheren, zie `Create user groups` en `Edit user groups` beschikbaar bij [ gebruikersgroepen beheren ](https://helpx.adobe.com/enterprise/using/user-groups.html).
 
 >[!NOTE]
 >
->Als uw Admin Console is ingesteld om een extern systeem te gebruiken voor het beheer van gebruikers/groepen-toewijzingen, zoals Azure- of Google-connectors, het synchronisatieprogramma van de gebruiker of de gebruikersbeheerrusten-API, worden uw groepen en gebruikerstoewijzingen automatisch geconfigureerd. Zie voor meer informatie [Adobe Admin Console-gebruikers](https://helpx.adobe.com/enterprise/using/users.html).
+>Als uw Admin Console is ingesteld om een extern systeem te gebruiken voor het beheer van gebruikers/groepen-toewijzingen, zoals Azure- of Google-connectors, het synchronisatieprogramma van de gebruiker of de gebruikersbeheerrusten-API, worden uw groepen en gebruikerstoewijzingen automatisch geconfigureerd. Voor meer informatie, zie [ gebruikers van Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/users.html).
 
 
 ### Gebruikers aan groepen toevoegen {#add-users-to-uesr-groups}
 
 Nadat u gebruikersgroepen hebt gemaakt, kunt u beginnen met het toevoegen van gebruikers aan gebruikersgroepen.
 
-Voor informatie over hoe te om het toevoegen van gebruikers aan gebruikersgroepen te beheren, zie `Add users to groups` beschikbaar op [Gebruikersgroepen beheren](https://helpx.adobe.com/in/enterprise/using/user-groups.html#add-users-to-groups).
+Voor informatie over hoe te om het toevoegen van gebruikers aan gebruikersgroepen te beheren, zie `Add users to groups` beschikbaar bij [ gebruikersgroepen beheren ](https://helpx.adobe.com/in/enterprise/using/user-groups.html#add-users-to-groups).
 
 ### Mappenstructuur maken {#create-folder-structure}
 
 U kunt de volgende methoden gebruiken om een mapstructuur te maken in de opslagplaats van Assets Essentials:
 
-* Klik op de knop **[!UICONTROL Create Folder]** in de werkbalk kunt u een lege map maken.
+* Klik op de optie **[!UICONTROL Create Folder]** op de werkbalk om een lege map te maken.
 
-* Klikken **[!UICONTROL Add Assets]** in de werkbalk beschikbaar voor [uploadt u een mapstructuur die beschikbaar is op uw lokale computer](add-delete.md).
+* Klik **[!UICONTROL Add Assets]** optie beschikbaar in de toolbar [ uploadt een omslagstructuur beschikbaar op uw lokale machine ](add-delete.md).
 
-Creeer een omslagstructuur die goed met de bedrijfsdoelstellingen voor de organisatie werkt. Als u een bestaande mapstructuur uploadt naar de opslagplaats van Assets Essentials, moet u de structuur controleren. Zie voor meer informatie [Tips en trucs voor effectief beheer van machtigingen](permission-management-best-practices.md).
+Creeer een omslagstructuur die goed met de bedrijfsdoelstellingen voor de organisatie werkt. Als u een bestaande mapstructuur uploadt naar de opslagplaats van Assets Essentials, moet u de structuur controleren. Voor meer informatie, zie [ Beste praktijken voor efficiënt toestemmingsbeheer ](permission-management-best-practices.md).
 
 ## Machtigingen beheren voor mappen {#manage-permissions-on-folders}
 
@@ -86,45 +86,45 @@ U kunt de volgende machtigingen toewijzen aan gebruikersgroepen of gebruikers. D
 | Eigenaar | <ul><li>Alle rechten die beschikbaar zijn voor de machtiging Kan bewerken</li><li>Machtigingen beheren voor een map en de bijbehorende submappen</li>Met deze machtiging kunnen beheerders de beheerdersrechten delegeren aan anderen voor een map en de submappen.<ul> |
 | Toegang weigeren | Met Verwijderen kunt u machtigingen voor een map en de submappen weergeven, bewerken en bewerken. |
 
-**Standaardmachtigingen**
+**Standaardtoestemmingen**
 
-Alle gebruikers die zijn geverifieerd en zich kunnen aanmelden bij de toepassing Assets Essentials, hebben `Can Edit` bevoegdheden aan de opslagplaats van Assets Essentials aanvankelijk. Beheerders kunnen de standaardmachtigingen wijzigen door [bewerken van machtigingen voor de gehele gegevensopslagruimte van Assets Essentials](#edit-permissions-entire-repository).
+Alle gebruikers die zijn geverifieerd en zich kunnen aanmelden bij de toepassing Assets Essentials, beschikken aanvankelijk over `Can Edit` -machtigingen voor de opslagplaats van Assets Essentials. De beheerder kan de standaardtoestemmingen aanpassen door [ het uitgeven toestemmingen voor de volledige bewaarplaats van Assets Essentials ](#edit-permissions-entire-repository).
 
-**Volgorde om mapmachtigingen toe te wijzen aan gebruikersgroepen**
+**Opeenvolging om omslagtoestemmingen aan gebruikersgroepen** toe te wijzen
 
 Maak regels om mapmachtigingen toe te wijzen aan gebruikersgroepen. De opeenvolging die u gebruikt om toestemmingen aan een omslag toe te wijzen is belangrijk en beslist de toegang beschikbaar aan de gebruikersgroepen en uiteindelijk gebruikers.
 
-Als u bijvoorbeeld de opdracht `Can View` machtigingen voor een map aan een supergroep en vervolgens toewijzen `Can Edit` alleen de leden van de subgroep hebben machtigingen voor de subgroep. Gebruikers van de supergroep hebben toegang tot de map.
+Als u bijvoorbeeld de `Can View` -machtigingen voor een map toewijst aan een supergroep en vervolgens `Can Edit` -machtigingen toewijst aan de subgroep, hebben alleen de leden van de subgroep bewerkingsmachtigingen voor de map. Gebruikers van de supergroep hebben toegang tot de map.
 
-Als u bewerkingsmachtigingen moet opgeven voor de `Marketing` alleen aan de marketingafdeling van uw organisatie en weergavemachtigingen aan anderen toewijzen `Can View` machtigingen voor supergroep `All Authenticated Users` en `Can Edit` machtigingen voor de bijbehorende subgroep `Marketing`.
+Als u alleen aan de marketingafdeling van uw organisatie bewerkingsmachtigingen voor de `Marketing` -map moet opgeven en machtigingen voor anderen wilt weergeven, wijst u `Can View` machtigingen aan supergroep `All Authenticated Users` en `Can Edit` machtigingen aan de subgroep `Marketing` toe.
 
-![Machtigingen toewijzen](assets/permissions-management-groups.svg)
+![ wijs Toestemmingen ](assets/permissions-management-groups.svg) toe
 
-**Toestemmingsovererving**
+**Overerving van de Toestemming**
 
-Assets Essentials gebruiken machtigingsovererving, waarmee u de machtigingen kunt overnemen die zijn ingesteld voor de bovenliggende map in de onderliggende map. Als de bovenliggende map bijvoorbeeld `Can View` machtigingen voor de `All Authenticated Users` groep en de onderliggende map bevat `Can Edit` machtigingen voor de `Marketing` gebruikersgroep: hiermee kunnen alle geverifieerde gebruikers beschikken over weergavemachtigingen voor de onderliggende map en de `Marketing` gebruikersgroep om bewerkingsmachtigingen voor de onderliggende map te hebben. De `Marketing` gebruikersgroep heeft bewerkingsmachtigingen voor verdere niveaus van mappen onder de onderliggende map (Marketing).
+Assets Essentials gebruiken machtigingsovererving, waarmee u de machtigingen kunt overnemen die zijn ingesteld voor de bovenliggende map in de onderliggende map. Als de bovenliggende map bijvoorbeeld `Can View` machtigingen heeft voor de `All Authenticated Users` -groep en de onderliggende map `Can Edit` machtigingen heeft voor de `Marketing` -gebruikersgroep, kunnen alle geverifieerde gebruikers weergavemachtigingen hebben voor de onderliggende map en kan de `Marketing` -gebruikersgroep beschikken over bewerkingsmachtigingen voor de onderliggende map. De gebruikersgroep van `Marketing` heeft bewerkingsmachtigingen voor verdere niveaus van mappen onder de onderliggende map (Marketing).
 
-![Machtigingen toewijzen](assets/permissions-inheritance.svg)
+![ wijs Toestemmingen ](assets/permissions-inheritance.svg) toe
 
 >[!NOTE]
 >
-> Een `Deny Access` machtigingen voor een groep in een map op een hoger niveau, waarna de toegang wordt hersteld (`Can view`, `Can edit` of `Owner`) voor die groep of het betreffende lid niet wordt ondersteund. Gebruiken `Deny Access` spaarzaam.
+> Het instellen van `Deny Access` -machtigingen voor een groep op een map op een hoger niveau en het herstellen van de toegang ( `Can view` , `Can edit` of `Owner` ) voor die groep of het betreffende lid wordt niet ondersteund. Maak spaarzaam gebruik van `Deny Access` .
 
 ### Machtigingen toevoegen aan gebruikersgroepen {#add-permissions}
 
 Groepmachtigingen toewijzen voor mappen:
 
-1. Selecteer de map en klik op **[!UICONTROL Manage Permissions]**.
+1. Selecteer de map en klik op **[!UICONTROL Manage Permissions]** .
 
-1. Op de **[!UICONTROL Manage Permissions]** de naam van de groep of een gebruiker in het dialoogvenster **[!UICONTROL Groups & Users]** veld.
+1. Geef in het dialoogvenster **[!UICONTROL Manage Permissions]** de naam van de groep of een gebruiker op in het veld **[!UICONTROL Groups & Users]** .
 
-1. Selecteer de [toegangsniveau](#manage-permissions-on-folders) van de **[!UICONTROL Access]** vervolgkeuzelijst.
+1. Selecteer het [ niveau van toegang ](#manage-permissions-on-folders) van de **[!UICONTROL Access]** dropdown lijst.
 
-1. Klikken **[!UICONTROL Add]** om een directe wijziging aan te brengen in de machtigingen voor de gebruiker of gebruikersgroep.
+1. Klik op **[!UICONTROL Add]** om de machtigingen voor de gebruiker of gebruikersgroep direct te wijzigen.
 
-1. Herhaal stap 1-3 om meer regels toe te voegen aan de **[!UICONTROL Manage Permissions]** in.
+1. Herhaal stap 1-3 om meer regels toe te voegen aan het dialoogvenster **[!UICONTROL Manage Permissions]** .
 
-   ![Machtigingen toevoegen](assets/add-permissions.png)
+   ![ voeg Toestemmingen ](assets/add-permissions.png) toe
 
    >[!NOTE]
    >
@@ -136,40 +136,40 @@ Groepmachtigingen toewijzen voor mappen:
 
 >[!CAUTION]
 >
-> Het wordt aanbevolen om machtigingen voor gebruikersgroepen te beheren in tegenstelling tot individuele gebruikers. De instelling van `Deny access` machtiging wordt alleen ondersteund voor gebruikersgroepen, maar niet voor individuele gebruikers.
+> Het wordt aanbevolen om machtigingen voor gebruikersgroepen te beheren in tegenstelling tot individuele gebruikers. Het instellen van de machtiging `Deny access` wordt alleen ondersteund voor gebruikersgroepen, maar niet voor individuele gebruikers.
 
 ### Machtigingen bewerken die zijn toegewezen aan gebruikersgroepen {#edit-permissions}
 
 Machtigingen bewerken die zijn toegewezen aan gebruikersgroepen in mappen:
 
-1. Selecteer de map en klik op **[!UICONTROL Manage Permissions]**.
+1. Selecteer de map en klik op **[!UICONTROL Manage Permissions]** .
 
-1. Op de **[!UICONTROL Manage Permissions]** dialoogvenster, bewerkt u de [toegangsniveau](#manage-permissions-on-folders) van de **[!UICONTROL Access]** vervolgkeuzelijst.
+1. Voor de **[!UICONTROL Manage Permissions]** dialoog, geef het [ niveau van toegang ](#manage-permissions-on-folders) van de **[!UICONTROL Access]** dropdown lijst uit.
 
-1. [Meer gebruikersgroepen of gebruikers toevoegen](#add-permissions) de bestaande machtigingsregels, indien nodig.
+1. [ voeg meer gebruikersgroepen of gebruikers ](#add-permissions) aan de bestaande toestemmingsregels toe, indien nodig.
 
 1. Klik op X om de machtigingen te verwijderen die aan een gebruikersgroep zijn toegewezen.
 
 ### Machtigingen bewerken voor de gehele gegevensopslagruimte van Assets Essentials {#edit-permissions-entire-repository}
 
-Een toepassingsbeheerder kan de machtigingen voor de gehele opslagplaats voor Assets Essentials standaard bewerken `Can Edit` op een ander toegangsniveau.
+Een toepassingsbeheerder kan machtigingen voor de gehele gegevensopslagruimte voor Assets Essentials bewerken van een standaardinstelling `Can Edit` tot een ander toegangsniveau.
 
 Om toestemmingen voor de volledige bewaarplaats van Assets Essentials uit te geven:
 
-1. Selecteer een willekeurige map en klik op **[!UICONTROL Manage Permissions]**.
+1. Selecteer een willekeurige map en klik op **[!UICONTROL Manage Permissions]** .
 
-1. Op de **[!UICONTROL Manage Permissions]** dialoogvenster, klikt u op **[!UICONTROL All Assets]** in het linkerspoor.
+1. Klik in het dialoogvenster **[!UICONTROL Manage Permissions]** op **[!UICONTROL All Assets]** in de linkertrack.
 
-1. [De machtigingen bewerken](#edit-permissions) en sluit het dialoogvenster.
+1. [ geeft de toestemmingen ](#edit-permissions) uit en sluit de dialoog.
 
 >[!NOTE]
 >
->Een beheerder kan geen `Deny Access` machtigingsniveau voor de gehele gegevensopslagruimte van Assets Essentials om ervoor te zorgen dat gebruikers ten minste leestoegang tot de toepassing hebben. Op dezelfde manier `All Authenticated Users` minstens lees toestemmingen aan de bewaarplaats hebben, zelfs als de beheerder uitdrukkelijk verwijdert `Can Edit` machtigingen voor de [!UICONTROL Manage Permissions] in.
+>Een beheerder kan het machtigingsniveau van `Deny Access` voor de gehele gegevensopslagruimte van Assets Essentials niet selecteren om ervoor te zorgen dat gebruikers ten minste leestoegang tot de toepassing hebben. Op dezelfde manier hebben `All Authenticated Users` ten minste leesmachtigingen voor de gegevensopslagruimte, zelfs als de beheerder expliciet de `Can Edit` -machtigingen in het dialoogvenster [!UICONTROL Manage Permissions] verwijdert.
 
 
 ## Voorbeelden voor effectief machtigingsbeheer {#example-permission-management}
 
-**Hoofdletters gebruiken**
+**Geval van het Gebruik**
 
 * Alle voor authentiek verklaarde Gebruikers hebben meningstoegang tot de bewaarplaats.
 * Teamspecifieke gebruikersgroepen hebben bewerkingsmachtigingen voor hun eigen functiespecifieke map.
@@ -188,11 +188,11 @@ Maak de volgende gebruikersgroepen in Admin Console:
 * Juridisch team
 
 Het volgende diagram illustreert de mappenhiërarchie en de toestemmingen die aan elke gebruikersgroep worden toegewezen:
-![Machtigingen toewijzen](assets/use-case-permissions-management.png)
+![ wijs Toestemmingen ](assets/use-case-permissions-management.png) toe
 
 Hieronder ziet u de toegangsniveaus voor alle gebruikersgroepen in de mappenhiërarchie:
 
-* /All Assets: Beheerder wijzigt de machtigingen op het hoofdniveau van de standaardwaarde `Can Edit` tot `Can View`. Alle gebruikers kunnen mappen en elementen weergeven, maar kunnen ze niet bewerken.
+* /All Assets: Administrator wijzigt de machtigingen op het hoofdniveau van de standaardwaarde `Can Edit` in `Can View` . Alle gebruikers kunnen mappen en elementen weergeven, maar kunnen ze niet bewerken.
 
 * /marketing: Alle gebruikers kunnen de omslagen en zijn subfolders bekijken die op toestemmingsovererving worden gebaseerd, nochtans, heeft de de gebruikersgroep van het Team van de Marketing toestemmingen aan de omslag uitgeven.
 
@@ -206,12 +206,12 @@ Hieronder ziet u de toegangsniveaus voor alle gebruikersgroepen in de mappenhië
 
 * /projects/project-x: Alle gebruikers kunnen de omslagen en zijn subfolders bekijken. De gebruikersgroep van het Team van de Managers van het project heeft uitgeeft toestemmingen en kan toestemmingen op een omslag en zijn subfolders (de toestemmingen van de Eigenaar) beheren. De gebruikersgroep van het Team van project X heeft uitgeeft toestemmingen.
 
-* /legal: geen van de gebruikers heeft toegang tot de map op basis van de `Deny Access` machtigingen voor `All Authenticated Users` groep. De gebruikersgroep Juridisch team heeft bewerkingsmachtigingen.
+* /legal: geen van de gebruikers heeft toegang tot de map op basis van de `Deny Access` -machtigingen voor `All Authenticated Users` -groep. De gebruikersgroep Juridisch team heeft bewerkingsmachtigingen.
 
 ## Volgende stappen {#next-steps}
 
-* [Een video bekijken om machtigingen in Assets Essentials te beheren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
+* [ bekijk een video om toestemmingen in Assets Essentials te beheren ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
 
-* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)
+* De Zorg van de Klant van het contact ](https://experienceleague.adobe.com/?support-solution=General#support)[

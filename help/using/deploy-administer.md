@@ -1,99 +1,99 @@
 ---
-title: Gebruikers beheren en beheren
-description: Gebruiksgevallen voor beheerders zoals implementatie en gebruikersbeheer in [!DNL Assets Essentials].
+title: Gebruikers beheren
+description: Het gebruiksgevallen van het beleid zoals plaatsing en gebruikersbeheer in  [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
 workflow-type: tm+mt
-source-wordcount: '1321'
+source-wordcount: '1283'
 ht-degree: 0%
 
 ---
 
-# Beheren [!DNL Assets Essentials] en gebruikers toevoegen {#administer}
+# Beheer [!DNL Assets Essentials] en voeg gebruikers toe {#administer}
 
-[!DNL Adobe Experience Manager Assets Essentials] is provisioned door Adobe voor zijn klanten. In het kader van de levering [!DNL Assets Essentials] wordt toegevoegd aan de organisatie van een klant in [!DNL Adobe Admin Console]. Beheerders gebruiken [!DNL Admin Console] om gebruikersrechten te beheren aan [!DNL Assets Essentials] oplossing, en wijs toepassingsbeheerders aan opstellingstoestemmingen en meta-gegevensformulieren in [!DNL Assets Essentials].
+[!DNL Adobe Experience Manager Assets Essentials] wordt geleverd door Adobe voor zijn klanten. Als onderdeel van de provisioning wordt [!DNL Assets Essentials] toegevoegd aan de organisatie van een klant in [!DNL Adobe Admin Console] . Beheerders gebruiken [!DNL Admin Console] om gebruikersrechten voor de [!DNL Assets Essentials] -oplossing te beheren en om toepassingsbeheerders toe te wijzen om machtigingen voor en metagegevensformulieren in te stellen in [!DNL Assets Essentials] .
 
 
-Het volgende gegevensstroomdiagram illustreert de opeenvolging van taken die een beheerder moet uitvoeren om Assets Essentials te vormen en te beheren:
+Het volgende diagram van de gegevensstroom illustreert de opeenvolging van taken die een beheerder moet uitvoeren om Assets Essentials te vormen en te beheren:
 
-![Assets Essentials implementeren](assets/deploy-assets-essentials.svg)
+![ stel Assets Essentials ](assets/deploy-assets-essentials.svg) op
 
 ## Toegang tot de Admin Console {#access-admin-console}
 
-Nadat de Assets Essentials-oplossing is ingericht, ontvangt de beheerder een e-mail van Adobe. Het e-mailbericht bevat een welkomstbericht en een koppeling om aan de slag te gaan. Daarnaast start Adobe het proces om Assets Essentials automatisch te implementeren. Het implementatieproces duurt een uur.
+Nadat de oplossing van Assets Essentials wordt geleverd, ontvangt de beheerder een e-mail van Adobe. Het e-mailbericht bevat een welkomstbericht en een koppeling om aan de slag te gaan. Bovendien begint de Adobe het proces om Assets Essentials automatisch op te stellen. Het implementatieproces duurt een uur.
 
-Via de koppeling in de e-mail kunt u toegang krijgen tot en aanmelden bij [Admin Console](https://adminconsole.adobe.com). Als u beheerdertoegang tot meer dan één organisatierekening hebt, dan selecteer de aangewezen organisatie of schakelaar aan het gebruikend [organisatieselector](https://helpx.adobe.com/nl/enterprise/using/admin-console.html). Zodra het automatische plaatsingsproces volledig is, de productkaart voor [!DNL AEM Assets Essentials] is zichtbaar in de [!DNL Admin Console].
+Van de verbinding in e-mail, toegang en login aan [ Admin Console ](https://adminconsole.adobe.com). Als u beheerdertoegang tot meer dan één organisatierekening hebt, dan selecteer de aangewezen organisatie of schakelaar aan het gebruikend de [ organisatieselecteur ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html). Zodra het automatische implementatieproces is voltooid, is de productkaart voor [!DNL AEM Assets Essentials] zichtbaar in [!DNL Admin Console] .
 
 Voer de volgende taken voor gebruikersrechten uit met behulp van Admin Console:
 
-* [Assets Essentials-toepassingsbeheerder maken](#create-assets-essentials-administrator)
+* [Toepassingsbeheerder voor Assets Essentials maken](#create-assets-essentials-administrator)
 
-* [Gebruikersgroepen toevoegen](#add-user-groups)
+* [ voeg gebruikersgroepen ](#add-user-groups) toe
 
 * [Gebruikersgroepen toevoegen aan productprofielen](#add-users-to-product-profiles)
 
-![Assets Essentials-implementatie](assets/admin-console-cards.png)
+![ Plaatsing van Assets Essentials ](assets/admin-console-cards.png)
 
-### Assets Essentials-toepassingsbeheerder maken {#create-assets-essentials-administrator}
+### Toepassingsbeheerder voor Assets Essentials maken {#create-assets-essentials-administrator}
 
-Een beheerder van een Admin Console moet het Assets Essentials-beheerdersproductprofiel toevoegen aan een gebruiker en niet aan een gebruikersgroep. De Assets Essentials-toepassingsbeheerder kan vervolgens taken beheren, zoals het maken van een mapstructuur, het uploaden van elementen, het instellen van machtigingen, het instellen van metagegevensformulieren en het maken van openbare verzamelingen. Voor informatie over het toewijzen van een beheerdersprofiel voor een Assets Essentials-toepassing aan een gebruiker raadpleegt u [productprofielen toevoegen aan gebruikersgroepen](#add-product-profiles-to-user-groups).
+Een beheerder van de Admin Console moet het profiel van het de beheerderproduct van Assets Essentials aan een gebruiker en niet aan een gebruikersgroep toevoegen. De beheerder van de Assets Essentials-toepassing kan vervolgens taken beheren, zoals het maken van een mapstructuur, het uploaden van elementen, het instellen van machtigingen, het instellen van metagegevensformulieren en het maken van openbare verzamelingen. Voor informatie over hoe te om een profiel van de de toepassingsbeheerder van Assets Essentials aan een gebruiker toe te wijzen, zie [ productprofielen aan gebruikersgroepen ](#add-product-profiles-to-user-groups) toevoegen.
 
 ### Gebruikersgroepen toevoegen {#add-user-groups}
 
-Maak gebruikersgroepen en wijs uw gebruikers toe aan de gebruikersgroepen. Deze gebruikersgroepen zijn beschikbaar in de Assets Essentials-toepassing voor het instellen van machtigingen voor mappen.
+Maak gebruikersgroepen en wijs uw gebruikers toe aan de gebruikersgroepen. Deze gebruikersgroepen zijn beschikbaar in de toepassing Assets Essentials voor het instellen van machtigingen voor mappen.
 
-Voor informatie over hoe te om gebruikersgroepen te beheren, zie `Create user groups` en `Edit user groups` beschikbaar op [Gebruikersgroepen beheren](https://helpx.adobe.com/enterprise/using/user-groups.html).
+Voor informatie over hoe te om gebruikersgroepen te beheren, zie `Create user groups` en `Edit user groups` beschikbaar bij [ gebruikersgroepen beheren ](https://helpx.adobe.com/enterprise/using/user-groups.html).
 
 >[!NOTE]
 >
->Als uw Admin Console is ingesteld om een extern systeem te gebruiken voor het beheer van gebruikers/groepen-toewijzingen, zoals Azure- of Google-connectors, het synchronisatieprogramma van de gebruiker of de gebruikersbeheerrusten-API, worden uw groepen en gebruikerstoewijzingen automatisch geconfigureerd. Zie voor meer informatie [Adobe Admin Console-gebruikers](https://helpx.adobe.com/enterprise/using/users.html).
+>Als uw Admin Console is ingesteld om een extern systeem te gebruiken voor het beheer van gebruikers/groepen-toewijzingen, zoals Azure- of Google-connectors, het synchronisatieprogramma van de gebruiker of de gebruikersbeheerrusten-API, worden uw groepen en gebruikerstoewijzingen automatisch geconfigureerd. Voor meer informatie, zie [ gebruikers van Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/users.html).
 
-Voor informatie over hoe te om het toevoegen van gebruikers aan gebruikersgroepen te beheren, zie `Add users to groups` beschikbaar op [Gebruikersgroepen beheren](https://helpx.adobe.com/in/enterprise/using/user-groups.html#add-users-to-groups).
+Voor informatie over hoe te om het toevoegen van gebruikers aan gebruikersgroepen te beheren, zie `Add users to groups` beschikbaar bij [ gebruikersgroepen beheren ](https://helpx.adobe.com/in/enterprise/using/user-groups.html#add-users-to-groups).
 
 ### Productprofielen toevoegen aan gebruikersgroepen {#add-product-profiles-to-user-groups}
 
-Voeg productprofielen toe aan gebruikersgroepen zodat zij toegang hebben tot de Assets Essentials-toepassing.
+Voeg productprofielen toe aan gebruikersgroepen zodat zij toegang tot de toepassing van Assets Essentials hebben.
 
 Productprofielen toevoegen aan gebruikersgroepen:
 
-1. Toegang [Admin Console](https://adminconsole.adobe.com) voor uw organisatie klikt u op **[!UICONTROL Products]** in de bovenste balk klikt u op **[!UICONTROL AEM Assets Essentials]** en klik vervolgens op de instantie voor [!DNL Assets Essentials]. De naam van de instantie kan anders zijn dan in de onderstaande schermafbeelding.
+1. De toegang [ Admin Console ](https://adminconsole.adobe.com) voor uw organisatie, klikt **[!UICONTROL Products]** in de hoogste bar, klikt **[!UICONTROL AEM Assets Essentials]**, en klikt dan de instantie voor [!DNL Assets Essentials]. De naam van de instantie kan anders zijn dan in de onderstaande schermafbeelding.
    >[!NOTE]
    >
-   >[!DNL Cloud Manager] instance is voor speciaal admin gebruik slechts zoals het controleren van de dienststatus en het krijgen van toegang tot de dienstlogboeken en kan niet worden gebruikt om gebruikers aan het product toe te voegen.
+   >[!DNL Cloud Manager] -instantie is alleen bedoeld voor speciaal gebruik door beheerders, zoals het controleren van de servicestatus en het verkrijgen van toegang tot servicelogboeken. U kunt deze instantie niet gebruiken om gebruikers aan het product toe te voegen.
 
-   ![Beheerprofiel Admin Console](assets/assets-essentials-instance.png)
+   ![ Admin Console admin profiel ](assets/assets-essentials-instance.png)
 
-   [!DNL Assets Essentials] heeft drie productprofielen die toegang voor beheerders, regelmatige, en consumenten gebruikers vertegenwoordigen.
+   [!DNL Assets Essentials] heeft drie productprofielen die toegang vertegenwoordigen voor beheerders, gewone gebruikers en gebruikers van consumenten.
 
-   * **[!DNL Assets Essentials]Beheerders** administratieve toegang tot de toepassing hebben. Naast alle mogelijkheden voor eindgebruikers kunnen toepassingsbeheerders in deze groep machtigingen beheren voor elke map en groep/gebruiker in de gehele opslagplaats van de toepassing.
+   * **[!DNL Assets Essentials]Beheerders** hebben beheerderstoegang tot de toepassing. Naast alle mogelijkheden voor eindgebruikers kunnen toepassingsbeheerders in deze groep machtigingen beheren voor elke map en groep/gebruiker in de gehele opslagplaats van de toepassing.
 
-   * **[!DNL Assets Essentials]Gebruikers** toegang hebben tot de volledige gebruikersinterface. Deze gebruikers kunnen digitale elementen uploaden, organiseren, labelen en zoeken.
+   * **[!DNL Assets Essentials]Gebruikers** hebben toegang tot de volledige gebruikersinterface. Deze gebruikers kunnen digitale elementen uploaden, organiseren, labelen en zoeken.
 
-   * **[!DNL Assets Essentials]Consumentengebruikers** kan zoek-, voorproef- en downloadbewerkingen uitvoeren in Assets Essentials. Ze kunnen ook middelen zoeken en selecteren in Adobe Journey Optimizer en middelen zoeken en selecteren voor gebruik in Workfront.
-Zie voor meer informatie [Integratie met andere oplossingen](integration.md).
+   * **[!DNL Assets Essentials]De Gebruikers van de consument** kunnen vinden, voorproef, en downloadverrichtingen in Assets Essentials uitvoeren. Ze kunnen ook middelen zoeken en selecteren in Adobe Journey Optimizer en middelen zoeken en selecteren voor gebruik in Workfront.
+Voor meer informatie, zie [ Integratie met andere oplossingen ](integration.md).
 
-   ![Beheerprofiel Admin Console](assets/admin-console-admin-profile.png)
+   ![ Admin Console admin profiel ](assets/admin-console-admin-profile.png)
 
-1. Als u een gebruikersgroep aan het product wilt toevoegen, klikt u op een van de drie Assets Essentials-productprofielen en selecteert u **[!UICONTROL Add User]**, geef de gegevens van de gebruikersgroep op en klik op **[!UICONTROL Save]**.
+1. Als u een gebruikersgroep aan het product wilt toevoegen, klikt u op een van de drie Assets Essentials van productprofielen, selecteert u **[!UICONTROL Add User]** , geeft u de gegevens van de gebruikersgroep op en klikt u op **[!UICONTROL Save]** .
 
-   ![Beheerdersprofiel voor gebruikers toevoegen](assets/add-users-admin-profile.png)
+   ![ voeg gebruikers admin profiel ](assets/add-users-admin-profile.png) toe
 
-   Wanneer u een gebruiker toevoegt, ontvangt de gebruiker een e-mailuitnodiging om aan de slag te gaan. U kunt de e-mailuitnodigingen in de instellingen voor het productprofiel uitschakelen in [!DNL Admin Console].
+   Wanneer u een gebruiker toevoegt, ontvangt de gebruiker een e-mailuitnodiging om aan de slag te gaan. U kunt de e-mailuitnodigingen uitschakelen in de instellingen voor het productprofiel in [!DNL Admin Console] .
 
    >[!NOTE]
    >
-   >U moet een gebruiker toevoegen aan het Assets Essentials-productprofiel voor beheerders in de Admin Console om beheertaken uit te voeren in de Assets Essentials-toepassing. Deze taken omvatten [Mappenstructuur maken](#create-folder-structure), [Rechten voor mappen beheren](#manage-permissions-for-folders), en [Metagegevens Forms instellen](#metadata-forms).
+   >U moet een gebruiker aan het het productprofiel van de Assets Essentials van de Beheerder in de Admin Console toevoegen, opdat zij administratieve taken in de toepassing van Assets Essentials uitvoeren. Deze taken omvatten [ creeer omslagstructuur ](#create-folder-structure), [ leidt toestemmingen voor omslagen ](#manage-permissions-for-folders), en [ Meta-gegevens van de Opstelling Forms ](#metadata-forms).
 
-## Assets Essentials-toepassing openen {#access-assets-essentials-application}
+## Toepassing Assets Essentials openen {#access-assets-essentials-application}
 
-Nadat u rechten van gebruikers hebt uitgevoerd in Admin Console, kunt u de Assets Essentials-toepassing openen om de volgende taken uit te voeren:
+Na het uitvoeren van gebruikersrechten in Admin Console, kunt u tot de toepassing van Assets Essentials toegang hebben om de volgende taken uit te voeren:
 
 * [Mappenstructuur maken](#create-folder-structure)
 
 * [Elementen uploaden](#upload-assets)
 
-* [Rechten voor mappen beheren](#manage-permissions-for-folders)
+* [Machtigingen voor mappen beheren](#manage-permissions-for-folders)
 
 * [Metagegevens Forms instellen](#metadata-forms)
 
@@ -101,74 +101,74 @@ Nadat u rechten van gebruikers hebt uitgevoerd in Admin Console, kunt u de Asset
 
 ### Mappenstructuur maken {#create-folder-structure}
 
-U kunt de volgende methoden gebruiken om een mapstructuur te maken in de Assets Essentials-opslagplaats:
+U kunt de volgende methoden gebruiken om een mapstructuur te maken in de opslagplaats van Assets Essentials:
 
-* Klik op de knop **[!UICONTROL Create Folder]** in de werkbalk kunt u een lege map maken.
+* Klik op de optie **[!UICONTROL Create Folder]** op de werkbalk om een lege map te maken.
 
-* Klikken **[!UICONTROL Add Assets]** in de werkbalk beschikbaar voor [uploadt u een mapstructuur die beschikbaar is op uw lokale computer](add-delete.md).
+* Klik **[!UICONTROL Add Assets]** optie beschikbaar in de toolbar [ uploadt een omslagstructuur beschikbaar op uw lokale machine ](add-delete.md).
 
-Creeer een omslagstructuur die goed met de bedrijfsdoelstellingen voor de organisatie werkt. Als u een bestaande mapstructuur uploadt naar de Assets Essentials-opslagplaats, moet u de structuur controleren. Zie voor meer informatie [Aanbevolen procedures voor mapstructuur voor effectief machtigingsbeheer](permission-management-best-practices.md##folder-structure-assets-essentials).
+Creeer een omslagstructuur die goed met de bedrijfsdoelstellingen voor de organisatie werkt. Als u een bestaande mapstructuur uploadt naar de opslagplaats van Assets Essentials, moet u de structuur controleren. Voor meer informatie, zie [ Beste praktijken van de omslagstructuur voor efficiënt toestemmingenbeheer ](permission-management-best-practices.md##folder-structure-assets-essentials).
 
 Er zijn diverse mogelijke typen mapstructuur die u voor uw organisatie kunt gebruiken. Hieronder volgen enkele voorbeelden van gangbare mapstructuren:
 
-![Typische mapstructuren](assets/folder-structure.svg)
+![ Typische omslagstructuren ](assets/folder-structure.svg)
 
 >[!NOTE]
 >
->Om deze taken te kunnen beheren, vooral het beheren van toestemmingen, moet uw gebruiker toepassingsbeheerrechten hebben - het moet aan worden toegevoegd [Assets Essentials-productprofiel voor beheerders](#add-users-to-product-profiles).
+>Om deze taken te kunnen beheren, vooral het beheren van toestemmingen, moet uw gebruiker toepassingsbeleidsrechten hebben - het moet aan het [ het productprofiel van de Assets Essentials van de Beheerder worden toegevoegd ](#add-users-to-product-profiles).
 
 ### Elementen uploaden {#upload-assets}
 
-Als u nieuwe elementen wilt toevoegen om mee te werken, uploadt u een aantal elementen van uw lokale bestandssysteem. U kunt elementen of mappen slepen naar de gebruikersinterface en de aanwijzingen op het scherm volgen of op **[!UICONTROL Add Assets]** op de werkbalk en voegt u enkele bestanden toe aan het dialoogvenster voor uploaden. while [!DNL Assets Essentials] biedt een krachtige zoekfunctie met volledige tekst, zodat u uw elementen beter kunt ordenen met mappen. Zie voor meer informatie [Elementen uploaden](add-delete.md).
+Als u nieuwe elementen wilt toevoegen om mee te werken, uploadt u een aantal elementen van uw lokale bestandssysteem. U kunt elementen of mappen slepen naar de gebruikersinterface en de aanwijzingen op het scherm volgen of op de werkbalk op de optie **[!UICONTROL Add Assets]** klikken en bestanden toevoegen aan het dialoogvenster voor uploaden. Hoewel [!DNL Assets Essentials] een krachtige zoekfunctie met volledige tekst biedt, kunt u ook mappen gebruiken om uw elementen beter te ordenen. Voor meer informatie, zie [ activa ](add-delete.md) uploaden.
 
-![Bestanden en mappen uploaden](assets/upload-assets.png)
+![ uploadt dossiers en omslagen ](assets/upload-assets.png)
 
-### Rechten voor mappen beheren {#manage-permissions-for-folders}
+### Machtigingen voor mappen beheren {#manage-permissions-for-folders}
 
-Met Assets Essentials kunnen beheerders de toegangsniveaus voor mappen in de opslagplaats beheren. Als beheerder, kunt u gebruikersgroepen tot stand brengen en toestemmingen aan die groepen toewijzen om toegangsniveaus te beheren. U kunt de bevoegdheden voor machtigingsbeheer ook delegeren aan gebruikersgroepen op mapniveau.
+Met Assets Essentials kunnen beheerders de toegangsniveaus voor mappen die in de opslagplaats beschikbaar zijn, beheren. Als beheerder, kunt u gebruikersgroepen tot stand brengen en toestemmingen aan die groepen toewijzen om toegangsniveaus te beheren. U kunt de bevoegdheden voor machtigingsbeheer ook delegeren aan gebruikersgroepen op mapniveau.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341104)
 
-Zie voor meer informatie [Rechten voor mappen beheren](manage-permissions.md).
+Voor meer informatie, zie [ toestemmingen voor omslagen ](manage-permissions.md) leiden.
 
 ### Metagegevens Forms instellen (optioneel) {#metadata-forms}
 
-Assets Essentials biedt standaard vele standaardmetagegevensvelden. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan het element [!UICONTROL Details] pagina. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen. U kunt geheel nieuwe formulieren maken of een bestaand formulier opnieuw gebruiken.
+Assets Essentials bieden standaard veel standaardvelden voor metagegevens. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan de pagina [!UICONTROL Details] van een element. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen. U kunt geheel nieuwe formulieren maken of een bestaand formulier opnieuw gebruiken.
 
 U kunt metagegevensformulieren configureren voor verschillende typen elementen (verschillende MIME-typen). Gebruik dezelfde formuliernaam als het MIME-type van het bestand. Essentiële elementen komen automatisch overeen met het MIME-type voor geüploade elementen met de naam van het formulier en werken de metagegevens voor de geüploade elementen bij op basis van de formuliervelden.
 
-Als een metagegevensformulier bijvoorbeeld op naam staat `PDF` of `pdf` bestaat, bevatten de geüploade PDF-documenten metagegevensvelden zoals gedefinieerd in het formulier.
+Als bijvoorbeeld een metagegevensformulier met de naam `PDF` of `pdf` bestaat, bevatten de geüploade PDF-documenten metagegevensvelden zoals gedefinieerd in het formulier.
 
-Zie voor meer informatie [Metagegevensformulieren](metadata.md#metadata-forms).
+Voor meer informatie, zie [ de vormen van Meta-gegevens ](metadata.md#metadata-forms).
 
 >[!VIDEO](https://video.tv.adobe.com/v/341275)
 
-Ga voor meer informatie over Metadata Forms naar [Metagegevens Forms in Assets Essentials](metadata.md#metadata-forms).
+Voor meer informatie over Meta-gegevens Forms, zie [ Meta-gegevens Forms in Assets Essentials ](metadata.md#metadata-forms).
 
 ### Openbare verzamelingen maken (optioneel) {#create-public-collections}
 
 Een verzameling is een set elementen binnen Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 
-In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten. U kunt meerdere verzamelingen delen met een gebruiker. Elke verzameling bevat verwijzingen naar elementen. De referentiële integriteit van activa wordt gehandhaafd over inzamelingen. Zie voor meer informatie [Verzamelingen beheren](manage-collections.md).
+In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten. U kunt meerdere verzamelingen delen met een gebruiker. Elke verzameling bevat verwijzingen naar elementen. De referentiële integriteit van activa wordt gehandhaafd over inzamelingen. Voor meer informatie, zie [ inzamelingen ](manage-collections.md) leiden.
 
-![Verzamelingen](assets/collections.png)
+![ Inzamelingen ](assets/collections.png)
 
 ## Volgende stappen {#next-steps}
 
 <!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en) -->
 
-* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface van Assets Essentials
 
-* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)
+* De Zorg van de Klant van het contact ](https://experienceleague.adobe.com/?support-solution=General#support)[
 
 
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Admin Console] help](https://helpx.adobe.com/nl/enterprise/using/admin-console.html)
->* [[!DNL Cloud Manager] help](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
->* [Adobe Journey Optimizer-documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html)
->* [Opmerkingen bij de release](release-notes.md)
->* [Aan de slag met [!DNL Assets Essentials]](get-started.md)
+>* [[!DNL Admin Console]  hulp ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html)
+>* [[!DNL Cloud Manager]  hulp ](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
+>* [ documentatie van Adobe Journey Optimizer ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html)
+>* [ de nota&#39;s van de Versie ](release-notes.md)
+>* [ worden begonnen te gebruiken  [!DNL Assets Essentials]](get-started.md)

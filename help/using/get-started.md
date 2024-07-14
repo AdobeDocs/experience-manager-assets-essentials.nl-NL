@@ -1,12 +1,12 @@
 ---
-title: Aan de slag met [!DNL Assets Essentials]
-description: Hoe kan ik toegang krijgen tot, login ervaring van, gesteunde gebruiksgevallen van, en bekende kwesties van [!DNL Assets Essentials].
+title: Aan de slag met  [!DNL Assets Essentials]
+description: Hoe te om tot, login ervaring van, gesteunde gebruiksgevallen van, en bekende kwesties van  [!DNL Assets Essentials] toegang te hebben.
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 source-git-commit: fedcf02b5338d6640e557dad25ca03cfbd78d7e5
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 1%
+source-wordcount: '407'
+ht-degree: 0%
 
 ---
 
@@ -14,21 +14,21 @@ ht-degree: 1%
 
 <!-- TBD: Make links for these steps. -->
 
-Uw digitale middelen beheren met [!DNL Assets Essentials] vereist slechts drie eenvoudige stappen:
+Voor het beheren van uw digitale elementen met [!DNL Assets Essentials] zijn slechts drie eenvoudige stappen vereist:
 
-* **Stap 1**: [Uploaden](/help/using/add-delete.md) en [weergave](/help/using/navigate-view.md) activa.
-* **Stap 2**: [Zoeken](/help/using/search.md) en [downloaden](/help/using/manage-organize.md#download) activa.
-* **Stap 3**: [Beheer en organisatie](/help/using/manage-organize.md) de activa.
+* **Stap 1**: [ upload ](/help/using/add-delete.md) en [ mening ](/help/using/navigate-view.md) activa.
+* **Stap 2**: [ Onderzoek ](/help/using/search.md) en [ download ](/help/using/manage-organize.md#download) activa.
+* **Stap 3**: [ beheert en organiseert ](/help/using/manage-organize.md) de activa.
 
-Te gebruiken [!DNL Assets Essentials], aanmelden bij [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). Selecteer bij aanmelden `Company or School Account`. Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
+Om [!DNL Assets Essentials] te gebruiken, login bij [ https://experience.adobe.com/#/assets ](https://experience.adobe.com/#/assets). Selecteer `Company or School Account` wanneer u zich aanmeldt. Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
 
-Daarnaast is meer informatie die nuttig kan zijn [inzicht in de gebruikersinterface](/help/using/navigate-view.md), [lijst van gebruiksgevallen](#use-cases), <!-- TBD: [supported file types](/help/using/supported-file-formats.md), --> en [bekende problemen](/help/using/release-notes.md#known-issues).
+Bovendien is meer verwijzingsinformatie die nuttig kan zijn [ inzicht in het gebruikersinterface ](/help/using/navigate-view.md), [ lijst van gebruiksgevallen ](#use-cases), <!-- TBD: [supported file types](/help/using/supported-file-formats.md), --> en [ bekende kwesties ](/help/using/release-notes.md#known-issues).
 
 ## Toegang ontvangen tot [!DNL Assets Essentials] {#get-access}
 
-Adobe voorziet de oplossing en voegt de aangewezen persoon van uw organisatie als beheerder toe. De beheerders kunnen toegang tot diverse gebruikers van de organisatie verlenen door te gebruiken [[!DNL Admin Console]](https://helpx.adobe.com/nl/enterprise/using/admin-console.html). Voor verzoeken met betrekking tot uw toegang, contacteer de beheerder van uw organisatie.
+De bepalingen van de Adobe de oplossing en voegt de aangewezen persoon van uw organisatie als beheerder toe. De beheerders kunnen toegang tot diverse gebruikers van de organisatie verlenen door [[!DNL Admin Console] te gebruiken ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html). Voor verzoeken met betrekking tot uw toegang, contacteer de beheerder van uw organisatie.
 
-Wanneer het programma openen, na het verstrekken van de geloofsbrieven, [!DNL Assets Essentials] vraagt u een account te selecteren. In dit geval selecteert u `Company or School Account` om verder te gaan.
+Nadat u de aanmeldingsgegevens hebt opgegeven, vraagt [!DNL Assets Essentials] u om een account te selecteren. Selecteer in dit geval `Company or School Account` om door te gaan.
 
 ## Configureren [!DNL Assets Essentials] {#configuration}
 
@@ -36,34 +36,34 @@ Als u de voorkeuren wilt openen, klikt u op de avatar in de rechterbovenhoek van
 
 Als u deel uitmaakt van verschillende organisaties, kunt u ook de organisatie wijzigen en toegang krijgen tot uw accounts in verschillende organisaties.
 
-Als u uw [!UICONTROL Experience Cloud preferences], klik op [!UICONTROL Preferences].
+Klik op [!UICONTROL Preferences] om de [!UICONTROL Experience Cloud preferences] -toets te wijzigen.
 
-![Voorkeur voor schakelen tussen donker en licht thema](assets/theme-change.png)
+![ Voorkeur om donker en licht thema ](assets/theme-change.png) te schakelen
 
-## [!DNL Assets Essentials] use cases {#use-cases}
+## [!DNL Assets Essentials] gebruik gevallen {#use-cases}
 
-De verschillende DAM-taken (Digital Asset Management) die u kunt uitvoeren met [!DNL Assets Essentials] hieronder.
+Hieronder vindt u de verschillende DAM-taken (Digital Asset Management) die u met [!DNL Assets Essentials] kunt uitvoeren.
 
 | Gebruikerstaken | Functionaliteit en &quot;Hoe kan ik&quot;-informatie |
 |-----|------|
-| Bladeren en elementen weergeven | <ul> <li>[Door de opslagplaats bladeren](/help/using/navigate-view.md#view-assets-and-details) </li> <li> [Een voorvertoning van een element weergeven](/help/using/navigate-view.md#preview-assets) <li> [Uitvoeringen van een element weergeven](/help/using/add-delete.md#renditions) </li> <li>[Versies van een element weergeven](/help/using/manage-organize.md#view-versions)</li></ul> |
-| Nieuwe elementen toevoegen | <ul> <li>[Nieuwe elementen en mappen uploaden](/help/using/add-delete.md#add-assets)</li> <li>[Uploadvoortgang controleren en uploads beheren](/help/using/add-delete.md#upload-progress)</li> <li>[Duplicaten oplossen](/help/using/add-delete.md#resolve-upload-fails)</li> </ul> |
-| Elementen of gerelateerde informatie bijwerken | <ul> <li>[Afbeeldingen bewerken](/help/using/edit-images.md)</li> <li>[Versies maken](/help/using/manage-organize.md#create-versions) en [weergaveversies](/help/using/manage-organize.md#view-versions)</li> <li>[Afbeeldingen bewerken](/help/using/edit-images.md)</li> </ul> |
-| Elementen bewerken | <ul> <li>[Bewerkingen in de browser met Adobe Photoshop Express](/help/using/edit-images.md)</li> <li>[Uitsnijden voor een profiel voor sociale media](/help/using/edit-images.md#crop-straighten-images)</li> <li>[Versies weergeven en beheren](/help/using/manage-organize.md#view-versions)</li> <li>[Gebruiken [!DNL Adobe Asset Link]](/help/using/integration.md#integrations)</ul></ul> |
-| Zoeken naar elementen in de repository | <ul> <li>[Zoeken in een specifieke map](/help/using/search.md#refine-search-results)</li> <li>[Opgeslagen zoekopdrachten](/help/using/search.md#saved-search)</li> <li>[Zoeken naar onlangs weergegeven elementen](/help/using/search.md)</li> <li>[Volledige tekst zoeken](/help/using/search.md) |
-| Elementen downloaden | <ul> <li> [Voorvertoning van element](/help/using/navigate-view.md#preview-assets) </li> <li> [Elementen downloaden](/help/using/manage-organize.md#download) <li> [Uitvoeringen downloaden](/help/using/add-delete.md#renditions) </li></ul> |
-| Metagegevensbewerkingen | <ul> <li>[Gedetailleerde metagegevens weergeven](/help/using/metadata.md) </li> <li> [Metagegevens bijwerken](/help/using/metadata.md#update-metadata)</li> <li> [Nieuw metagegevensformulier maken](/help/using/metadata.md#metadata-forms) </li> </ul> |
-| Integratie met andere oplossingen | <ul> <li>[Asset Selector gebruiken in [!DNL Adobe Journey Optimizer]](/help/using/integration.md)</li> <li>[[!DNL Adobe Asset Link] for [!DNL Creative Cloud]](/help/using/integration.md)</li> <li>[Integratie met [!DNL Adobe Workfront]](/help/using/integration.md)</li> </ul> |
+| Bladeren en elementen weergeven | <ul> <li>[ doorbladert de bewaarplaats ](/help/using/navigate-view.md#view-assets-and-details) </li> <li> [ Voorproef een activa ](/help/using/navigate-view.md#preview-assets) <li> [ de vertoningen van de Mening van een activa ](/help/using/add-delete.md#renditions) </li> <li>[ de versies van de Mening van activa ](/help/using/manage-organize.md#view-versions)</li></ul> |
+| Nieuwe elementen toevoegen | <ul> <li>[ upload nieuwe activa en omslagen ](/help/using/add-delete.md#add-assets)</li> <li>[ de uploadt van de Monitor vooruitgang en beheert uploads ](/help/using/add-delete.md#upload-progress)</li> <li>[ los duplicaten ](/help/using/add-delete.md#resolve-upload-fails) op</li> </ul> |
+| Elementen of gerelateerde informatie bijwerken | <ul> <li>[ geeft beelden ](/help/using/edit-images.md) uit</li> <li>[ creeer versies ](/help/using/manage-organize.md#create-versions) en [ meningsversies ](/help/using/manage-organize.md#view-versions)</li> <li>[ geeft beelden ](/help/using/edit-images.md) uit</li> </ul> |
+| Elementen bewerken | <ul> <li>[ In-browser geeft uit gebruikend Adobe Photoshop Express ](/help/using/edit-images.md)</li> <li>[ Gewas voor een sociaal media profiel ](/help/using/edit-images.md#crop-straighten-images)</li> <li>[ Mening en beheer versies ](/help/using/manage-organize.md#view-versions)</li> <li>[ Gebruik  [!DNL Adobe Asset Link]](/help/using/integration.md#integrations)</ul></ul> |
+| Zoeken naar elementen in de repository | <ul> <li>[ Onderzoek binnen een specifieke omslag ](/help/using/search.md#refine-search-results)</li> <li>[ Bewaarde onderzoeken ](/help/using/search.md#saved-search)</li> <li>[ Onderzoek naar onlangs bekeken activa ](/help/using/search.md)</li> <li>[ full-text onderzoek ](/help/using/search.md) |
+| Elementen downloaden | <ul> <li> [ activa van de Voorproef ](/help/using/navigate-view.md#preview-assets) </li> <li> [ de activa van de Download ](/help/using/manage-organize.md#download) <li> [ de vertoningen van de Download ](/help/using/add-delete.md#renditions) </li></ul> |
+| Metagegevensbewerkingen | <ul> <li>[ Gedetailleerde meta-gegevens van de Mening ](/help/using/metadata.md) </li> <li> [ meta-gegevens van de Update ](/help/using/metadata.md#update-metadata)</li> <li> [ creeer nieuwe meta-gegevensvorm ](/help/using/metadata.md#metadata-forms) </li> </ul> |
+| Integratie met andere oplossingen | <ul> <li>[ de Kiezer van Activa van het Gebruik in  [!DNL Adobe Journey Optimizer]](/help/using/integration.md)</li> <li>[[!DNL Adobe Asset Link]  for  [!DNL Creative Cloud]](/help/using/integration.md)</li> <li>[ Integratie met  [!DNL Adobe Workfront]](/help/using/integration.md)</li> </ul> |
 
 ## Volgende stappen {#next-steps}
 
-* [Bekijk een video om aan de slag te gaan met Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)
+* [ bekijk een video om met Assets Essentials te beginnen ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)
 
-* Feedback geven op het product met de [!UICONTROL Feedback] -optie beschikbaar in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface van Assets Essentials
 
-* Documentfeedback geven met [!UICONTROL Edit this page] ![de pagina bewerken](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![een GitHub-probleem maken](assets/do-not-localize/github-issue.png) beschikbaar op de rechterzijbalk
+* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* Contact [Klantenservice](https://experienceleague.adobe.com/?support-solution=General#support)
+* De Zorg van de Klant van het contact ](https://experienceleague.adobe.com/?support-solution=General#support)[
 
 
 <!--TBD: Merge the below rows in the table when the use cases are documented/available.
@@ -91,8 +91,8 @@ To provide feedback for documentation, click [!UICONTROL Edit this page] ![edit 
 
 >[!MORELIKETHIS]
 >
->* [De gebruikersinterface begrijpen](/help/using/navigate-view.md).
->* [Opmerkingen bij de release en bekende problemen](/help/using/release-notes.md).
+>* [ begrijp het gebruikersinterface ](/help/using/navigate-view.md).
+>* [ de nota&#39;s van de Versie en bekende kwesties ](/help/using/release-notes.md).
 
 <!-- TBD: 
 >* [Supported file types](/help/using/supported-file-formats.md).

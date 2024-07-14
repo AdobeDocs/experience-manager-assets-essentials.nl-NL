@@ -22,14 +22,14 @@ ht-degree: 20%
 + [Overzicht van oplossing](introduction.md)
 + [Release-opmerkingen](release-notes.md)
 + [Beveiliging](security-overview.md)
-+ [Mijn werkruimte](my-workspace.md)
++ [Mijn Workspace](my-workspace.md)
 + Aan de slag met Assets Essentials voor beheerders {#get-started-admins}
    + [Gebruikers beheren en toevoegen](deploy-administer.md)
-   + Maptoegang beheren{#folder-access}
+   + Maptoegang beheren {#folder-access}
       + [Mapmachtigingen beheren](manage-permissions.md)
       + [Tips en trucs voor het beheer van machtigingen](permission-management-best-practices.md)
-   + [Beheerderstraject voor Assets Essentials voor Creative Cloud Pro met oplossingen voor werkbeheer](assets-essentials-cc-pro-work-management-admin-journey.md)
-+ [Aan de slag met [!DNL Assets Essentials]](get-started.md)
+   + [ reis van de Beheerder voor Assets Essentials voor Creative Cloud Pro met de Oplossingen van het Beheer van het Werk ](assets-essentials-cc-pro-work-management-admin-journey.md)
++ [Aan de slag met  [!DNL Assets Essentials]](get-started.md)
 + [Ondersteunde bestandstypen en gebruiksgevallen](supported-file-formats.md)
 + [Elementen weergeven](navigate-view.md)
 + [Elementen uploaden en toevoegen](add-delete.md)
@@ -50,4 +50,4 @@ ht-degree: 20%
    + [Integreren met Adobe Workfront](integrate-with-workfront.md)
 + Integratie met Creative Cloud {#integration-with-creative-cloud}
    + [AEM Assets verbinden met Creative Cloud](connect-assets-with-creative-cloud.md)
-+ [Video&#39;s](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
++ [ Video&#39;s ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)

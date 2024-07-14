@@ -15,11 +15,11 @@ Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Expe
 
 ## Toegangsrapporten {#access-reports}
 
-Alle gebruikers die zijn toegewezen aan de [Productprofiel Assets Essentials-beheerders](deploy-administer.md) U kunt het dashboard van Inzichten openen of user-defined rapporten in Assets Essentials tot stand brengen.
+Alle gebruikers die aan het [ het productprofiel van de Beheerders van Assets Essentials ](deploy-administer.md) worden toegewezen kunnen tot het dashboard van Inzichten toegang hebben of user-defined rapporten in Assets Essentials tot stand brengen.
 
-Ga naar om rapporten te openen **[!UICONTROL Reports]** krachtens **[!UICONTROL Settings]**.
+Navigeer naar **[!UICONTROL Reports]** onder **[!UICONTROL Settings]** om rapporten te openen.
 
-![Rapporten](assets/reports.png)
+![ Rapporten ](assets/reports.png)
 <!--
 In the **[!UICONTROL Reports]** screen, various components are shown in the tabular format which includes the following:
 
@@ -42,24 +42,24 @@ Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgevin
 
 <!--![Toolbar options when you select an asset](assets/assets-essentials-live-statistics.png)-->
 
-Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde grafieken weergeven in het linkernavigatiegebied:
+Klik op **[!UICONTROL Insights]** beschikbaar in het linkernavigatievenster om de volgende automatisch gegenereerde grafieken weer te geven:
 
-* **Downloads**: Het aantal elementen dat in de laatste 30 dagen of twaalf maanden in de omgeving van de Assets Essentials is gedownload, uitgedrukt aan de hand van een lijndiagram.
-  ![downloads](/help/using/assets/insights-downloads2341.svg)
+* **Downloads**: Het aantal activa die van het milieu van Assets Essentials in de laatste 30 dagen of 12 maanden worden gedownload vertegenwoordigden gebruikend een lijngrafiek.
+  ![ downloads ](/help/using/assets/insights-downloads2341.svg)
 
-* **Uploads**: Het aantal elementen dat in de laatste 30 dagen of twaalf maanden in de omgeving van de Assets Essentials is geüpload, uitgedrukt aan de hand van een lijndiagram.
-  ![uploads](/help/using/assets/insights-uplods2.svg)
+* **uploadt**: Het aantal activa die aan het milieu van Assets Essentials in de laatste 30 dagen of 12 maanden worden geupload vertegenwoordigden gebruikend een lijngrafiek.
+  ![ uploadt ](/help/using/assets/insights-uplods2.svg)
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
-* **Opslaggebruik**: Het opslaggebruik, in bytes, voor het milieu van Assets Essentials dat gebruikend een bar grafiek wordt vertegenwoordigd.
-  ![opslaggebruik](/help/using/assets/insights-storage-usage1.svg)
+* **gebruik van de Opslag**: Het opslaggebruik, in bytes, voor het milieu van Assets Essentials dat gebruikend een staafdiagram wordt vertegenwoordigd.
+  ![ opslaggebruik ](/help/using/assets/insights-storage-usage1.svg)
   <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
-* **Meest gebruikte zoekopdrachten**: Bekijk de belangrijkste gezochte termen samen met het aantal keren dat deze termen binnen uw Assets Essentials-omgeving zijn doorzocht in de laatste 30 dagen of 12 maanden, weergegeven in een tabelindeling.
-  ![opslaggebruik](/help/using/assets/insights-top-search.svg)
+* **Hoogste Zoekopdrachten**: De hoogste gezochte termijnen van de mening samen met het aantal tijden die termijnen binnen uw milieu van Assets Essentials in de laatste 30 dagen of 12 maanden worden gezocht die maanden in een tabelformaat worden vertegenwoordigd.
+  ![ opslaggebruik ](/help/using/assets/insights-top-search.svg)
 
   <!--
    ![Insights](assets/insights1.png)
@@ -70,13 +70,13 @@ Klikken **[!UICONTROL Insights]** U kunt de volgende automatisch gegenereerde gr
 
 Een downloadrapport maken:
 
-1. Navigeren naar **[!UICONTROL Settings]** > **[!UICONTROL Reports]** en klik op **[!UICONTROL Create Report]**.
+1. Navigeer naar **[!UICONTROL Settings]** > **[!UICONTROL Reports]** en klik op **[!UICONTROL Create Report]** .
 
-1. In de [!UICONTROL Configuration] tab, specificeer het rapporttype als **[!UICONTROL Download]**.
+1. Geef op het tabblad [!UICONTROL Configuration] het rapporttype op als **[!UICONTROL Download]** .
 
 1. Geef een titel en een optionele beschrijving voor het rapport op.
 
-1. Selecteer het mappad, waarin de elementen staan waarmee het rapport moet worden uitgevoerd. Gebruik hiervoor de optie **[!UICONTROL Select Folder Path]** veld.
+1. Selecteer met behulp van het veld **[!UICONTROL Select Folder Path]** het mappad met de elementen waarop het rapport moet worden uitgevoerd.
 
 1. Selecteer het datuminterval voor het rapport.
 
@@ -84,11 +84,11 @@ Een downloadrapport maken:
    >
    > Assets Essentials zetten alle lokale tijdzones om in UTC (Coordinated Universal Time).
 
-1. In de [!UICONTROL Columns] selecteert u de kolomnamen die u in het rapport wilt weergeven.
+1. Selecteer op het tabblad [!UICONTROL Columns] de kolomnamen die u in het rapport wilt weergeven.
 
 1. Klikken **[!UICONTROL Create]**
 
-   ![Rapport downloaden](assets/download-reports-config.png)
+   ![ Rapport van de Download ](assets/download-reports-config.png)
 
 De volgende lijst verklaart het gebruik van alle kolommen die u aan het rapport kunt toevoegen:
 
@@ -149,21 +149,21 @@ De volgende lijst verklaart het gebruik van alle kolommen die u aan het rapport 
 
 Een rapport voor uploaden maken:
 
-1. Navigeren naar **[!UICONTROL Settings]** > **[!UICONTROL Reports]** en klik op **[!UICONTROL Create Report]**.
+1. Navigeer naar **[!UICONTROL Settings]** > **[!UICONTROL Reports]** en klik op **[!UICONTROL Create Report]** .
 
-1. In de [!UICONTROL Configuration] tab, specificeer het rapporttype als **[!UICONTROL Upload]**.
+1. Geef op het tabblad [!UICONTROL Configuration] het rapporttype op als **[!UICONTROL Upload]** .
 
 1. Geef een titel en een optionele beschrijving voor het rapport op.
 
-1. Selecteer het mappad, waarin de elementen staan waarmee het rapport moet worden uitgevoerd. Gebruik hiervoor de optie **[!UICONTROL Select Folder Path]** veld.
+1. Selecteer met behulp van het veld **[!UICONTROL Select Folder Path]** het mappad met de elementen waarop het rapport moet worden uitgevoerd.
 
 1. Selecteer het datuminterval voor het rapport.
 
-1. In de [!UICONTROL Columns] selecteert u de kolomnamen die u in het rapport wilt weergeven.
+1. Selecteer op het tabblad [!UICONTROL Columns] de kolomnamen die u in het rapport wilt weergeven.
 
 1. Klik op **[!UICONTROL Create]**.
 
-   ![Rapport uploaden](assets/upload-reports-config.png)
+   ![ upload Rapport ](assets/upload-reports-config.png)
 
 De volgende lijst verklaart het gebruik van alle kolommen die u aan het rapport kunt toevoegen:
 
@@ -210,15 +210,15 @@ De volgende lijst verklaart het gebruik van alle kolommen die u aan het rapport 
 
 ## Bestaande rapporten weergeven {#view-report-list}
 
-Na [opstellen van het rapport](#create-download-report)kunt u de lijst met bestaande rapporten weergeven en deze downloaden in CSV-indeling of verwijderen.
+Na [ creërend het rapport ](#create-download-report), kunt u de lijst van bestaande rapporten bekijken en selecteren om hen in een formaat te downloaden CSV of hen te schrappen.
 
-Als u de lijst met rapporten wilt weergeven, navigeert u naar **[!UICONTROL Settings]** > **[!UICONTROL Reports]**.
+Navigeer naar **[!UICONTROL Settings]** > **[!UICONTROL Reports]** om de lijst met rapporten weer te geven.
 
 Voor elk rapport, kunt u rapporttitel, het type van het rapport, gespecificeerde beschrijving bekijken terwijl het creëren van het rapport, status van het rapport, e-mailidentiteitskaart van de auteur die het rapport creeerde, en de datum van de rapportverwezenlijking.
 
-`Completed ` de status van het rapport geeft aan dat het rapport klaar is om te worden gedownload .
+`Completed ` status van het rapport geeft aan dat het rapport gereed is voor downloaden.
 
-![Lijst van verslagen](assets/list-of-reports.png)
+![ Lijst van rapporten ](assets/list-of-reports.png)
 
 
 ## Een CSV-rapport downloaden {#download-csv-report}
@@ -227,9 +227,9 @@ Een rapport in CSV-indeling downloaden:
 
 1. Ga naar **[!UICONTROL Settings]** > **[!UICONTROL Reports]**.
 
-1. Selecteer een rapport en klik op **[!UICONTROL Download CSV]**.
+1. Selecteer een rapport en klik op **[!UICONTROL Download CSV]** .
 
-Het geselecteerde rapport wordt gedownload in CSV-indeling. De kolommen die in het CSV-rapport worden weergegeven, zijn afhankelijk van de kolommen die u selecteert terwijl [opstellen van het rapport](#create-download-report).
+Het geselecteerde rapport wordt gedownload in CSV-indeling. De kolommen die in het CSV-rapport worden weergegeven, zijn afhankelijk van de kolommen die u selecteert terwijl [ het rapport ](#create-download-report) maakt.
 
 ## Een rapport verwijderen {#delete-report}
 
@@ -237,6 +237,6 @@ Een rapport verwijderen:
 
 1. Ga naar **[!UICONTROL Settings]** > **[!UICONTROL Reports]**.
 
-1. Selecteer een rapport en klik op **[!UICONTROL Delete]**.
+1. Selecteer een rapport en klik op **[!UICONTROL Delete]** .
 
-1. Klikken **[!UICONTROL Delete]** nogmaals ter bevestiging.
+1. Klik nogmaals op **[!UICONTROL Delete]** om te bevestigen.
