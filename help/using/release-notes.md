@@ -4,18 +4,28 @@ description: Opmerkingen bij de release en bekende problemen van  [!DNL Assets E
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: eac31e102b9e26241cd513b1aeb8774802120a9d
+source-git-commit: 323e1ebd3ee81dfae0d15dc4120997ae3c4798b9
 workflow-type: tm+mt
-source-wordcount: '2891'
+source-wordcount: '2964'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release van [!DNL Assets Essentials] {#release-notes}
 
-De huidige release van Assets Essentials wordt gepubliceerd op 18 april 2024.
+De huidige release van Assets Essentials wordt gepubliceerd op 25 juli 2024.
 
 Enkele onlangs toegevoegde eigenschappen omvatten:
+
+**de integratie van Content credentials**
+
+Experience Manager Assets ondersteunt nu content credentials voor ondersteunde afbeeldingsindelingen. Dit biedt informatie over de relatie tussen het actief en de manier waarop het is gemaakt, inclusief of het is gewijzigd met behulp van GenAI.
+
+![ Content credentials ](/help/using/assets/content-credentials.png)
+
+**Visuele voorproeven van omslaginhoud**
+
+Experience Manager Assets geeft nu visuele voorvertoningen van de inhoud van de map weer op de miniatuur van de map wanneer u naar inhoud bladert of zoekt, waardoor de beschikbare middelen in de AEM Assets-opslagruimte beter kunnen worden ontdekt.
 
 **Contextual Onderzoek**
 
