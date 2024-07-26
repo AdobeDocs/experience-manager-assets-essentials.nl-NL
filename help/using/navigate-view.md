@@ -3,7 +3,7 @@ title: "[!DNL Assets Essentials] gebruikersinterface"
 description: Begrijp gebruikersinterface van en navigatie in  [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 8debab75bb335d4a81279c9c0e84229c3b3ca2cd
+source-git-commit: 5abb9a2ca6136c08479f9a48855522f4fd982e95
 workflow-type: tm+mt
 source-wordcount: '1017'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Wanneer u zich aanmeldt bij [!DNL Assets Essentials] , ziet u de volgende interf
 
 ## Door elementen en mappen bladeren en deze weergeven {#browse-repository}
 
-U kunt door de mappen bladeren vanuit de hoofdgebruikersinterface of vanuit de linkerzijbalk. Experience Manager Assets geeft nu visuele voorvertoningen van de inhoud van de map weer op de miniatuur van de map wanneer u naar inhoud bladert of zoekt, waardoor de beschikbare middelen in de AEM Assets-opslagruimte beter kunnen worden ontdekt. Met deze mapminiatuur bespaart u tijd die u hebt besteed aan het zoeken naar specifieke middelen in een map in de AEM Assets-opslagruimte.
+U kunt door de mappen bladeren vanuit de hoofdgebruikersinterface of vanuit de linkerzijbalk. Experience Manager Assets geeft nu visuele voorvertoningen van de inhoud van de map weer op de miniatuur van de map wanneer u naar inhoud bladert of zoekt, waardoor de beschikbare middelen in de AEM Assets-opslagruimte beter kunnen worden ontdekt. Met deze mapminiatuur bespaart u tijd die u hebt besteed aan het zoeken naar specifieke middelen in een map in AEM Assets Repository.
 Wanneer u door elementen in een map bladert, kunt u met de interface elementminiaturen weergeven om visueel door de opslagplaats te bladeren of elementdetails te bekijken om snel het gewenste element te vinden. In de linkerzijbalk zijn de volgende opties beschikbaar:
 
 * [ Mijn Workspace ](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en): Assets omvat nu een klantgerichte werkruimte die widgets voor gemakkelijke toegang tot zeer belangrijke gebieden van het gebruikersinterface van Assets en informatie verstrekt die voor u het meest relevant is. Deze pagina dient als een one-stop oplossing om een overzicht van uw het werkpunten te verstrekken en snelle toegang tot zeer belangrijke werkschema&#39;s te geven. Een handiger toegang tot deze opties verhoogt de efficiëntie en snelheid van de inhoud.
