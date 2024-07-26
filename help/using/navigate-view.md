@@ -3,9 +3,9 @@ title: "[!DNL Assets Essentials] gebruikersinterface"
 description: Begrijp gebruikersinterface van en navigatie in  [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 8620efd0430d230338ef8005847de498a5a95a7e
+source-git-commit: c6b04d1882347a4647a690939353856844b2a27a
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '1017'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,8 @@ Wanneer u zich aanmeldt bij [!DNL Assets Essentials] , ziet u de volgende interf
 
 ## Door elementen en mappen bladeren en deze weergeven {#browse-repository}
 
-U kunt door de mappen bladeren vanuit de hoofdgebruikersinterface of vanuit de linkerzijbalk. Wanneer u bladert, kunt u de interface gebruiken om elementminiaturen weer te geven en visueel door de opslagplaats te bladeren of elementdetails weer te geven om snel het gewenste element te vinden. In de linkerzijbalk zijn de volgende opties beschikbaar:
+U kunt door de mappen bladeren vanuit de hoofdgebruikersinterface of vanuit de linkerzijbalk. Experience Manager Assets geeft nu visuele voorvertoningen van de inhoud van de map weer op de miniatuur van de map wanneer u naar inhoud bladert of zoekt, waardoor de beschikbare middelen in de AEM Assets-opslagruimte beter kunnen worden ontdekt. Met deze mapminiatuur bespaart u tijd die u hebt besteed aan het zoeken naar specifieke middelen in een map in de AEM Assets-opslagruimte.
+Wanneer u door elementen in een map bladert, kunt u met de interface elementminiaturen weergeven om visueel door de opslagplaats te bladeren of elementdetails te bekijken om snel het gewenste element te vinden. In de linkerzijbalk zijn de volgende opties beschikbaar:
 
 * [ Mijn Workspace ](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en): Assets omvat nu een klantgerichte werkruimte die widgets voor gemakkelijke toegang tot zeer belangrijke gebieden van het gebruikersinterface van Assets en informatie verstrekt die voor u het meest relevant is. Deze pagina dient als een one-stop oplossing om een overzicht van uw het werkpunten te verstrekken en snelle toegang tot zeer belangrijke werkschema&#39;s te geven. Een handiger toegang tot deze opties verhoogt de efficiëntie en snelheid van de inhoud.
 * [ Taken ](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en): U kunt de taken bekijken die aan u onder **worden toegewezen Mijn taken** tabel. Terwijl, de taken die door u worden gecreeerd onder **kunnen worden bekeken Toegewezen taken** tabel. Bovendien, worden de taken die u voltooit gevestigd onder **Voltooide taken** tabel.
@@ -63,7 +64,7 @@ In [!DNL Assets Essentials] kunt u elementen, mappen en zoekresultaten weergeven
 
 Als u een element wilt zoeken, kunt u de elementen in oplopende of aflopende volgorde sorteren: `Name`, `Relevancy`, `Size`, `Modified` en `Created` .
 
-Als u naar een map wilt navigeren, dubbelklikt u op de miniaturen van de map of selecteert u de map in de linkerzijbalk. Als u de details van een map wilt weergeven, selecteert u de map en klikt u op Details op de werkbalk boven in het scherm. Als u omhoog en omlaag wilt navigeren in de hiërarchie, gebruikt u de linkerzijbalk of de broodkruimels bovenaan.
+Als u in een map wilt navigeren, dubbelklikt u op de miniaturen van de map of selecteert u de map in de linkerzijbalk. Als u de details van een map wilt weergeven, selecteert u de map en klikt u op Details op de werkbalk boven in het scherm. Als u omhoog en omlaag wilt navigeren in de hiërarchie, gebruikt u de linkerzijbalk of de broodkruimels bovenaan.
 
 ![ doorbladert omslagen ](assets/browsing-folders.png)
 
