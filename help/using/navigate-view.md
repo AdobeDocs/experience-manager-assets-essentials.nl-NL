@@ -3,7 +3,7 @@ title: "[!DNL Assets Essentials] gebruikersinterface"
 description: Begrijp gebruikersinterface van en navigatie in  [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: c6b04d1882347a4647a690939353856844b2a27a
+source-git-commit: 8debab75bb335d4a81279c9c0e84229c3b3ca2cd
 workflow-type: tm+mt
 source-wordcount: '1017'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Wanneer u door elementen in een map bladert, kunt u met de interface elementmini
 
 U kunt de linkerzijbalk openen of samenvouwen om het beschikbare gebied voor middelenweergave te vergroten.
 
-In [!DNL Assets Essentials] kunt u elementen, mappen en zoekresultaten weergeven in vier verschillende typen indelingen.
+In [!DNL Assets Essentials] kunt u elementen, mappen en zoekresultaten weergeven in vier verschillende typen indelingen:
 
 * ![ pictogram van de lijstmening ](assets/do-not-localize/list-view.png) [!UICONTROL List View]
 * ![ pictogram van de netmening ](assets/do-not-localize/grid-view.png) [!UICONTROL Grid View]
