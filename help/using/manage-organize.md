@@ -4,9 +4,9 @@ description: Verplaats, schrap, kopieer, hernoem, werk, en versie uw activa in  
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: a49bfcdf3dbd6601ed15ae8a3309922c0483b3d7
+source-git-commit: ce92eb58ede5d1ebbe88a98bfa7629532396f3be
 workflow-type: tm+mt
-source-wordcount: '1165'
+source-wordcount: '1192'
 ht-degree: 0%
 
 ---
@@ -132,6 +132,7 @@ De elementstatus instellen:
 1. Selecteer het element en klik op **[!UICONTROL Details]** op de werkbalk.
 
 1. Selecteer op het tabblad **[!UICONTROL Basic]** de elementstatus in de vervolgkeuzelijst **[!UICONTROL Status]** . Mogelijke waarden zijn Goedgekeurd, Afgewezen en Geen status (standaardwaarde).
+Als u Dynamic Media met OpenAPI-mogelijkheden hebt ingericht voor uw omgeving, genereert Experience Manager Assets een openbare URL zodra u het element markeert als `Approved` .
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
