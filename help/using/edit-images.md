@@ -3,16 +3,18 @@ title: Afbeeldingen bewerken
 description: Bewerk beelden gebruikend  [!DNL Adobe Express]  aangedreven opties en sparen bijgewerkte beelden als versies.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
+source-git-commit: 65e9f9414fe71d9e9add9b794856d77f87aed086
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1170'
 ht-degree: 0%
 
 ---
 
 # Afbeeldingen bewerken in [!DNL Assets Essentials] {#edit-images-in-assets-essentials}
 
-De gebruikersinterface van Assets Essentials maakt basisbewerkingen voor afbeeldingen mogelijk, zoals vergroten/verkleinen, verwijderen van de achtergrond, uitsnijden en omzetten tussen de indelingen JPEG en PNG. Bovendien is geavanceerde bewerking mogelijk dankzij integratie met Adobe Express. Nadat u een afbeelding hebt bewerkt, kunt u de nieuwe afbeelding opslaan als een nieuwe versie. Met Versioning kunt u het oorspronkelijke element later herstellen als dat nodig is. Om een beeld uit te geven, [ open zijn voorproef ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) en klik **geef Beeld** uit.
+De interface Assets Essentials maakt basisbewerkingen van afbeeldingen mogelijk die worden aangedreven door Adobe Express en die zijn geïntegreerd in de gebruikersinterface. Deze bewerking omvat het wijzigen van het formaat, het verwijderen van de achtergrond, het uitsnijden en het omzetten tussen de JPEG- en PNG-indeling. Bovendien, staat het geavanceerde het uitgeven door de interface van de Adobe Express toe ingebed binnen de Hoofdzaak UI.
+
+Nadat u een afbeelding hebt bewerkt, kunt u de nieuwe afbeelding opslaan als een nieuwe versie. Met Versioning kunt u het oorspronkelijke element later herstellen als dat nodig is. Om een beeld uit te geven, [ open zijn voorproef ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) en klik **geef Beeld** uit.
 
 >[!NOTE]
 >
@@ -22,23 +24,23 @@ De gebruikersinterface van Assets Essentials maakt basisbewerkingen voor afbeeld
 
 ## Afbeeldingen bewerken {#edit-images}
 
-Land op Assets Essentials UI, die verbinding gebruiken - [ Assets Essentials UI ](https://experience.adobe.com/#/assets) en de juiste bewaarplaats selecteren. Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
-Voor om het even welke extra verwijzingsinformatie verwijs - [ wordt begonnen Adobe Experience Manager Assets Essentials ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started) te gebruiken, [ begrip van het gebruikersinterface ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [ de essentiële gebruiksgevallen van Assets ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) en [ bekende kwesties ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
+Ga naar Assets Essentials UI, gebruikend de verbinding - [ Assets Essentials UI ](https://experience.adobe.com/#/assets) en het selecteren van de juiste bewaarplaats. Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
+Voor om het even welke extra verwijzingsinformatie verwijs - [ wordt begonnen Adobe Experience Manager Assets Essentials ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started) te gebruiken, [ begrip van het gebruikersinterface ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [ Assets Essentials gebruiken gevallen ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) en [ bekende kwesties ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
 
-### Afbeeldingen bewerken met Adobe Express {#edit-images-using-adobe-express}
+### Afbeelding bewerken in de gebruikersinterface Essentiële elementen met behulp van Adobe Express{#edit-images-using-adobe-express}
 
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
 >title="Adobe Express-integratie"
 >abstract="Eenvoudig en intuïtief gereedschap voor het bewerken van afbeeldingen, aangedreven door Adobe Express die rechtstreeks in AEM Assets beschikbaar is, om het hergebruik van inhoud te verhogen en de snelheid van de inhoud te versnellen."
 
-Na het landen op Hoofdzaak UI, klik **Assets**, selecteer een beeld, en klik dan **uitgeven** van de hoogste spoorstaaf. In het nieuwe scherm worden de beschikbare bewerkingsopties weergegeven, zoals vergroten/verkleinen, verwijderen van de achtergrond, uitsnijden en omzetten tussen de JPEG- en PNG-indeling.
+Na het landen op Hoofdzaak UI, klik **Assets**, selecteer een beeld, en klik dan **uitgeven** van de hoogste spoorstaaf. In het nieuwe scherm worden de beschikbare bewerkingsopties weergegeven die worden aangedreven door Adobe Express. Deze opties omvatten formaatwijziging, verwijdering van de achtergrond, bijsnijden en converteren tussen de JPEG- en PNG-indeling.
 
 #### Grootte afbeelding wijzigen {#resize-image-using-express}
 
-Een afbeelding vergroten of verkleinen tot een bepaalde grootte is een veelgebruikte optie. Met Assets Essentials kunt u snel de grootte van afbeeldingen aanpassen aan de gebruikelijke fotoformaten. Zo beschikt u over vooraf berekende nieuwe resoluties voor specifieke fotoformaten. Voer de onderstaande stappen uit om het formaat van de afbeelding te wijzigen met behulp van Assets Essentials:
+Een afbeelding vergroten of verkleinen tot een bepaalde grootte is een veelgebruikte optie. Met Assets Essentials kunt u snel de grootte van afbeeldingen aanpassen aan de gebruikelijke fotoformaten. Zo beschikt u over vooraf berekende nieuwe resoluties voor specifieke fotoformaten. Voer de volgende stappen uit om het formaat van de afbeelding te wijzigen binnen de interface Assets Essentials:
 
-1. Klik **Resize Beeld** van de linkerruit.
+1. Klik **Resize Beeld** van de linkerruit. In een dialoogvenster ziet u de mogelijkheden voor het wijzigen van de grootte van afbeeldingen op basis van Adobe Express.
 2. Selecteer het juiste sociale-mediaplatform in de vervolgkeuzelijst Formaat wijzigen en selecteer de afbeeldingsgrootte in de weergegeven opties.
 3. Schaal het beeld, indien vereist, gebruikend het **gebied van de Schaal van het Beeld**.
 4. Klik **toepassen** om uw veranderingen toe te passen.
@@ -67,7 +69,7 @@ U kunt een afbeelding eenvoudig transformeren tot een perfecte grootte met inges
    ![ sparen beeld met Adobe Express ](/help/using/assets/adobe-express-crop-image.png)
 De uitgesneden afbeelding kan worden gedownload. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element.
 
-#### Omzetten tussen afbeeldingsbestandstypen {#convert-image-types-using-express}
+#### JPEG omzetten in PNG {#Convert-JPEG-to-PNG}
 
 U kunt met Adobe Express snel JPEG- en PNG-afbeeldingsindelingen omzetten. Voer de volgende stappen uit:
 
@@ -82,34 +84,29 @@ U kunt met Adobe Express snel JPEG- en PNG-afbeeldingsindelingen omzetten. Voer 
 
 ### Afbeeldingen bewerken in ingesloten Adobe Express-editor {#edit-images-in-adobe-express-embedded-editor}
 
-Gebruikers met Express-machtiging kunnen de ingesloten Express-editor vanuit de gebruikersinterface van de Assets Essentials gebruiken om inhoud eenvoudig te bewerken en nieuwe inhoud te maken met GenAI vanaf de Adobe Firefly. Hiermee verbetert u het hergebruik van inhoud en versnelt u de snelheid van de inhoud. U kunt ook vooraf gedefinieerde elementen gebruiken om uw elementen er verbluffend uit te laten zien of snelle acties uitvoeren om uw afbeelding met slechts een paar klikken te bewerken.
+Gebruikers met Express-machtiging kunnen de ingesloten Express-editor vanuit de gebruikersinterface van de Assets Essentials gebruiken om de inhoud te bewerken en eenvoudig nieuwe inhoud te maken met GenAI vanuit de Adobe Firefly. Deze functie verbetert het hergebruik van inhoud en versnelt de snelheid van de inhoud. U kunt ook vooraf gedefinieerde elementen gebruiken om uw elementen er verbluffend uit te laten zien of snelle acties uitvoeren om uw afbeelding met slechts een paar klikken te bewerken.
 ![ uitdrukken in essentiële UI ](/help/using/assets/express-in-essentials-ui.jpg)
-Voer de onderstaande stappen uit als u afbeeldingen wilt bewerken met een ingesloten Adobe Express:
+Voer de volgende stappen uit om afbeeldingen te bewerken in een ingesloten Adobe Express:
 
-1. Land op aan de Hoofdzaak UI die van AEM Assets de verbinding gebruikt - [ Hoofdzaak UI van AEM Assets ](https://experience.adobe.com/#/assets) en selecteert de juiste bewaarplaats.
+1. Ga naar de Hoofdzaak UI van AEM Assets gebruikend de verbinding - [ Hoofdzaak UI van AEM Assets ](https://experience.adobe.com/#/assets) en selecteer de juiste bewaarplaats.
 1. Klik **Assets**, ga een omslag in, en selecteer een beeld.
 1. Klik **Open in Adobe Express**. De afbeelding wordt geopend op een express canvas.
 1. Breng de gewenste wijzigingen in de afbeelding aan.
 1. Als uw project u vereist om meer pagina&#39;s toe te voegen, **** klikt, selecteert activa, gaat een omslag in, selecteert een beeld om op de canvaspagina te brengen, en voert dan de vereiste uitgeeft aan het beeld uit.
-1. Om beeld(s) te bewaren, klik **sparen**. Het dialoogvenster Opslaan wordt weergegeven.
+1. Om één of meerdere activa te bewaren, klik **sparen**. In het dialoogvenster Opslaan worden de opslagopties weergegeven. Als u een keuze wilt maken tussen de opslagopties, volgt u een van de onderstaande instructies die op uw vereiste is afgestemd:
+   1. Om één enkele pagina te bewaren, klik **sparen als Versie** om het beeld als nieuwe versie (het behouden van het originele formaat) uit te voeren, en het te bewaren in de zelfde omslag.
 
-   >[!NOTE]
-   >
-   > **1. Voor één pagina**
-   >
-   > **sparen als Versie:** Deze eigenschap steunt het bewaren van één enkel middel slechts. Selecteer deze optie om de afbeelding als een nieuwe versie te exporteren (met behoud van de oorspronkelijke indeling) en deze op te slaan in dezelfde map.
-   > **sparen als Nieuw Activum:** selecteer deze optie om het middel in een verschillend formaat uit te voeren dan origineel en het te bewaren aan om het even welke omslag als nieuw middel.
-   >  
-   > **2. Voor meerdere pagina&#39;s**
-   >
-   > **sparen als Versie:** Deze eigenschap steunt het bewaren van één enkel middel slechts. Als u één pagina van veelvoudige pagina&#39;s wilt bewaren, selecteer deze optie om het middel in zijn originele formaat en plaats op te slaan.\
-   > **sparen als Nieuw Middel:** met deze optie, voert u of veelvoudige activa of één enkel middel naar om het even welke omslag uit en bewaart hen als nieuw(e) element(en) met hun dossierformaat als origineel of verschillend.
+   1. Om één enkele pagina te bewaren, klik **sparen als nieuw Middel** om de activa in een verschillend formaat uit te voeren en het te bewaren aan om het even welke omslag als nieuw middel.
+
+   1. Om één enkele pagina van veelvoudige pagina&#39;s te bewaren, klik **sparen als Versie** om de activa in zijn origineel formaat en plaats te bewaren.
+
+   1. Om veelvoudige pagina&#39;s of één enkele pagina onder veelvoudige pagina&#39;s te bewaren, klik **sparen als Nieuwe Activa**. Met deze actie exporteert u de enkele of meerdere elementen naar een willekeurige map en slaat u deze op als nieuwe elementen of elementen in de oorspronkelijke of een andere indeling.
 
 1. In het dialoogvenster Opslaan:
    1. Ga een naam voor het dossier op **sparen als** gebied in.
    1. Selecteer een doelmap.
    1. Optioneel: geef details op, zoals de naam van het project of de campagne, trefwoorden, kanalen, het tijdframe en het gebied.
-1. Klik **sparen als versie** of **sparen als nieuw activa** om de activa (s) te bewaren.
+1. Klik **sparen als versie** of **sparen als nieuwe activa** om één of meerdere activa te bewaren.
 
 #### Beperkingen bij het bewerken van afbeeldingen in de Express Editor {#limitations-of-editing-images-in-the-express-editor}
 
@@ -120,7 +117,7 @@ Voer de onderstaande stappen uit als u afbeeldingen wilt bewerken met een ingesl
 
 ### Nieuwe elementen maken met Adobe Express {#create-new-assets-using-embedded-editor}
 
-Met Assets Essentials kunt u een geheel nieuwe sjabloon maken met een ingesloten Adobe Express-editor. Voer de volgende stappen uit om een nieuw element te maken met behulp van Adobe Express:
+Met Assets Essentials kunt u een geheel nieuwe sjabloon maken met de ingesloten Adobe Express-editor. Voer de volgende stappen uit om een nieuw element te maken met behulp van Adobe Express:
 
 1. Navigeer aan **Mijn Workspace** en klik **creeer** binnen de banner van de Adobe Express die binnen de Adobe Express bij de bovenkant toont. Adobe Express leeg canvas wordt weergegeven in de gebruikersinterface van Assets Essentials.
 1. Creeer uw inhoud gebruikend [ Malplaatjes ](https://helpx.adobe.com/in/express/using/work-with-templates.html). Anders, navigeer aan Uw Stuff om bestaande inhoud te wijzigen.
