@@ -3,7 +3,7 @@ title: Afbeeldingen bewerken
 description: Bewerk beelden gebruikend  [!DNL Adobe Express]  aangedreven opties en sparen bijgewerkte beelden als versies.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 65e9f9414fe71d9e9add9b794856d77f87aed086
+source-git-commit: 56a2af8467f3e44855f26bd86a394c76e9f7ccf3
 workflow-type: tm+mt
 source-wordcount: '1170'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Voor om het even welke extra verwijzingsinformatie verwijs - [ wordt begonnen Ad
 >title="Adobe Express-integratie"
 >abstract="Eenvoudig en intuïtief gereedschap voor het bewerken van afbeeldingen, aangedreven door Adobe Express die rechtstreeks in AEM Assets beschikbaar is, om het hergebruik van inhoud te verhogen en de snelheid van de inhoud te versnellen."
 
-Na het landen op Hoofdzaak UI, klik **Assets**, selecteer een beeld, en klik dan **uitgeven** van de hoogste spoorstaaf. In het nieuwe scherm worden de beschikbare bewerkingsopties weergegeven die worden aangedreven door Adobe Express. Deze opties omvatten formaatwijziging, verwijdering van de achtergrond, bijsnijden en converteren tussen de JPEG- en PNG-indeling.
+Na het navigeren aan Hoofdzaak UI, klik **Assets**, selecteer een beeld, en klik dan **uitgeven** van de hoogste spoorstaaf. In het nieuwe scherm worden de beschikbare bewerkingsopties weergegeven die worden aangedreven door Adobe Express. Deze opties omvatten formaatwijziging, verwijdering van de achtergrond, bijsnijden en converteren tussen de JPEG- en PNG-indeling.
 
 #### Grootte afbeelding wijzigen {#resize-image-using-express}
 
