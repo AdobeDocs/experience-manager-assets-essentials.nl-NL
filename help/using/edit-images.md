@@ -3,7 +3,7 @@ title: Afbeeldingen bewerken
 description: Bewerk beelden gebruikend  [!DNL Adobe Express]  aangedreven opties en sparen bijgewerkte beelden als versies.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 56a2af8467f3e44855f26bd86a394c76e9f7ccf3
+source-git-commit: 53f638e0dc934f2a4134acb89713b5d4828c8d1f
 workflow-type: tm+mt
 source-wordcount: '1170'
 ht-degree: 0%
@@ -85,6 +85,7 @@ U kunt met Adobe Express snel JPEG- en PNG-afbeeldingsindelingen omzetten. Voer 
 ### Afbeeldingen bewerken in ingesloten Adobe Express-editor {#edit-images-in-adobe-express-embedded-editor}
 
 Gebruikers met Express-machtiging kunnen de ingesloten Express-editor vanuit de gebruikersinterface van de Assets Essentials gebruiken om de inhoud te bewerken en eenvoudig nieuwe inhoud te maken met GenAI vanuit de Adobe Firefly. Deze functie verbetert het hergebruik van inhoud en versnelt de snelheid van de inhoud. U kunt ook vooraf gedefinieerde elementen gebruiken om uw elementen er verbluffend uit te laten zien of snelle acties uitvoeren om uw afbeelding met slechts een paar klikken te bewerken.
+
 ![ uitdrukken in essentiële UI ](/help/using/assets/express-in-essentials-ui.jpg)
 Voer de volgende stappen uit om afbeeldingen te bewerken in een ingesloten Adobe Express:
 
