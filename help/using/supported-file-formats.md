@@ -4,9 +4,9 @@ description: Ondersteunde bestandsindelingen voor de verschillende gebruiksgeval
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: 243a41aef81cd1fdcbad8f4355fe2d888db394d1
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 [!DNL Assets Essentials] ondersteunt een groot aantal bestandsindelingen en elke functie biedt verschillende ondersteuning voor verschillende bestandstypen.
 
 * ![ het type van beelddossier pictogram ](assets/image-icon.svg) Beelden: JPG, PNG, GIF, TIFF, en anderen
-* ![ creatieve wolkentypepictogram ](assets/creative-cloud-files.svg) dossiers van het Creative Cloud: PSD, AI, en INDD
+* ![ creatieve wolkentypepictogram ](assets/creative-cloud-files.svg) dossiers van het Creative Cloud: PSD, PSB, AI, en INDD
 * ![ het pictogram van het cameratype ](assets/camera-icon.svg) Camera Raw dossiers: CR2/CR3, NEF, SRW/SRF en anderen
 * ![ het type van documentdossier pictogram ](assets/document-icon.svg) Documenten: DOCX, PDF, PPTX, en XLSX
 * ![ het type van videodossier pictogram ](assets/video-icon.svg) Video&#39;s: MP4
@@ -45,7 +45,7 @@ De verschillende bestandstypen bieden verschillende mate van ondersteuning voor 
 | Mappen | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
 | MP4-video&#39;s | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
 | PDF | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
-| PSD, AI en INDD | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
+| PSD, AI, PSB en INDD | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
 | Overige binaire bestanden | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
 
 <!-- Hiding CC Libraries (considered beta) as per PM feedback.
@@ -62,7 +62,7 @@ De verschillende bestandstypen bieden verschillende mate van ondersteuning voor 
 | Video&#39;s | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
 | CC Libraries | - | - | - | - | - | ✓ | ✓ |
 | PDF | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| PSD | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| PSD en PSB | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
 | AI en INDD | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
 | Overige binaire bestanden | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
 
@@ -77,7 +77,7 @@ De verschillende bestandstypen bieden verschillende mate van ondersteuning voor 
 | Video&#39;s | - | ✓ | ✓ |
 | CC Libraries | - | - | - |
 | PDF | - | ✓ | ✓ |
-| PSD, AI en INDD | - | ✓ | ✓ |
+| PSD, PSB, AI en INDD | - | ✓ | ✓ |
 | Overige binaire bestanden | - | ✓ | ✓ |
 | DOC | - | ✓ | ✓ |
 | DOCX | - | ✓ | ✓ |
@@ -98,7 +98,8 @@ De verschillende bestandstypen bieden verschillende mate van ondersteuning voor 
 | Video&#39;s | ✓ | - | ✓ | ✓ | ✓ |
 | CC Libraries | ✓ | - | - | - | - |
 | PDF | ✓ | - | ✓ | ✓ | ✓ |
-| PSD, AI en INDD | ✓ | - | ✓ | ✓ | ✓ |
+| AI en INDD | ✓ | - | ✓ | ✓ | ✓ |
+| PSD en PSB | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Overige binaire bestanden | ✓ | - | ✓ | ✓ | ✓ |
 
 Gebruikers van [!DNL Adobe Asset Link] kunnen bestanden uploaden en inchecken (een nieuwe versie uploaden) in de [!DNL Assets Essentials] -opslagplaats vanuit de ondersteunde [!DNL Adobe Creative Cloud] -bureaubladtoepassingen.
@@ -111,7 +112,7 @@ Gebruikers van [!DNL Adobe Asset Link] kunnen bestanden uploaden en inchecken (e
 | Videos        |          |
 | CC Libraries  |          |
 | PDF files     |          |
-| PSD           |          |
+| PSD, PSB           |          |
 | AI            |          |
 | INDD          |          |
 
