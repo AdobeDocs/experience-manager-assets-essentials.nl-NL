@@ -3,7 +3,7 @@ title: Middelen zoeken en ontdekken in  [!DNL Assets Essentials]
 description: Zoek en ontdek activa in  [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: a471074ec0eee8487222cc344046715ed5d90d0b
+source-git-commit: 6b6f898f2232a03c69a517c3d315d565253b37b7
 workflow-type: tm+mt
 source-wordcount: '1809'
 ht-degree: 0%
@@ -254,7 +254,7 @@ Toegang krijgen tot contextafhankelijke zoekopdrachten in Experience Manager Ass
 
 1. Definieer de tekstprompt in het tekstvak Zoeken en klik op **[!UICONTROL Contextual Search]** .
 
-   ![ Contextual de tekstherinnering van het Onderzoek ](/help/using/assets/contextual-search-text-prompt.png)
+   ![ Contextual de tekstherinnering van het Onderzoek ](/help/using/assets/wknd-contextual-search.png)
 
    [!DNL Experience Manager Assets] geeft de zoekresultaten weer.
 
