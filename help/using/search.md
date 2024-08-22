@@ -3,7 +3,7 @@ title: Middelen zoeken en ontdekken in  [!DNL Assets Essentials]
 description: Zoek en ontdek activa in  [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 6b6f898f2232a03c69a517c3d315d565253b37b7
+source-git-commit: ebd019640ddb984e0600fb4fb99b0f2d0afdba7d
 workflow-type: tm+mt
 source-wordcount: '1809'
 ht-degree: 0%
@@ -335,3 +335,4 @@ Als u moet verstrekken terugkoppelt op de Contextuele eigenschap van het Onderzo
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar.
 
 * De Zorg van de Klant van het contact ](https://experienceleague.adobe.com/?support-solution=General#support)[
+
