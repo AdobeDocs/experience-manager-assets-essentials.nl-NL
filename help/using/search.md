@@ -3,9 +3,9 @@ title: Middelen zoeken en ontdekken in  [!DNL Assets Essentials]
 description: Zoek en ontdek activa in  [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: ebd019640ddb984e0600fb4fb99b0f2d0afdba7d
+source-git-commit: 332a4842f6ae017b802fbd0edd75e74d6f2e8c97
 workflow-type: tm+mt
-source-wordcount: '1809'
+source-wordcount: '1883'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 >abstract="Zoek naar activa door een sleutelwoord in de bar van het Onderzoek te specificeren of door activa te filtreren die op hun status, dossiertype, MIME type, grootte, verwezenlijking, wijziging, en vervaldata worden gebaseerd. Naast de standaardfilters kunt u ook aangepaste filters toepassen. U kunt de gefilterde resultaten opslaan als een opgeslagen zoekopdracht of als een slimme verzameling."
 >additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=en#manage-smart-collection" text="Slimme verzamelingen maken"
 
-[!DNL Assets Essentials] biedt effectief zoeken, dat werkt standaard. De zoekopdracht is uitgebreid omdat er in volledige tekst wordt gezocht. Met de krachtige zoekfunctionaliteit kunt u snel de juiste middelen vinden en de snelheid van de inhoud verbeteren. [!DNL Assets Essentials] biedt zoekopdrachten in volledige tekst en zoekopdrachten via metagegevens, zoals slimme tags, titel, gemaakte datum en copyright.
+[!DNL Assets Essentials] biedt een effectieve zoekfunctie die standaard werkt. De zoekopdracht is uitgebreid omdat het een zoekopdracht in volledige tekst betreft. Met de krachtige zoekfunctionaliteit kunt u snel de juiste middelen vinden en de snelheid van de inhoud verbeteren. [!DNL Assets Essentials] biedt zoekopdrachten in volledige tekst en zoekopdrachten via metagegevens, zoals slimme tags, titel, gemaakte datum en copyright.
 
 Als u elementen wilt zoeken,
 
@@ -26,7 +26,7 @@ Als u elementen wilt zoeken,
 
   ![ onderzoeksdoos ](assets/search-box.png)
 
-   * Zoeken met een trefwoord en desgewenst map wijzigen. Druk op Return.
+   * Zoeken met een trefwoord en desgewenst de map wijzigen. Druk op Return.
 
    * Begin met het werken met een onlangs weergegeven element door er direct naar te zoeken. Klik in het zoekvak en selecteer een element dat onlangs is weergegeven in de suggesties.
 
@@ -35,8 +35,6 @@ Als u elementen wilt zoeken,
 U kunt de zoekresultaten filteren op basis van de volgende parameters.
 
 ![ filters van het Onderzoek ](assets/filters1.png)
-
-*Cijfer: De gezochte activa van de filter die op diverse parameters worden gebaseerd.*
 
 * De Status van het element: Filter de onderzoeksresultaten gebruikend een `Approved`, `Rejected`, of `No Status` activa status.
 
@@ -124,37 +122,47 @@ Aangepaste filters verwijderen:
 
 U kunt zoeken naar elementen die niet beschikbaar zijn in een van de mappen met elementen door de functie [!DNL Adobe Firefly] voor het zoeken naar elementen in [!DNL Experience Manager Assets] te gebruiken. Op deze manier kunt u op efficiënte wijze elementen in real-time genereren die niet in de mappen met elementen zijn opgeslagen.
 
-### Voordat u begint
+### Voordat u begint {#search-assets-firefly-prereqs}
 
 U moet een actief [!DNL Adobe Express] -abonnement hebben.
 
-### Elementen genereren
+### Elementen genereren {#generate-assets-firefly}
 
 Nieuwe elementen genereren met [!DNL Adobe Firefly] :
 
 1. Navigeer naar de werkruimte van [!DNL AEM Assets] .
-1. Typ de naam van het element in de zoekbalk boven aan de pagina.<br>
-U kunt bijvoorbeeld een element zoeken met het trefwoord `Bugatti Type 57` . Bij het zoeken naar het element worden geen resultaten gevonden, omdat het element in geen van de elementmappen aanwezig is.
-1. Typ de elementnaam in de zoekbalk midden op de pagina en klik op **[!UICONTROL Generate]** .
-   ![ integratie van de Firefly ](firefly-integration.jpg)
-   *Cijfer: Geen resultaten die voor Type 57 van Bugatti in de activaomslag worden gevonden.*<br>
-De nieuwe elementen worden gegenereerd.
-   ![ integratie van de Firefly ](assets/bugatti-type-57.jpg)
-   *Cijfer: De activa van de verwijzing die gebruikend [!DNL Adobe Firefly] worden gezocht eigenschap van het middelonderzoek.* <br>
-U kunt deze elementen uploaden naar de map van uw voorkeur, zodat u ze gemakkelijk kunt openen.
 
-### Elementen uploaden
+1. Typ de naam van het element in de zoekbalk. U kunt bijvoorbeeld een element zoeken met het trefwoord `Bugatti Type 57` . Bij het zoeken naar het element worden geen resultaten gevonden, omdat het element in geen van de elementmappen aanwezig is. Klik op **[!UICONTROL Generate with Firefly]** als u elementen wilt genereren met AI. Het scherm [!DNL Adobe Firefly] wordt weergegeven.
+
+   ![ integratie van de Firefly ](assets/firefly-integration.png)
+
+   De nieuwe elementen worden gegenereerd. Bovendien kunt u de beschrijving van de afbeelding wijzigen door de nieuwe tekstprompt in het beschrijvingsvak te typen. [ Leer hoe te om een goede AI herinnering te schrijven om buitengewone en relevante inhoud te produceren.](https://helpx.adobe.com/in/firefly/using/tips-and-tricks.html) Alternatief, kunt u [ beeld met diverse andere eigenschappen zoals veranderende stijl, beelddimensies, en meer uitgeven.](https://helpx.adobe.com/in/firefly/using/text-to-image.html)
+
+   ![ integratie van de Firefly ](assets/bugatti-type-57.png)
+
+1. Selecteer een afbeelding die u wilt opslaan. Klik op **[!UICONTROL Save]** om de elementen in de voorkeursmap op te slaan, zodat u ze gemakkelijk kunt openen.
+
+1. Elementformulier opslaan wordt weergegeven. Geef de volgende velden op:
+
+   * Ga een naam voor het dossier op **sparen als** gebied in.
+   * Selecteer een doelmap.
+   * Geef details op zoals de naam van het project of de campagne, Trefwoorden, kanalen, het tijdframe en het gebied.
+
+   ![ integratie van de Firefly ](assets/save-generated-asset.png)
+
+1. Klik **sparen als nieuwe activa** om de activa te bewaren.
+
+### Elementen uploaden {#upload-assets-firefly}
 
 Het gegenereerde element uploaden naar de gegevensopslagplaats:
 
 1. Klik op **[!UICONTROL Upload]**.
 1. Selecteer de elementmap waarnaar u het element wilt uploaden en klik op **[!UICONTROL Select Folder]** .
    ![ uploadt activa ](assets/upload-asset-firefly.jpg)
-   *Cijfer: Selecteer de omslag om activa te uploaden.*
 
 ## Opgeslagen zoekopdrachten {#saved-search}
 
-Zoekfuncties kunt u eenvoudig gebruiken in [!DNL Assets Essentials] . Vanuit het zoekvak kunt u niet alleen een trefwoord typen en op Enter drukken om de resultaten weer te geven, maar u kunt ook snel met één klik nogmaals zoeken naar de laatst doorzochte trefwoorden.
+Zoekfuncties kunt u eenvoudig gebruiken in [!DNL Assets Essentials] . Vanuit het zoekvak kunt u niet alleen een trefwoord typen en op Enter drukken om de resultaten weer te geven. U kunt ook snel met één klik nogmaals zoeken naar de laatst doorzochte trefwoorden.
 
 U kunt de zoekresultaten ook filteren op basis van specifieke criteria voor metagegevens en het type element. Voor veelgebruikte filters kunt u de zoekervaring verbeteren door [!DNL Assets Essentials] de zoekparameters op te slaan. Vervolgens kunt u de opgeslagen zoekopdracht selecteren en het filter toepassen met één klik.
 
@@ -177,7 +185,7 @@ When userA is searching and userB add an asset that matches search results, will
 
 U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de volgende handelingen uitvoeren:
 
-* **vindt Gelijkaardig Beeld**: Vind gelijkaardige beeldactiva in Assets UI die op de meta-gegevens en slimme markeringen wordt gebaseerd.
+* **vindt Gelijkaardig Beeld**: Vind een gelijkaardig beeldmiddel in Assets UI die op de meta-gegevens en slimme markeringen wordt gebaseerd.
 
 * **Details**: Mening en geef activa eigenschappen uit.
 
@@ -201,7 +209,7 @@ U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de
 
 * **noem** anders: noem activa anders.
 
-* **Exemplaar aan Bibliotheken**: Voeg een activa aan Bibliotheek toe.
+* **Exemplaar aan Bibliotheken**: Voeg een activa aan de Bibliotheek toe.
 
 * **Wijs Taken** toe: Wijs taken aan gebruikers voor een activa toe.
 
@@ -214,7 +222,7 @@ Met Assets Essentials kunt u de standaardbestemmingspagina voor uw organisatie s
 Voer de onderstaande stappen uit om de eerste homepage van de zoekopdracht te configureren:
 
 1. Ga naar **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
-1. Selecteer **[!UICONTROL Search first]**. Het opent verder onderzoek eerst verwante configuratie. U kunt [ groepering ](#setting-alignment-search-bar) plaatsen of [ achtergrond en embleembeeld ](#setting-background-image-and-logo) van uw homepage plaatsen.
+1. Selecteer **[!UICONTROL Search first]**. Het opent verder de onderzoek eerste verwante configuratie. U kunt [ groepering ](#setting-alignment-search-bar) plaatsen of [ de achtergrond en het embleembeeld ](#setting-background-image-and-logo) van uw homepage plaatsen.
 
 ### Uitlijning van zoekbalk instellen {#setting-alignment-search-bar}
 
@@ -224,7 +232,7 @@ Met [!DNL Assets Essentials] kunt u de uitlijning van de zoekbalk wijzigen. U ku
 
 ### Achtergrond- en logoafbeelding van homepage instellen {#setting-background-image-and-logo}
 
-U kunt het merklogo en de achtergrondafbeelding toevoegen aan uw eerste zoekpagina. Voer de volgende stappen uit:
+U kunt een merklogo en achtergrondafbeelding toevoegen aan uw eerste zoekpagina. Voer de volgende stappen uit:
 
 1. Ga naar de sectie **[!UICONTROL Background and Logo image]** onder **[!UICONTROL Homepage]** .
 1. Klik op **[!UICONTROL Replace]** om door afbeeldingen te bladeren vanuit de bestaande gegevensopslagruimte.
@@ -235,7 +243,7 @@ U kunt het merklogo en de achtergrondafbeelding toevoegen aan uw eerste zoekpagi
 U kunt een voorvertoning weergeven om de lay-out en opmaak van de eerste homepage van de zoekopdracht te controleren. Met **[!UICONTROL Preview]** kunt u de lay-out corrigeren of naar wens wijzigingen aanbrengen. Voer de onderstaande stappen uit om een voorvertoning van de geconfigureerde homepage weer te geven:
 
 1. Klik op **[!UICONTROL General Settings]** en selecteer **[!UICONTROL Search first]** .
-1. Ga naar **[!UICONTROL Customize search first homepage]** en klik op **[!UICONTROL Preview]** . Schakel de knop **[!UICONTROL Dark theme]** in en uit om een voorvertoning van de homepage weer te geven in donker of licht thema.
+1. Ga naar **[!UICONTROL Customize search first homepage]** en klik op **[!UICONTROL Preview]** . Schakel de knop **[!UICONTROL Dark theme]** in en uit om een voorvertoning van de startpagina weer te geven in donker of licht thema.
 1. Klik op **[!UICONTROL Close]** om het voorvertoningsscherm te sluiten.
 
    ![ Onderzoek eerste homepage voorproef ](assets/search-first-preview.gif)
@@ -301,7 +309,7 @@ Contextueel zoeken ondersteunt de volgende filters uit de verpakking. Baseer uw 
 
 **Voorbeeld 3**
 
-**herinnering van de Tekst**: Ik heb beelden van blauwe lucht nodig die 1500 en 2500 pixelhoogte zijn en in de afgelopen maand worden gecreeerd die niet verlopen en goedgekeurd.
+**herinnering van de Tekst**: Ik heb beelden van blauwe lucht nodig die 1500 en 2500 pixelhoogte zijn en in de afgelopen maand worden gecreeerd die niet verlopen en goedgekeurd is.
 
 [!DNL Experience Manager Assets] past de volgende filters automatisch toe en toont de onderzoeksresultaten:
 
