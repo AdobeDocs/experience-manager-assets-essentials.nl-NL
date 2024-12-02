@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Assets Essentials] gebruikersinterface"
+title: '[!DNL Assets Essentials] gebruikersinterface'
 description: Begrijp gebruikersinterface van en navigatie in  [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
