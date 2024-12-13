@@ -2,7 +2,8 @@
 title: Naam van elementen wijzigen en naam van elementen in grote hoeveelheden wijzigen in  [!DNL Assets Essentials]
 description: Leer hoe u de namen van elementen bulksgewijs kunt wijzigen met de nieuwe gebruikersinterface van Assets (Assets Essentials). Hiermee kunt u de naam van meerdere elementen tegelijk wijzigen.
 role: User
-source-git-commit: 9232f1ccb1d71057c909330d7e4861d048310b7b
+exl-id: 5d18950f-1863-46c0-83d7-079ae95a6320
+source-git-commit: 0526340ed0491d33a5084ea3538fa872ec2899e5
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 0%
@@ -67,3 +68,4 @@ Hieronder volgen enkele voorbeelden waarmee u AI kunt gebruiken om de naam van a
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
 * De Zorg van de Klant van het contact ](https://experienceleague.adobe.com/?support-solution=General#support)[
+
