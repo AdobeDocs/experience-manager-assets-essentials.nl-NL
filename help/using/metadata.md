@@ -4,9 +4,9 @@ description: Metagegevens van elementen beheren in  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 37beb971f1e675162eb4b8e9ab008b20a241c066
+source-git-commit: 09040ef6dc777aa631b00bb37108f86b83bdf583
 workflow-type: tm+mt
-source-wordcount: '1712'
+source-wordcount: '1818'
 ht-degree: 0%
 
 ---
@@ -130,9 +130,11 @@ Hieronder ziet u een overzicht van elk type eigenschap en de manier waarop deze 
 | Vervolgkeuzelijst | Voeg een vervolgkeuzelijst toe. |
 | Staat | De statuseigenschap voor de repository toevoegen (toegewezen aan repo:state) |
 | Status van element | De standaardeigenschap Asset Status toevoegen (toegewezen aan dam:assetStatus) |
+| Goedgekeurd voor | |
 | Tags | Voeg een tag toe uit waarden die zijn opgeslagen in Taxonomy Management (toegewezen aan xcm:tags). |
 | Trefwoorden | Vrije-vormtrefwoorden toevoegen (toegewezen aan dc:subject). |
 | Slimme tags | U kunt zoekmogelijkheden uitbreiden door automatisch metagegevenstags toe te voegen. |
+| Koppeling | Toevoegen om externe URL&#39;s in te schakelen. |
 
 ### Metagegevensformulier toewijzen aan mappen {#assign-metadata-form-folder}
 
@@ -165,6 +167,19 @@ Een metagegevensformulier verwijderen uit een map:
 1. Selecteer de map en klik op **[!UICONTROL Remove]** . U kunt ook meerdere mappen in de lijst selecteren.
 
 U kunt ook naar de pagina met mapdetails navigeren en **[!UICONTROL System mapped Metadata Form]** in het veld **[!UICONTROL Metadata Forms]** selecteren om het toegewezen metagegevensformulier uit een map te verwijderen.
+
+### Werken met de component Koppeling in een metagegevensformulier {#link-component-metadata-form}
+
+De koppelingscomponent wordt gebruikt om externe URL&#39;s in te schakelen, zoals opslagkoppelingen, copyrightinformatie, contactformulieren enzovoort. Om verbindingscomponent op meta-gegevensvorm te gebruiken, moet u meta-gegevensvorm [ vormen ](#metadata-forms).
+
+Voer de onderstaande stappen uit om de koppelingscomponent te gebruiken in het metagegevensformulier:
+
+1. Ga naar de pagina met elementdetails en navigeer naar **[!UICONTROL Link URL]** .
+1. Voeg een URL toe die u wilt gebruiken om te leiden voor het geselecteerde element.
+1. Klik op **[!UICONTROL Add link]**. Voer een van de volgende handelingen uit:
+   * Klik ![ exemplaarpictogram ](assets/do-not-localize/copy.svg) om URL te kopiëren.
+   * Klik ![ uitgeven pictogram ](assets/do-not-localize/edit.svg) om URL uit te geven.
+1. Klik op **[!UICONTROL Save]** om de wijzigingen op te slaan.
 
 ## Volgende stappen {#next-steps}
 
