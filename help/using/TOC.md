@@ -9,10 +9,10 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: bb7a86c737f862411e2f06997d8b4d720d55a3c5
+source-git-commit: c84b647f1575013bf17ab143c64d27f04909f9ee
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 20%
+source-wordcount: '143'
+ht-degree: 19%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 20%
 + [Afbeeldingen bewerken](edit-images.md)
 + [Video&#39;s bewerken](edit-videos.md)
 + [Metagegevens van elementen beheren](metadata.md)
++ [Bulkmetagegevens bewerken](/help/using/bulk-metadata-edit.md)
 + [Elementen delen](share-links-for-assets.md)
 + [Verzamelingen beheren](manage-collections.md)
 + [Middelen, mappen en verzamelingen controleren](manage-notifications.md)
