@@ -4,9 +4,9 @@ description: Metagegevens van elementen beheren in  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 0526340ed0491d33a5084ea3538fa872ec2899e5
+source-git-commit: f922e9191cc3bf6beef66665dec49fd3876bf33b
 workflow-type: tm+mt
-source-wordcount: '1818'
+source-wordcount: '1898'
 ht-degree: 0%
 
 ---
@@ -130,11 +130,10 @@ Hieronder ziet u een overzicht van elk type eigenschap en de manier waarop deze 
 | Vervolgkeuzelijst | Voeg een vervolgkeuzelijst toe. |
 | Staat | De statuseigenschap voor de repository toevoegen (toegewezen aan repo:state) |
 | Status van element | De standaardeigenschap Asset Status toevoegen (toegewezen aan dam:assetStatus) |
-| Goedgekeurd voor | |
 | Tags | Voeg een tag toe uit waarden die zijn opgeslagen in Taxonomy Management (toegewezen aan xcm:tags). |
 | Trefwoorden | Vrije-vormtrefwoorden toevoegen (toegewezen aan dc:subject). |
 | Slimme tags | U kunt zoekmogelijkheden uitbreiden door automatisch metagegevenstags toe te voegen. |
-| Koppeling | Toevoegen om externe URL&#39;s in te schakelen. |
+| Koppeling | Toevoegen om externe URL&#39;s in te schakelen. Zodra dit is geconfigureerd op het metagegevensformulier, kan de component URL worden toegewezen aan een bepaalde eigenschap voor metagegevens op de pagina Metagegevenseditor. Deze [ meta-gegevensvorm kan aan omslagen ](#assign-metadata-form-folder) worden toegewezen. |
 
 ### Metagegevensformulier toewijzen aan mappen {#assign-metadata-form-folder}
 
@@ -170,9 +169,9 @@ U kunt ook naar de pagina met mapdetails navigeren en **[!UICONTROL System mappe
 
 ### Werken met de component Koppeling in een metagegevensformulier {#link-component-metadata-form}
 
-De koppelingscomponent wordt gebruikt om externe URL&#39;s in te schakelen, zoals opslagkoppelingen, copyrightinformatie, contactformulieren enzovoort. Om verbindingscomponent op meta-gegevensvorm te gebruiken, moet u meta-gegevensvorm [ vormen ](#metadata-forms).
+De koppelingscomponent wordt gebruikt om externe URL&#39;s in te schakelen, zoals opslagkoppelingen, copyrightinformatie, contactformulieren enzovoort. Om verbindingscomponent op meta-gegevensvorm te gebruiken, moet u meta-gegevensvorm [ vormen ](#metadata-forms). De component URL kan aan een bepaalde meta-gegevensbezit in de pagina van de Redacteur van Meta-gegevens worden in kaart gebracht, die op de zelfde manier als andere meta-gegevenscomponenten werkt. Dit metagegevensformulier kan worden toegewezen aan mappen. Op de detailpagina van het toegewezen mapelement ziet u dus mogelijk de metagegevenswaarde van de elementkoppeling.
 
-Voer de onderstaande stappen uit om de koppelingscomponent te gebruiken in het metagegevensformulier:
+Voer de onderstaande stappen uit om de koppelingscomponent te gebruiken op de pagina met elementdetails:
 
 1. Ga naar de pagina met elementdetails en navigeer naar **[!UICONTROL Link URL]** .
 1. Voeg een URL toe die u wilt gebruiken om te leiden voor het geselecteerde element.
