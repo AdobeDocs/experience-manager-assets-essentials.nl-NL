@@ -3,7 +3,7 @@ title: Naam van elementen wijzigen en naam van elementen in grote hoeveelheden w
 description: Leer hoe u de namen van elementen bulksgewijs kunt wijzigen met de nieuwe gebruikersinterface van Assets (Assets Essentials). Hiermee kunt u de naam van meerdere elementen tegelijk wijzigen.
 role: User
 exl-id: 5d18950f-1863-46c0-83d7-079ae95a6320
-source-git-commit: 0526340ed0491d33a5084ea3538fa872ec2899e5
+source-git-commit: 631156a70271b6f480264e2c604314f09a820fc9
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Hieronder volgen enkele voorbeelden waarmee u AI kunt gebruiken om de naam van a
 * Verwijder het voor- en achtervoegsel en zorg dat u het middelste gedeelte van de naam behoudt.
 * Plaats een voorvoegsel voor de bestanden tussen 001, 002, enz. en vertalen in het Engels.
 
-  >[!VIDEO](https://video.tv.adobe.com/v/3440975)
+>[!VIDEO](https://video.tv.adobe.com/v/3440975)
 
 >[!NOTE]
 >
