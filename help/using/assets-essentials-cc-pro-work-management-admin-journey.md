@@ -2,9 +2,9 @@
 title: Assets Essentials instellen voor Creative Cloud Pro met oplossingen voor werkbeheer
 description: Dit leerprogramma introduceert een beheerderreis om de toepassing van Assets Essentials toe te laten om met de toepassingen van de Desktop van het Creative Cloud en de toepassing van Adobe Workfront te integreren. Tot de bureaubladtoepassingen voor Creatives Cloud behoren Adobe Photoshop, Adobe Illustrator, Adobe InDesign en Adobe XD.
 exl-id: a5e9e0c3-35ec-41de-9656-f4f0f88946c7
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: b1ae487b4b4e9a88e0d9c39889d3893d92a766c9
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '867'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Na het beheren van de gebruikersrechten in Admin Console, kunnen de beheerders d
 
 * Metagegevensformulieren instellen
 
-[![ zie de Gids ](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png) ](deploy-administer.md)
+[![ zie de Gids ](assets/see-the-guide-sm.png)](deploy-administer.md)
 
 Nu u de toepassing van Assets Essentials hebt gevormd en geleid, [ integreren de toepassingen van het Creative Cloud met de toepassing van de Hoofdzaak van Experience Manager Assets ](integrate-with-creative-cloud.md).
 
@@ -99,7 +99,7 @@ Doelstellingen:
 
 * Koppeling met Adobe-elementen gebruiken
 
-[![ zie de Gids ](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png) ](integrate-with-creative-cloud.md)
+[![ zie de Gids ](assets/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
 
 Nu u de toepassingen van het Creative Cloud met Assets Essentials hebt geïntegreerd, [ integreert Adobe Workfront met de Hoofdzaak van Experience Manager Assets ](integrate-with-workfront.md).
 
@@ -119,4 +119,4 @@ Doelstellingen:
 
 * Integratie met Experience Manager Assets Essentials configureren
 
-[![ zie de Gids ](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png) ](integrate-with-workfront.md)
+[![ zie de Gids ](assets/see-the-guide-sm.png)](integrate-with-workfront.md)
