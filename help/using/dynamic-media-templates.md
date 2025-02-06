@@ -4,9 +4,9 @@ description: Leer hoe u Dynamic Media-sjablonen maakt met een WYSIWYG-sjablooned
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: a06bdadcd2194e1ffce23c672e605cfb95f14bcf
+source-git-commit: 85b8fc64c6bb0243803df3d8e18c00d1b17b1868
 workflow-type: tm+mt
-source-wordcount: '2695'
+source-wordcount: '2653'
 ht-degree: 0%
 
 ---
@@ -86,8 +86,6 @@ Om [ tot een omslag ](/help/assets/add-delete-assets-view.md) onder **[!UICONTRO
 **opties van het Menu op de linkerruit:** Gebruik deze opties voor gemeenschappelijke redacteursacties zoals hieronder vermeld.
 
 * ![ DM Malplaatjes ](/help/using/assets/layer-selector.svg): Selecteer een laag.
-* ![ malplaatjes die aanpassing ](/help/using/assets/bring-forward.svg) steunen: Klik om een geselecteerde laag vooruit te brengen of **CTRL** + **te drukken]** (Vensters) of **Cmd** + **]** (Mac).
-* ![ hoe te om een malplaatje tot stand te brengen dat gemakkelijk kan worden aangepast ](/help/using/assets/send-backward.svg): Klik om een geselecteerde laag achterwaarts te verzenden of **CTRL** + **te drukken (** (Vensters) of **Cmd** + **(**) (Mac).
 * ![ creeer een malplaatje dat onmiddellijk ](/help/using/assets/undo.svg) kan worden aangepast: klik om de laatste actie ongedaan te maken of **CTRL** + **te drukken Z** (Vensters) of **Cmd** + **Z** (Mac).
 * ![ malplaatje om banners snel ](/help/using/assets/redo.svg) tot stand te brengen: Klik om de laatste actie opnieuw uit te voeren of **CTRL** + **Y** (Vensters) of **Cmd** + **Y** (Mac) te drukken.
 * ![ malplaatje om snel flyers ](/help/using/assets/zoomin.svg) tot stand te brengen: Klik om binnen het canvas te zoemen of **CTRL** + **+** (Vensters) of Cmd + **+** (Mac) te drukken.
