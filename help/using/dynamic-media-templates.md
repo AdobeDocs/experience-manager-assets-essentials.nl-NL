@@ -4,16 +4,16 @@ description: Leer hoe u Dynamic Media-sjablonen maakt met een WYSIWYG-sjablooned
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 85b8fc64c6bb0243803df3d8e18c00d1b17b1868
+source-git-commit: e09573fb64567b2975d5e7e08c2cf2db62b72202
 workflow-type: tm+mt
-source-wordcount: '2653'
+source-wordcount: '2661'
 ht-degree: 0%
 
 ---
 
 # Dynamic Media-sjablonen{#dynamic-media-templates}
 
-| [ Beste praktijken van het Onderzoek ](/help/assets/search-best-practices.md) | [ Beste praktijken van Meta-gegevens ](/help/assets/metadata-best-practices.md) | [ Content Hub ](/help/assets/product-overview.md) | [ de ontwikkelaarsdocumentatie van AEM Assets ](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
+| [ Beste praktijken van het Onderzoek ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [ Beste praktijken van Meta-gegevens ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [ Content Hub ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [ de ontwikkelaarsdocumentatie van AEM Assets ](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
 | ------------- | --------------------------- |---------|-----|
 
 Maak Dynamic Media-sjablonen met een WYSIWYG-sjablooneditor en voeg meerdere afbeeldingen en tekstlagen toe om snel banners en flyers te maken en deze te gebruiken in downstreamtoepassingen. U kunt parameters aan de beelden en tekstlagen ook toevoegen inbegrepen in het malplaatje en [ Dynamic Media URLs ](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) gebruiken om de waarden voor die lagen in real time bij te werken.
@@ -44,10 +44,10 @@ Enkele belangrijke voordelen van Dynamic Media-sjablonen zijn:
 Als u een Dynamic Media-sjabloon wilt maken, moet u beschikken over:
 
 1. Toegang tot Dynamic Media.
-1. [ synchroniseerde de beelden beschikbaar in uw instantie van AEM Assets met Dynamic Media om hen te gebruiken voor het creëren van het malplaatje ](/help/assets/dynamic-media/config-dm.md).
+1. [ synchroniseerde de beelden beschikbaar in uw instantie van AEM Assets met Dynamic Media om hen te gebruiken voor het creëren van het malplaatje ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
 1. Controleer het volgende in de aanraakinterface:
-   * Op het tabblad **[!UICONTROL Edit Dynamic Media Configuration page]** wordt **[!UICONTROL Dynamic Media sync mode]** dat is ingesteld op **[!UICONTROL Disabled by default]** , niet toegepast op alle AEM mappen (**[!UICONTROL Sync all content]** is uitgeschakeld). Zie [ vormend de Cloud Service van Dynamic Media ](/help/assets/dynamic-media/config-dm.md) voor meer informatie.
-   * **[!UICONTROL Dynamic Media sync mode]** wordt ingesteld op **[!UICONTROL Enable for subfolders]** voor de doelmap of -submap waarin u de sjabloon na het maken wilt opslaan. Zie [ vormend de Cloud Service van Dynamic Media ](/help/assets/dynamic-media/config-dm.md) voor meer informatie.
+   * Op het tabblad **[!UICONTROL Edit Dynamic Media Configuration page]** wordt **[!UICONTROL Dynamic Media sync mode]** dat is ingesteld op **[!UICONTROL Disabled by default]** , niet toegepast op alle AEM mappen (**[!UICONTROL Sync all content]** is uitgeschakeld). Zie [ vormend de Cloud Service van Dynamic Media ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) voor meer informatie.
+   * **[!UICONTROL Dynamic Media sync mode]** wordt ingesteld op **[!UICONTROL Enable for subfolders]** voor de doelmap of -submap waarin u de sjabloon na het maken wilt opslaan. Zie [ vormend de Cloud Service van Dynamic Media ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) voor meer informatie.
 
 ## Dynamic Media WYSIWYG-sjabloon maken{#how-to-create-dynamic-media-wysiwyg-template}
 
@@ -69,7 +69,7 @@ Voer de volgende stappen uit om een leeg canvas te maken:
 
 1. Klik op **[!UICONTROL Create Template]** om de sjabloon onder Dynamic Media Assets op te slaan of naar een map te navigeren en klik op **[!UICONTROL Create Template]** om de sjabloon in die map op te slaan. Het dialoogvenster **[!UICONTROL New Template]** wordt weergegeven.
    ![ hoe te om dynamische malplaatjes tot stand te brengen die in real time kunnen worden aangepast ](/help/using/assets/new-template.png)
-Om [ tot een omslag ](/help/assets/add-delete-assets-view.md) onder **[!UICONTROL Dynamic Media Assets]** te leiden, creeer een omslag onder **[!UICONTROL Assets]**. De mapstructuur onder **[!UICONTROL Assets]** wordt onder **[!UICONTROL Dynamic Media Assets]** overgenomen.
+Om [ tot een omslag ](/help/using/add-delete.md) onder **[!UICONTROL Dynamic Media Assets]** te leiden, creeer een omslag onder **[!UICONTROL Assets]**. De mapstructuur onder **[!UICONTROL Assets]** wordt onder **[!UICONTROL Dynamic Media Assets]** overgenomen.
 1. Geef een sjabloonnaam op, definieer de canvasbreedte en -hoogte en klik op **[!UICONTROL Create]** . Er wordt een leeg canvas weergegeven met menuopties aan beide zijden voor het maken van de sjabloon. Houd de muisaanwijzer boven de menuopties om de knopinfo weer te geven.
    ![ in real time aanpasbaar malplaatje ](/help/using/assets/blank-canvas-page.png)
 
@@ -89,7 +89,7 @@ Om [ tot een omslag ](/help/assets/add-delete-assets-view.md) onder **[!UICONTRO
 * ![ creeer een malplaatje dat onmiddellijk ](/help/using/assets/undo.svg) kan worden aangepast: klik om de laatste actie ongedaan te maken of **CTRL** + **te drukken Z** (Vensters) of **Cmd** + **Z** (Mac).
 * ![ malplaatje om banners snel ](/help/using/assets/redo.svg) tot stand te brengen: Klik om de laatste actie opnieuw uit te voeren of **CTRL** + **Y** (Vensters) of **Cmd** + **Y** (Mac) te drukken.
 * ![ malplaatje om snel flyers ](/help/using/assets/zoomin.svg) tot stand te brengen: Klik om binnen het canvas te zoemen of **CTRL** + **+** (Vensters) of Cmd + **+** (Mac) te drukken.
-* ![ malplaatje om banners snel ](/help/using/assets/zoomout.svg) tot stand te brengen: Klik om uit het canvas te zoemen of **CTRL** + **te drukken -** (Vensters) of **Cmd** + **-** (Mac).
+* ![ malplaatje om banners snel ](/help/using/assets/ZoomOut-1.svg) tot stand te brengen: Klik om uit het canvas te zoemen of **CTRL** + **te drukken -** (Vensters) of **Cmd** + **-** (Mac).
 * Pers **Backspace** of **schrapt** om de geselecteerde laag te schrappen als geen tekst of het bezit wordt uitgegeven.
 
 Klik ![ malplaatje om snel flyers ](/help/using/assets/show-layers-list.svg) **>** meer opties (![](/help/using/assets/three-dots.svg)) op de laag van het Canvas te creëren om de canvasdimensies op elk ogenblik uit te geven terwijl het creëren van het malplaatje.
@@ -121,7 +121,7 @@ Zie [**[!UICONTROL Properties Panel]**](#reposition-resize-delete-a-layer) om de
 
 >[!NOTE]
 >
-> Als u een ander lettertype wilt gebruiken dan de standaardlettertypefamilie Sans F2, moet u het lettertypebestand uploaden en publiceren naar AEM Assets en Dynamic Media. Als u sommige oude doopvonten in uw instantie hebt, verzeker [ opnieuw verwerken ](/help/assets/reprocessing-assets-view.md) om hen in de redacteur van het Malplaatje te bekijken.
+> Als u een ander lettertype wilt gebruiken dan de standaardlettertypefamilie Sans F2, moet u het lettertypebestand uploaden en publiceren naar AEM Assets en Dynamic Media. Als u sommige oude doopvonten in uw instantie hebt, verzeker [ opnieuw verwerken ](/help/using/reprocessing.md) om hen in de redacteur van het Malplaatje te bekijken.
 
 ### Een laag bewerken of verwijderen {#edit-or-delete-a-layer}
 
@@ -281,5 +281,5 @@ Voer de volgende stappen uit om de sjabloon te bewerken:
 
 ## Zie ook
 
-1. Onderzoek [ Dynamic Media en zijn mogelijkheden ](/help/assets/dynamic-media/dynamic-media.md)
-1. Onderzoek [ Dynamic Media met mogelijkheden OpenAPI ](/help/assets/dynamic-media-open-apis-overview.md)
+1. Onderzoek [ Dynamic Media en zijn mogelijkheden ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
+1. Onderzoek [ Dynamic Media met mogelijkheden OpenAPI ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
