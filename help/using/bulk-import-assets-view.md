@@ -1,5 +1,5 @@
 ---
-title: Elementen voor bulkimport die gebruikmaken van Assets Essentials
+title: Bulkimportmiddelen met behulp van Elementen Essentials
 description: Leer hoe u importmiddelen in bulk importeert met de nieuwe gebruikersinterface van Assets (Assets Essentials). Hiermee kunnen beheerders een groot aantal elementen uit een gegevensbron importeren in AEM Assets.
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
 source-git-commit: 4d4b239b0b75ac8a26a7c3001e5b28dcb6243f63
@@ -9,19 +9,19 @@ ht-degree: 0%
 
 ---
 
-# Elementen voor bulkimport die gebruikmaken van Assets Essentials   {#bulk-import-essentials}
+# Bulkimportmiddelen met behulp van Elementen Essentials   {#bulk-import-essentials}
 
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
 >title="Bulkimportmiddelen"
->abstract="Beheerders kunnen met behulp van Assets Essentials een groot aantal elementen uit een gegevensbron importeren naar Experience Manager Assets. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar Experience Manager Assets. Tot de ondersteunde leveranciers voor cloudopslag voor bulkimport behoren Azure, AWS, Google Cloud en Dropbox."
+>abstract="Beheerders kunnen een groot aantal elementen uit een gegevensbron importeren naar Experience Manager Assets met behulp van Elementen. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar Experience Manager Assets. Tot de ondersteunde leveranciers voor cloudopslag voor bulkimport behoren Azure, AWS, Google Cloud en Dropbox."
 >additional-url="https://images-tv.adobe.com/mpcv3/4477/98bce651-721c-442e-98b8-c43e7708e44c_1698834577.854x480at800_h264.mp4" text="Video bekijken"
 
 Bulk Import in AEM Assets Essentials biedt beheerders de mogelijkheid om een groot aantal elementen uit een gegevensbron te importeren in AEM Assets. De beheerders hoeven geen afzonderlijke elementen of mappen meer te uploaden naar AEM Assets.
 
 >[!NOTE]
 >
->De Assets Essentials bulkimporteur gebruikt dezelfde achterkant als de as a Cloud Service bulkimporteur in Assets. Assets Essentials bieden echter meer gegevensbronnen om uit te importeren en een gestroomlijnde gebruikerservaring.
+>De belangrijkste importeur van activa gebruikt dezelfde achterkant als de bulkimporteur van Assets as a Cloud Service. Elementen bieden echter meer gegevensbronnen om uit te importeren en een gestroomlijnde gebruikerservaring.
 
 U kunt elementen importeren uit de volgende gegevensbronnen:
 
@@ -38,26 +38,26 @@ U kunt elementen importeren uit de volgende gegevensbronnen:
 | Azure | <ul> <li>Azure Storage Account </li> <li> Azure Blob Container <li> Azure Access Key of SAS Token op basis van de verificatiemodus </li></ul> |
 | AWS | <ul> <li>AWS Region </li> <li> AWS Bucket <li> AWS Access Key </li><li> AWS Access-geheim </li></ul> |
 | Google Cloud | <ul> <li>GCP-emmertje </li> <li> GCP-serviceaccount-e-mail <li> persoonlijke sleutel GCP-serviceaccount</li></ul> |
-| Dropbox | <ul> <li>Client-id Dropbox </li> <li> Dropbox Client Secret</li></ul> |
+| Dropbox | <ul> <li>Dropbox-client-id </li> <li> Dropbox Client Secret</li></ul> |
 | OneDrive | <ul> <li>OneDrive-TENant-id </li> <li> OneDrive-client-id</li><li> OneDrive-clientgeheim</li></ul> |
 
 Naast deze vereisten op basis van de gegevensbron, moet u zich bewust zijn van de naam van de bronmap in uw gegevensbron die alle elementen bevat die naar AEM Assets moeten worden geïmporteerd.
 
-## De toepassing voor ontwikkelaars van Dropboxxen configureren {#dropbox-developer-application}
+## De Dropbox-toepassing voor ontwikkelaars configureren {#dropbox-developer-application}
 
-Voordat u elementen van uw Dropbox-account naar AEM Assets importeert, moet u de ontwikkelaarstoepassing voor Dropboxxen maken en configureren.
+Maak en configureer de Dropbox-ontwikkelaarstoepassing voordat u elementen van uw Dropbox-account naar AEM Assets importeert.
 
 Voer de volgende stappen uit:
 
-1. Teken binnen aan uw [ rekening van de Dropbox ](https://www.dropbox.com/developers) en klik **[!UICONTROL Create apps]**. <br> als u een rekening van de Dropbox van de Onderneming gebruikt, moet u toegang tot de rol van Admin van de Inhoud hebben.
+1. Teken binnen aan uw [ rekening van Dropbox ](https://www.dropbox.com/developers) en klik **[!UICONTROL Create apps]**. <br> als u een rekening van de Onderneming Dropbox gebruikt, moet u toegang tot de rol van Admin van de Inhoud hebben.
 
 1. Selecteer in de sectie **[!UICONTROL Choose an API]** het enige beschikbare keuzerondje.
 
 1. Selecteer in de sectie **[!UICONTROL Choose the type of access you need]** een van de volgende opties:
 
-   * Selecteer **[!UICONTROL App folder]** als u toegang wilt tot één map die in uw toepassing is gemaakt in uw account voor Dropboxxen.
+   * Selecteer **[!UICONTROL App folder]** als u toegang nodig hebt tot één map die in uw toepassing in uw Dropbox-account is gemaakt.
 
-   * Selecteer **[!UICONTROL Full Dropbox]** als u toegang tot alle bestanden en mappen in uw account voor Dropboxxen nodig hebt.
+   * Selecteer **[!UICONTROL Full Dropbox]** als u toegang wilt tot alle bestanden en mappen in uw Dropbox-account.
 
 1. Geef een naam voor de toepassing op en klik op **[!UICONTROL Create app]** .
 
@@ -127,9 +127,9 @@ Voer de volgende stappen uit om een configuratie voor bulkimport te maken in de 
 
    >[!NOTE]
    >
-   >Als u Dropbox als gegevensbron gebruikt, specificeer de bronomslagweg die op de volgende regels wordt gebaseerd:
-   >* Als u **Volledige Dropbox** terwijl het creëren van de toepassing van de Dropbox en de omslag selecteert die de activa bevat bestaat bij `https://www.dropbox.com/home/bulkimport-assets`, dan specificeer `bulkimport-assets` op het **[!UICONTROL Source Folder]** gebied.
-   >* Als u **omslag van de App** terwijl het creëren van de toepassing van de Dropbox en de omslag selecteert die de activa bevat bestaat bij `https://www.dropbox.com/home/Apps/BulkImportAppFolderScope/bulkimport-assets`, dan specificeer `bulkimport-assets` in het **[!UICONTROL Source Folder]** gebied, waar `BulkImportAppFolderScope` naar de naam van de toepassing verwijst. `Apps` wordt in dit geval automatisch toegevoegd na `home` .
+   >Als u Dropbox als gegevensbron gebruikt, geeft u het pad van de bronmap op op basis van de volgende regels:
+   >* Als u **Volledige Dropbox** terwijl het creëren van de toepassing van Dropbox en de omslag selecteert die de activa bevat bestaat bij `https://www.dropbox.com/home/bulkimport-assets`, dan specificeer `bulkimport-assets` op het **[!UICONTROL Source Folder]** gebied.
+   >* Als u **omslag van de App** terwijl het creëren van de toepassing van Dropbox en de omslag selecteert die de activa bevat bestaat bij `https://www.dropbox.com/home/Apps/BulkImportAppFolderScope/bulkimport-assets`, dan specificeer `bulkimport-assets` in het **[!UICONTROL Source Folder]** gebied, waar `BulkImportAppFolderScope` naar de naam van de toepassing verwijst. `Apps` wordt in dit geval automatisch toegevoegd na `home` .
 
 1. (Optioneel) Selecteer de optie **[!UICONTROL Delete source file after import]** om de oorspronkelijke bestanden uit de opslagplaats voor brongegevens te verwijderen nadat de bestanden zijn geïmporteerd in [!DNL Experience Manager Assets] .
 1. Selecteer de **[!UICONTROL Import Mode]** . Selecteer **[!UICONTROL Skip]**, **[!UICONTROL Replace]** of **[!UICONTROL Create Version]** . De modus Overslaan is de standaardinstelling en in deze modus slaat de functie Instantor over om een element te importeren als dit al bestaat.
@@ -227,6 +227,6 @@ Klik ![ Meer pictogram ](assets/do-not-localize/more-icon.svg) die aan de config
 
 Om de het doelplaats van Assets te bekijken waar de activa na het in werking stellen van de BulkTaak van de Invoer worden ingevoerd, klik ![ Meer pictogram ](assets/do-not-localize/more-icon.svg) die aan de configuratienaam beantwoorden, en klik dan **[!UICONTROL View Assets]**.
 
-## Video: Bulkimportelementen met behulp van Assets Essentials
+## Video: Bulkimportelementen met behulp van de Elementen van Elementen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428012)

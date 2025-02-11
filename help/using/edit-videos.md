@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Video&#39;s bewerken in [!DNL Assets Essentials] {#edit-videos}
 
-Assets-gebruikers kunnen gemakkelijk variaties in video-inhoud maken met de ingesloten snelle handelingen voor video in [!DNL Adobe Express] . Snelle acties in [!DNL Assets Essentials] , aangedreven door [!DNL Adobe Express] , bieden gebruikersvriendelijke opties voor het bewerken van video&#39;s, zoals het uitsnijden van video&#39;s, het vergroten of verkleinen van video, het bijsnijden van video en het omzetten van video in GIF.
+Assets-gebruikers kunnen gemakkelijk variaties in video-inhoud maken met de ingesloten snelle handelingen voor video in [!DNL Adobe Express] . Snelle acties in [!DNL Assets Essentials] , aangedreven door [!DNL Adobe Express] , bieden gebruikersvriendelijke opties voor het bewerken van video&#39;s, zoals het uitsnijden van video&#39;s, het vergroten of verkleinen van video&#39;s, het bijsnijden van video en het omzetten van video&#39;s naar GIF.
 
 Als u een video wilt bewerken, gaat u naar de details van de video en klikt u op [!UICONTROL Edit Video] . Alternatief, selecteer de activa en klik details dan klik ![ schaar ](assets/do-not-localize/cut.svg) pictogram beschikbaar in de juiste ruit. Nadat u een video hebt bewerkt, kunt u de nieuwe video opslaan als een nieuwe versie of als een nieuw element.
 
@@ -27,7 +27,7 @@ Geeft toegang tot [!DNL Adobe Express] en ten minste één omgeving in AEM Asset
 >[!CONTEXTUALHELP]
 >id="assets_express_integration_videos"
 >title="Adobe Express-integratie voor videobewerking"
->abstract="Experience Manager Assets beschikt nu over eenvoudige en intuïtieve videobewerkingsgereedschappen, aangedreven door Adobe Express, om het hergebruik van inhoud te verbeteren en de snelheid van de inhoud te versnellen. Tot de bewerkingsopties behoren bijsnijden, bijsnijden, het formaat van een video wijzigen en het omzetten van een MP4 in een GIF-bestand."
+>abstract="Experience Manager Assets bevat nu eenvoudige en intuïtieve videobewerkingsgereedschappen die door Adobe Express worden aangedreven om het hergebruik van inhoud te verbeteren en de snelheid van de inhoud te versnellen. Tot de bewerkingsopties behoren bijsnijden, bijsnijden, het formaat van een video wijzigen en het omzetten van een MP4 in een GIF-bestand."
 
 U kunt een video eenvoudig transformeren tot een perfecte grootte en richting met ingesloten snelle handelingen van [!DNL Adobe Express] .
 
@@ -74,7 +74,7 @@ Uw bijgesneden video kan worden gedownload. U kunt het bewerkte element opslaan 
 
 ### Video converteren naar GIF {#convert-mp4-to-gif-using-express}
 
-U kunt een MP4-video snel met Adobe Express omzetten in een GIF-indeling. Voer de volgende stappen uit:
+Met Adobe Express kunt u een MP4-video snel omzetten in een GIF-indeling. Voer de volgende stappen uit:
 
 1. Selecteer een video en klik op **[!UICONTROL Edit]** .
 2. Klik op **[!UICONTROL Convert to GIF]** in de snelhandelingen die beschikbaar zijn in het linkerdeelvenster.
@@ -84,7 +84,7 @@ U kunt een MP4-video snel met Adobe Express omzetten in een GIF-indeling. Voer d
 
    ![ zet video in GIF met Adobe Express om ](/help/using/assets/adobe-express-convert-video-to-gif.png)
 
-Uw video is beschikbaar in GIF-indeling voor downloaden. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element.
+Uw video is beschikbaar in GIF-indeling en kan worden gedownload. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element.
 
 ## Beperkingen {#limitations-video-adobe-express}
 
@@ -100,7 +100,7 @@ Uw video is beschikbaar in GIF-indeling voor downloaden. U kunt het bewerkte ele
 
 ### Volgende stappen {#next-steps}
 
-* Feedback geven op het product met de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface van Assets Essentials.
+* Feedback geven op het product met behulp van de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface Assets Essentials.
 
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar.
 
@@ -108,5 +108,5 @@ Uw video is beschikbaar in GIF-indeling voor downloaden. U kunt het bewerkte ele
 
 >[!MORELIKETHIS]
 >
->* [ geeft beelden in Assets Essentials uit ](/help/using/edit-images.md)
+>* [ geeft beelden in de Hoofdzaak van Activa uit ](/help/using/edit-images.md)
 >* [ Voorproef van activa ](/help/using/navigate-view.md#preview-assets)

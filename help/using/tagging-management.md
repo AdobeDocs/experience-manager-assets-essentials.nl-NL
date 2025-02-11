@@ -1,6 +1,6 @@
 ---
-title: Hoe kan ik tags in Assets Essentials beheren?
-description: Leer hoe u tags in Assets Essentials beheert. Met tags kunt u elementen categoriseren waarin u efficiënter kunt bladeren en zoeken.
+title: Hoe te om markeringen in de Hoofdzaak van Activa te beheren?
+description: Leer hoe u tags in Elementen beheert. Met tags kunt u elementen categoriseren waarin u efficiënter kunt bladeren en zoeken.
 exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
 source-git-commit: eef4aec6f67700d0a5b096577b9637d96949b488
 workflow-type: tm+mt
@@ -9,7 +9,7 @@ ht-degree: 0%
 
 ---
 
-# Tags beheren in Assets Essentials {#view-assets-and-details}
+# Tags beheren in Elementen {#view-assets-and-details}
 
 
 >[!CONTEXTUALHELP]
@@ -33,7 +33,7 @@ Tags bieden veel voordelen, zoals:
 
 * Tags kunnen in de loop der tijd evolueren als een organisatorische woordenwisseling.
 
-* Tags die in Assets as a Cloud Service worden beheerd, blijven synchroon met de tags die worden beheerd in Assets Essentials, die het beheer en de integriteit van metagegevens garanderen.
+* Tags die in Assets as a Cloud Service worden beheerd, blijven synchroon met de tags die worden beheerd in Assets Essentials, en die zorgen voor het beheer en de integriteit van metagegevens.
 
 Als u tags wilt toepassen op elementen, moet u eerst een naamruimte maken en er vervolgens tags aan toevoegen. U kunt ook tags maken en deze toevoegen aan een bestaande naamruimte. Alle tags die u maakt op hoofdniveau, worden automatisch toegevoegd aan de naamruimte Standaardtags. Vervolgens kunt u het veld Codes toevoegen aan het metagegevensformulier, zodat het wordt weergegeven op de pagina met gegevens over elementen. Nadat u deze instellingen hebt geconfigureerd, kunt u tags toepassen op elementen.
 
@@ -87,7 +87,7 @@ Als u een standaardcode wilt maken, klikt u op `Create Tag` op het hoofdniveau. 
 
 >[!NOTE]
 >
->Als u naamruimte `Standard Tags` verwijdert met Assets as a Cloud Service, worden de tags op hoofdniveau niet weergegeven in de lijst met beschikbare tags.
+>Als u naamruimte `Standard Tags` verwijdert met Assets as a Cloud Service, worden de tags die op hoofdniveau zijn gemaakt, niet weergegeven in de lijst met beschikbare tags.
 
 ## Labels verplaatsen {#move-tags}
 
@@ -144,7 +144,7 @@ Bekijk deze korte video om te zien hoe u de component Tags aan het metagegevensf
    ![ Tags-activa ](assets/adding-tags-to-assets.png)
 
 1. Selecteer een of meer tags. De subtag wordt automatisch geselecteerd samen met de bovenliggende tag of naamruimte.
-Tags die in de Assets Essentials zijn gewijzigd, worden ook in Assets as a Cloud Service toegepast.
+Tags die zijn gewijzigd in de Elementen worden ook toegepast in Assets as a Cloud Service.
 
 ## Codes toevoegen aan lijst van gewezen personen {#blocklist-essentials}
 
@@ -184,7 +184,7 @@ U kunt ook slimme tags voor één element blokkeren. Navigeer naar de details va
 
 ### Lijst van gewezen personen exporteren{#export-blocklist}
 
-Met Assets Essentials kunt u de weergegeven geblokkeerde tags exporteren naar de CSV-indeling. Voer de onderstaande stappen uit om lijst van gewezen personen te exporteren:
+Met de Elementen Essentials kunt u de weergegeven geblokkeerde tags exporteren naar de CSV-indeling. Voer de onderstaande stappen uit om lijst van gewezen personen te exporteren:
 
 1. Klik op **[!UICONTROL Export as CSV]**.
 1. Kies de juiste locatie voor het opslaan van het CSV-bestand. U kunt de naam van het bestand ook naar wens wijzigen.
@@ -192,7 +192,7 @@ Met Assets Essentials kunt u de weergegeven geblokkeerde tags exporteren naar de
 
 ### Lijst van gewezen personen importeren{#import-blocklist}
 
-Met Assets Essentials kunt u geblokkeerde tags importeren uit een gegevensbron (CSV). Voer de onderstaande stappen uit om lijst van gewezen personen te importeren:
+Met Elementen Essentieel kunt u geblokkeerde tags importeren van een gegevensbron (CSV). Voer de onderstaande stappen uit om lijst van gewezen personen te importeren:
 
 1. Klik op **[!UICONTROL Import as CSV]**.
 1. Kies het CSV-bestand van uw apparaat. Klik op **[!UICONTROL select a file]** om vanaf uw apparaat naar het bestand te navigeren. U kunt het CSV-bestand ook slepen en neerzetten vanaf het apparaat.

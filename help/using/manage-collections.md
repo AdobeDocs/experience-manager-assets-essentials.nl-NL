@@ -14,7 +14,7 @@ ht-degree: 0%
 >[!CONTEXTUALHELP]
 >id="assets_collections"
 >title="Verzamelingen beheren"
->abstract="Een verzameling is een set elementen, mappen of andere verzamelingen binnen Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen. In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten. U kunt meerdere verzamelingen delen met een gebruiker. Elke verzameling bevat verwijzingen naar elementen. De referentiële integriteit van activa wordt gehandhaafd over inzamelingen."
+>abstract="Een verzameling is een set elementen, mappen of andere verzamelingen in Elementen. Gebruik verzamelingen om elementen tussen gebruikers te delen. In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten. U kunt meerdere verzamelingen delen met een gebruiker. Elke verzameling bevat verwijzingen naar elementen. De referentiële integriteit van activa wordt gehandhaafd over inzamelingen."
 
 Een verzameling is een set elementen, mappen of andere verzamelingen in Adobe Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen.
 
@@ -94,7 +94,7 @@ Elementen uit een verzameling verwijderen:
 
 ## Een slimme verzameling beheren {#manage-smart-collection}
 
-Sla de zoekresultaten op als een slimme verzameling om de inhoud van de verzameling dynamisch bij te werken. Als er activa aan de bewaarplaats van Assets Essentials worden toegevoegd die de onderzoekscriteria passen die tijdens het creëren van de Slimme Inzameling worden bepaald, wordt de inhoud van de Slimme Inzameling automatisch bijgewerkt wanneer u een Slimme Inzameling opent.
+Sla de zoekresultaten op als een slimme verzameling om de inhoud van de verzameling dynamisch bij te werken. Als er activa aan de bewaarplaats van de Hoofdzaak van Activa worden toegevoegd die de onderzoekscriteria passen die tijdens het creëren van de Slimme Inzameling worden bepaald, wordt de inhoud van de Slimme Inzameling automatisch bijgewerkt wanneer u een Slimme Inzameling opent.
 
 ### Een slimme verzameling maken {#create-smart-collection}
 
@@ -202,7 +202,7 @@ Voor meer informatie over het werkschema van begin tot eind, zie [ toestemmingen
 
 ## Volgende stappen {#next-steps}
 
-* Feedback geven op het product met de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met behulp van de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface Assets Essentials
 
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
