@@ -1,28 +1,34 @@
 ---
-title: Hoe kan ik Dynamic Media-sjablonen beheren?
+title: Hoe te om Dynamische malplaatjes van Media te beheren?
 description: Leer hoe u Dynamic Media-sjablonen maakt met een WYSIWYG-sjablooneditor en meerdere afbeeldingen en tekstlagen opneemt om snel banners en flyers te maken en deze te gebruiken in downstreamtoepassingen.
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 64123ef9b8f669da24b296a5c1ea6bd514778c32
+source-git-commit: 8bf4babf2fefb8735b14eb4d4cb08205c54a77bb
 workflow-type: tm+mt
-source-wordcount: '2661'
+source-wordcount: '2705'
 ht-degree: 0%
 
 ---
 
-# Dynamic Media-sjablonen{#dynamic-media-templates}
+# Dynamische mediasjablonen{#dynamic-media-templates}
 
 | [ Beste praktijken van het Onderzoek ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [ Beste praktijken van Meta-gegevens ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [ Content Hub ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [ de ontwikkelaarsdocumentatie van AEM Assets ](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
 | ------------- | --------------------------- |---------|-----|
 
-Maak Dynamic Media-sjablonen met een WYSIWYG-sjablooneditor en voeg meerdere afbeeldingen en tekstlagen toe om snel banners en flyers te maken en deze te gebruiken in downstreamtoepassingen. U kunt parameters aan de beelden en tekstlagen ook toevoegen inbegrepen in het malplaatje en [ Dynamic Media URLs ](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) gebruiken om de waarden voor die lagen in real time bij te werken.
+>[!CONTEXTUALHELP]
+>id="assets_dm_templates"
+>title="Dynamische mediasjablonen beheren"
+>abstract="Maak en personaliseer direct afbeeldingen en tekstbanners met een gebruiksvriendelijke WYSIWYG-interface en sluit de Dynamic Media URL in een eerste of een andere toepassing in om bijzonder aantrekkelijke ervaringen te creëren. Probeer het maar eens!"
+>additional-url="https://images-tv.adobe.com/mpcv3/4477/b74738ca-888c-4a37-9a9e-14fabd68ee45_1738206841.854x480at800_h264.mp4" text="Video bekijken"
+
+Maak dynamische mediasjablonen met een WYSIWYG-sjablooneditor en voeg meerdere afbeeldingen en tekstlagen toe om snel banners en flyers te maken en deze te gebruiken in downstreamtoepassingen. U kunt parameters aan de beelden en tekstlagen ook toevoegen inbegrepen in het malplaatje en [ Dynamische Media URLs ](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) gebruiken om de waarden voor die lagen in real time bij te werken.
 
 Enkele van de belangrijkste functies zijn:
 
-* **de Redacteur van het Malplaatje van Dynamic Media WYSIWYG:** creeer klantgerichte banners met beeld en tekstlagen.
+* **Dynamische Redacteur van het Malplaatje van Media WYSIWYG:** creeer klantgerichte banners met beeld en tekstlagen.
 * **Parameterization van de Laag:** bepaal dynamische sleutel-waarde paren voor lagen om updates in real time toe te laten.
-* **de Steun van Dynamic Media URL:** Gebruik Dynamic Media URLs voor malplaatjes, die gepersonaliseerde waarden van eerste of derdetoepassingen integreren.
+* **Dynamische Steun van Media URL:** Gebruik Dynamische Media URLs voor malplaatjes, die gepersonaliseerde waarden van eerste of derdetoepassingen integreren.
 * **Controle van de Zichtbaarheid van de Laag:** verberg of toon dynamisch lagen zoals nodig.
 * **Slimme Tekst het Randen van de Tekst:** past automatisch tekstgrootte aan om aangewezen gebieden te passen.
 
@@ -37,19 +43,19 @@ Enkele belangrijke voordelen van Dynamic Media-sjablonen zijn:
 
 >[!NOTE]
 >
->Klanten met een abonnement op de uitgebreide beveiligingsSKU kunnen geen Dynamic Media-mogelijkheden, waaronder Dynamic Media Templates, voor dat Cloud Service-programma gebruiken.
+>Klanten met een abonnement op de uitgebreide beveiligingsSKU kunnen geen gebruik maken van dynamische mediamogelijkheden, waaronder Dynamic Media Templates, voor dat Cloud Services-programma.
 
 ## Voordat u begint{#prerequisites-for-dynamic-media-wysiwyg-template}
 
-Als u een Dynamic Media-sjabloon wilt maken, moet u beschikken over:
+Als u een sjabloon voor dynamische media wilt maken, moet u beschikken over:
 
-1. Toegang tot Dynamic Media.
-1. [ synchroniseerde de beelden beschikbaar in uw instantie van AEM Assets met Dynamic Media om hen te gebruiken voor het creëren van het malplaatje ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
+1. Toegang tot dynamische media.
+1. [ synchroniseerde de beelden beschikbaar in uw instantie van AEM Assets met Dynamische Media om hen te gebruiken voor het creëren van het malplaatje ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
 1. Controleer het volgende in de aanraakinterface:
-   * Op het tabblad **[!UICONTROL Edit Dynamic Media Configuration page]** wordt **[!UICONTROL Dynamic Media sync mode]** dat is ingesteld op **[!UICONTROL Disabled by default]** , niet toegepast op alle AEM mappen (**[!UICONTROL Sync all content]** is uitgeschakeld). Zie [ vormend de Cloud Service van Dynamic Media ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) voor meer informatie.
-   * **[!UICONTROL Dynamic Media sync mode]** wordt ingesteld op **[!UICONTROL Enable for subfolders]** voor de doelmap of -submap waarin u de sjabloon na het maken wilt opslaan. Zie [ vormend de Cloud Service van Dynamic Media ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) voor meer informatie.
+   * Op het tabblad **[!UICONTROL Edit Dynamic Media Configuration page]** wordt **[!UICONTROL Dynamic Media sync mode]** dat is ingesteld op **[!UICONTROL Disabled by default]** , niet toegepast op alle AEM-mappen (**[!UICONTROL Sync all content]** is uitgeschakeld). Zie [ vormend Dynamische Media Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) voor meer informatie.
+   * **[!UICONTROL Dynamic Media sync mode]** wordt ingesteld op **[!UICONTROL Enable for subfolders]** voor de doelmap of -submap waarin u de sjabloon na het maken wilt opslaan. Zie [ vormend Dynamische Media Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) voor meer informatie.
 
-## Dynamic Media WYSIWYG-sjabloon maken{#how-to-create-dynamic-media-wysiwyg-template}
+## Dynamische media WYSIWYG-sjabloon maken{#how-to-create-dynamic-media-wysiwyg-template}
 
 Ga als volgt te werk om een DM-sjabloon te maken:
 
@@ -63,11 +69,11 @@ Ga als volgt te werk om een DM-sjabloon te maken:
 
 Voer de volgende stappen uit om een leeg canvas te maken:
 
-1. Navigeer naar Assets Essentials en klik op **[!UICONTROL Dynamic Media Assets]** beschikbaar in het linkerdeelvenster.
+1. Navigeer naar Elementen en klik op **[!UICONTROL Dynamic Media Assets]** beschikbaar in het linkerdeelvenster.
 
-   ![ de malplaatjes van Dynamic Media ](/help/using/assets/DM-Assets1.png)
+   ![ Dynamische malplaatjes van Media ](/help/using/assets/DM-Assets1.png)
 
-1. Klik op **[!UICONTROL Create Template]** om de sjabloon onder Dynamic Media Assets op te slaan of naar een map te navigeren en klik op **[!UICONTROL Create Template]** om de sjabloon in die map op te slaan. Het dialoogvenster **[!UICONTROL New Template]** wordt weergegeven.
+1. Klik op **[!UICONTROL Create Template]** om de sjabloon op te slaan onder Dynamic Media Assets of navigeer naar een map en klik op **[!UICONTROL Create Template]** om de sjabloon in die map op te slaan. Het dialoogvenster **[!UICONTROL New Template]** wordt weergegeven.
    ![ hoe te om dynamische malplaatjes tot stand te brengen die in real time kunnen worden aangepast ](/help/using/assets/new-template.png)
 Om [ tot een omslag ](/help/using/add-delete.md) onder **[!UICONTROL Dynamic Media Assets]** te leiden, creeer een omslag onder **[!UICONTROL Assets]**. De mapstructuur onder **[!UICONTROL Assets]** wordt onder **[!UICONTROL Dynamic Media Assets]** overgenomen.
 1. Geef een sjabloonnaam op, definieer de canvasbreedte en -hoogte en klik op **[!UICONTROL Create]** . Er wordt een leeg canvas weergegeven met menuopties aan beide zijden voor het maken van de sjabloon. Houd de muisaanwijzer boven de menuopties om de knopinfo weer te geven.
@@ -121,7 +127,7 @@ Zie [**[!UICONTROL Properties Panel]**](#reposition-resize-delete-a-layer) om de
 
 >[!NOTE]
 >
-> Als u een ander lettertype wilt gebruiken dan de standaardlettertypefamilie Sans F2, moet u het lettertypebestand uploaden en publiceren naar AEM Assets en Dynamic Media. Als u sommige oude doopvonten in uw instantie hebt, verzeker [ opnieuw verwerken ](/help/using/reprocessing.md) om hen in de redacteur van het Malplaatje te bekijken.
+> Als u een ander lettertype wilt gebruiken dan de standaard Adobe Sans F2-lettertypefamilie, moet u het lettertypebestand uploaden en publiceren naar AEM Assets en Dynamic Media. Als u sommige oude doopvonten in uw instantie hebt, verzeker [ opnieuw verwerken ](/help/using/reprocessing.md) om hen in de redacteur van het Malplaatje te bekijken.
 
 ### Een laag bewerken of verwijderen {#edit-or-delete-a-layer}
 
@@ -229,7 +235,7 @@ Voer de volgende stappen uit om de sjabloon voor te vertonen en te publiceren en
    ![ creërend inhoud op de vlucht ](/help/using/assets/dm-templates-publish-status.png)
 U kunt **[!UICONTROL Include all parameters]** ook schakelen om alle weergegeven parameterwaarden te bewerken en de updates in de sjabloonvoorvertoning te bekijken.
    <br>
-1. Als u de sjabloon op de voorvertoningspagina wilt publiceren, klikt u op **[!UICONTROL Publish]** en bevestigt u dat u de sjabloon wilt publiceren. Publish Complete-berichten worden weergegeven en de publicatiestatus wordt bijgewerkt naar Published.
+1. Als u de sjabloon op de voorvertoningspagina wilt publiceren, klikt u op **[!UICONTROL Publish]** en bevestigt u dat u de sjabloon wilt publiceren. Bericht publiceren voltooid wordt weergegeven en de publicatiestatus wordt bijgewerkt naar Gepubliceerd.
 
 >[!NOTE]
 >
@@ -242,10 +248,10 @@ De geselecteerde parameters op de pagina **[!UICONTROL Preview]** worden de URL-
 U kunt als volgt de URL van de gepubliceerde sjabloon kopiëren die in de voorvertoning wordt weergegeven:
 
 1. Klik op **[!UICONTROL Copy URL]**. Het dialoogvenster **[!UICONTROL Copy URL]** wordt weergegeven. Selecteer en kopieer de weergegeven URL. Merk op dat de eerste parameter in de URL begint na een vraagteken **(?)** en een zeer belangrijk-waardepaar beginnen met **$** en eindigen met **&amp;**. De sleutel en de waarde worden gescheiden door een gelijkteken **(=)**, met de sleutel op de linkerzijde en de waarde op het recht.
-1. Plak deze URL in het browsertabblad en bekijk de live sjabloon. Pas het malplaatje in real time aan door de vereiste waarde van de parameter (de waarde van Sleutel) in URL direct bij te werken zoals aangetoond in [ stap 2 ](#preview-and-publish-template-and-copy-template-deliver-url) van **Voorproef en van Publish** sectie.
+1. Plak deze URL in het browsertabblad en bekijk de live sjabloon. Pas het malplaatje in real time aan door de vereiste waarde van de parameter (de waarde van Sleutel) in URL direct bij te werken zoals aangetoond in [ stap 2 ](#preview-and-publish-template-and-copy-template-deliver-url) van **Voorproef en publiceer** sectie.
 1. Gebruik deze URL voor snelle verkoop van uw producten of services. U kunt deze URL delen met uw klanten of deze integreren in uw website of een andere downstreamtoepassing van derden om de banner weer te geven en er realtime updates voor uit te voeren die de lopende aanbiedingen weerspiegelen.
 
-Leer hoe u stap voor stap een Dynamic Media-sjabloon maakt in deze video.
+Leer hoe u in deze video stap voor stap een sjabloon voor dynamische media maakt.
 >[!VIDEO](https://video.tv.adobe.com/v/3443281)
 
 ## Updates in real time van de sjabloon maken via de URL{#update-the-template-from-the-url}
@@ -265,7 +271,7 @@ Plak deze bijgewerkte URL in uw browser om de wijzigingen weer te geven.
 
 Voer de volgende stappen uit om de sjabloon te bewerken:
 
-1. Klik op **[!UICONTROL Dynamic Media Assets]** bij Assets Essentials.
+1. Klik op **[!UICONTROL Dynamic Media Assets]** voor Elementen.
 2. Navigeer naar de sjabloonlocatie.
 3. Selecteer de sjabloon.
 4. Klik op **[!UICONTROL Edit Template]**. Op het sjablooncanvas worden de sjabloon en de lijst met alle lagen in het deelvenster Lagen weergegeven. Begin uw sjabloon naar wens te bewerken.
@@ -274,12 +280,12 @@ Voer de volgende stappen uit om de sjabloon te bewerken:
 
 * Nadat u een sjabloon hebt gemaakt met geparametriseerde afbeeldingslagen voor dynamische updates, zorgt u ervoor dat de afbeeldingen die u wilt bijwerken in de toekomst dezelfde afmetingen hebben als de geparametriseerde afbeeldingen. Zo kunt u ervoor zorgen dat de afbeeldingen perfect in de lagen passen zonder dat ze te veel stromen of lege ruimten overblijven. De sjabloon ondersteunt momenteel geen automatische dimensionering om afbeeldingen in de lagen te passen.
 * Een tekstlaag biedt geen ondersteuning voor subtekenreeksen. De gebruiker kan geen verschillende doopvonteigenschappen op substring van een tekstlaag toepassen.
-* Er is momenteel geen ondersteuning voor meerdere Dynamic Media-bedrijven beschikbaar met Dynamic Media Templates.
-* In het geval van kopiëren of verplaatsen worden in de doelkiezer alle mappen weergegeven (inclusief mappen die niet door Dynamic Media zijn gesynchroniseerd). Momenteel worden de Dynamic Media-sjabloonelementen niet weergegeven (beide zijn beperkingen van de doelkiezer).
-* Elke updatebewerking op een map (bijvoorbeeld Publish of Delete) uit de Assets-sectie heeft invloed op de Dynamic Media-sjablonen die beschikbaar zijn in die map.
-* Prullenbak werkt niet voor Dynamic Media-sjablonen. Als een element naar de prullenbak wordt verplaatst en vervolgens wordt teruggezet, wordt het middel in AEM teruggezet, maar niet in Dynamic Media. Hetzelfde geldt voor Dynamic Media-sjablonen.
+* De steun van veelvoudige Dynamische bedrijven van Media is momenteel niet beschikbaar met Dynamische Malplaatjes van Media.
+* In het geval van kopiëren of verplaatsen worden in de doelkiezer alle mappen weergegeven (inclusief niet-dynamische met media gesynchroniseerde mappen). Momenteel worden de dynamische media-sjabloonelementen niet weergegeven (beide zijn beperkingen van de doelkiezer).
+* Elke updatebewerking in een map (bijvoorbeeld Publiceren of Verwijderen) uit de Assets-sectie heeft invloed op de dynamische mediasjablonen in die map.
+* Prullenbak werkt niet voor dynamische mediasjablonen. Als een element naar de prullenbak wordt verplaatst en vervolgens wordt teruggezet, wordt het element wel teruggezet in AEM, maar niet op Dynamic Media. Hetzelfde geldt voor dynamische mediasjablonen.
 
 ## Zie ook
 
-1. Onderzoek [ Dynamic Media en zijn mogelijkheden ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
-1. Onderzoek [ Dynamic Media met mogelijkheden OpenAPI ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
+1. Onderzoek [ Dynamische Media en zijn mogelijkheden ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
+1. Onderzoek [ Dynamische Media met mogelijkheden OpenAPI ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
