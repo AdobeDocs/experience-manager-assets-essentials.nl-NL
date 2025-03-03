@@ -9,9 +9,9 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: dec81fe265f907775addee640ff307ab142e15d8
+source-git-commit: fc35954e30985ec1b2367527423e0508020eccdd
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '152'
 ht-degree: 18%
 
 ---
@@ -23,18 +23,19 @@ ht-degree: 18%
 + [Release-opmerkingen](release-notes.md)
 + [Beveiliging](security-overview.md)
 + [Mijn Workspace](my-workspace.md)
-+ Aan de slag met Assets Essentials voor beheerders {#get-started-admins}
++ Aan de slag met Elementen voor beheerders {#get-started-admins}
    + [Gebruikers beheren en toevoegen](deploy-administer.md)
    + Maptoegang beheren {#folder-access}
       + [Mapmachtigingen beheren](manage-permissions.md)
       + [Tips en trucs voor het beheer van machtigingen](permission-management-best-practices.md)
-   + [ reis van de Beheerder voor Assets Essentials voor Creative Cloud Pro met de Oplossingen van het Beheer van het Werk ](assets-essentials-cc-pro-work-management-admin-journey.md)
+   + [ reis van de Beheerder voor de Hoofdzaak van Activa voor Creative Cloud Pro met de Oplossingen van het Beheer van het Werk ](assets-essentials-cc-pro-work-management-admin-journey.md)
 + [Aan de slag met  [!DNL Assets Essentials]](get-started.md)
 + [Ondersteunde bestandstypen en gebruiksgevallen](supported-file-formats.md)
 + [Elementen weergeven](navigate-view.md)
 + [Elementen uploaden en toevoegen](add-delete.md)
 + [Bulkimportmiddelen](bulk-import-assets-view.md)
 + [Elementen zoeken en ontdekken](search.md)
++ [Aangepaste zoekfilters](custom-search-filters.md)
 + [Taken voor middelenbeheer](manage-organize.md)
 + [Afbeeldingen bewerken](edit-images.md)
 + [Video&#39;s bewerken](edit-videos.md)
@@ -47,7 +48,7 @@ ht-degree: 18%
 + [Rapporten beheren](manage-reports.md)
 + [Opwerking](reprocessing.md)
 + [Tags beheren](tagging-management.md)
-+ [Content credentials](/help/using/content-credentials.md)
++ [Content Credentials](/help/using/content-credentials.md)
 + Integratie met andere oplossingen {#integration-with-other-solutions}
    + [Overzicht](integration.md)
    + [Integreren met Adobe Asset Link](integrate-with-creative-cloud.md)
@@ -55,5 +56,5 @@ ht-degree: 18%
 + Integratie met Creative Cloud {#integration-with-creative-cloud}
    + [AEM Assets verbinden met Creative Cloud](connect-assets-with-creative-cloud.md)
 + [ Video&#39;s ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
-+ [Dynamic Media-sjablonen](dynamic-media-templates.md)
++ [Dynamische mediasjablonen](dynamic-media-templates.md)
 
