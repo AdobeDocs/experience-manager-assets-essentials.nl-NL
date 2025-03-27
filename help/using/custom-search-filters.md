@@ -3,9 +3,9 @@ title: Aangepaste zoekfilters
 description: Meer informatie over het aanpassen van het formulier met zoekfilters
 role: User, Leader, Developer
 exl-id: 8c579d5b-6bfc-44bb-a381-ca5716bd20cb
-source-git-commit: f77c8a31a23d403aab23a4274e50d68a0ca9608e
+source-git-commit: 461773235cb2d27d334b5ceb23f959dc9a848716
 workflow-type: tm+mt
-source-wordcount: '1433'
+source-wordcount: '1323'
 ht-degree: 2%
 
 ---
@@ -14,90 +14,6 @@ ht-degree: 2%
 <table>
     <tr>
         <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="new">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b> Dynamische Media Prime en Ultimate </b></a>
-        </td>
-        <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="new">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b> AEM Assets Ultimate </b></a>
-        </td>
-        <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="new">
-            <a href="http://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b> de integratie van AEM Assets met Edge Delivery Services </b></a>
-        </td>
-        <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="new">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b> Uitbreidbaarheid UI </b></a>
-        </td>
-          <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="new">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b> laat Dynamische Media Prime en Ultimate </b></a> toe
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b> Beste praktijken van het Onderzoek </b></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b> Beste praktijken van Meta-gegevens </b></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b> Content Hub </b></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview"><b> Dynamische Media met mogelijkheden OpenAPI </b></a>
-        </td>
-        <td>
-            <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b> de ontwikkelaarsdocumentatie van AEM Assets </b></a>
-        </td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <td>
-            <img src="assets/new2.gif" width="20px" height="25px" alt="new">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b> Dynamische Media Prime en Ultimate </b></a>
-        </td>
-        <td>
-            <img src="assets/new2.gif" width="20px" height="25px" alt="new">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b> AEM Assets Ultimate </b></a>
-        </td>
-        <td>
-            <img src="assets/new2.gif" width="20px" height="25px" alt="new">
-            <a href="http://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b> de integratie van AEM Assets met Edge Delivery Services </b></a>
-        </td>
-        <td>
-            <img src="assets/new2.gif" width="20px" height="25px" alt="new">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b> Uitbreidbaarheid UI </b></a>
-        </td>
-          <td>
-            <img src="assets/new2.gif" width="20px" height="25px" alt="new">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b> laat Dynamische Media Prime en Ultimate </b></a> toe
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b> Beste praktijken van het Onderzoek </b></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b> Beste praktijken van Meta-gegevens </b></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b> Content Hub </b></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview"><b> Dynamische Media met mogelijkheden OpenAPI </b></a>
-        </td>
-        <td>
-            <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b> de ontwikkelaarsdocumentatie van AEM Assets </b></a>
-        </td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="new">
             <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b> Dynamische Media Prime en Ultimate </b></a>
         </td>
@@ -129,7 +45,7 @@ ht-degree: 2%
             <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b> Content Hub </b></a>
         </td>
         <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview"><b> Dynamische Media met mogelijkheden OpenAPI </b></a>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/custom-search-filters"><b> Dynamische Media met mogelijkheden OpenAPI </b></a>
         </td>
         <td>
             <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b> de ontwikkelaarsdocumentatie van AEM Assets </b></a>

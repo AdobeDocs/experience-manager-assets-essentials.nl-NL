@@ -3,12 +3,55 @@ title: Middelen zoeken en ontdekken in  [!DNL Assets Essentials]
 description: Zoek en ontdek activa in  [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 84695c5a2b6423b0a5863b088ac8507f0de0e80d
+source-git-commit: 461773235cb2d27d334b5ceb23f959dc9a848716
 workflow-type: tm+mt
-source-wordcount: '1883'
+source-wordcount: '1935'
 ht-degree: 0%
 
 ---
+
+
+<table>
+    <tr>
+        <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="new">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b> Dynamische Media Prime en Ultimate </b></a>
+        </td>
+        <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="new">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b> AEM Assets Ultimate </b></a>
+        </td>
+        <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="new">
+            <a href="http://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b> de integratie van AEM Assets met Edge Delivery Services </b></a>
+        </td>
+        <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="new">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b> Uitbreidbaarheid UI </b></a>
+        </td>
+          <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="new">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/custom-search-filters"><b> Filters van het Onderzoek van de Douane </b></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b> Beste praktijken van het Onderzoek </b></a>
+        </td>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b> Beste praktijken van Meta-gegevens </b></a>
+        </td>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b> Content Hub </b></a>
+        </td>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview"><b> Dynamische Media met mogelijkheden OpenAPI </b></a>
+        </td>
+        <td>
+            <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b> de ontwikkelaarsdocumentatie van AEM Assets </b></a>
+        </td>
+    </tr>
+</table>
 
 # Middelen zoeken in [!DNL Assets Essentials] {#search-assets}
 
@@ -46,7 +89,7 @@ U kunt de zoekresultaten filteren op basis van de volgende parameters.
 
 * Vervaldatum: filter de zoekresultaten op basis van de status van een `Expired` -element. Daarnaast kunt u een datumbereik voor de vervaldatum voor elementen opgeven om de zoekresultaten verder te filteren.
 
-* Aangepaste Filters: [ voeg douanefilters ](#custom-filters) aan het gebruikersinterface van Assets Essentials toe. Pas de aangepaste filters toe naast de standaardfilters om de zoekresultaten te verfijnen.
+* Aangepaste Filters: [ voeg douanefilters ](#custom-filters) aan het gebruikersinterface van de Hoofdzaak van Activa toe. Pas de aangepaste filters toe naast de standaardfilters om de zoekresultaten te verfijnen.
 
 U kunt de gezochte elementen in toenemende of afnemende volgorde van `Name`, `Relevance`, `Size`, `Modified` en `Created` sorteren. De gezochte elementen worden standaard gesorteerd op basis van `Relevance` .
 
@@ -54,9 +97,9 @@ U kunt de gezochte elementen in toenemende of afnemende volgorde van `Name`, `Re
 
 **vereiste Toestemmingen:** `Can Edit`, `Owner`, of Beheerder.
 
-Met Assets Essentials kunt u ook aangepaste filters toevoegen aan de gebruikersinterface. U kunt die douanefilters dan toepassen naast de [ standaardfilters ](#refine-search-results) om uw onderzoeksresultaten te verfijnen.
+Met de Elementen van elementen kunt u ook aangepaste filters toevoegen aan de gebruikersinterface. U kunt die douanefilters dan toepassen naast de [ standaardfilters ](#refine-search-results) om uw onderzoeksresultaten te verfijnen.
 
-Assets Essentials bieden de volgende aangepaste filters:
+De Hoofdzaak van activa verstrekt de volgende douanefilters:
 
 <table>
     <tbody>
@@ -134,11 +177,11 @@ Nieuwe elementen genereren met [!DNL Adobe Firefly] :
 
 1. Typ de naam van het element in de zoekbalk. U kunt bijvoorbeeld een element zoeken met het trefwoord `Bugatti Type 57` . Bij het zoeken naar het element worden geen resultaten gevonden, omdat het element in geen van de elementmappen aanwezig is. Klik op **[!UICONTROL Generate with Firefly]** als u elementen wilt genereren met AI. Het scherm [!DNL Adobe Firefly] wordt weergegeven.
 
-   ![ integratie van de Firefly ](assets/firefly-integration.png)
+   ![ de integratie van Firefly ](assets/firefly-integration.png)
 
    De nieuwe elementen worden gegenereerd. Bovendien kunt u de beschrijving van de afbeelding wijzigen door de nieuwe tekstprompt in het beschrijvingsvak te typen. [ Leer hoe te om een goede AI herinnering te schrijven om buitengewone en relevante inhoud te produceren.](https://helpx.adobe.com/in/firefly/using/tips-and-tricks.html) Alternatief, kunt u [ beeld met diverse andere eigenschappen zoals veranderende stijl, beelddimensies, en meer uitgeven.](https://helpx.adobe.com/in/firefly/using/text-to-image.html)
 
-   ![ integratie van de Firefly ](assets/bugatti-type-57.png)
+   ![ de integratie van Firefly ](assets/bugatti-type-57.png)
 
 1. Selecteer een afbeelding die u wilt opslaan. Klik op **[!UICONTROL Save]** om de elementen in de voorkeursmap op te slaan, zodat u ze gemakkelijk kunt openen.
 
@@ -148,7 +191,7 @@ Nieuwe elementen genereren met [!DNL Adobe Firefly] :
    * Selecteer een doelmap.
    * Voer details in, zoals de naam van een project of campagne, Trefwoorden, kanalen, het tijdframe en het gebied.
 
-   ![ integratie van de Firefly ](assets/save-generated-asset.png)
+   ![ de integratie van Firefly ](assets/save-generated-asset.png)
 
 1. Klik **sparen als nieuwe activa** om de activa te bewaren.
 
@@ -195,7 +238,7 @@ U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de
 
 * **Vastzetten aan Snelle Toegang**: [ Vastzetten activa ](my-workspace.md) voor snellere toegang wanneer u het later nodig hebt. Alle vastgezette punten tonen in de **Snelle toegang** sectie van Mijn Workspace.
 
-* **Open in Adobe Express**: geef een beeld in de geïntegreerde Adobe Express van het scherm van Experience Manager Assets uit.
+* **Open in Adobe Express**: Bewerk een beeld in geïntegreerde Adobe Express van het scherm van Experience Manager Assets.
 
 * **geef** uit: geef het beeld uit gebruikend Adobe Express.
 
@@ -217,7 +260,7 @@ U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de
 
 ## Eerste homepage van zoekopdracht configureren {#configuring-search-first-homepage}
 
-Met Assets Essentials kunt u de standaardbestemmingspagina voor uw organisatie selecteren. Wanneer u de startpagina Zoekopdracht eerst gebruikt, hebt u ook de mogelijkheid om de branding van de pagina aan te passen door de achtergrond- en logoafbeeldingen zo te configureren dat deze overeenkomen met uw merk.
+Met de Elementen Essentials kunt u de standaardbestemmingspagina voor uw organisatie selecteren. Wanneer u de startpagina Zoekopdracht eerst gebruikt, hebt u ook de mogelijkheid om de branding van de pagina aan te passen door de achtergrond- en logoafbeeldingen zo te configureren dat deze overeenkomen met uw merk.
 
 Voer de onderstaande stappen uit om de eerste homepage van de zoekopdracht te configureren:
 
@@ -336,9 +379,9 @@ Als u moet verstrekken terugkoppelt op de Contextuele eigenschap van het Onderzo
 
 ## Volgende stappen {#next-steps}
 
-* [ bekijk een video aan onderzoeksactiva in Assets Essentials ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html)
+* [ bekijk een video om activa in de Hoofdzaak van Activa te zoeken ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html)
 
-* Feedback geven op het product met de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met behulp van de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface Assets Essentials
 
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar.
 
