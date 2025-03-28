@@ -4,14 +4,14 @@ description: Metagegevens van elementen beheren in  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: f922e9191cc3bf6beef66665dec49fd3876bf33b
+source-git-commit: 1cda73b6ddc573d2736fdaa45b582198420ed5b1
 workflow-type: tm+mt
-source-wordcount: '1898'
+source-wordcount: '2082'
 ht-degree: 0%
 
 ---
 
-# Metagegevens in Assets Essentials {#metadata}
+# Metagegevens in elementaire elementen {#metadata}
 
 Metagegevens zijn gegevens of een beschrijving van de gegevens. Uw afbeeldingen als een element kunnen bijvoorbeeld informatie bevatten over de camera waarop u hebt geklikt of over copyrightgegevens. Deze informatie is metagegevens van de afbeelding. Metagegevens zijn essentieel voor efficiënt middelenbeheer. Metagegevens zijn de verzameling van alle gegevens die voor een element beschikbaar zijn, maar hoeven niet noodzakelijkerwijs in dat element te zijn opgenomen.
 
@@ -68,17 +68,17 @@ Tags kunnen ook in een hiërarchie worden genest ter ondersteuning van relaties 
 >title="Metagegevens Forms"
 >abstract="[!DNL Experience Manager Assets] biedt standaard vele standaardmetagegevensvelden. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan de pagina Details van een element. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen."
 
-Assets Essentials bieden standaard veel standaardvelden voor metagegevens. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan de pagina [!UICONTROL Details] van een element. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen. U kunt geheel nieuwe formulieren maken of een bestaand formulier opnieuw gebruiken.
+De Hoofdzaak van activa verstrekt vele standaardmeta-gegevensgebieden door gebrek. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan de pagina [!UICONTROL Details] van een element. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen. U kunt geheel nieuwe formulieren maken of een bestaand formulier opnieuw gebruiken.
 
-U kunt metagegevensformulieren configureren voor verschillende typen elementen (verschillende MIME-typen). Gebruik dezelfde formuliernaam als het MIME-type van het bestand. Assets Essentials komen automatisch overeen met het MIME-type voor geüploade elementen met de naam van het formulier en werken de metagegevens voor de geüploade elementen bij op basis van de formuliervelden.
+U kunt metagegevensformulieren configureren voor verschillende typen elementen (verschillende MIME-typen). Gebruik dezelfde formuliernaam als het MIME-type van het bestand. Elementen komen automatisch overeen met het MIME-type voor geüploade elementen met de naam van het formulier en werken de metagegevens voor de geüploade elementen bij op basis van de formuliervelden.
 
 Als bijvoorbeeld een metagegevensformulier met de naam `PDF` of `pdf` bestaat, bevatten de geüploade PDF-documenten metagegevensvelden zoals gedefinieerd in het formulier.
 
-Assets Essentials gebruiken de volgende reeks om te zoeken naar bestaande formuliernamen voor metagegevens om de metagegevensvelden toe te passen op de geüploade elementen van een bepaald type:
+Elementen Essentials gebruikt de volgende reeks om te zoeken naar bestaande formuliernamen voor metagegevens om de metagegevensvelden toe te passen op de geüploade elementen van een bepaald type:
 
 MIME-subtype > MIME-type > `default` -formulier > Formulier buiten de doos
 
-Als bijvoorbeeld een metagegevensformulier met de naam `PDF` of `pdf` bestaat, bevatten de geüploade PDF-documenten metagegevensvelden zoals gedefinieerd in het formulier. Als een metagegevensformulier met de naam `PDF` of `pdf` niet bestaat, komen de Assets Essentials overeen als er een metagegevensformulier met de naam `application` is. Als er een metagegevensformulier met de naam `application` is, bevatten de geüploade PDF-documenten metagegevensvelden zoals gedefinieerd in het formulier. Als Assets Essentials nog steeds geen overeenkomend metagegevensformulier vinden, wordt gezocht naar het metagegevensformulier `default` om de in het formulier gedefinieerde metagegevensvelden toe te passen op de geüploade PDF-documenten. Als geen van deze stappen werkt, passen de Assets Essentials de meta-gegevensgebieden toe die in uit-van-de-doos vorm op alle geupload documenten van de PDF worden bepaald.
+Als bijvoorbeeld een metagegevensformulier met de naam `PDF` of `pdf` bestaat, bevatten de geüploade PDF-documenten metagegevensvelden zoals gedefinieerd in het formulier. Als een metagegevensformulier met de naam `PDF` of `pdf` niet bestaat, komen de elementaire elementen overeen als er een metagegevensformulier met de naam `application` is. Als er een metagegevensformulier met de naam `application` is, bevatten de geüploade PDF-documenten metagegevensvelden zoals gedefinieerd in het formulier. Als Assets Essentials nog steeds geen overeenkomend metagegevensformulier vindt, zoekt het naar het `default` -metagegevensformulier om de in het formulier gedefinieerde metagegevensvelden toe te passen op de geüploade PDF-documenten. Als geen van deze stappen werkt, past de Hoofdzaak van Activa meta-gegevensgebieden toe die in de uit-van-de-doos vorm aan alle geupload documenten van PDF worden bepaald.
 
 >[!IMPORTANT]
 >
@@ -171,7 +171,7 @@ U kunt ook naar de pagina met mapdetails navigeren en **[!UICONTROL System mappe
 
 De koppelingscomponent wordt gebruikt om externe URL&#39;s in te schakelen, zoals opslagkoppelingen, copyrightinformatie, contactformulieren enzovoort. Om verbindingscomponent op meta-gegevensvorm te gebruiken, moet u meta-gegevensvorm [ vormen ](#metadata-forms). De component URL kan aan een bepaalde meta-gegevensbezit in de pagina van de Redacteur van Meta-gegevens worden in kaart gebracht, die op de zelfde manier als andere meta-gegevenscomponenten werkt. Dit metagegevensformulier kan worden toegewezen aan mappen. Op de detailpagina van het toegewezen mapelement ziet u dus mogelijk de metagegevenswaarde van de elementkoppeling.
 
-Voer de onderstaande stappen uit om de koppelingscomponent te gebruiken op de pagina met elementdetails:
+Voer de onderstaande stappen uit om de koppelingscomponent op de pagina met elementdetails te gebruiken:
 
 1. Ga naar de pagina met elementdetails en navigeer naar **[!UICONTROL Link URL]** .
 1. Voeg een URL toe die u wilt gebruiken om te leiden voor het geselecteerde element.
@@ -180,11 +180,42 @@ Voer de onderstaande stappen uit om de koppelingscomponent te gebruiken op de pa
    * Klik ![ uitgeven pictogram ](assets/do-not-localize/edit.svg) om URL uit te geven.
 1. Klik op **[!UICONTROL Save]** om de wijzigingen op te slaan.
 
+### Werken met de component Tags in het metagegevensformulier {#tag-component-metadata-form}
+
+Het hoofdelement vertegenwoordigt de boomstructuur van de markeringen die u met de activa kunt associëren, die helpen om activa te identificeren die op de markering worden gebaseerd die aan het wordt toegewezen. Bovendien kunt u de toegang tot een specifieke taxonomie beperken terwijl het vormen van de meta-gegevensvorm in meta-gegevensredacteur.
+
+#### Configuratie van de component Tags {#tags-component-configuration}
+
+Configureer de tagcomponent door de volgende stappen uit te voeren:
+
+1. Ga naar de metagegevenseditor en navigeer naar **[!UICONTROL Tags]** en plaats deze op het canvas.
+1. Wijzig de naam van de component op het canvas. Hiervoor gaat u naar **[!UICONTROL Label]** onder [!UICONTROL Metadata property] in het deelvenster Instellingen en voegt u de tekst toe ter identificatie.
+1. Zoek onder [!UICONTROL Metadata property] in het deelvenster Instellingen naar de eigenschap metadata die u aan de component wilt toewijzen.
+1. Klik op **[!UICONTROL Restrict to specific taxonomy]** om het hoofdpad van de taxonomie te beperken. Blader hiertoe door de labels en kies de taxonomie naar het desbetreffende pad.
+1. Klik op **[!UICONTROL Save]** om de wijzigingen op te slaan.
+
+   ![ configuratie van de markeringen van de Wortel ](assets/root-tag-config.png)
+1. [ wijs meta-gegevensvorm aan omslagen ](#assign-metadata-form-folder) toe.
+
+<!--
+#### Mapping between assets and taxonomy {#asset-taxonomy-mapping}
+
+See [Assign metadata form to folders](#assign-metadata-form-folder). Follow the steps below to perform mapping between folder and taxonomy:
+
+1. Go back to the Settings and click **[!UICONTROL Metadata forms]**.
+1. Select a Metadata form that needs mapping. 
+1. Click **[!UICONTROL Assign to folder(s)]**. **[!UICONTROL Select Folder(s)]** screen appears. 
+1. Navigate to the folder that you want to assign to the metadata form. You can select multiple folders.
+1. Click **[!UICONTROL Assign]**.
+-->
+
+Als u de geconfigureerde hoofdcodes wilt weergeven, gaat u naar de detailpagina van het element waar de koppeling tussen het metagegevensformulier en de basiscodes wordt uitgevoerd.
+
 ## Volgende stappen {#next-steps}
 
-* [ bekijk een video om meta-gegevensvormen in Assets Essentials te beheren ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
+* [ bekijk een video om meta-gegevensvormen in de Hoofdzaak van Activa te beheren ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
 
-* Feedback geven op het product met de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met behulp van de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface Assets Essentials
 
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
