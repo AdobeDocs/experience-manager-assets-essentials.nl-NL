@@ -56,4 +56,4 @@ Als u een medewerker van de Adobe bent en een bijdrage hebt, vragen wij dat u `A
 
 ## Info over het Adobe en Markdown
 
-Zie [de Gids van de Medewerker van Docs van Adobe ](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) voor verdere details op hoe te om het het auteursplatform van GitHub te gebruiken.
+Zie [de Gids van de Medewerker van Docs van Adobe ](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=nl-NL) voor verdere details op hoe te om het het auteursplatform van GitHub te gebruiken.

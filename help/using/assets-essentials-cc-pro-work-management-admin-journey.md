@@ -33,9 +33,9 @@ In het geval van plaatsing in twee Admin Consoles, wordt een extra configuraties
 
 * De diensten en de toepassingen van het Creative Cloud (Creative Cloud voor onderneming Pro en facultatieve modules) worden beheerd in [ Adobe Admin Console voor uw plaatsing van het Creative Cloud ](https://chl-author-preview.corp.adobe.com/content/help/en/enterprise/admin-guide.html).
 
-* Adobe Workfront en Adobe Experience Manager Assets Essentials worden beheerd in [ Adobe Admin Console voor de oplossingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html).
+* Adobe Workfront en Adobe Experience Manager Assets Essentials worden beheerd in [ Adobe Admin Console voor de oplossingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=nl-NL).
 
-Om Creative Cloud en Assets Essentials toepassingen te integreren, moeten de gebruikers die in Admin Console voor Creative Cloud beschikbaar zijn in Admin Console voor Experience Cloud ter beschikking worden gesteld. Om de gebruikers beschikbaar te maken in de Admin Console van het Experience Cloud, creeer een folder om [ folder te vestigen die ](https://helpx.adobe.com/enterprise/using/set-up-identity.html#directory-trusting) tussen de twee admin consoles vertrouwt.
+Om Creative Cloud en Assets Essentials toepassingen te integreren, moeten de gebruikers die in Admin Console voor Creative Cloud beschikbaar zijn in Admin Console voor Experience Cloud ter beschikking worden gesteld. Om de gebruikers beschikbaar te maken in de Admin Console van het Experience Cloud, creeer een folder om [ folder te vestigen die ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html#directory-trusting) tussen de twee admin consoles vertrouwt.
 
 ![ Gebruikers van het Creative Cloud ](assets/creative-cloud-users.svg)
 
@@ -49,9 +49,9 @@ Documentatiereizen zijn gebaseerd op de beginselen van best practices, op basis 
 
 ## Vereisten
 
-* [ Toegang tot Adobe Admin Console voor de oplossingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html)
+* [ Toegang tot Adobe Admin Console voor de oplossingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=nl-NL)
 
-* [ Toegang tot Adobe Admin Console voor Creative Cloud voor ondernemingsplaatsing ](https://helpx.adobe.com/enterprise/admin-guide.html)
+* [ Toegang tot Adobe Admin Console voor Creative Cloud voor ondernemingsplaatsing ](https://helpx.adobe.com/nl/enterprise/admin-guide.html)
 
 ## Experience Manager Assets Essentials beheren {#administer-assets-essentials}
 

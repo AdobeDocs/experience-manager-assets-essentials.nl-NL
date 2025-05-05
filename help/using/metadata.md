@@ -213,13 +213,13 @@ Als u de geconfigureerde hoofdcodes wilt weergeven, gaat u naar de detailpagina 
 
 ## Volgende stappen {#next-steps}
 
-* [ bekijk een video om meta-gegevensvormen in de Hoofdzaak van Activa te beheren ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
+* [ bekijk een video om meta-gegevensvormen in de Hoofdzaak van Activa te beheren ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=nl-NL)
 
 * Feedback geven op het product met behulp van de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface Assets Essentials
 
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/?support-solution=General#support)
+* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support)
 
 <!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
 To reuse an existing form to create a new form, do one of these:

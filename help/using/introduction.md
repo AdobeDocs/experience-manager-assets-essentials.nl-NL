@@ -81,7 +81,7 @@ Op basis van de cloudinfrastructuur van de Adobe kunnen organisaties zich op hun
 
 Ga snel aan de slag met Assets Essentials om te profiteren van de belangrijkste mogelijkheden van Digital Asset Management in verschillende teams.
 
-Wanneer uw bedrijfsbehoeften groeien en u steun voor geavanceerde Vereisten van het Beheer van Activa, zoals aanpassingen, rekbaarheid en integratie, automatisering, Dynamic Media, en Brand Portal nodig hebt, biedt de Adobe ook [ Adobe Experience Manager Assets as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=en) aan.
+Wanneer uw bedrijfsbehoeften groeien en u steun voor geavanceerde Vereisten van het Beheer van Activa, zoals aanpassingen, rekbaarheid en integratie, automatisering, Dynamic Media, en Brand Portal nodig hebt, biedt de Adobe ook [ Adobe Experience Manager Assets as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=nl-NL) aan.
 
 
 ## Volgende stappen {#next-steps}
@@ -90,9 +90,9 @@ Wanneer uw bedrijfsbehoeften groeien en u steun voor geavanceerde Vereisten van 
 
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/?support-solution=General#support)
+* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support)
 
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Assets Essentials]  leerprogramma&#39;s pagina ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=en)
+>* [[!DNL Assets Essentials]  leerprogramma&#39;s pagina ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=nl-NL)

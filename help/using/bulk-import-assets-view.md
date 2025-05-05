@@ -161,7 +161,7 @@ Wanneer u elementen of mappen bulksgewijs importeert, importeert [!DNL Experienc
 
 Tijdens het bulkimporteren zoekt [!DNL Experience Manager] naar de bestaande mappen om te voorkomen dat de elementen en mappen opnieuw worden geïmporteerd en controleert het tevens de ontsmettingsregels die zijn toegepast in de bovenliggende map waar het importeren plaatsvindt. Als de ontsmettingsregels worden toegepast in de bovenliggende map, worden dezelfde regels toegepast op de importbron. Voor nieuwe importbewerkingen worden de volgende ontsmettingsregels toegepast om de bestandsnamen van elementen en mappen te beheren.
 
-Voor meer informatie over verboden namen, behandelend activanamen, en behandelend omslagnamen tijdens bulkinvoer, zie [ Behandelend filenames tijdens bulkinvoer ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport).
+Voor meer informatie over verboden namen, behandelend activanamen, en behandelend omslagnamen tijdens bulkinvoer, zie [ Behandelend filenames tijdens bulkinvoer ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=nl-NL#filename-handling-bulkimport).
 
 ## Bestaande configuraties voor bulkimport weergeven {#view-import-configuration}
 

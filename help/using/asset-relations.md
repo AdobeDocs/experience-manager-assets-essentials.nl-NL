@@ -48,7 +48,7 @@ Met deze functie hebt u de flexibiliteit om een PDF-bestand of JPG-bestand met e
 
 Het maken van bron-/afgeleide relaties tussen elementen met behulp van de functie voor gerelateerde elementen is ook handig in vertaalworkflows. Wanneer u een vertaalworkflow uitvoert op een afgeleid element, haalt [!DNL Experience Manager Assets] automatisch elk element op waarnaar het bronbestand verwijst en dat het voor vertaling bevat. Op deze manier wordt het element waarnaar door het bronelement wordt verwezen, samen met de bron en afgeleide elementen omgezet. Als het bronbestand verwant is aan een ander element, haalt [!DNL Experience Manager Assets] het element waarnaar wordt verwezen op en wordt het opgenomen voor vertaling.
 
-Zie [ activa in AEM ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets) vertalen.
+Zie [ activa in AEM ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/admin/translate-assets) vertalen.
 
 ## Volgende stappen {#next-steps}
 
@@ -56,10 +56,10 @@ Zie [ activa in AEM ](https://experienceleague.adobe.com/en/docs/experience-mana
 
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/?support-solution=General#support)
+* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support)
 
 >[!MORELIKETHIS]
 >
 >* [ de versies van de Mening van activa ](manage-organize.md#view-versions)
->* [ vertaalde activa in AEM ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
+>* [ vertaalde activa in AEM ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
 >* [ Ondersteunde Formaten van het Dossier in de Mening van Assets ](supported-file-formats.md).

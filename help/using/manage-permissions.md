@@ -52,11 +52,11 @@ Maak gebruikersgroepen en wijs aan deze groepen machtigingen toe om de toegangsn
 
 U kunt gebruikers aan gebruikersgroepen (1) toevoegen en [ gebruikers aan de Profielen van het Product van Assets Essentials (2) ](#add-admin-users). U kunt gebruikersgroepen echter niet rechtstreeks toevoegen aan productprofielen van Assets Essentials (3).
 
-Voor informatie over hoe te om gebruikersgroepen te beheren, zie `Create user groups` en `Edit user groups` beschikbaar bij [ gebruikersgroepen beheren ](https://helpx.adobe.com/enterprise/using/user-groups.html).
+Voor informatie over hoe te om gebruikersgroepen te beheren, zie `Create user groups` en `Edit user groups` beschikbaar bij [ gebruikersgroepen beheren ](https://helpx.adobe.com/nl/enterprise/using/user-groups.html).
 
 >[!NOTE]
 >
->Als uw Admin Console is ingesteld om een extern systeem te gebruiken voor het beheer van gebruikers/groepen-toewijzingen, zoals Azure- of Google-connectors, het synchronisatieprogramma van de gebruiker of de gebruikersbeheerrusten-API, worden uw groepen en gebruikerstoewijzingen automatisch geconfigureerd. Voor meer informatie, zie [ gebruikers van Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/users.html).
+>Als uw Admin Console is ingesteld om een extern systeem te gebruiken voor het beheer van gebruikers/groepen-toewijzingen, zoals Azure- of Google-connectors, het synchronisatieprogramma van de gebruiker of de gebruikersbeheerrusten-API, worden uw groepen en gebruikerstoewijzingen automatisch geconfigureerd. Voor meer informatie, zie [ gebruikers van Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/users.html).
 
 
 ### Gebruikers aan groepen toevoegen {#add-users-to-uesr-groups}
@@ -210,8 +210,8 @@ Hieronder ziet u de toegangsniveaus voor alle gebruikersgroepen in de mappenhië
 
 ## Volgende stappen {#next-steps}
 
-* [ bekijk een video om toestemmingen in Assets Essentials te beheren ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
+* [ bekijk een video om toestemmingen in Assets Essentials te beheren ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html?lang=nl-NL)
 
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/?support-solution=General#support)
+* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support)

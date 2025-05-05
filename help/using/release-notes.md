@@ -284,7 +284,7 @@ Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
 **versie 3.3 van de Verbinding van Activa van de Adobe**
 
-[&#128279;](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html) versie 3.3 van de Verbinding van Activa van de Adobe van 0&rbrace; wordt vrijgegeven op 13 december 2022, met de volgende eigenschappen:
+[&#128279;](https://helpx.adobe.com/nl/enterprise/using/adobe-asset-link.html) versie 3.3 van de Verbinding van Activa van de Adobe van 0&rbrace; wordt vrijgegeven op 13 december 2022, met de volgende eigenschappen:
 
 * Steun voor [ Creative Cloud voor teams ](https://www.adobe.com/creativecloud/business/teams.html) naast het steunen van [ Creative Cloud voor onderneming ](https://www.adobe.com/creativecloud/business/enterprise.html) voordien.
 

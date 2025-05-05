@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Dynamische mediasjablonen{#dynamic-media-templates}
 
-| [ Beste praktijken van het Onderzoek ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [ Beste praktijken van Meta-gegevens ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [ Content Hub ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [ de ontwikkelaarsdocumentatie van AEM Assets ](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
+| [ Beste praktijken van het Onderzoek ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [ Beste praktijken van Meta-gegevens ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [ Content Hub ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [ de ontwikkelaarsdocumentatie van AEM Assets ](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
 | ------------- | --------------------------- |---------|-----|
 
 >[!CONTEXTUALHELP]
@@ -22,7 +22,7 @@ ht-degree: 0%
 >abstract="Maak en personaliseer direct afbeeldingen en tekstbanners met een gebruiksvriendelijke WYSIWYG-interface en sluit de Dynamic Media URL in een eerste of een andere toepassing in om bijzonder aantrekkelijke ervaringen te creëren. Probeer het maar eens!"
 >additional-url="https://images-tv.adobe.com/mpcv3/4477/b74738ca-888c-4a37-9a9e-14fabd68ee45_1738206841.854x480at800_h264.mp4" text="Video bekijken"
 
-Maak dynamische mediasjablonen met een WYSIWYG-sjablooneditor en voeg meerdere afbeeldingen en tekstlagen toe om snel banners en flyers te maken en deze te gebruiken in downstreamtoepassingen. U kunt parameters aan de beelden en tekstlagen ook toevoegen inbegrepen in het malplaatje en [ Dynamische Media URLs ](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) gebruiken om de waarden voor die lagen in real time bij te werken.
+Maak dynamische mediasjablonen met een WYSIWYG-sjablooneditor en voeg meerdere afbeeldingen en tekstlagen toe om snel banners en flyers te maken en deze te gebruiken in downstreamtoepassingen. U kunt parameters aan de beelden en tekstlagen ook toevoegen inbegrepen in het malplaatje en [ Dynamische Media URLs ](https://experienceleague.adobe.com/nl/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) gebruiken om de waarden voor die lagen in real time bij te werken.
 
 Enkele van de belangrijkste functies zijn:
 
@@ -50,10 +50,10 @@ Enkele belangrijke voordelen van Dynamic Media-sjablonen zijn:
 Als u een sjabloon voor dynamische media wilt maken, moet u beschikken over:
 
 1. Toegang tot dynamische media.
-1. [ synchroniseerde de beelden beschikbaar in uw instantie van AEM Assets met Dynamische Media om hen te gebruiken voor het creëren van het malplaatje ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
+1. [ synchroniseerde de beelden beschikbaar in uw instantie van AEM Assets met Dynamische Media om hen te gebruiken voor het creëren van het malplaatje ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
 1. Controleer het volgende in de aanraakinterface:
-   * Op het tabblad **[!UICONTROL Edit Dynamic Media Configuration page]** wordt **[!UICONTROL Dynamic Media sync mode]** dat is ingesteld op **[!UICONTROL Disabled by default]** , niet toegepast op alle AEM-mappen (**[!UICONTROL Sync all content]** is uitgeschakeld). Zie [ vormend Dynamische Media Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) voor meer informatie.
-   * **[!UICONTROL Dynamic Media sync mode]** wordt ingesteld op **[!UICONTROL Enable for subfolders]** voor de doelmap of -submap waarin u de sjabloon na het maken wilt opslaan. Zie [ vormend Dynamische Media Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) voor meer informatie.
+   * Op het tabblad **[!UICONTROL Edit Dynamic Media Configuration page]** wordt **[!UICONTROL Dynamic Media sync mode]** dat is ingesteld op **[!UICONTROL Disabled by default]** , niet toegepast op alle AEM-mappen (**[!UICONTROL Sync all content]** is uitgeschakeld). Zie [ vormend Dynamische Media Cloud Service ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) voor meer informatie.
+   * **[!UICONTROL Dynamic Media sync mode]** wordt ingesteld op **[!UICONTROL Enable for subfolders]** voor de doelmap of -submap waarin u de sjabloon na het maken wilt opslaan. Zie [ vormend Dynamische Media Cloud Service ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) voor meer informatie.
 
 ## Dynamische media WYSIWYG-sjabloon maken{#how-to-create-dynamic-media-wysiwyg-template}
 
@@ -109,7 +109,7 @@ Klik ![ malplaatje om snel flyers ](/help/using/assets/show-layers-list.svg) **>
 
 Voer de volgende stappen uit om afbeeldingen aan het canvas toe te voegen:
 
-1. Klik ![ creeer een banner in geen tijd ](/help/using/assets/add-image.svg) om het [ paneel van de Selecteur van Activa ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/asset-selector/overview-asset-selector) te tonen. In het deelvenster worden de afbeeldingen weergegeven die in uw AEM Assets-instantie zijn gesynchroniseerd met Dynamic Media.
+1. Klik ![ creeer een banner in geen tijd ](/help/using/assets/add-image.svg) om het [ paneel van de Selecteur van Activa ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/manage/asset-selector/overview-asset-selector) te tonen. In het deelvenster worden de afbeeldingen weergegeven die in uw AEM Assets-instantie zijn gesynchroniseerd met Dynamic Media.
 1. Blader in het deelvenster of gebruik trefwoorden in de zoekbalk om een specifieke afbeelding te zoeken.
 1. Sleep een afbeelding naar het canvas om deze te gebruiken. Zie [**[!UICONTROL Properties Panel]**](#reposition-resize-delete-a-layer) voor het wijzigen van het formaat of het verplaatsen van een laag op het canvas.
    ![ creeer een banner binnen seconden ](/help/using/assets/add-image-to-canvas.png)
@@ -166,7 +166,7 @@ Zie de volgende algemene handelingen voor het bewerken van lagen om tekst of een
 
 Maak de tekst op in het gewenste lettertype, de gewenste grootte, kleur, stijl, uitlijning (in de laag) door de waarden van de tekst te wijzigen in de desbetreffende velden onder de sectie **[!UICONTROL Text]** van het deelvenster.
 
-**[!UICONTROL Smart Text Resize]** verzeker om **[!UICONTROL Smart Text Resize]** ([ te omvatten passend maken ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting)) om het even welke tekst in het aangewezen gebied optimaal te passen door zijn doopvontgrootte en lengte slim aan te passen. Zo voorkomt u tekstoverloop of minimaliseert u extra spaties onder aan de tekst.
+**[!UICONTROL Smart Text Resize]** verzeker om **[!UICONTROL Smart Text Resize]** ([ te omvatten passend maken ](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting)) om het even welke tekst in het aangewezen gebied optimaal te passen door zijn doopvontgrootte en lengte slim aan te passen. Zo voorkomt u tekstoverloop of minimaliseert u extra spaties onder aan de tekst.
 ![ inhoudsverwezenlijking in geen tijd ](/help/using/assets/smart-text-resize.png)
 
 ### Lagen parametereren {#parameterise-a-layer}
@@ -287,5 +287,5 @@ Voer de volgende stappen uit om de sjabloon te bewerken:
 
 ## Zie ook
 
-1. Onderzoek [ Dynamische Media en zijn mogelijkheden ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
-1. Onderzoek [ Dynamische Media met mogelijkheden OpenAPI ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
+1. Onderzoek [ Dynamische Media en zijn mogelijkheden ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
+1. Onderzoek [ Dynamische Media met mogelijkheden OpenAPI ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Met de interface voor elementaire elementen maakt u basisbewerkingen van afbeeldingen mogelijk die door Adobe Express worden ondersteund en die zijn geïntegreerd in de gebruikersinterface. Deze bewerking omvat het wijzigen van het formaat, het verwijderen van de achtergrond, het bijsnijden, en het omzetten tussen JPEG en PNG formaten. Bovendien is geavanceerde bewerking mogelijk via de Adobe Express-interface die is ingesloten in de Essentiële gebruikersinterface.
 
-Nadat u een afbeelding hebt bewerkt, kunt u de nieuwe afbeelding opslaan als een nieuwe versie. Met Versioning kunt u het oorspronkelijke element later herstellen als dat nodig is. Om een beeld uit te geven, [ open zijn voorproef ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) en klik **geef Beeld** uit.
+Nadat u een afbeelding hebt bewerkt, kunt u de nieuwe afbeelding opslaan als een nieuwe versie. Met Versioning kunt u het oorspronkelijke element later herstellen als dat nodig is. Om een beeld uit te geven, [ open zijn voorproef ](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) en klik **geef Beeld** uit.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Nadat u een afbeelding hebt bewerkt, kunt u de nieuwe afbeelding opslaan als een
 ## Afbeeldingen bewerken {#edit-images}
 
 Ga naar de Hoofdzaak UI van Activa, gebruikend de verbinding - [ Hoofdzaak UI van Activa ](https://experience.adobe.com/#/assets) en het selecteren van de juiste bewaarplaats. Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
-Voor om het even welke extra verwijzingsinformatie verwijs - [ wordt begonnen gebruikend de Hoofdzaak van de Activa van de Manager van de Ervaring van Adobe ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [ begrip van het gebruikersinterface ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [ het gebruikscase van de Hoofdzaak van Activa ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) en [ bekende kwesties ](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
+Voor om het even welke extra verwijzingsinformatie verwijs - [ wordt begonnen gebruikend de Hoofdzaak van de Activa van de Manager van de Ervaring van Adobe ](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/get-started), [ begrip van het gebruikersinterface ](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/navigate-view), [ het gebruikscase van de Hoofdzaak van Activa ](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/get-started#use-cases) en [ bekende kwesties ](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/release-notes).
 
 ### Afbeelding bewerken in de gebruikersinterface van Essentiële elementen met Adobe Express{#edit-images-using-adobe-express}
 
@@ -152,7 +152,7 @@ The brush samples the retouched area and makes the repaired pixels blend seamles
 
 <!-- 
 TBD: See if we should give backlinks to PS docs for these concepts.
-For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html). 
+For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/nl/photoshop/using/retouching-repairing-images.html). 
 -->
 <!--
 ### Crop and straighten images {#crop-straighten-images-using-photoshop-express}
@@ -195,7 +195,7 @@ TBD: Insert a video of the available social media options.
 
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/?support-solution=General#support)
+* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support)
 
 >[!MORELIKETHIS]
 >

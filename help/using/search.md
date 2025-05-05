@@ -15,37 +15,37 @@ ht-degree: 0%
     <tr>
         <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="new">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b> Dynamische Media Prime en Ultimate </b></a>
+            <a href="https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b> Dynamische Media Prime en Ultimate </b></a>
         </td>
         <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="new">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b> AEM Assets Ultimate </b></a>
+            <a href="https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b> AEM Assets Ultimate </b></a>
         </td>
         <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="new">
-            <a href="http://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b> de integratie van AEM Assets met Edge Delivery Services </b></a>
+            <a href="http://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b> de integratie van AEM Assets met Edge Delivery Services </b></a>
         </td>
         <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="new">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b> Uitbreidbaarheid UI </b></a>
+            <a href="https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b> Uitbreidbaarheid UI </b></a>
         </td>
           <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="new">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/custom-search-filters"><b> Filters van het Onderzoek van de Douane </b></a>
+            <a href="https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/custom-search-filters"><b> Filters van het Onderzoek van de Douane </b></a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b> Beste praktijken van het Onderzoek </b></a>
+            <a href="https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b> Beste praktijken van het Onderzoek </b></a>
         </td>
         <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b> Beste praktijken van Meta-gegevens </b></a>
+            <a href="https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b> Beste praktijken van Meta-gegevens </b></a>
         </td>
         <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b> Content Hub </b></a>
+            <a href="https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b> Content Hub </b></a>
         </td>
         <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview"><b> Dynamische Media met mogelijkheden OpenAPI </b></a>
+            <a href="https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview"><b> Dynamische Media met mogelijkheden OpenAPI </b></a>
         </td>
         <td>
             <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b> de ontwikkelaarsdocumentatie van AEM Assets </b></a>
@@ -59,7 +59,7 @@ ht-degree: 0%
 >id="assets_search"
 >title="Zoeken in Assets"
 >abstract="Zoek naar activa door een sleutelwoord in de bar van het Onderzoek te specificeren of door activa te filtreren die op hun status, dossiertype, MIME type, grootte, verwezenlijking, wijziging, en vervaldata worden gebaseerd. Naast de standaardfilters kunt u ook aangepaste filters toepassen. U kunt de gefilterde resultaten opslaan als een opgeslagen zoekopdracht of als een slimme verzameling."
->additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=en#manage-smart-collection" text="Slimme verzamelingen maken"
+>additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=nl-NL#manage-smart-collection" text="Slimme verzamelingen maken"
 
 [!DNL Assets Essentials] biedt een effectieve zoekfunctie die standaard werkt. De zoekopdracht is uitgebreid omdat het een zoekopdracht in volledige tekst betreft. Met de krachtige zoekfunctionaliteit kunt u snel de juiste middelen vinden en de snelheid van de inhoud verbeteren. [!DNL Assets Essentials] biedt zoekopdrachten in volledige tekst en zoekopdrachten via metagegevens, zoals slimme tags, titel, gemaakte datum en copyright.
 
@@ -256,7 +256,7 @@ U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de
 
 * **Wijs Taken** toe: Wijs taken aan gebruikers voor een activa toe.
 
-* **Controle**: [ controleert de verrichtingen ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/search-assets) die op activa worden uitgevoerd.
+* **Controle**: [ controleert de verrichtingen ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/manage/search-assets) die op activa worden uitgevoerd.
 
 ## Eerste homepage van zoekopdracht configureren {#configuring-search-first-homepage}
 
@@ -379,11 +379,11 @@ Als u moet verstrekken terugkoppelt op de Contextuele eigenschap van het Onderzo
 
 ## Volgende stappen {#next-steps}
 
-* [ bekijk een video om activa in de Hoofdzaak van Activa te zoeken ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html)
+* [ bekijk een video om activa in de Hoofdzaak van Activa te zoeken ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html?lang=nl-NL)
 
 * Feedback geven op het product met behulp van de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface Assets Essentials
 
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar.
 
-* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/?support-solution=General#support)
+* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support)
 
