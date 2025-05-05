@@ -127,7 +127,7 @@ Met Assets Essentials kunt u nu de homepage-ervaring voor uw organisatie configu
 
 **Bulk de invoeractiva van Gegevensbron OneDrive**
 
-De beheerders hebben nu de capaciteit om een groot aantal activa van OneDrive in AEM Assets ](/help/using/bulk-import-assets-view.md) in te voeren. [ De bijgewerkte lijst voor de ondersteunde gegevensbronnen voor bulkimport bevat Azure, AWS, Google Cloud, Dropbox en OneDrive.
+De beheerders hebben nu de capaciteit om een groot aantal activa van OneDrive in AEM Assets [&#128279;](/help/using/bulk-import-assets-view.md) in te voeren.  De bijgewerkte lijst voor de ondersteunde gegevensbronnen voor bulkimport bevat Azure, AWS, Google Cloud, Dropbox en OneDrive.
 
 ![ wijs meta-gegevensvorm aan een omslag ](/help/using/assets/bulk-import-source-details.png) toe
 
@@ -284,7 +284,7 @@ Verbeteringen en foutoplossingen op basis van feedback van klanten.
 
 **versie 3.3 van de Verbinding van Activa van de Adobe**
 
-](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html) versie 3.3 van de Verbinding van Activa van de Adobe van 0} wordt vrijgegeven op 13 december 2022, met de volgende eigenschappen:[
+[&#128279;](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html) versie 3.3 van de Verbinding van Activa van de Adobe van 0&rbrace; wordt vrijgegeven op 13 december 2022, met de volgende eigenschappen:
 
 * Steun voor [ Creative Cloud voor teams ](https://www.adobe.com/creativecloud/business/teams.html) naast het steunen van [ Creative Cloud voor onderneming ](https://www.adobe.com/creativecloud/business/enterprise.html) voordien.
 
@@ -344,7 +344,7 @@ De release van mei van [!DNL Assets Essentials] wordt uitgebracht op 16 juni 202
 
 Deze release biedt:
 
-{de verhogingen van de Status van activa 0} ****
+{de verhogingen van de Status van activa 0} **&#x200B;**
 
 * De Assets Essentials laten u nu toe om [ een vervaldatum voor activa ](manage-organize.md#set-asset-status) te plaatsen. Bovendien kunt u [ filteractiva ](search.md#refine-search-results) filtreren die op de `Expired` activastatus en een waaier van de vervaldatum worden gebaseerd.
 
@@ -388,7 +388,7 @@ De huidige release van [!DNL Assets Essentials] wordt uitgebracht op 12 mei 2022
 
 * De Assets Essentials laten u nu ook toe om [ douanefilters ](search.md#custom-filters) aan het gebruikersinterface toe te voegen. Vervolgens kunt u deze aangepaste filters naast de standaardfilters toepassen om de zoekresultaten te verfijnen.
 
-* De Assets Essentials staan u nu toe om status ](manage-organize.md#set-asset-status) op activa te plaatsen beschikbaar in de bewaarplaats. [ Stel een elementstatus in om het downstreamgebruik van digitale elementen beter te beheren en te beheren.
+* De Assets Essentials staan u nu toe om status [&#128279;](manage-organize.md#set-asset-status) op activa te plaatsen beschikbaar in de bewaarplaats.  Stel een elementstatus in om het downstreamgebruik van digitale elementen beter te beheren en te beheren.
 
 * Verbeteringen en foutoplossingen op basis van feedback van klanten.
 

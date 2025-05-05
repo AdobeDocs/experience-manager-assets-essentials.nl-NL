@@ -71,6 +71,7 @@ Voer de volgende stappen uit om de metagegevens van meerdere elementen tegelijk 
    * **Sleutelwoorden:** voeg specifieke termijnen of tekstkoorden toe die een informatie op hoog niveau over de activa verstrekken om hun ontdekkingsbaarheid te verbeteren. Voeg een trefwoord toe en druk op Enter of Return om nog een trefwoord aan de lijst toe te voegen.
    * **Markeringen:** klik ![ etikettenpictogram ](/help/using/assets/tags-icon.svg) om markeringen van de beschikbare opties te selecteren. Tags bieden specifiekere informatie over de elementen en verbeteren de ontdekkingsmogelijkheden ervan. De markeringen die reeds op de geselecteerde activa worden toegepast tonen in het **paneel van Eigenschappen**. Als u de relevante tags niet kunt vinden, maakt u deze en wijst u ze toe aan de geselecteerde elementen. Zie [ markeringen in de Hoofdzaak van Activa beheren ](/help/using/tagging-management.md) voor details bij het creëren van en het toewijzen van markeringen aan activa.
    * Klik **sparen** om de bovengenoemde meta-gegevensupdates op de geselecteerde activa toe te passen. Nadat trefwoorden en tags zijn opgeslagen, worden deze toegevoegd terwijl de bijgewerkte gegevens voor Status, Vervaldatum en Auteur de bestaande gegevens overschrijven.
+
      ![ sparen-bulk-meta-gegeven-geef-eigenschappen uit ](/help/using/assets/save-bulk-metadata-edit-properties2.png)
 
      >[!NOTE]

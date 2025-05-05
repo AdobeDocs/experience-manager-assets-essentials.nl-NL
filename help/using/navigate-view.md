@@ -24,7 +24,7 @@ Wanneer u zich aanmeldt bij [!DNL Assets Essentials] , ziet u de volgende interf
 
 ![[!DNL Assets Essentials] gebruikersinterface ](assets/essentials-interface.png)
 
-**A**: De linkerzijbalk om bewaarplaats te doorbladeren en toegang tot een paar andere opties **B** verleent: Vertoning of doet ineenstorten de linkerzijbalk om activa-bekijkend gebied **C** te verhogen: De onderzoeksresultaten van de filter **D**: Selecteer alle inhoud van de geselecteerde omslag **E**: Opties om activa **F** te sorteren: De doos van het Onderzoek **2} G**: Upload of sleep en laat vallen dossiers gebruikend `Add Assets` knoop **H**: Creeer een nieuwe omslag **I**: Schakelaar tussen verschillende meningen
+**A**: De linkerzijbalk om bewaarplaats te doorbladeren en toegang tot een paar andere opties **B** verleent: Vertoning of doet ineenstorten de linkerzijbalk om activa-bekijkend gebied **C** te verhogen: De onderzoeksresultaten van de filter **D**: Selecteer alle inhoud van de geselecteerde omslag **E**: Opties om activa **F** te sorteren: De doos van het Onderzoek **2&rbrace; G**: Upload of sleep en laat vallen dossiers gebruikend `Add Assets` knoop **H**: Creeer een nieuwe omslag **I**: Schakelaar tussen verschillende meningen
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
 
@@ -78,7 +78,7 @@ Om activa voor te vertonen, het te selecteren en [!UICONTROL Details] ![ details
 
 ![ Voorproef een activa ](assets/preview-asset-2.png)
 
-**A**: Terugkeer aan de huidige omslag of het huidige onderzoeksresultaat in de bewaarplaats **B**: Naam en formaat voor het dossier u **C** previewing: Wijs taken **D** toe: Geavanceerde meta-gegevens **E**: Trefwoorden en slimme markeringen **F**: De opmerking en annoteert **G**}: De taken van de mening met betrekking tot de geselecteerde Activa **H**: Bekijk en beheer versies **I**: De vertoningen van de mening van beeld **J**: Bewerk beeld **K**: De fundamentele meta-gegevens **L**: Geavanceerde meta-gegevens **M** Trefwoorden: en slimme markeringen **N**: nauwkeuriger Voorproef. Zoomen, volledig scherm, en andere opties **O**: Ga aan vorige of volgende activa in de huidige omslag zonder terug naar de omslag te gaan
+**A**: Terugkeer aan de huidige omslag of het huidige onderzoeksresultaat in de bewaarplaats **B**: Naam en formaat voor het dossier u **C** previewing: Wijs taken **D** toe: Geavanceerde meta-gegevens **E**: Trefwoorden en slimme markeringen **F**: De opmerking en annoteert **G**&rbrace;: De taken van de mening met betrekking tot de geselecteerde Activa **H**: Bekijk en beheer versies **I**: De vertoningen van de mening van beeld **J**: Bewerk beeld **K**: De fundamentele meta-gegevens **L**: Geavanceerde meta-gegevens **M** Trefwoorden: en slimme markeringen **N**: nauwkeuriger Voorproef. Zoomen, volledig scherm, en andere opties **O**: Ga aan vorige of volgende activa in de huidige omslag zonder terug naar de omslag te gaan
 
 U kunt ook voorvertoningen van video&#39;s weergeven.
 
@@ -108,7 +108,7 @@ U kunt de kolommen selecteren die in de weergave Assets-lijst worden weergegeven
 
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* De Zorg van de Klant van het contact ](https://experienceleague.adobe.com/?support-solution=General#support)[
+* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/?support-solution=General#support)
 
 >[!MORELIKETHIS]
 >
