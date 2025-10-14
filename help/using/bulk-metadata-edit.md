@@ -63,16 +63,16 @@ Voer de volgende stappen uit om de metagegevens van meerdere elementen tegelijk 
 1. Voor de Hoofdzaak van Activa, klik **Assets**.
 1. Blader naar specifieke elementen of doorzoek deze met behulp van trefwoorden op de zoekbalk.
 1. Selecteer de activa en klik **Bulk Meta-gegevens uitgeven** van het hoogste menu.
-   ![ bulk-meta-gegeven-geef uit ](/help/using/assets/bulk-metadata-edit1.png)
+   ![&#x200B; bulk-meta-gegeven-geef uit &#x200B;](/help/using/assets/bulk-metadata-edit1.png)
 1. Op de Edit meta-gegevenspagina, geef de volgende gebieden in het **paneel van Eigenschappen** uit:
    * **Status:** selecteer een status voor de geselecteerde activa.
    * **Vervaldatum:** plaats een datum waarna de activa ongeldig of nodig zijn.
    * **Auteur:** specificeer de naam van de auteur.
    * **Sleutelwoorden:** voeg specifieke termijnen of tekstkoorden toe die een informatie op hoog niveau over de activa verstrekken om hun ontdekkingsbaarheid te verbeteren. Voeg een trefwoord toe en druk op Enter of Return om nog een trefwoord aan de lijst toe te voegen.
-   * **Markeringen:** klik ![ etikettenpictogram ](/help/using/assets/tags-icon.svg) om markeringen van de beschikbare opties te selecteren. Tags bieden specifiekere informatie over de elementen en verbeteren de ontdekkingsmogelijkheden ervan. De markeringen die reeds op de geselecteerde activa worden toegepast tonen in het **paneel van Eigenschappen**. Als u de relevante tags niet kunt vinden, maakt u deze en wijst u ze toe aan de geselecteerde elementen. Zie [ markeringen in de Hoofdzaak van Activa beheren ](/help/using/tagging-management.md) voor details bij het creëren van en het toewijzen van markeringen aan activa.
+   * **Markeringen:** klik ![&#x200B; etikettenpictogram &#x200B;](/help/using/assets/tags-icon.svg) om markeringen van de beschikbare opties te selecteren. Tags bieden specifiekere informatie over de elementen en verbeteren de ontdekkingsmogelijkheden ervan. De markeringen die reeds op de geselecteerde activa worden toegepast tonen in het **paneel van Eigenschappen**. Als u de relevante tags niet kunt vinden, maakt u deze en wijst u ze toe aan de geselecteerde elementen. Zie [&#x200B; markeringen in de Hoofdzaak van Activa beheren &#x200B;](/help/using/tagging-management.md) voor details bij het creëren van en het toewijzen van markeringen aan activa.
    * Klik **sparen** om de bovengenoemde meta-gegevensupdates op de geselecteerde activa toe te passen. Nadat trefwoorden en tags zijn opgeslagen, worden deze toegevoegd terwijl de bijgewerkte gegevens voor Status, Vervaldatum en Auteur de bestaande gegevens overschrijven.
 
-     ![ sparen-bulk-meta-gegeven-geef-eigenschappen uit ](/help/using/assets/save-bulk-metadata-edit-properties2.png)
+     ![&#x200B; sparen-bulk-meta-gegeven-geef-eigenschappen uit &#x200B;](/help/using/assets/save-bulk-metadata-edit-properties2.png)
 
      >[!NOTE]
      >
@@ -82,4 +82,4 @@ Om de toegepaste meta-gegevensupdates aan een activa te zien, navigeer aan de pa
 
 >[!NOTE]
 >
->**Status**, **Vervaldatum**, **Auteur**, **Trefwoorden** en **Markeringen** zijn standaardmeta-gegevenseigenschappen beschikbaar voor bulkmeta-gegevens het uitgeven, ongeacht omslag-specifieke meta-gegevens. Deze eigenschappen van metagegevens worden alleen weergegeven op de pagina met elementdetails als ze zijn opgenomen in het metagegevensformulier dat is toegepast op de map van het element. Als u deze standaardeigenschappen voor metagegevens niet kunt vinden op de pagina met elementdetails, bewerkt u het metagegevensformulier van de map met middelen om deze op te nemen. Zie [ Meta-gegevens in de Hoofdzaak van Activa ](/help/using/metadata.md) leren om een meta-gegevensvorm tot stand te brengen of uit te geven en het op een omslag toe te passen.
+>**Status**, **Vervaldatum**, **Auteur**, **Trefwoorden** en **Markeringen** zijn standaardmeta-gegevenseigenschappen beschikbaar voor bulkmeta-gegevens het uitgeven, ongeacht omslag-specifieke meta-gegevens. Deze eigenschappen van metagegevens worden alleen weergegeven op de pagina met elementdetails als ze zijn opgenomen in het metagegevensformulier dat is toegepast op de map van het element. Als u deze standaardeigenschappen voor metagegevens niet kunt vinden op de pagina met elementdetails, bewerkt u het metagegevensformulier van de map met middelen om deze op te nemen. Zie [&#x200B; Meta-gegevens in de Hoofdzaak van Activa &#x200B;](/help/using/metadata.md) leren om een meta-gegevensvorm tot stand te brengen of uit te geven en het op een omslag toe te passen.

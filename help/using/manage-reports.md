@@ -15,11 +15,11 @@ Middelenrapportage geeft beheerders inzicht in de activiteiten van de Adobe Expe
 
 ## Toegangsrapporten {#access-reports}
 
-Alle gebruikers die aan het [ het productprofiel van de Beheerders van Assets Essentials ](deploy-administer.md) worden toegewezen kunnen tot het dashboard van Inzichten toegang hebben of user-defined rapporten in Assets Essentials tot stand brengen.
+Alle gebruikers die aan het [&#x200B; het productprofiel van de Beheerders van Assets Essentials &#x200B;](deploy-administer.md) worden toegewezen kunnen tot het dashboard van Inzichten toegang hebben of user-defined rapporten in Assets Essentials tot stand brengen.
 
 Navigeer naar **[!UICONTROL Reports]** onder **[!UICONTROL Settings]** om rapporten te openen.
 
-![ Rapporten ](assets/reports.png)
+![&#x200B; Rapporten &#x200B;](assets/reports.png)
 <!--
 In the **[!UICONTROL Reports]** screen, various components are shown in the tabular format which includes the following:
 
@@ -38,7 +38,7 @@ De AEM Assets Essentials-omgeving biedt uitgebreide rapportagemogelijkheden via 
 **om een rapport tot stand te brengen:**
 
 1. Navigeer aan **Rapporten** en klik **creëren rapport** (van het hoogste recht). **creeer rapport** dialoogdoos toont de hieronder gebieden:
-   ![ creeer-rapport ](/help/using/assets/executed-reports1.svg)
+   ![&#x200B; creeer-rapport &#x200B;](/help/using/assets/executed-reports1.svg)
 
    **In het lusje van de Configuratie:**
 
@@ -126,7 +126,7 @@ De AEM Assets Essentials-omgeving biedt uitgebreide rapportagemogelijkheden via 
 ## Bestaand rapport weergeven en downloaden {#View-and-download-existing-report}
 
 De bestaande rapporten tonen onder **Uitvoerde Rapporten** tabel. Klik **Rapporten** en selecteer **Uitvoerde Rapporten** om alle gecreeerde rapporten met de status te bekijken zoals **voltooide**, erop wijzend zij klaar zijn te downloaden. Om het rapport in formaat te downloaden CSV of het rapport te schrappen, de rapportrij te selecteren en **te selecteren CSV van de Download** of **Schrapping**.
-![ mening en download bestaande rapporten ](/help/using/assets/view-download-existing-report.png)
+![&#x200B; mening en download bestaande rapporten &#x200B;](/help/using/assets/view-download-existing-report.png)
 
 ## Een rapport plannen {#schedule-report}
 
@@ -142,7 +142,7 @@ Volg onderstaande stappen om een rapport te plannen:
    1. **Uitgezochte omslagweg:** selecteer een omslagweg om een rapport voor activa te produceren die aan of van die specifieke omslag in de toekomst zullen worden geupload.
    1. Wissel **rapport van het Programma:** Wissel om het rapport voor een recentere tijd of voor zijn herhaalde voorkomen te plannen.
 
-      ![ planningsrapport ](/help/using/assets/schedule-reports1.svg)
+      ![&#x200B; planningsrapport &#x200B;](/help/using/assets/schedule-reports1.svg)
 
    1. **kies frequentie:** specificeer het interval voor het produceren van het rapport (bijvoorbeeld, dagelijks, wekelijks, maandelijks, jaarlijks, of eens) en plaats de datum en de tijd om het rapport samen met de einddatum voor herhaling in werking te stellen. Voor een eenmalig rapport selecteert u het datumbereik voor het rapport over het geselecteerde activiteitstype in de AEM. Bijvoorbeeld, als u een rapport over gedownloade activa van de tiende tot 29e (toekomstige data) van een specifieke maand nodig hebt, selecteer deze data in het **Uitgezochte 1&rbrace; gebied van het datuminterval &lbrace;.**
 
@@ -152,8 +152,8 @@ Volg onderstaande stappen om een rapport te plannen:
 
 ## Geplande rapporten weergeven {#view-scheduled-reports}
 
-De geplande rapporten tonen onder **Geplande Rapporten** lusje op een systematisch georganiseerde manier. Alle voltooide rapporten voor elk gepland rapport worden opgeslagen binnen één enkele rapportomslag. Klik ![ uitvouwen samenvouwen ](/help/using/assets/expand-icon1.svg) om de voltooide rapporten te bekijken. Als u bijvoorbeeld een dagelijks rapport hebt gepland, worden alle voltooide rapporten gegroepeerd in één map. Deze organisatie vereenvoudigt zowel de navigatie als de ontdekkingsbaarheid van rapporten. Om geplande rapporten te bekijken, klik **Rapporten** en klik dan **Geplande Rapporten**. Alle geplande rapporten worden weergegeven met hun status als lopend of voltooid. Voltooide rapporten kunnen worden gedownload.
-![ gepland rapport ](/help/using/assets/scheduled-reports-tab.png)
+De geplande rapporten tonen onder **Geplande Rapporten** lusje op een systematisch georganiseerde manier. Alle voltooide rapporten voor elk gepland rapport worden opgeslagen binnen één enkele rapportomslag. Klik ![&#x200B; uitvouwen samenvouwen &#x200B;](/help/using/assets/expand-icon1.svg) om de voltooide rapporten te bekijken. Als u bijvoorbeeld een dagelijks rapport hebt gepland, worden alle voltooide rapporten gegroepeerd in één map. Deze organisatie vereenvoudigt zowel de navigatie als de ontdekkingsbaarheid van rapporten. Om geplande rapporten te bekijken, klik **Rapporten** en klik dan **Geplande Rapporten**. Alle geplande rapporten worden weergegeven met hun status als lopend of voltooid. Voltooide rapporten kunnen worden gedownload.
+![&#x200B; gepland rapport &#x200B;](/help/using/assets/scheduled-reports-tab.png)
 
 ## Geplande rapporten bewerken en annuleren {#edit-cancel-scheduled-reports}
 
@@ -161,12 +161,12 @@ De geplande rapporten tonen onder **Geplande Rapporten** lusje op een systematis
 1. Selecteer de rapportrij.
 1. Klik **uitgeven**.
 1. Klik **annuleer Programma** en klik dan **bevestigen**, om het geplande rapport te annuleren. Voor geannuleerde rapporten, wordt de volgende runtime leeg en toont de status geannuleerd.
-   ![ geef uit en annuleer gepland rapport ](/help/using/assets/cancel-edit-scheduled-reports.png)
+   ![&#x200B; geef uit en annuleer gepland rapport &#x200B;](/help/using/assets/cancel-edit-scheduled-reports.png)
 
 ### Plan hervatten {#resume-schedule}
 
 Om het geannuleerde programma te hervatten, selecteer de rapportrij en klik **Programma van de Hervatting**. Wanneer deze wordt hervat, worden de volgende runtimegegevens opnieuw weergegeven en wordt de status weergegeven als zijnde actief.
-![ hervat programma ](/help/using/assets/resume-schedule.png)
+![&#x200B; hervat programma &#x200B;](/help/using/assets/resume-schedule.png)
 
 >[!NOTE]
 >
@@ -186,21 +186,21 @@ Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgevin
 Klik op **[!UICONTROL Insights]** beschikbaar in het linkernavigatievenster om de volgende automatisch gegenereerde grafieken weer te geven:
 
 * **Downloads**: Het aantal activa die van het milieu van Assets Essentials in de laatste 30 dagen of 12 maanden worden gedownload vertegenwoordigden gebruikend een lijngrafiek.
-  ![ downloads ](/help/using/assets/insights-downloads2341.svg)
+  ![&#x200B; downloads &#x200B;](/help/using/assets/insights-downloads2341.svg)
 
 * **uploadt**: Het aantal activa die aan het milieu van Assets Essentials in de laatste 30 dagen of 12 maanden worden geupload vertegenwoordigden gebruikend een lijngrafiek.
-  ![ uploadt ](/help/using/assets/insights-uplods2.svg)
+  ![&#x200B; uploadt &#x200B;](/help/using/assets/insights-uplods2.svg)
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **gebruik van de Opslag**: Het opslaggebruik, in bytes, voor het milieu van Assets Essentials dat gebruikend een staafdiagram wordt vertegenwoordigd.
-  ![ opslaggebruik ](/help/using/assets/insights-storage-usage1.svg)
+  ![&#x200B; opslaggebruik &#x200B;](/help/using/assets/insights-storage-usage1.svg)
   <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Hoogste Zoekopdrachten**: De hoogste gezochte termijnen van de mening samen met het aantal tijden die termijnen binnen uw milieu van Assets Essentials in de laatste 30 dagen of 12 maanden worden gezocht die maanden in een tabelformaat worden vertegenwoordigd.
-  ![ opslaggebruik ](/help/using/assets/insights-top-search.svg)
+  ![&#x200B; opslaggebruik &#x200B;](/help/using/assets/insights-top-search.svg)
 
   <!--
    ![Insights](assets/insights1.png)
@@ -208,8 +208,8 @@ Klik op **[!UICONTROL Insights]** beschikbaar in het linkernavigatievenster om d
    -->
 
 * **Telling van Activa door grootte:** segmenteert het totale assetentelling in uw essentiële milieu van Assets in verschillende groottewaaiers, die de telling en het percentage activa in elke groottewaaier benadrukken, door een donutgrafiek wordt vertegenwoordigd.
-  ![ inzichten-activa-telling-door-grootte ](/help/using/assets/insights-assets-count-by-size.svg)
+  ![&#x200B; inzichten-activa-telling-door-grootte &#x200B;](/help/using/assets/insights-assets-count-by-size.svg)
 
 * **Telling van Activa door het Type van Activa:** segmenteert het totale assetentelling in uw het essentiële milieu van Assets, die de telling en het percentage van activa benadrukken die op hun dossiertypes worden gebaseerd, door een donutgrafiek wordt vertegenwoordigd.
-  ![ inzichten-activa-telling-door-grootte ](/help/using/assets/insights-assest-count-by-asset-type1.svg)
+  ![&#x200B; inzichten-activa-telling-door-grootte &#x200B;](/help/using/assets/insights-assest-count-by-asset-type1.svg)
 

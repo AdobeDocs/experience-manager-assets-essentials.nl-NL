@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Assets Essentials voor Creative Cloud Pro met oplossingen voor werkbeheer {#creative-cloud-enterprise-user-journeys}
 
-![ Voorkeur om donker en licht thema ](assets/cce-next-banner-landing-page.png) te schakelen
+![&#x200B; Voorkeur om donker en licht thema &#x200B;](assets/cce-next-banner-landing-page.png) te schakelen
 
 ## Inleiding {#introduction}
 
@@ -31,15 +31,15 @@ Aangezien de oplossing uit toepassingen en de diensten van zowel Creative Cloud 
 
 In het geval van plaatsing in twee Admin Consoles, wordt een extra configuratiestap vereist:
 
-* De diensten en de toepassingen van het Creative Cloud (Creative Cloud voor onderneming Pro en facultatieve modules) worden beheerd in [ Adobe Admin Console voor uw plaatsing van het Creative Cloud ](https://chl-author-preview.corp.adobe.com/content/help/en/enterprise/admin-guide.html).
+* De diensten en de toepassingen van het Creative Cloud (Creative Cloud voor onderneming Pro en facultatieve modules) worden beheerd in [&#x200B; Adobe Admin Console voor uw plaatsing van het Creative Cloud &#x200B;](https://chl-author-preview.corp.adobe.com/content/help/en/enterprise/admin-guide.html).
 
-* Adobe Workfront en Adobe Experience Manager Assets Essentials worden beheerd in [ Adobe Admin Console voor de oplossingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=nl-NL).
+* Adobe Workfront en Adobe Experience Manager Assets Essentials worden beheerd in [&#x200B; Adobe Admin Console voor de oplossingen van het Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=nl-NL).
 
-Om Creative Cloud en Assets Essentials toepassingen te integreren, moeten de gebruikers die in Admin Console voor Creative Cloud beschikbaar zijn in Admin Console voor Experience Cloud ter beschikking worden gesteld. Om de gebruikers beschikbaar te maken in de Admin Console van het Experience Cloud, creeer een folder om [ folder te vestigen die ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html#directory-trusting) tussen de twee admin consoles vertrouwt.
+Om Creative Cloud en Assets Essentials toepassingen te integreren, moeten de gebruikers die in Admin Console voor Creative Cloud beschikbaar zijn in Admin Console voor Experience Cloud ter beschikking worden gesteld. Om de gebruikers beschikbaar te maken in de Admin Console van het Experience Cloud, creeer een folder om [&#x200B; folder te vestigen die &#x200B;](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html#directory-trusting) tussen de twee admin consoles vertrouwt.
 
-![ Gebruikers van het Creative Cloud ](assets/creative-cloud-users.svg)
+![&#x200B; Gebruikers van het Creative Cloud &#x200B;](assets/creative-cloud-users.svg)
 
-Zoals afgebeeld in het diagram, worden de gebruikers van het Creative Cloud automatisch ter beschikking gesteld in de Admin Console van het Experience Cloud die op een vertrouwensverhouding tussen de twee consoles wordt gebaseerd. Vervolgens kunt u de gebruikers toevoegen aan productprofielen voor Assets Essentials. Dientengevolge, kunnen de gebruikers van het Creative Cloud tot de toepassing van de Verbinding van Activa van de Adobe toegang hebben die met de bewaarplaats van Assets Essentials kan communiceren. Voor meer informatie, zie [ Assets Essentials met de toepassingen van het Creative Cloud ](integrate-with-creative-cloud.md) integreren.
+Zoals afgebeeld in het diagram, worden de gebruikers van het Creative Cloud automatisch ter beschikking gesteld in de Admin Console van het Experience Cloud die op een vertrouwensverhouding tussen de twee consoles wordt gebaseerd. Vervolgens kunt u de gebruikers toevoegen aan productprofielen voor Assets Essentials. Dientengevolge, kunnen de gebruikers van het Creative Cloud tot de toepassing van de Verbinding van Activa van de Adobe toegang hebben die met de bewaarplaats van Assets Essentials kan communiceren. Voor meer informatie, zie [&#x200B; Assets Essentials met de toepassingen van het Creative Cloud &#x200B;](integrate-with-creative-cloud.md) integreren.
 
 ## Experience Manager Documentatiereizen {#documentation-journeys}
 
@@ -49,13 +49,13 @@ Documentatiereizen zijn gebaseerd op de beginselen van best practices, op basis 
 
 ## Vereisten
 
-* [ Toegang tot Adobe Admin Console voor de oplossingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=nl-NL)
+* [&#x200B; Toegang tot Adobe Admin Console voor de oplossingen van het Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=nl-NL)
 
-* [ Toegang tot Adobe Admin Console voor Creative Cloud voor ondernemingsplaatsing ](https://helpx.adobe.com/nl/enterprise/admin-guide.html)
+* [&#x200B; Toegang tot Adobe Admin Console voor Creative Cloud voor ondernemingsplaatsing &#x200B;](https://helpx.adobe.com/nl/enterprise/admin-guide.html)
 
 ## Experience Manager Assets Essentials beheren {#administer-assets-essentials}
 
-![ Voorkeur om donker en licht thema ](assets/cce-assets.png) te schakelen
+![&#x200B; Voorkeur om donker en licht thema &#x200B;](assets/cce-assets.png) te schakelen
 
 Adobe Experience Manager Assets Essentials is een nieuwe, lichtgewicht editie van Adobe Experience Manager Assets. Assets Essentials bieden een vereenvoudigde en consistente gebruikersinterface voor Unified Asset Management en samenwerking. Dankzij de gebruiksvriendelijkheid kunnen meer creatieve en marketingteams digitale middelen opslaan, ontdekken en distribueren.
 
@@ -77,15 +77,15 @@ Na het beheren van de gebruikersrechten in Admin Console, kunnen de beheerders d
 
 * Metagegevensformulieren instellen
 
-[![ zie de Gids ](assets/see-the-guide-sm.png)](deploy-administer.md)
+[![&#x200B; zie de Gids &#x200B;](assets/see-the-guide-sm.png)](deploy-administer.md)
 
-Nu u de toepassing van Assets Essentials hebt gevormd en geleid, [ integreren de toepassingen van het Creative Cloud met de toepassing van de Hoofdzaak van Experience Manager Assets ](integrate-with-creative-cloud.md).
+Nu u de toepassing van Assets Essentials hebt gevormd en geleid, [&#x200B; integreren de toepassingen van het Creative Cloud met de toepassing van de Hoofdzaak van Experience Manager Assets &#x200B;](integrate-with-creative-cloud.md).
 
 ## Creative Cloud-toepassingen integreren met Experience Manager Assets Essentials {#administer-creative-cloud-applications}
 
-![ Voorkeur om donker en licht thema ](assets/cce-creative-cloud.png) te schakelen
+![&#x200B; Voorkeur om donker en licht thema &#x200B;](assets/cce-creative-cloud.png) te schakelen
 
-[ Adobe de Verbinding van Activa in-app paneel ](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) laat creatieve beroeps met [!DNL Assets Essentials] bewaarplaats van binnen gesteunde [!DNL Adobe Creative Cloud] Desktop apps verbinden. Het deelvenster is beschikbaar voor [!DNL Adobe Photoshop] , [!DNL Adobe Illustrator] , [!DNL Adobe InDesign] en [!DNL Adobe XD] . Het stroomlijnt de toegang tot activa die op zijn beurt inhoudssnelheid verhogen.
+[&#x200B; Adobe de Verbinding van Activa in-app paneel &#x200B;](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) laat creatieve beroeps met [!DNL Assets Essentials] bewaarplaats van binnen gesteunde [!DNL Adobe Creative Cloud] Desktop apps verbinden. Het deelvenster is beschikbaar voor [!DNL Adobe Photoshop] , [!DNL Adobe Illustrator] , [!DNL Adobe InDesign] en [!DNL Adobe XD] . Het stroomlijnt de toegang tot activa die op zijn beurt inhoudssnelheid verhogen.
 
 Deze zelfstudie begeleidt u bij het integreren van [!DNL Adobe Photoshop] -, [!DNL Adobe Illustrator] -, [!DNL Adobe InDesign] - en [!DNL Adobe XD] -toepassingen met Experience Manager Assets Essentials.
 
@@ -99,15 +99,15 @@ Doelstellingen:
 
 * Koppeling met Adobe-elementen gebruiken
 
-[![ zie de Gids ](assets/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
+[![&#x200B; zie de Gids &#x200B;](assets/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
 
-Nu u de toepassingen van het Creative Cloud met Assets Essentials hebt geïntegreerd, [ integreert Adobe Workfront met de Hoofdzaak van Experience Manager Assets ](integrate-with-workfront.md).
+Nu u de toepassingen van het Creative Cloud met Assets Essentials hebt geïntegreerd, [&#x200B; integreert Adobe Workfront met de Hoofdzaak van Experience Manager Assets &#x200B;](integrate-with-workfront.md).
 
 ## Adobe Workfront integreren met Experience Manager Assets Essentials {#administer-adobe-workfront}
 
-![ Voorkeur om donker en licht thema ](assets/cce-workfront.png) te schakelen
+![&#x200B; Voorkeur om donker en licht thema &#x200B;](assets/cce-workfront.png) te schakelen
 
-[[!DNL Adobe Workfront] ](https://www.workfront.com/) is een werkbeheertoepassing die u helpt de volledige levenscyclus van het werk op één plaats beheren. Dankzij de native integratie tussen [!DNL Adobe Workfront] en [!DNL Assets Essentials] kunnen organisaties de snelheid van inhoud en de tijd die nodig is om op de markt te komen verbeteren door het werk en het middelenbeheer intrinsiek met elkaar te verbinden. In het kader van het beheer van hun werk hebben gebruikers toegang tot de vereiste documenten en afbeeldingen in dezelfde oplossing.
+[[!DNL Adobe Workfront] &#x200B;](https://www.workfront.com/) is een werkbeheertoepassing die u helpt de volledige levenscyclus van het werk op één plaats beheren. Dankzij de native integratie tussen [!DNL Adobe Workfront] en [!DNL Assets Essentials] kunnen organisaties de snelheid van inhoud en de tijd die nodig is om op de markt te komen verbeteren door het werk en het middelenbeheer intrinsiek met elkaar te verbinden. In het kader van het beheer van hun werk hebben gebruikers toegang tot de vereiste documenten en afbeeldingen in dezelfde oplossing.
 
 Deze zelfstudie begeleidt u bij het beheren van Adobe Workfront en het vervolgens integreren met Experience Manager Assets Essentials.
 
@@ -119,4 +119,4 @@ Doelstellingen:
 
 * Integratie met Experience Manager Assets Essentials configureren
 
-[![ zie de Gids ](assets/see-the-guide-sm.png)](integrate-with-workfront.md)
+[![&#x200B; zie de Gids &#x200B;](assets/see-the-guide-sm.png)](integrate-with-workfront.md)

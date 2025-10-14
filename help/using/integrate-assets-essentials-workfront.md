@@ -11,11 +11,11 @@ ht-degree: 0%
 
 # Assets Essentials integreren met Adobe Workfront {#integrate-assets-essentials-workfront}
 
-![ Voorkeur om donker en licht thema ](assets/cce-workfront.png) te schakelen
+![&#x200B; Voorkeur om donker en licht thema &#x200B;](assets/cce-workfront.png) te schakelen
 
 ## Het verhaal tot nu toe
 
-Na [ het vormen de Hoofdzaak van Experience Manager Assets ](adminster-aem-assets-essentials.md) en [ integreren de toepassingen van het Creative Cloud met Assets Essentials ](integrate-assets-essentials-creative-cloud.md), kunt u voortbouwen op om de toepassing van Adobe Workfront met Assets Essentials te integreren.
+Na [&#x200B; het vormen de Hoofdzaak van Experience Manager Assets &#x200B;](adminster-aem-assets-essentials.md) en [&#x200B; integreren de toepassingen van het Creative Cloud met Assets Essentials &#x200B;](integrate-assets-essentials-creative-cloud.md), kunt u voortbouwen op om de toepassing van Adobe Workfront met Assets Essentials te integreren.
 
 ## Doelstelling
 
@@ -25,7 +25,7 @@ Na [ het vormen de Hoofdzaak van Experience Manager Assets ](adminster-aem-asset
 
 ## Overzicht
 
-[[!DNL Adobe Workfront] ](https://www.workfront.com/) is een werkbeheertoepassing die u helpt de volledige levenscyclus van het werk op één plaats beheren. Dankzij de native integratie tussen [!DNL Adobe Workfront] en [!DNL Assets Essentials] kunnen organisaties de snelheid van inhoud en de tijd die nodig is om op de markt te komen verbeteren door het werk en het middelenbeheer intrinsiek met elkaar te verbinden. In het kader van het beheer van hun werk hebben gebruikers toegang tot de vereiste documenten en afbeeldingen in dezelfde oplossing.
+[[!DNL Adobe Workfront] &#x200B;](https://www.workfront.com/) is een werkbeheertoepassing die u helpt de volledige levenscyclus van het werk op één plaats beheren. Dankzij de native integratie tussen [!DNL Adobe Workfront] en [!DNL Assets Essentials] kunnen organisaties de snelheid van inhoud en de tijd die nodig is om op de markt te komen verbeteren door het werk en het middelenbeheer intrinsiek met elkaar te verbinden. In het kader van het beheer van hun werk hebben gebruikers toegang tot de vereiste documenten en afbeeldingen in dezelfde oplossing.
 
 Voer de volgende taken uit om Workfront te integreren met Experience Manager Assets Essentials:
 
@@ -39,21 +39,21 @@ Voer de volgende taken uit om Workfront te integreren met Experience Manager Ass
 
 Gebruikers toevoegen aan Workfront-productprofielen:
 
-1. De toegang [ Admin Console ](https://adminconsole.adobe.com) voor uw organisatie, klikt **[!UICONTROL Products]** in de hoogste bar, klikt **[!UICONTROL Workfront]**, en klikt de eerste instantie in de lijst. Klik niet op de tweede en derde instantie in de lijst.
+1. De toegang [&#x200B; Admin Console &#x200B;](https://adminconsole.adobe.com) voor uw organisatie, klikt **[!UICONTROL Products]** in de hoogste bar, klikt **[!UICONTROL Workfront]**, en klikt de eerste instantie in de lijst. Klik niet op de tweede en derde instantie in de lijst.
 
-   ![ Admin Console admin profiel ](assets/workfront-instances.png)
+   ![&#x200B; Admin Console admin profiel &#x200B;](assets/workfront-instances.png)
 
    Admin Console geeft het enige beschikbare productprofiel weer.
 
 1. Als u een gebruiker aan een productprofiel wilt toevoegen, klikt u op het profiel, klikt u op **[!UICONTROL Add User]**, geeft u de gebruikersgegevens op en klikt u op **[!UICONTROL Save]** .
 
-   ![ voeg gebruikers admin profiel ](assets/add-users-workfront.png) toe
+   ![&#x200B; voeg gebruikers admin profiel &#x200B;](assets/add-users-workfront.png) toe
 
    Wanneer u een gebruiker toevoegt, ontvangt de gebruiker een e-mailuitnodiging om aan de slag te gaan. U kunt de e-mailuitnodigingen uitschakelen in de instellingen voor het productprofiel in [!DNL Admin Console] .
 
 1. Als u een gebruiker uit een groep wilt verwijderen, klikt u op de groep, selecteert u een bestaande gebruiker en selecteert u **[!UICONTROL Remove User]** .
 
-Voor meer informatie over hoe te om gebruikers en systeembeheerders in Workfront met Adobe Admin Console tot stand te brengen, zie [ gebruikers in Adobe Admin Console ](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FAdd_users%2FCreate_and_manage_users%2Fadmin-console.htm&amp;_LANG=enus) leiden.
+Voor meer informatie over hoe te om gebruikers en systeembeheerders in Workfront met Adobe Admin Console tot stand te brengen, zie [&#x200B; gebruikers in Adobe Admin Console &#x200B;](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FAdd_users%2FCreate_and_manage_users%2Fadmin-console.htm&_LANG=enus) leiden.
 
 ## Gebruikers toevoegen aan productprofielen voor Assets Essentials {#add-workfront-users-assets-essentials-product-profiles}
 
@@ -64,18 +64,18 @@ Wijs de Workfront-gebruikers toe aan een van de volgende productprofielen voor A
 
 Bovendien is er ook **[!DNL Assets Essentials]Beheerders** productprofiel dat administratieve toegang tot de toepassing verleent.
 
-Voor meer informatie over hoe te om gebruikers aan de profielen van het Assets Essentials product toe te wijzen, zie [ gebruikers aan de profielen van het Assets Essentials product toewijzen ](adminster-aem-assets-essentials.md#add-users-to-product-profiles).
+Voor meer informatie over hoe te om gebruikers aan de profielen van het Assets Essentials product toe te wijzen, zie [&#x200B; gebruikers aan de profielen van het Assets Essentials product toewijzen &#x200B;](adminster-aem-assets-essentials.md#add-users-to-product-profiles).
 
 ## Experience Manager Assets Essentials Integration configureren {#configure-assets-essentials-integration}
 
-Na het toevoegen van gebruikers aan de Workfront en Assets Essentials productprofielen die de Admin Console gebruiken, kunt u [ de integratie van de Hoofdzaak van Experience Manager Assets met Adobe Workfront ](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm) vormen.
+Na het toevoegen van gebruikers aan de Workfront en Assets Essentials productprofielen die de Admin Console gebruiken, kunt u [&#x200B; de integratie van de Hoofdzaak van Experience Manager Assets met Adobe Workfront &#x200B;](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm) vormen.
 
 Nadat u de integratie hebt ingesteld, kunt u:
 
-* [ de activa en de omslagen van de Verbinding van de Hoofdzaak van Experience Manager Assets ](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Flink-to-aem.htm&amp;_LANG=enus)
+* [&#x200B; de activa en de omslagen van de Verbinding van de Hoofdzaak van Experience Manager Assets &#x200B;](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Flink-to-aem.htm&_LANG=enus)
 
-* [ verzend een Document naar de Hoofdzaak van Experience Manager Assets ](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fsend-to-aem.htm&amp;_LANG=enus)
+* [&#x200B; verzend een Document naar de Hoofdzaak van Experience Manager Assets &#x200B;](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fsend-to-aem.htm&_LANG=enus)
 
-* [ Bewijs van een verbonden activa voor de Hoofdzaak van Experience Manager Assets ](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fproof-linked-asset-aem.htm)
+* [&#x200B; Bewijs van een verbonden activa voor de Hoofdzaak van Experience Manager Assets &#x200B;](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fproof-linked-asset-aem.htm)
 
-* [ Mening of download een verbonden activa van de Hoofdzaak van Experience Manager Assets ](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fview-download-asset.htm)
+* [&#x200B; Mening of download een verbonden activa van de Hoofdzaak van Experience Manager Assets &#x200B;](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fview-download-asset.htm)

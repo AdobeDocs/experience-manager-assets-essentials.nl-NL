@@ -65,7 +65,7 @@ Lezers van [!DNL Experience Manager]-documentatie zijn wereldwijd en kunnen niet
 
 #### Handleiding Microsoft volgen
 
-[De Microsoft Manual of ](https://docs.microsoft.com/en-us/style-guide/welcome/) Style is een vrij beschikbare documentatiestijlgids die zich richt op softwaredocumentatie en - [!DNL Experience Manager] documentatie en deze gids waar mogelijk volgt.
+[De Microsoft Manual of &#x200B;](https://docs.microsoft.com/en-us/style-guide/welcome/) Style is een vrij beschikbare documentatiestijlgids die zich richt op softwaredocumentatie en - [!DNL Experience Manager] documentatie en deze gids waar mogelijk volgt.
 
 ### Opmaak
 

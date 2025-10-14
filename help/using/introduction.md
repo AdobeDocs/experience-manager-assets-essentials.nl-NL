@@ -37,7 +37,7 @@ Met Assets Essentials kunt u:
 
 Assets Essentials bieden een standalone Webgebruikersinterface voor eind - gebruikers en beheerders aan, die hen toegang tot alle mogelijkheden van de oplossing geven. Gebruikers van andere Adobe-oplossingen kunnen ook via een ingesloten ervaring toegang krijgen tot en werken met middelen van Assets Essentials. Deze ervaring is beschikbaar in Creative Cloud voor bedrijfs-, Adobe Journey Optimizer- en Adobe Workfront-toepassingen.
 
-![ Integraties met andere oplossingen ](assets/assets-essentials-integration.svg)
+![&#x200B; Integraties met andere oplossingen &#x200B;](assets/assets-essentials-integration.svg)
 
 ## Waarom Assets Essentials? {#assets-essentials-features}
 
@@ -57,13 +57,13 @@ Assets Essentials bieden belangrijke voordelen, zodat u:
 
 De oplossing van Assets Essentials wordt verstrekt aan klanten door Adobe en beschikbaar nadat het leveringsproces voltooit. Beheerders krijgen toegang tot het product in Adobe Admin Console en kunnen de systeemconfiguratie en de instaptoegang van gebruikers direct starten.
 
-Leer meer op het beleid van Assets Essentials [ en gebruiker aan boord gaan ](deploy-administer.md).
+Leer meer op het beleid van Assets Essentials [&#x200B; en gebruiker aan boord gaan &#x200B;](deploy-administer.md).
 
 **Vereenvoudigd activabeheer**
 
 Dankzij de vereenvoudigde gebruikersinterface van Assets Essentials kunt u uw digitale middelen eenvoudig beheren, ontdekken en distribueren. Een brede reeks gebruikers van verschillende functies, met inbegrip van creatieve, marketing en brancheteams kunnen aan activa samenwerken en tot de juiste, goedgekeurde activa toegang hebben wanneer en waar zij hen nodig hebben.
 
-Voor meer informatie, zie [ begonnen worden met uw behoeften van het activabeheer gebruikend Assets Essentials ](get-started.md).
+Voor meer informatie, zie [&#x200B; begonnen worden met uw behoeften van het activabeheer gebruikend Assets Essentials &#x200B;](get-started.md).
 
 **Integratie met andere toepassingen van de Adobe**
 
@@ -71,7 +71,7 @@ De Assets Essentials integreren met de gesteunde oplossingen van de Adobe en ver
 
 De ervaring van ingebedde Assets Essentials is beschikbaar voor Creative Cloud voor onderneming, Adobe Journey Optimizer, en toepassingen van Adobe Workfront.
 
-Voor meer informatie, zie [ Integratie met andere oplossingen van de Adobe ](integration.md).
+Voor meer informatie, zie [&#x200B; Integratie met andere oplossingen van de Adobe &#x200B;](integration.md).
 
 **op wolk-Gebaseerd platform**
 
@@ -81,18 +81,18 @@ Op basis van de cloudinfrastructuur van de Adobe kunnen organisaties zich op hun
 
 Ga snel aan de slag met Assets Essentials om te profiteren van de belangrijkste mogelijkheden van Digital Asset Management in verschillende teams.
 
-Wanneer uw bedrijfsbehoeften groeien en u steun voor geavanceerde Vereisten van het Beheer van Activa, zoals aanpassingen, rekbaarheid en integratie, automatisering, Dynamic Media, en Brand Portal nodig hebt, biedt de Adobe ook [ Adobe Experience Manager Assets as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=nl-NL) aan.
+Wanneer uw bedrijfsbehoeften groeien en u steun voor geavanceerde Vereisten van het Beheer van Activa, zoals aanpassingen, rekbaarheid en integratie, automatisering, Dynamic Media, en Brand Portal nodig hebt, biedt de Adobe ook [&#x200B; Adobe Experience Manager Assets as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=nl-NL) aan.
 
 
 ## Volgende stappen {#next-steps}
 
 * Feedback geven op het product met de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface van Assets Essentials
 
-* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
+* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![&#x200B; uitgeeft de pagina &#x200B;](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![&#x200B; creeer een kwestie GitHub &#x200B;](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
 * De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support)
 
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Assets Essentials]  leerprogramma&#39;s pagina ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=nl-NL)
+>* [[!DNL Assets Essentials]  leerprogramma&#39;s pagina &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=nl-NL)

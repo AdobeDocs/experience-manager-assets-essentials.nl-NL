@@ -29,7 +29,7 @@ Identificeer toegangsbehoeften die op gebruikersgroepen in uw organisatie worden
 
 Houd rekening met de volgende punten wanneer u van plan bent een mapstructuur te maken in de opslagplaats van Assets Essentials:
 
-* Toekomstig beheer: De omslagen die door beheerders en de omslagen worden geregeerd die [ voor toestemmingen aan andere gebruikers als eigenaars ](manage-permissions.md##manage-permissions-folders) worden gedelegeerd.
+* Toekomstig beheer: De omslagen die door beheerders en de omslagen worden geregeerd die [&#x200B; voor toestemmingen aan andere gebruikers als eigenaars &#x200B;](manage-permissions.md##manage-permissions-folders) worden gedelegeerd.
 
 * Schaalbaar: de mapstructuur moet voldoen aan de toekomstige behoeften van uw organisatie en moet eenvoudig schaalbaar zijn.
 
@@ -41,15 +41,15 @@ Er zijn diverse mogelijke typen mapstructuur die u voor uw organisatie kunt gebr
 
 * Op functie en categorisering gebaseerd
 
-  ![ Functie en Indeling ](assets/function-categorization.png)
+  ![&#x200B; Functie en Indeling &#x200B;](assets/function-categorization.png)
 
 * Gebaseerd op campagne
 
-  ![ Gebaseerde Campagne ](assets/campaign-based.png)
+  ![&#x200B; Gebaseerde Campagne &#x200B;](assets/campaign-based.png)
 
 * Gebaseerd op locatie (of kanaal) van aanbieding
 
-  ![ Gebaseerde Plaats van de Aanbieding ](assets/offer-location.png)
+  ![&#x200B; Gebaseerde Plaats van de Aanbieding &#x200B;](assets/offer-location.png)
 
 
 ## Mapmachtigingen {#folder-permissions}
@@ -62,12 +62,12 @@ Nadat u gebruikersgroepen voor uw organisatie hebt gemaakt, gebruikers aan die g
 
 * Gebruik toegangsmachtigingen weigeren zorgvuldig en geef de voorkeur aan het toepassen van positieve machtigingen (Kan bewerken, Kan weergeven, Eigenaar) op de mapstructuur.
 
-Voor voorbeelden op hoe te om een efficiënte en eenvoudige omslagstructuur te bereiken, zie [ toestemmingen op omslagen ](manage-permissions.md##manage-permissions-folders) leiden.
+Voor voorbeelden op hoe te om een efficiënte en eenvoudige omslagstructuur te bereiken, zie [&#x200B; toestemmingen op omslagen &#x200B;](manage-permissions.md##manage-permissions-folders) leiden.
 
 ## Volgende stappen {#next-steps}
 
 * Feedback geven op het product met de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface van Assets Essentials
 
-* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
+* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![&#x200B; uitgeeft de pagina &#x200B;](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![&#x200B; creeer een kwestie GitHub &#x200B;](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
 * De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support)

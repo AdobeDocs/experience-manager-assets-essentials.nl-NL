@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Wanneer u zich aanmeldt bij [!DNL Assets Essentials] , ziet u de volgende interface.
 
-![[!DNL Assets Essentials] gebruikersinterface ](assets/essentials-interface.png)
+![[!DNL Assets Essentials] gebruikersinterface &#x200B;](assets/essentials-interface.png)
 
 **A**: De linkerzijbalk om bewaarplaats te doorbladeren en toegang tot een paar andere opties **B** verleent: Vertoning of doet ineenstorten de linkerzijbalk om activa-bekijkend gebied **C** te verhogen: De onderzoeksresultaten van de filter **D**: Selecteer alle inhoud van de geselecteerde omslag **E**: Opties om activa **F** te sorteren: De doos van het Onderzoek **2&rbrace; G**: Upload of sleep en laat vallen dossiers gebruikend `Add Assets` knoop **H**: Creeer een nieuwe omslag **I**: Schakelaar tussen verschillende meningen
 
@@ -33,16 +33,16 @@ Wanneer u zich aanmeldt bij [!DNL Assets Essentials] , ziet u de volgende interf
 U kunt door de mappen bladeren vanuit de hoofdgebruikersinterface of vanuit de linkerzijbalk. Experience Manager Assets geeft nu visuele voorvertoningen van de inhoud van de map weer op de miniatuur van de map wanneer u naar inhoud bladert of zoekt, waardoor de beschikbare middelen in de AEM Assets-opslagruimte beter kunnen worden ontdekt. Met deze mapminiatuur bespaart u tijd die u hebt besteed aan het zoeken naar specifieke middelen in een map in AEM Assets Repository.
 Wanneer u door elementen in een map bladert, kunt u met de interface elementminiaturen weergeven om visueel door de opslagplaats te bladeren of elementdetails te bekijken om snel het gewenste element te vinden. In de linkerzijbalk zijn de volgende opties beschikbaar:
 
-* [ Mijn Workspace ](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=nl-NL): Assets omvat nu een klantgerichte werkruimte die widgets voor gemakkelijke toegang tot zeer belangrijke gebieden van het gebruikersinterface van Assets en informatie verstrekt die voor u het meest relevant is. Deze pagina dient als een one-stop oplossing om een overzicht van uw het werkpunten te verstrekken en snelle toegang tot zeer belangrijke werkschema&#39;s te geven. Een handiger toegang tot deze opties verhoogt de efficiëntie en snelheid van de inhoud.
-* [ Taken ](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=nl-NL): U kunt de taken bekijken die aan u onder **worden toegewezen Mijn taken** tabel. Terwijl, de taken die door u worden gecreeerd onder **kunnen worden bekeken Toegewezen taken** tabel. Bovendien, worden de taken die u voltooit gevestigd onder **Voltooide taken** tabel.
-* [ Assets ](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=nl-NL): Lijst van alle omslagen in een boomstructuurmening, die u toegang tot hebt.
+* [&#x200B; Mijn Workspace &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=nl-NL): Assets omvat nu een klantgerichte werkruimte die widgets voor gemakkelijke toegang tot zeer belangrijke gebieden van het gebruikersinterface van Assets en informatie verstrekt die voor u het meest relevant is. Deze pagina dient als een one-stop oplossing om een overzicht van uw het werkpunten te verstrekken en snelle toegang tot zeer belangrijke werkschema&#39;s te geven. Een handiger toegang tot deze opties verhoogt de efficiëntie en snelheid van de inhoud.
+* [&#x200B; Taken &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=nl-NL): U kunt de taken bekijken die aan u onder **worden toegewezen Mijn taken** tabel. Terwijl, de taken die door u worden gecreeerd onder **kunnen worden bekeken Toegewezen taken** tabel. Bovendien, worden de taken die u voltooit gevestigd onder **Voltooide taken** tabel.
+* [&#x200B; Assets &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=nl-NL): Lijst van alle omslagen in een boomstructuurmening, die u toegang tot hebt.
 * **onlangs Bekeken**: Lijst van activa die u onlangs previewde. [!DNL Assets Essentials] geeft alleen de elementen weer die u voorvertoont. De elementen die u voorbij schuift tijdens het bladeren door de bestanden of mappen in de opslagplaats worden niet weergegeven.
-* [ Inzamelingen ](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=nl-NL): Een inzameling is een reeks activa, omslagen, of andere inzamelingen binnen Adobe Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen. In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten. U kunt meerdere verzamelingen delen met een gebruiker. Elke verzameling bevat verwijzingen naar elementen. De referentiële integriteit van activa wordt gehandhaafd over inzamelingen.
+* [&#x200B; Inzamelingen &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=nl-NL): Een inzameling is een reeks activa, omslagen, of andere inzamelingen binnen Adobe Experience Manager Assets Essentials. Gebruik verzamelingen om elementen tussen gebruikers te delen. In tegenstelling tot mappen kan een verzameling elementen van verschillende locaties bevatten. U kunt meerdere verzamelingen delen met een gebruiker. Elke verzameling bevat verwijzingen naar elementen. De referentiële integriteit van activa wordt gehandhaafd over inzamelingen.
 
-* [ Inzichten ](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=nl-NL#view-live-statistics): In [!DNL Assets Essentials], kunt u inzichten in real time op uw dashboard bekijken. Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Inzichten. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
+* [&#x200B; Inzichten &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=nl-NL#view-live-statistics): In [!DNL Assets Essentials], kunt u inzichten in real time op uw dashboard bekijken. Met Assets Essentials kunt u realtime gegevens voor uw Assets Essentials-omgeving weergeven met het dashboard Inzichten. U kunt real-time gebeurtenismetriek tijdens de laatste 30 dagen of voor de laatste 12 maanden bekijken.
 
 
-* **Afval**: Maak een lijst van de activa die van de wortel **[!UICONTROL Assets]** omslag worden geschrapt. U kunt een middel in de omslag van het Afval selecteren om het aan zijn originele plaats te herstellen of het permanent te schrappen. U kunt een trefwoord opgeven of filters toepassen, zoals de status van het element, het bestandstype, het mime-type, de afbeeldingsgrootte, het maken van elementen, wijzigingen en vervaldatums, en het filteren op elementen die de huidige gebruiker heeft verwijderd. U kunt ook aangepaste filters toepassen om te zoeken naar de juiste middelen in de map met prullenmand. Voor meer informatie bij het gebruiken van standaard en douanefilters, zie hoe te [ onderzoeksactiva in Assets Essentials ](search.md).
+* **Afval**: Maak een lijst van de activa die van de wortel **[!UICONTROL Assets]** omslag worden geschrapt. U kunt een middel in de omslag van het Afval selecteren om het aan zijn originele plaats te herstellen of het permanent te schrappen. U kunt een trefwoord opgeven of filters toepassen, zoals de status van het element, het bestandstype, het mime-type, de afbeeldingsgrootte, het maken van elementen, wijzigingen en vervaldatums, en het filteren op elementen die de huidige gebruiker heeft verwijderd. U kunt ook aangepaste filters toepassen om te zoeken naar de juiste middelen in de map met prullenmand. Voor meer informatie bij het gebruiken van standaard en douanefilters, zie hoe te [&#x200B; onderzoeksactiva in Assets Essentials &#x200B;](search.md).
 
 * **Montages**: U kunt diverse opties van Assets Essentials vormen gebruikend **Montages**, zoals, de vormen van Meta-gegevens, Rapporten, en het Beheer van de Taxonomie.
 
@@ -57,16 +57,16 @@ U kunt de linkerzijbalk openen of samenvouwen om het beschikbare gebied voor mid
 
 In [!DNL Assets Essentials] kunt u elementen, mappen en zoekresultaten weergeven in vier verschillende typen indelingen:
 
-* ![ pictogram van de lijstmening ](assets/do-not-localize/list-view.png) [!UICONTROL List View]
-* ![ pictogram van de netmening ](assets/do-not-localize/grid-view.png) [!UICONTROL Grid View]
-* ![ pictogram van de galeriemening ](assets/do-not-localize/gallery-view.png) [!UICONTROL Gallery View]
-* ![ pictogram van de watervalmening ](assets/do-not-localize/waterfall-view.png) [!UICONTROL Waterfall View]
+* ![&#x200B; pictogram van de lijstmening &#x200B;](assets/do-not-localize/list-view.png) [!UICONTROL List View]
+* ![&#x200B; pictogram van de netmening &#x200B;](assets/do-not-localize/grid-view.png) [!UICONTROL Grid View]
+* ![&#x200B; pictogram van de galeriemening &#x200B;](assets/do-not-localize/gallery-view.png) [!UICONTROL Gallery View]
+* ![&#x200B; pictogram van de watervalmening &#x200B;](assets/do-not-localize/waterfall-view.png) [!UICONTROL Waterfall View]
 
 Als u een element wilt zoeken, kunt u de elementen in oplopende of aflopende volgorde sorteren: `Name`, `Relevancy`, `Size`, `Modified` en `Created` .
 
 Als u in een map wilt navigeren, dubbelklikt u op de miniaturen van de map of selecteert u de map in de linkerzijbalk. Als u de details van een map wilt weergeven, selecteert u de map en klikt u op Details op de werkbalk boven in het scherm. Als u omhoog en omlaag wilt navigeren in de hiërarchie, gebruikt u de linkerzijbalk of de broodkruimels bovenaan.
 
-![ doorbladert omslagen ](assets/browsing-folders.png)
+![&#x200B; doorbladert omslagen &#x200B;](assets/browsing-folders.png)
 
 *Cijfer: Om de hiërarchie te doorbladeren, gebruik broodkruimels bij de bovenkant of linkerzijbalk.*
 
@@ -74,15 +74,15 @@ Als u in een map wilt navigeren, dubbelklikt u op de miniaturen van de map of se
 
 Voordat u middelen gebruikt, deelt of downloadt, kunt u deze nauwkeuriger bekijken. Met de voorvertoningsfunctie kunt u niet alleen de afbeeldingen bekijken, maar ook een paar andere ondersteunde elementtypen.
 
-Om activa voor te vertonen, het te selecteren en [!UICONTROL Details] ![ detailspictogram ](assets/do-not-localize/edit-in-icon.png) van de toolbar bij de bovenkant te klikken. U kunt niet alleen het element weergeven, maar ook de gedetailleerde metagegevens bekijken en andere handelingen uitvoeren.
+Om activa voor te vertonen, het te selecteren en [!UICONTROL Details] ![&#x200B; detailspictogram &#x200B;](assets/do-not-localize/edit-in-icon.png) van de toolbar bij de bovenkant te klikken. U kunt niet alleen het element weergeven, maar ook de gedetailleerde metagegevens bekijken en andere handelingen uitvoeren.
 
-![ Voorproef een activa ](assets/preview-asset-2.png)
+![&#x200B; Voorproef een activa &#x200B;](assets/preview-asset-2.png)
 
 **A**: Terugkeer aan de huidige omslag of het huidige onderzoeksresultaat in de bewaarplaats **B**: Naam en formaat voor het dossier u **C** previewing: Wijs taken **D** toe: Geavanceerde meta-gegevens **E**: Trefwoorden en slimme markeringen **F**: De opmerking en annoteert **G**&rbrace;: De taken van de mening met betrekking tot de geselecteerde Activa **H**: Bekijk en beheer versies **I**: De vertoningen van de mening van beeld **J**: Bewerk beeld **K**: De fundamentele meta-gegevens **L**: Geavanceerde meta-gegevens **M** Trefwoorden: en slimme markeringen **N**: nauwkeuriger Voorproef. Zoomen, volledig scherm, en andere opties **O**: Ga aan vorige of volgende activa in de huidige omslag zonder terug naar de omslag te gaan
 
 U kunt ook voorvertoningen van video&#39;s weergeven.
 
-![ Videovoorproef ](/help/using/assets/preview-video.png)
+![&#x200B; Videovoorproef &#x200B;](/help/using/assets/preview-video.png)
 
 Als u expliciet een voorvertoning van een element weergeeft, wordt dit element in [!DNL Assets Essentials] weergegeven als een onlangs weergegeven element.
 
@@ -96,20 +96,20 @@ Other use cases after previewing.
 
 U kunt de kolommen selecteren die in de weergave Assets-lijst worden weergegeven, zoals Status, Indeling, Dimensionen, Grootte, enzovoort:
 
-1. Selecteer **[!UICONTROL Assets]** van de linkernavigatieruit, schakelaar aan de mening van de Lijst van Assets, en klik ![ montagespictogram ](assets/settings-icon.svg).
+1. Selecteer **[!UICONTROL Assets]** van de linkernavigatieruit, schakelaar aan de mening van de Lijst van Assets, en klik ![&#x200B; montagespictogram &#x200B;](assets/settings-icon.svg).
 
 1. Selecteer de kolommen die u in de lijstweergave wilt weergeven en klik op **[!UICONTROL Confirm]** .
 
-   ![ vorm kolommen ](/help/using/assets/configure-columns.png)
+   ![&#x200B; vorm kolommen &#x200B;](/help/using/assets/configure-columns.png)
 
 ## Volgende stappen {#next-steps}
 
 * Feedback geven op het product met de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface van Assets Essentials
 
-* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
+* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![&#x200B; uitgeeft de pagina &#x200B;](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![&#x200B; creeer een kwestie GitHub &#x200B;](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
 * De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support)
 
 >[!MORELIKETHIS]
 >
->* [ de versies van de Mening van activa ](/help/using/manage-organize.md#view-versions).
+>* [&#x200B; de versies van de Mening van activa &#x200B;](/help/using/manage-organize.md#view-versions).

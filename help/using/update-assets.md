@@ -23,6 +23,6 @@ Link to versioning once an asset is updated.
 
 >[!MORELIKETHIS]
 >
->* [ geeft beelden ](edit-images.md) uit
->* [ de versies van de Mening van activa ](navigate-view.md#view-versions)
->* [ Schrap een activa ](manage-organize.md#delete-assets)
+>* [&#x200B; geeft beelden &#x200B;](edit-images.md) uit
+>* [&#x200B; de versies van de Mening van activa &#x200B;](navigate-view.md#view-versions)
+>* [&#x200B; Schrap een activa &#x200B;](manage-organize.md#delete-assets)

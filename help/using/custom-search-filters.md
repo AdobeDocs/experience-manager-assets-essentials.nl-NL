@@ -56,17 +56,17 @@ ht-degree: 2%
 # Zoekfilters aanpassen {#customize-search-filters}
 
 Met zoekfilters kunt u de zoekresultaten verfijnen op basis van verschillende parameters, zoals datum, bestandstype, tags en relevantie. Hierdoor wordt de zoekopdracht nauwkeuriger. Door filters toe te passen, kunt u snel de meest relevante resultaten efficiënt overslaan. Dit bespaart niet alleen tijd, maar verbetert ook de algemene zoekervaring door de resultaten af te stemmen op specifieke voorkeuren en behoeften.
-Zie meer over [ onderzoek ](search.md).
+Zie meer over [&#x200B; onderzoek &#x200B;](search.md).
 
 Aangepaste zoekfilters AEM Assets kan alleen worden toegewezen aan items in de index van doorzoekbare eigenschappen. Zorg ervoor dat alle aangepaste metagegevens zijn opgenomen voordat u uw aangepaste filterervaring configureert. Met [!DNL Assets Essentials] kunt u zoekfilters aanpassen om het zoekproces te stroomlijnen. Voer de volgende stappen uit om de aangepaste zoekfilters van AEM Assets aan te passen:
 
 1. Ga naar **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
 1. Ga naar de tab **[!UICONTROL Search]** . Klik op **[!UICONTROL Customize]** om het zoekformulier te configureren.
 
-   ![ de montages van de douanefilter van het douaneonderzoek ](assets/custom-search-filter.png)
+   ![&#x200B; de montages van de douanefilter van het douaneonderzoek &#x200B;](assets/custom-search-filter.png)
 
 1. Het [!UICONTROL Configure Filters] -formulier wordt weergegeven. Zorg ervoor dat u in de bewerkingsmodus werkt, zodat u wijzigingen in de sjabloon kunt aanbrengen. U kunt overschakelen op [!UICONTROL Preview mode] om een voorbeeld van een bestaand zoekformulier te bekijken.
-1. De filterelementen van de daling van de [ douanefilters ](#available-custom-filters) op het canvas. U kunt de component slepen en neerzetten om deze indien nodig opnieuw te rangschikken.
+1. De filterelementen van de daling van de [&#x200B; douanefilters &#x200B;](#available-custom-filters) op het canvas. U kunt de component slepen en neerzetten om deze indien nodig opnieuw te rangschikken.
 
    >[!VIDEO](https://video.tv.adobe.com/v/3443080)
 
@@ -82,7 +82,7 @@ De Hoofdzaak van activa verstrekt de volgende douanefilters die volgens het vere
 
 ### Elementen filteren {#filter-elements}
 
-Met Aangepaste filters kunt u in AEM Assets een verzameling filterelementen gebruiken op het canvas van uw aangepaste zoekfilters. Deze elementen kunnen opnieuw worden geconfigureerd op basis van de bruikbaarheid van kenmerken van zoekeigenschappen. Nochtans, kunt u de [ filtereigenschappen ](#filter-properties) zoals per uw vereisten aanpassen. De volgende filterelementen zijn beschikbaar in [!DNL Assets Essentials] :
+Met Aangepaste filters kunt u in AEM Assets een verzameling filterelementen gebruiken op het canvas van uw aangepaste zoekfilters. Deze elementen kunnen opnieuw worden geconfigureerd op basis van de bruikbaarheid van kenmerken van zoekeigenschappen. Nochtans, kunt u de [&#x200B; filtereigenschappen &#x200B;](#filter-properties) zoals per uw vereisten aanpassen. De volgende filterelementen zijn beschikbaar in [!DNL Assets Essentials] :
 
 <table>
     <tr>
@@ -204,7 +204,7 @@ Met Aangepaste filters kunt u in AEM Assets een verzameling filterelementen gebr
 
 ### Vooraf geconfigureerde filters {#preconfigured-filters}
 
-De vooraf geconfigureerde filters zijn vooraf ingestelde instellingen waarmee u ze rechtstreeks op het canvas kunt gebruiken. Nochtans, kunt u de [ filtereigenschappen ](#filter-properties) zoals per uw vereisten aanpassen. De volgende filters zijn vooraf geconfigureerd in [!DNL Assets Essentials] :
+De vooraf geconfigureerde filters zijn vooraf ingestelde instellingen waarmee u ze rechtstreeks op het canvas kunt gebruiken. Nochtans, kunt u de [&#x200B; filtereigenschappen &#x200B;](#filter-properties) zoals per uw vereisten aanpassen. De volgende filters zijn vooraf geconfigureerd in [!DNL Assets Essentials] :
 
 <table>
     <tr>
@@ -462,7 +462,7 @@ Ga als volgt te werk om een zoekfilter te verwijderen:
 
 Nadat u de zoekfilters hebt geconfigureerd, kunt u deze gebruiken om te zoeken naar elementen in de opslagplaats.
 
-![ Gebruikend de filters van het douaneonderzoek ](assets/using-custom-search-filters.png)
+![&#x200B; Gebruikend de filters van het douaneonderzoek &#x200B;](assets/using-custom-search-filters.png)
 
 >[!MORELIKETHIS]
 >

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Met de interface voor elementaire elementen maakt u basisbewerkingen van afbeeldingen mogelijk die door Adobe Express worden ondersteund en die zijn geïntegreerd in de gebruikersinterface. Deze bewerking omvat het wijzigen van het formaat, het verwijderen van de achtergrond, het bijsnijden, en het omzetten tussen JPEG en PNG formaten. Bovendien is geavanceerde bewerking mogelijk via de Adobe Express-interface die is ingesloten in de Essentiële gebruikersinterface.
 
-Nadat u een afbeelding hebt bewerkt, kunt u de nieuwe afbeelding opslaan als een nieuwe versie. Met Versioning kunt u het oorspronkelijke element later herstellen als dat nodig is. Om een beeld uit te geven, [ open zijn voorproef ](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) en klik **geef Beeld** uit.
+Nadat u een afbeelding hebt bewerkt, kunt u de nieuwe afbeelding opslaan als een nieuwe versie. Met Versioning kunt u het oorspronkelijke element later herstellen als dat nodig is. Om een beeld uit te geven, [&#x200B; open zijn voorproef &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) en klik **geef Beeld** uit.
 
 >[!NOTE]
 >
@@ -24,8 +24,8 @@ Nadat u een afbeelding hebt bewerkt, kunt u de nieuwe afbeelding opslaan als een
 
 ## Afbeeldingen bewerken {#edit-images}
 
-Ga naar de Hoofdzaak UI van Activa, gebruikend de verbinding - [ Hoofdzaak UI van Activa ](https://experience.adobe.com/#/assets) en het selecteren van de juiste bewaarplaats. Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
-Voor om het even welke extra verwijzingsinformatie verwijs - [ wordt begonnen gebruikend de Hoofdzaak van de Activa van de Manager van de Ervaring van Adobe ](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/get-started), [ begrip van het gebruikersinterface ](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/navigate-view), [ het gebruikscase van de Hoofdzaak van Activa ](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/get-started#use-cases) en [ bekende kwesties ](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/release-notes).
+Ga naar de Hoofdzaak UI van Activa, gebruikend de verbinding - [&#x200B; Hoofdzaak UI van Activa &#x200B;](https://experience.adobe.com/#/assets) en het selecteren van de juiste bewaarplaats. Neem contact op met de beheerder van uw organisatie om toegang te krijgen.
+Voor om het even welke extra verwijzingsinformatie verwijs - [&#x200B; wordt begonnen gebruikend de Hoofdzaak van de Activa van de Manager van de Ervaring van Adobe &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/get-started), [&#x200B; begrip van het gebruikersinterface &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/navigate-view), [&#x200B; het gebruikscase van de Hoofdzaak van Activa &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/get-started#use-cases) en [&#x200B; bekende kwesties &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-assets-essentials/help/release-notes).
 
 ### Afbeelding bewerken in de gebruikersinterface van Essentiële elementen met Adobe Express{#edit-images-using-adobe-express}
 
@@ -44,10 +44,10 @@ Een afbeelding vergroten of verkleinen tot een bepaalde grootte is een veelgebru
 2. Selecteer het juiste sociale-mediaplatform in de vervolgkeuzelijst Formaat wijzigen en selecteer de afbeeldingsgrootte in de weergegeven opties.
 3. Schaal het beeld, indien vereist, gebruikend het **gebied van de Schaal van het Beeld**.
 4. Klik **toepassen** om uw veranderingen toe te passen.
-   ![ Beeld dat met Adobe Express ](/help/using/assets/adobe-express-resize-image.png) uitgeeft
+   ![&#x200B; Beeld dat met Adobe Express &#x200B;](/help/using/assets/adobe-express-resize-image.png) uitgeeft
 
    De bewerkte afbeelding kan worden gedownload. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element.
-   ![ sparen beeld met Adobe Express ](/help/using/assets/adobe-express-resize-save.png)
+   ![&#x200B; sparen beeld met Adobe Express &#x200B;](/help/using/assets/adobe-express-resize-save.png)
 
 #### Achtergrond verwijderen {#remove-background-using-express}
 
@@ -55,7 +55,7 @@ U kunt de achtergrond uit een afbeelding verwijderen door de onderstaande stappe
 
 1. Klik **verwijderen Achtergrond** uit de linkerruit. Experience Manager Assets geeft de afbeelding zonder achtergrond weer.
 2. Klik op **[!UICONTROL Apply]** om de wijzigingen toe te passen.
-   ![ sparen beeld met Adobe Express ](/help/using/assets/adobe-express-remove-background.png)
+   ![&#x200B; sparen beeld met Adobe Express &#x200B;](/help/using/assets/adobe-express-remove-background.png)
 
    De bewerkte afbeelding kan worden gedownload. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element.
 
@@ -66,7 +66,7 @@ U kunt een afbeelding eenvoudig transformeren tot een perfecte grootte met inges
 1. Klik op **[!UICONTROL Crop Image]** in het linkerdeelvenster.
 2. Sleep de grepen op de hoeken van de afbeelding om de gewenste uitsnijding te maken.
 3. Klik op **[!UICONTROL Apply]**.
-   ![ sparen beeld met Adobe Express ](/help/using/assets/adobe-express-crop-image.png)
+   ![&#x200B; sparen beeld met Adobe Express &#x200B;](/help/using/assets/adobe-express-crop-image.png)
 De uitgesneden afbeelding kan worden gedownload. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element.
 
 #### JPEG converteren naar PNG {#Convert-JPEG-to-PNG}
@@ -74,7 +74,7 @@ De uitgesneden afbeelding kan worden gedownload. U kunt het bewerkte element ops
 U kunt afbeeldingen in JPEG- en PNG-indeling snel omzetten met Adobe Express. Voer de volgende stappen uit:
 
 1. Klik **JPEG aan PNG** of **PNG aan JPEG** van de linkerruit.
-   ![ Bekeerling in PNG met Adobe Express ](/help/using/assets/adobe-express-convert-image.png)
+   ![&#x200B; Bekeerling in PNG met Adobe Express &#x200B;](/help/using/assets/adobe-express-convert-image.png)
 2. Klik op **[!UICONTROL Download]**.
 
 #### Beperkingen {#limitations-adobe-express}
@@ -86,10 +86,10 @@ U kunt afbeeldingen in JPEG- en PNG-indeling snel omzetten met Adobe Express. Vo
 
 Gebruikers met Express-machtiging kunnen de ingesloten Express-editor vanuit de interface Assets Essentials gebruiken om de inhoud te bewerken en eenvoudig nieuwe inhoud te maken met GenAI vanuit Adobe Firefly. Deze functie verbetert het hergebruik van inhoud en versnelt de snelheid van de inhoud. U kunt ook vooraf gedefinieerde elementen gebruiken om uw elementen er verbluffend uit te laten zien of snelle acties uitvoeren om uw afbeelding met slechts een paar klikken te bewerken.
 
-![ uitdrukken in essentiële UI ](/help/using/assets/express-in-essentials-ui.jpg)
+![&#x200B; uitdrukken in essentiële UI &#x200B;](/help/using/assets/express-in-essentials-ui.jpg)
 Voer de volgende stappen uit om afbeeldingen te bewerken in de ingesloten Adobe Express-editor:
 
-1. Ga naar de Hoofdzaak UI van AEM Assets gebruikend de verbinding - [ Hoofdzaak UI van AEM Assets ](https://experience.adobe.com/#/assets) en selecteer de juiste bewaarplaats.
+1. Ga naar de Hoofdzaak UI van AEM Assets gebruikend de verbinding - [&#x200B; Hoofdzaak UI van AEM Assets &#x200B;](https://experience.adobe.com/#/assets) en selecteer de juiste bewaarplaats.
 1. Klik **Assets**, ga een omslag in, en selecteer een beeld.
 1. Klik **Open in Adobe Express**. De afbeelding wordt geopend op een express canvas.
 1. Breng de gewenste wijzigingen in de afbeelding aan.
@@ -121,7 +121,7 @@ Voer de volgende stappen uit om afbeeldingen te bewerken in de ingesloten Adobe 
 Met de ingebouwde Adobe Express-editor kunt u vanaf het begin een nieuwe sjabloon maken. Voer de volgende stappen uit om een nieuw element te maken met Adobe Express:
 
 1. Navigeer aan **Mijn Workspace** en klik **creëren** binnen de banner van Adobe Express die binnen Adobe Express bij de bovenkant toont. Adobe Express leeg canvas wordt weergegeven in de gebruikersinterface Assets Essentials.
-1. Creeer uw inhoud gebruikend [ Malplaatjes ](https://helpx.adobe.com/in/express/using/work-with-templates.html). Anders, navigeer aan Uw Stuff om bestaande inhoud te wijzigen.
+1. Creeer uw inhoud gebruikend [&#x200B; Malplaatjes &#x200B;](https://helpx.adobe.com/in/express/using/work-with-templates.html). Anders, navigeer aan Uw Stuff om bestaande inhoud te wijzigen.
 1. Zodra u het uitgeven voltooit, klik **sparen**.
 1. Specificeer de bestemmingsweg voor de gecreeerde activa en klik **sparen als nieuwe activa**.
 
@@ -193,10 +193,10 @@ TBD: Insert a video of the available social media options.
 
 * Feedback geven op het product met behulp van de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface Assets Essentials
 
-* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
+* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![&#x200B; uitgeeft de pagina &#x200B;](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![&#x200B; creeer een kwestie GitHub &#x200B;](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
 * De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support)
 
 >[!MORELIKETHIS]
 >
->* [ de versiegeschiedenis van de Mening van activa ](/help/using/navigate-view.md)
+>* [&#x200B; de versiegeschiedenis van de Mening van activa &#x200B;](/help/using/navigate-view.md)

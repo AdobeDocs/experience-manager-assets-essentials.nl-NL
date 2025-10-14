@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Content credentials {#content-credentials}
 
-Merken maken zich meer dan ooit zorgen over inhoudstransparantie, AI-openbaarmaking en het voorkomen van het knoeien met activa. Het Initiatief van de Authenticiteit van de Inhoud (CAI) bij Adobe bouwt hulpmiddelen volgzaam met de [ Coalitie voor de Technische norm van de Levering van de Inhoud en van Authenticiteit ](https://c2pa.org/specifications/specifications/1.1/specs/C2PA_Specification.html#_trust_model) (C2PA). Content credentials, die een nieuw soort gecodeerde, onvervalsbare metagegevens zijn, kunnen gebruikers helpen de inhoud te begrijpen en de integriteit van merkelementen te garanderen. Ze kunnen een breed scala aan herkomstgegevens bevatten die inzicht bieden in de geschiedenis van een digitaal middel.
+Merken maken zich meer dan ooit zorgen over inhoudstransparantie, AI-openbaarmaking en het voorkomen van het knoeien met activa. Het Initiatief van de Authenticiteit van de Inhoud (CAI) bij Adobe bouwt hulpmiddelen volgzaam met de [&#x200B; Coalitie voor de Technische norm van de Levering van de Inhoud en van Authenticiteit &#x200B;](https://c2pa.org/specifications/specifications/1.1/specs/C2PA_Specification.html#_trust_model) (C2PA). Content credentials, die een nieuw soort gecodeerde, onvervalsbare metagegevens zijn, kunnen gebruikers helpen de inhoud te begrijpen en de integriteit van merkelementen te garanderen. Ze kunnen een breed scala aan herkomstgegevens bevatten die inzicht bieden in de geschiedenis van een digitaal middel.
 
 Deze informatie omvat:
 
@@ -24,11 +24,11 @@ Deze informatie omvat:
 * **gebruikte Hulpmiddel AI:** als generatieve AI werd gebruikt om activa uit te geven of tot stand te brengen, kan de naam van het gebruikte model worden omvat.
 * **Andere Belangrijke Informatie:** De extra gegevens kunnen ook worden omvat helpen meer context over de geschiedenis van een activa aanbieden.
 
-Voor een volledige mening, [ verifieer ](https://contentcredentials.org/verify) een uitvoeriger inzicht in activageschiedenis kan aanbieden.
+Voor een volledige mening, [&#x200B; verifieer &#x200B;](https://contentcredentials.org/verify) een uitvoeriger inzicht in activageschiedenis kan aanbieden.
 
 Adobe Experience Manager Assets ondersteunt nu Content credentials, waardoor gebruikers Content credentials rechtstreeks kunnen zien binnen de gebruikersinterface van de Assets Essentials van AEM. Wanneer u de elementdetails bekijkt, worden in elke afbeelding met Content credentials (zoals de afbeeldingen die met GenAI-services zijn gemaakt) de manifeste details weergegeven in een speciaal deelvenster. Als het element wordt gedownload, gepubliceerd of gedeeld, blijven de referenties ongewijzigd bij het element.
 
-![ activa ](/help/using/assets/content-credentials.png)
+![&#x200B; activa &#x200B;](/help/using/assets/content-credentials.png)
 
 ## Toegang tot Content credentials {#access-content-credentials}
 
@@ -38,10 +38,10 @@ Adobe Experience Manager Assets ondersteunt nu Content credentials, waardoor geb
    1. **Gegenereerd Beeld:** Datum en tijd waarin de Content credentials werden toegepast.
    1. **Samenvatting van de Inhoud:** wijst erop of de activa gedeeltelijk of volledig door AI worden geproduceerd, of hoe het werd uitgegeven.
 
-      ![ inhoudssamenvatting ](/help/using/assets/content-credentials1.png)
+      ![&#x200B; inhoudssamenvatting &#x200B;](/help/using/assets/content-credentials1.png)
    1. **Proces:** Details de toepassing, het apparaat, en het hulpmiddel van AI (zoals Adobe Firefly) dat wordt gebruikt om de activa te produceren, evenals veranderingen die daarna worden aangebracht.
 
-      ![ proces ](/help/using/assets/CR-Process.png)
+      ![&#x200B; proces &#x200B;](/help/using/assets/CR-Process.png)
    1. **Ongeveer deze Content credentials:** Naam van de uitgever samen met de datum en de tijd van uitgifte.
 
-      ![ uitgever ](/help/using/assets/CR-issuer.png)
+      ![&#x200B; uitgever &#x200B;](/help/using/assets/CR-issuer.png)

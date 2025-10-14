@@ -14,9 +14,9 @@ ht-degree: 0%
 
 Assets-gebruikers kunnen gemakkelijk variaties in video-inhoud maken met de ingesloten snelle handelingen voor video in [!DNL Adobe Express] . Snelle acties in [!DNL Assets Essentials] , aangedreven door [!DNL Adobe Express] , bieden gebruikersvriendelijke opties voor het bewerken van video&#39;s, zoals het uitsnijden van video&#39;s, het vergroten of verkleinen van video&#39;s, het bijsnijden van video en het omzetten van video&#39;s naar GIF.
 
-Als u een video wilt bewerken, gaat u naar de details van de video en klikt u op [!UICONTROL Edit Video] . Alternatief, selecteer de activa en klik details dan klik ![ schaar ](assets/do-not-localize/cut.svg) pictogram beschikbaar in de juiste ruit. Nadat u een video hebt bewerkt, kunt u de nieuwe video opslaan als een nieuwe versie of als een nieuw element.
+Als u een video wilt bewerken, gaat u naar de details van de video en klikt u op [!UICONTROL Edit Video] . Alternatief, selecteer de activa en klik details dan klik ![&#x200B; schaar &#x200B;](assets/do-not-localize/cut.svg) pictogram beschikbaar in de juiste ruit. Nadat u een video hebt bewerkt, kunt u de nieuwe video opslaan als een nieuwe versie of als een nieuw element.
 
-Wis meer over de [ voorproefinterface ](/help/using/navigate-view.md#preview-assets).
+Wis meer over de [&#x200B; voorproefinterface &#x200B;](/help/using/navigate-view.md#preview-assets).
 
 ## Vereisten {#prerequisites}
 
@@ -40,9 +40,9 @@ U kunt ongewenste onderdelen uit de video verwijderen met ingesloten snelle hand
 3. Sleep de grepen op de hoeken van de video om het gewenste uitsnijden te maken of kies naar wens een van de bestaande schermformaten.
 4. U kunt ervoor kiezen de video te dempen of het dempen ongedaan te maken.
 5. Klik op **[!UICONTROL Apply]**.
-   ![ gewas video met Adobe Express ](/help/using/assets/adobe-express-crop-video.png)
+   ![&#x200B; gewas video met Adobe Express &#x200B;](/help/using/assets/adobe-express-crop-video.png)
 
-   De bijgesneden video kan worden gedownload. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element. ![ sparen video met Adobe Express ](/help/using/assets/adobe-express-save-video.png)
+   De bijgesneden video kan worden gedownload. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element. ![&#x200B; sparen video met Adobe Express &#x200B;](/help/using/assets/adobe-express-save-video.png)
 
 ### Formaat video wijzigen {#resize-video-using-express}
 
@@ -54,7 +54,7 @@ De uiteindelijke video-inhoud in de DAM moet vaak worden vergroot of verkleind v
 4. Schaal de video, indien nodig, gebruikend het **[!UICONTROL Video Scale]** gebied.
 5. U kunt ervoor kiezen de video te dempen of het dempen ongedaan te maken.
 6. Klik op **[!UICONTROL Apply]** om de wijzigingen toe te passen.
-   ![ Video resizing met Adobe Express ](/help/using/assets/adobe-express-resize-video.png)
+   ![&#x200B; Video resizing met Adobe Express &#x200B;](/help/using/assets/adobe-express-resize-video.png)
 
 Uw vergroot/verkleind video kan worden gedownload. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element.
 
@@ -68,7 +68,7 @@ Als u een clip van een grotere video moet gebruiken, kunt u de functie &quot;Vid
 4. Selecteer de juiste afmetingen in de vervolgkeuzelijst **[!UICONTROL Size]** .
 5. U kunt ervoor kiezen de video te dempen of het dempen ongedaan te maken.
 6. Klik op **[!UICONTROL Apply]** om de wijzigingen toe te passen.
-   ![ Video resizing met Adobe Express ](/help/using/assets/adobe-express-trim-video.png)
+   ![&#x200B; Video resizing met Adobe Express &#x200B;](/help/using/assets/adobe-express-trim-video.png)
 
 Uw bijgesneden video kan worden gedownload. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element.
 
@@ -82,7 +82,7 @@ Met Adobe Express kunt u een MP4-video snel omzetten in een GIF-indeling. Voer d
 4. Sleep de grepen op de hoeken van de video om de gewenste uitsnijding te maken.
 5. Klik op **[!UICONTROL Apply]**.
 
-   ![ zet video in GIF met Adobe Express om ](/help/using/assets/adobe-express-convert-video-to-gif.png)
+   ![&#x200B; zet video in GIF met Adobe Express om &#x200B;](/help/using/assets/adobe-express-convert-video-to-gif.png)
 
 Uw video is beschikbaar in GIF-indeling en kan worden gedownload. U kunt het bewerkte element opslaan als een nieuwe versie van hetzelfde element of het opslaan als een nieuw element.
 
@@ -102,11 +102,11 @@ Uw video is beschikbaar in GIF-indeling en kan worden gedownload. U kunt het bew
 
 * Feedback geven op het product met behulp van de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface Assets Essentials.
 
-* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar.
+* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![&#x200B; uitgeeft de pagina &#x200B;](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![&#x200B; creeer een kwestie GitHub &#x200B;](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar.
 
 * De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support).
 
 >[!MORELIKETHIS]
 >
->* [ geeft beelden in de Hoofdzaak van Activa uit ](/help/using/edit-images.md)
->* [ Voorproef van activa ](/help/using/navigate-view.md#preview-assets)
+>* [&#x200B; geeft beelden in de Hoofdzaak van Activa uit &#x200B;](/help/using/edit-images.md)
+>* [&#x200B; Voorproef van activa &#x200B;](/help/using/navigate-view.md#preview-assets)
