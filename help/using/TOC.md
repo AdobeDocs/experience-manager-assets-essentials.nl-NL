@@ -23,12 +23,12 @@ ht-degree: 18%
 + [Release-opmerkingen](release-notes.md)
 + [Beveiliging](security-overview.md)
 + [Mijn Workspace](my-workspace.md)
-+ Aan de slag met Elementen voor beheerders {#get-started-admins}
++ Aan de slag met de Essentiële elementen voor beheerders {#get-started-admins}
    + [Gebruikers beheren en toevoegen](deploy-administer.md)
-   + Maptoegang beheren {#folder-access}
+   + Maptoegang beheren{#folder-access}
       + [Mapmachtigingen beheren](manage-permissions.md)
       + [Tips en trucs voor het beheer van machtigingen](permission-management-best-practices.md)
-   + [&#x200B; reis van de Beheerder voor de Hoofdzaak van Activa voor Creative Cloud Pro met de Oplossingen van het Beheer van het Werk &#x200B;](assets-essentials-cc-pro-work-management-admin-journey.md)
+   + [ reis van de Beheerder voor de Hoofdzaak van Activa voor Creative Cloud Pro met de Oplossingen van het Beheer van het Werk ](assets-essentials-cc-pro-work-management-admin-journey.md)
 + [Aan de slag met  [!DNL Assets Essentials]](get-started.md)
 + [Ondersteunde bestandstypen en gebruiksgevallen](supported-file-formats.md)
 + [Elementen weergeven](navigate-view.md)
@@ -56,6 +56,6 @@ ht-degree: 18%
    + [Integreren met Adobe Workfront](integrate-with-workfront.md)
 + Integratie met Creative Cloud {#integration-with-creative-cloud}
    + [AEM Assets verbinden met Creative Cloud](connect-assets-with-creative-cloud.md)
-+ [&#x200B; Video&#39;s &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=nl-NL)
++ [ Video&#39;s ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
 + [Dynamische mediasjablonen](dynamic-media-templates.md)
 
