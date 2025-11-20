@@ -56,6 +56,6 @@ ht-degree: 18%
    + [Integreren met Adobe Workfront](integrate-with-workfront.md)
 + Integratie met Creative Cloud {#integration-with-creative-cloud}
    + [AEM Assets verbinden met Creative Cloud](connect-assets-with-creative-cloud.md)
-+ [&#x200B; Video&#39;s &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
++ [&#x200B; Video&#39;s &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=nl-NL)
 + [Dynamische mediasjablonen](dynamic-media-templates.md)
 
