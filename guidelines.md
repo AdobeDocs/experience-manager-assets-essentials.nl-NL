@@ -37,7 +37,7 @@ De uitzonderingen op deze regel zijn op de versienota&#39;s van toepassing waar 
 
 Eventuele ideeën die u nodig hebt om de [!DNL Experience Manager]-documentatie te verbeteren, zijn welkom als bijdragen. Opmerkingen, problemen en pull-aanvragen zijn echter alleen bedoeld voor *bijdragen*. Ze zijn niet bedoeld om te worden gebruikt om uw vragen over het gebruik van [!DNL Experience Manager], het implementeren van uw [!DNL Experience Manager]-project of het oplossen van technische problemen te beantwoorden.
 
-Vragen over het gebruik van [!DNL Experience Manager] of technische fouten die u mogelijk hebt gemaakt, moeten via het normale ondersteuningsproces worden gerapporteerd via het [[!DNL Experience Manager] ondersteuningsportal](https://experienceleague.adobe.com/nl?support-solution=Experience+Manager#support) of worden besproken in de [Experience Manager community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Vragen over het gebruik van [!DNL Experience Manager] of technische fouten die u mogelijk hebt gemaakt, moeten via het normale ondersteuningsproces worden gerapporteerd via het [[!DNL Experience Manager] ondersteuningsportal](https://experienceleague.adobe.com/nl?support-solution=Experience+Manager#support) of worden besproken in de [Experience Manager community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=nl).
 
 ***[!DNL Experience Manager]Documentatiebijdragen zijn geen vervanging voor*** klantenondersteuning van Adobe en dergelijke bijdragen die antwoorden op supportgerelateerde vragen zoeken, worden afgewezen.
 
