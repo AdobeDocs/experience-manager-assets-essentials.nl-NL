@@ -4,9 +4,9 @@ description: Verplaats, schrap, kopieer, hernoem, werk, en versie uw activa in  
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: ce92eb58ede5d1ebbe88a98bfa7629532396f3be
+source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1210'
 ht-degree: 0%
 
 ---
@@ -17,97 +17,98 @@ U kunt verschillende DAM-taken (Digital Asset Management) eenvoudig uitvoeren me
 
 Gebruik [!DNL Assets Essentials] om de volgende taken voor middelenbeheer uit te voeren. Wanneer u een element selecteert, worden de volgende opties bovenaan op de werkbalk weergegeven.
 
-![&#x200B; de opties van de Toolbar wanneer u activa &#x200B;](assets/asset-options.png) selecteert
+![ de opties van de Toolbar wanneer u activa ](assets/asset-options.png) selecteert
 
 *Cijfer: De opties beschikbaar in de toolbar voor een geselecteerd beeld.*
 
 U kunt de elementen selecteren die in de zoekresultaten worden weergegeven en de volgende handelingen uitvoeren:
 
-* ![&#x200B; schrap pictogram &#x200B;](assets/do-not-localize/close-icon.png) Deselecteer de selectie.
+* ![ schrap pictogram ](assets/do-not-localize/close-icon.png) Deselecteer de selectie.
 
-* ![&#x200B; vind gelijkaardige pictogram &#x200B;](assets/do-not-localize/find-similar.svg) vind gelijkaardige beeldactiva in Assets UI die op de meta-gegevens en slimme markeringen wordt gebaseerd.
+* ![ vind gelijkaardige pictogram ](assets/do-not-localize/find-similar.svg) vind gelijkaardige beeldactiva in Assets UI die op de meta-gegevens en slimme markeringen wordt gebaseerd.
 
-* ![&#x200B; detailspictogram &#x200B;](assets/do-not-localize/edit-in-icon.png) klik om activa voor te vertonen en de gedetailleerde meta-gegevens te bekijken. Als u een voorvertoning weergeeft, kunt u de versies weergeven en een afbeelding bewerken.
+* ![ detailspictogram ](assets/do-not-localize/edit-in-icon.png) klik om activa voor te vertonen en de gedetailleerde meta-gegevens te bekijken. Als u een voorvertoning weergeeft, kunt u de versies weergeven en een afbeelding bewerken.
 
-* ![&#x200B; downloadpictogram &#x200B;](assets/do-not-localize/download-icon.png) Download de geselecteerde activa aan uw lokaal dossiersysteem.
+* ![ downloadpictogram ](assets/do-not-localize/download-icon.png) Download de geselecteerde activa aan uw lokaal dossiersysteem.
 
-* ![&#x200B; voeg inzamelingspictogram &#x200B;](assets/do-not-localize/add-collection.svg) toe voegt de geselecteerde activa aan een inzameling toe.
+* ![ voeg inzamelingspictogram ](assets/do-not-localize/add-collection.svg) toe voegt de geselecteerde activa aan een inzameling toe.
 
-* ![&#x200B; Vastzet activa pictogram &#x200B;](assets/do-not-localize/pin-quick-access.svg) Vastzetten activa voor snellere toegang wanneer u het later nodig hebt. Alle vastgezette punten tonen in de **Snelle toegang** sectie van Mijn Workspace.
+* ![ Vastzet activa pictogram ](assets/do-not-localize/pin-quick-access.svg) Vastzetten activa voor snellere toegang wanneer u het later nodig hebt. Alle vastgezette punten tonen in de **Snelle toegang** sectie van Mijn Workspace.
 
-* ![&#x200B; geef in uitdrukkelijke pictogram uit &#x200B;](assets/do-not-localize/edit-e.svg) geef een beeld in de geïntegreerde Adobe Express binnen Adobe Experience Manager Assets uit.
+* ![ geef in uitdrukkelijk pictogram uit ](assets/do-not-localize/edit-e.svg) geef een beeld in geïntegreerde Adobe Express binnen Adobe Experience Manager Assets uit.
 
-* ![&#x200B; geef activapictogram uit &#x200B;](assets/do-not-localize/edit-e.svg) geef het beeld uit gebruikend Adobe Express.
+* ![ geef activapictogram uit ](assets/do-not-localize/edit-e.svg) geef het beeld uit gebruikend Adobe Express.
 
-* ![&#x200B; het pictogram van de de verbindingsactiva van het aandeel &#x200B;](assets/do-not-localize/share-link.svg) voor activa met andere gebruikers zodat zij tot het kunnen toegang hebben en het downloaden.
+* ![ het pictogram van de de verbindingsactiva van het aandeel ](assets/do-not-localize/share-link.svg) voor activa met andere gebruikers zodat zij tot het kunnen toegang hebben en het downloaden.
 
-* ![&#x200B; schrappingspictogram &#x200B;](assets/do-not-localize/delete-icon.png) schrapt de geselecteerde activa of de omslag.
+* ![ schrappingspictogram ](assets/do-not-localize/delete-icon.png) schrapt de geselecteerde activa of de omslag.
 
-* ![&#128279;](assets/do-not-localize/copy-icon.png) Kopieer het pictogram van 0&rbrace; exemplaar het geselecteerde dossier of de omslag.
+* ](assets/do-not-localize/copy-icon.png) Kopieer het pictogram van 0} exemplaar het geselecteerde dossier of de omslag.![
 
-* ![&#128279;](assets/do-not-localize/move-icon.png) Beweeg het pictogram van de beweging 0&rbrace; &lbrace;het geselecteerde activa of de omslag naar een verschillende plaats in de bewaarplaatshiërarchie.
+* ](assets/do-not-localize/move-icon.png) Beweeg het pictogram van de beweging 0} {het geselecteerde activa of de omslag naar een verschillende plaats in de bewaarplaatshiërarchie.![
 
-* ![&#x200B; anders noem pictogram &#x200B;](assets/do-not-localize/rename-icon.png) noem het geselecteerde activa of de omslag anders. Gebruik een unieke naam anders ontbreekt het anders noemen met een waarschuwing. U kunt het opnieuw proberen met een nieuwe naam.
+* ![ anders noem pictogram ](assets/do-not-localize/rename-icon.png) noem het geselecteerde activa of de omslag anders. Gebruik een unieke naam anders ontbreekt het anders noemen met een waarschuwing. U kunt het opnieuw proberen met een nieuwe naam.
 Bovendien kunt u op de titel van een element of map klikken om de naam ervan te wijzigen. Vermelding de nieuwe tekst in **anders noemt Activa** textbox en klikt **sparen**. Deze mogelijkheid is beschikbaar in de raster-, galerie-, waterval- en lijstweergaven.
 
-* ![&#x200B; pictogram van de watervalmening &#x200B;](assets/do-not-localize/waterfall-view.png) [!UICONTROL Waterfall View].
+* ![ pictogram van de watervalmening ](assets/do-not-localize/waterfall-view.png) [!UICONTROL Waterfall View].
 
-* ![&#x200B; pictogram van de exemplaarbibliotheek &#x200B;](assets/do-not-localize/copy-icon.png) voeg een activa aan Bibliotheek toe.
+* ![ pictogram van de exemplaarbibliotheek ](assets/do-not-localize/copy-icon.png) voeg een activa aan Bibliotheek toe.
 
-* ![&#x200B; wijs taakpictogram &#x200B;](assets/do-not-localize/review-delegate-icon.png) toe wijst taken aan andere gebruikers om aan activa samen te werken.
+* ![ wijs taakpictogram ](assets/do-not-localize/review-delegate-icon.png) toe wijst taken aan andere gebruikers om aan activa samen te werken.
 
-* ![&#x200B; wijs taakpictogram &#x200B;](assets/do-not-localize/watch-asset.svg) toe Monitor de verrichtingen die op activa worden uitgevoerd.
+* ![ wijs taakpictogram ](assets/do-not-localize/watch-asset.svg) toe Monitor de verrichtingen die op activa worden uitgevoerd.
 
 U kunt dezelfde opties weergeven op de miniaturen van elementen.
 
-![&#x200B; Opties op activaduimnagel om activa &#x200B;](assets/options-on-thumbnail.png) te beheren
+![ Opties op activaduimnagel om activa ](assets/options-on-thumbnail.png) te beheren
 
 In [!DNL Assets Essentials] worden alleen de relevante opties op de werkbalk weergegeven die afhankelijk zijn van het type geselecteerd element.
 
-![&#x200B; de opties van de Toolbar wanneer u activa &#x200B;](assets/toolbar-folder-selected.png) selecteert
+![ de opties van de Toolbar wanneer u activa ](assets/toolbar-folder-selected.png) selecteert
 
 *Cijfer: De opties beschikbaar in de toolbar voor een geselecteerde omslag.*
 
-![&#x200B; de opties van de Toolbar wanneer u activa &#x200B;](assets/toolbar-pdf-selected.png) selecteert
+![ de opties van de Toolbar wanneer u activa ](assets/toolbar-pdf-selected.png) selecteert
 
-*Cijfer: De opties beschikbaar in de toolbar voor een geselecteerd dossier van de PDF.*
+*Cijfer: De opties beschikbaar in de toolbar voor een geselecteerd dossier van PDF.*
 
 ## Elementen downloaden en distribueren {#download}
 
-U kunt een of meer elementen of mappen of een combinatie van beide selecteren en de selectie naar uw lokale bestandssysteem downloaden. U kunt de elementen bewerken en opnieuw uploaden of de elementen buiten [!DNL Assets Essentials] verspreiden. Ook, kunt u de vertoningen [&#128279;](/help/using/add-delete.md#renditions) van een activa  downloaden.
+U kunt een of meer elementen of mappen of een combinatie van beide selecteren en de selectie naar uw lokale bestandssysteem downloaden. U kunt de elementen bewerken en opnieuw uploaden of de elementen buiten [!DNL Assets Essentials] verspreiden. Ook, kunt u de vertoningen ](/help/using/add-delete.md#renditions) van een activa [ downloaden.
 
 ## Asset versioning {#versions-of-assets}
 
 <!-- 
-TBD: query for engineering: How many versions are maintained. What happens when we reach that limit? Are old versions automatically removed? -->
+TBD: query for engineering: How many versions are maintained. What happens when we reach that limit? Are old versions automatically removed? 
+-->
 
 De elementen worden door [!DNL Assets Essentials] bijgewerkt wanneer de elementen opnieuw worden geüpload of bewerkt. U kunt versiegeschiedenis, oudere versies bekijken, en een vroegere versie van activa als recentste versie herstellen, die aan een vorige versie indien nodig wordt teruggezet. In de volgende scenario&#39;s worden versies van middelen gemaakt:
 
-* Upload een nieuw element met dezelfde bestandsnaam als een bestaand element en in dezelfde map als het bestaande element. [!DNL Assets Essentials] vraagt om het vorige element te overschrijven of het nieuwe element op te slaan als een versie. Zie [&#x200B; gedupliceerde activa &#x200B;](/help/using/add-delete.md#resolve-upload-fails) uploaden.
+* Upload een nieuw element met dezelfde bestandsnaam als een bestaand element en in dezelfde map als het bestaande element. [!DNL Assets Essentials] vragen om het vorige element te overschrijven of het nieuwe element op te slaan als een versie. Zie [ gedupliceerde activa ](/help/using/add-delete.md#resolve-upload-fails) uploaden.
 
-  ![&#x200B; creeer versies wanneer het uploaden &#x200B;](assets/uploads-manage-duplicates.png)
+  ![ creeer versies wanneer het uploaden ](assets/uploads-manage-duplicates.png)
 
   *Cijfer: Wanneer het uploaden van activa genoemd het zelfde als bestaand activa, kunt u een versie van de activa tot stand brengen.*
 
-* Bewerk een afbeelding en klik op **[!UICONTROL Save as Version]** . Zie [&#x200B; beelden &#x200B;](/help/using/edit-images.md) uitgeven.
+* Bewerk een afbeelding en klik op **[!UICONTROL Save as Version]** . Zie [ beelden ](/help/using/edit-images.md) uitgeven.
 
-  ![&#x200B; sparen uitgegeven beeld als versie &#x200B;](assets/edit-image2.png)
+  ![ sparen uitgegeven beeld als versie ](assets/edit-image2.png)
 
   *Cijfer: sparen uitgegeven beeld als versie.*
 
 * Open de versies van een bestaand element. Klik op **[!UICONTROL New Version]** en upload een nieuwere versie van het middel in de repository.
 
-  ![&#x200B; Optie om een nieuwe versie van een activa van de versiegeschiedenis te uploaden &#x200B;](assets/view-asset-versions2.png)
+  ![ Optie om een nieuwe versie van een activa van de versiegeschiedenis te uploaden ](assets/view-asset-versions2.png)
 
 ### Versies van een element weergeven {#view-versions}
 
 Wanneer u een gedupliceerde kopie of een gewijzigde kopie van een element uploadt, kunt u de versies ervan maken. Met Versioning kunt u historische elementen controleren en desgewenst terugkeren naar een vorige versie.
 
-Om versies te bekijken, open de voorproef van activa en klik **[!UICONTROL Versions]** {het pictogram van Versies 1} ![&#128279;](assets/do-not-localize/versions-clock-icon.png) van de juiste zijbalk.  Als u een voorvertoning van een specifieke versie wilt weergeven, selecteert u deze. Klik op **[!UICONTROL Make Latest]** om terug te keren naar de hyperlink.
+Om versies te bekijken, open de voorproef van activa en klik **[!UICONTROL Versions]** {het pictogram van Versies 1} ](assets/do-not-localize/versions-clock-icon.png) van de juiste zijbalk. ![Als u een voorvertoning van een specifieke versie wilt weergeven, selecteert u deze. Klik op **[!UICONTROL Make Latest]** om terug te keren naar de hyperlink.
 
 U kunt ook versies maken van de tijdlijn van de versie. Selecteer de meest recente versie, klik op **[!UICONTROL New Version]** en upload een nieuwe kopie van het element vanuit uw lokale bestandssysteem.
 
-![&#x200B; de versies van de Mening van activa &#x200B;](assets/view-asset-versions1.png)
+![ de versies van de Mening van activa ](assets/view-asset-versions1.png)
 
 *Cijfer: De versies van de mening van activa, keren aan een vorige versie terug, of uploaden een andere nieuwe versie.*
 
@@ -115,7 +116,7 @@ U kunt ook versies maken van de tijdlijn van de versie. Selecteer de meest recen
 
 **Vereiste toestemmingen:** `Can Edit`, `Owner`, of beheerdertoestemmingen op een activa.
 
-Met Assets Essentials kunt u de status instellen voor middelen die beschikbaar zijn in de opslagplaats. Stel een elementstatus in om het downstreamgebruik van digitale elementen beter te beheren en te beheren.
+Met de Elementen Essentials kunt u de status instellen voor de middelen die in de repository beschikbaar zijn. Stel een elementstatus in om het downstreamgebruik van digitale elementen beter te beheren en te beheren.
 
 U kunt de volgende status instellen voor elementen:
 
@@ -132,14 +133,14 @@ De elementstatus instellen:
 1. Selecteer het element en klik op **[!UICONTROL Details]** op de werkbalk.
 
 1. Selecteer op het tabblad **[!UICONTROL Basic]** de elementstatus in de vervolgkeuzelijst **[!UICONTROL Status]** . Mogelijke waarden zijn Goedgekeurd, Afgewezen en Geen status (standaardwaarde).
-Als u Dynamic Media met OpenAPI-mogelijkheden hebt ingericht voor uw omgeving, genereert Experience Manager Assets een openbare URL zodra u het element markeert als `Approved` .
+Als u over Dynamic Media beschikt met OpenAPI-mogelijkheden die zijn ingericht voor uw omgeving, genereert Experience Manager Assets een openbare URL zodra u het element markeert als `Approved` .
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
 
 ### Vervaldatum van element instellen {#set-asset-expiration-date}
 
-Met Assets Essentials kunt u ook een vervaldatum instellen voor de middelen die in de opslagplaats beschikbaar zijn. U kunt dan [&#x200B; de onderzoeksresultaten &#x200B;](search.md#refine-search-results) filtreren die op een `Expired` activastatus worden gebaseerd. Daarnaast kunt u een datumbereik voor de vervaldatum voor elementen opgeven om de zoekresultaten verder te filteren.
+Met Assets Essentials kunt u ook een vervaldatum instellen voor de middelen die in de repository beschikbaar zijn. U kunt dan [ de onderzoeksresultaten ](search.md#refine-search-results) filtreren die op een `Expired` activastatus worden gebaseerd. Daarnaast kunt u een datumbereik voor de vervaldatum voor elementen opgeven om de zoekresultaten verder te filteren.
 
 De vervaldatum van het element instellen:
 
@@ -149,15 +150,15 @@ De vervaldatum van het element instellen:
 
 De indicator `Expired` voor de elementenkaart heeft voorrang op de indicator `Approved` of `Rejected` die voor een element is ingesteld.
 
-U kunt activa ook filtreren die op een activastatus worden gebaseerd, voor meer informatie, zie [&#x200B; activa van het Onderzoek in Assets Essentials &#x200B;](search.md).
+U kunt activa ook filtreren die op een activastatus worden gebaseerd, voor meer informatie, zie [ activa van het Onderzoek in de Hoofdzaak van Activa ](search.md).
 
 ## Metagegevensformulieren aanpassen om het statusveld voor elementen op te nemen {#customize-asset-status-metadata-form}
 
 **Vereiste Toestemmingen:** Beheerder
 
-Assets Essentials bieden standaard veel standaardvelden voor metagegevens. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan de pagina [!UICONTROL Details] van een element. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen.
+De Hoofdzaak van activa verstrekt vele standaardmeta-gegevensgebieden door gebrek. Organisaties hebben extra behoeften aan metagegevens en hebben meer metagegevensvelden nodig om bedrijfsspecifieke metagegevens toe te voegen. Met metagegevensformulieren kunnen bedrijven aangepaste metagegevensvelden toevoegen aan de pagina [!UICONTROL Details] van een element. De bedrijfsspecifieke metagegevens verbeteren het beheer en de ontdekking van de bedrijfsmiddelen.
 
-Voor meer informatie over hoe te om extra meta-gegevensgebieden aan de meta-gegevensvorm toe te voegen, zie [&#x200B; Meta-gegevens Forms &#x200B;](metadata.md##metadata-forms).
+Voor meer informatie over hoe te om extra meta-gegevensgebieden aan de meta-gegevensvorm toe te voegen, zie [ Meta-gegevens Forms ](metadata.md##metadata-forms).
 
 **voeg de meta-gegevensgebied van de Status van Activa aan de vorm** toe
 
@@ -169,10 +170,10 @@ Als u het metagegevensveld Vervaldatum aan het formulier wilt toevoegen, sleept 
 
 ## Volgende stappen {#next-steps}
 
-* [&#x200B; bekijk een video om activa in Assets Essentials te beheren &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/managing.html?lang=nl-NL)
+* [Een video bekijken om elementen in Elementen te beheren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/managing.html)
 
-* Feedback geven op het product met de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface van Assets Essentials
+* Feedback geven op het product met behulp van de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface Assets Essentials
 
-* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![&#x200B; uitgeeft de pagina &#x200B;](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![&#x200B; creeer een kwestie GitHub &#x200B;](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
+* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support)
+* De Zorg van de Klant van het contact ](https://experienceleague.adobe.com/?support-solution=General#support)[

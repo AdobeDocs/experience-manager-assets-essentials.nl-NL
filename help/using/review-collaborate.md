@@ -1,10 +1,10 @@
 ---
-title: null
-description: null
+title: Samenwerken met uw team op de digitale middelen
+description: Samenwerken met uw team op de digitale middelen
 role: User
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
 workflow-type: tm+mt
-source-wordcount: '8'
+source-wordcount: '26'
 ht-degree: 0%
 
 ---
