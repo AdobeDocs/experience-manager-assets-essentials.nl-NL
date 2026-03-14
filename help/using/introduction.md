@@ -81,7 +81,7 @@ Dankzij de Adobe-cloudinfrastructuur kunnen organisaties zich richten op hun zak
 
 Ga snel aan de slag met de Essentiële elementen van bedrijfsmiddelen om te profiteren van de belangrijkste mogelijkheden voor beheer van digitale bedrijfsmiddelen in verschillende teams.
 
-Wanneer uw bedrijfsbehoeften groeien en u steun voor geavanceerde Vereisten van het Beheer van Activa, zoals aanpassingen, rekbaarheid en integratie, automatisering, Dynamische Media, en Brand Portal nodig hebt, biedt Adobe ook [&#x200B; Adobe Experience Manager Assets as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=en) aan.
+Wanneer uw bedrijfsbehoeften groeien en u steun voor geavanceerde Vereisten van het Beheer van Activa, zoals aanpassingen, rekbaarheid en integratie, automatisering, Dynamische Media, en Brand Portal nodig hebt, biedt Adobe ook [&#x200B; Adobe Experience Manager Assets as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=nl-NL) aan.
 
 
 ## Volgende stappen {#next-steps}
@@ -90,9 +90,9 @@ Wanneer uw bedrijfsbehoeften groeien en u steun voor geavanceerde Vereisten van 
 
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![&#x200B; uitgeeft de pagina &#x200B;](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![&#x200B; creeer een kwestie GitHub &#x200B;](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/?support-solution=General#support)
+* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support)
 
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Assets Essentials]  leerprogramma&#39;s pagina &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=en)
+>* [[!DNL Assets Essentials]  leerprogramma&#39;s pagina &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=nl-NL)

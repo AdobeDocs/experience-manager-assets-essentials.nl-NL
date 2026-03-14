@@ -26,7 +26,7 @@ Bovendien is meer verwijzingsinformatie die nuttig kan zijn [&#x200B; inzicht in
 
 ## Toegang ontvangen tot [!DNL Assets Essentials] {#get-access}
 
-Adobe past de oplossing toe en voegt de aangewezen persoon van uw organisatie toe als beheerder. De beheerders kunnen toegang tot diverse gebruikers van de organisatie verlenen door [[!DNL Admin Console] te gebruiken &#x200B;](https://helpx.adobe.com/enterprise/using/admin-console.html). Voor verzoeken met betrekking tot uw toegang, contacteer de beheerder van uw organisatie.
+Adobe past de oplossing toe en voegt de aangewezen persoon van uw organisatie toe als beheerder. De beheerders kunnen toegang tot diverse gebruikers van de organisatie verlenen door [[!DNL Admin Console] te gebruiken &#x200B;](https://helpx.adobe.com/nl/enterprise/using/admin-console.html). Voor verzoeken met betrekking tot uw toegang, contacteer de beheerder van uw organisatie.
 
 Nadat u de aanmeldingsgegevens hebt opgegeven, vraagt [!DNL Assets Essentials] u om een account te selecteren. Selecteer in dit geval `Company or School Account` om door te gaan.
 
@@ -57,13 +57,13 @@ Hieronder vindt u de verschillende DAM-taken (Digital Asset Management) die u me
 
 ## Volgende stappen {#next-steps}
 
-* [Bekijk een video om aan de slag te gaan met de Elementen Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)
+* [Bekijk een video om aan de slag te gaan met de Elementen Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html?lang=nl-NL)
 
 * Feedback geven op het product met behulp van de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface Assets Essentials
 
 * Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![&#x200B; uitgeeft de pagina &#x200B;](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![&#x200B; creeer een kwestie GitHub &#x200B;](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/?support-solution=General#support)
+* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/nl?support-solution=General#support)
 
 
 <!--
