@@ -37,7 +37,7 @@ Met Elementen kunt u:
 
 De Hoofdzaak van activa biedt een standalone Webgebruikersinterface voor eind - gebruikers en beheerders aan, die hen toegang tot alle mogelijkheden van de oplossing geven. Gebruikers van andere Adobe-oplossingen kunnen ook toegang krijgen tot en werken met middelen van Assets Essentials via een ingesloten ervaring die in Creative Cloud beschikbaar is voor zakelijke, Adobe Journey Optimizer- en Adobe Workfront-toepassingen.
 
-![ Integraties met andere oplossingen ](assets/assets-essentials-integration.svg)
+![&#x200B; Integraties met andere oplossingen &#x200B;](assets/assets-essentials-integration.svg)
 
 ## Waarom de Hoofdzaak van Activa? {#assets-essentials-features}
 
@@ -57,13 +57,13 @@ De Hoofdzaak van activa verstrekt zeer belangrijke voordelen, die u toestaan om:
 
 De oplossing Assets Essentials wordt door Adobe aan klanten geleverd en is beschikbaar nadat het inrichtingsproces is voltooid. Beheerders krijgen toegang tot het product in Adobe Admin Console en kunnen de systeemconfiguratie en de instaptoegang van gebruikers direct starten.
 
-Leer meer op het beleid van de Hoofdzaak van Activa [ en gebruiker op het instappen ](deploy-administer.md).
+Leer meer op het beleid van de Hoofdzaak van Activa [&#x200B; en gebruiker op het instappen &#x200B;](deploy-administer.md).
 
 **Vereenvoudigd activabeheer**
 
 Dankzij de vereenvoudigde gebruikersinterface van Assets Essentials kunt u uw digitale middelen eenvoudig beheren, ontdekken en distribueren. Een brede reeks gebruikers van verschillende functies, met inbegrip van creatieve, marketing en brancheteams kunnen aan activa samenwerken en tot de juiste, goedgekeurde activa toegang hebben wanneer en waar zij hen nodig hebben.
 
-Voor meer informatie, zie [ begonnen worden met uw behoeften van het activabeheer gebruikend de Hoofdzaak van Activa ](get-started.md).
+Voor meer informatie, zie [&#x200B; begonnen worden met uw behoeften van het activabeheer gebruikend de Hoofdzaak van Activa &#x200B;](get-started.md).
 
 **Integratie met andere toepassingen van Adobe**
 
@@ -71,7 +71,7 @@ De Hoofdzaak van activa integreert met de gesteunde oplossingen van Adobe en ver
 
 De ervaring met embedded Assets Essentials is beschikbaar voor Creative Cloud for Enterprise-, Adobe Journey Optimizer- en Adobe Workfront-toepassingen.
 
-Voor meer informatie, zie [ Integratie met andere oplossingen van Adobe ](integration.md).
+Voor meer informatie, zie [&#x200B; Integratie met andere oplossingen van Adobe &#x200B;](integration.md).
 
 **op wolk-Gebaseerd platform**
 
@@ -81,18 +81,18 @@ Dankzij de Adobe-cloudinfrastructuur kunnen organisaties zich richten op hun zak
 
 Ga snel aan de slag met de Essentiële elementen van bedrijfsmiddelen om te profiteren van de belangrijkste mogelijkheden voor beheer van digitale bedrijfsmiddelen in verschillende teams.
 
-Wanneer uw bedrijfsbehoeften groeien en u steun voor geavanceerde Vereisten van het Beheer van Activa, zoals aanpassingen, rekbaarheid en integratie, automatisering, Dynamische Media, en Brand Portal nodig hebt, biedt Adobe ook [ Adobe Experience Manager Assets as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=en) aan.
+Wanneer uw bedrijfsbehoeften groeien en u steun voor geavanceerde Vereisten van het Beheer van Activa, zoals aanpassingen, rekbaarheid en integratie, automatisering, Dynamische Media, en Brand Portal nodig hebt, biedt Adobe ook [&#x200B; Adobe Experience Manager Assets as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=en) aan.
 
 
 ## Volgende stappen {#next-steps}
 
 * Feedback geven op het product met behulp van de optie [!UICONTROL Feedback] die beschikbaar is in de gebruikersinterface Assets Essentials
 
-* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![ uitgeeft de pagina ](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![ creeer een kwestie GitHub ](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
+* Verstrek documentatie terugkoppelt gebruikend [!UICONTROL Edit this page] ![&#x200B; uitgeeft de pagina &#x200B;](assets/do-not-localize/edit-page.png) of [!UICONTROL Log an issue] ![&#x200B; creeer een kwestie GitHub &#x200B;](assets/do-not-localize/github-issue.png) beschikbaar op juiste sidebar
 
-* De Zorg van de Klant van het contact ](https://experienceleague.adobe.com/?support-solution=General#support)[
+* De Zorg van de Klant van het contact [&#128279;](https://experienceleague.adobe.com/?support-solution=General#support)
 
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Assets Essentials]  leerprogramma&#39;s pagina ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=en)
+>* [[!DNL Assets Essentials]  leerprogramma&#39;s pagina &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=en)
