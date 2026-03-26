@@ -15,10 +15,10 @@ Als onderdeel van de [!DNL Adobe Experience Cloud] -aanbieding biedt Adobe een r
 
 ## Bijdragen aan de documentatie
 
-Dit project heeft de [ Adobe Open Code van Source van Gedrag ](code-of-conduct.md) of de [ .NET Code van de Stichting van Gedrag ](https://dotnetfoundation.org/code-of-conduct) goedgekeurd. Voor meer informatie, zie [ hoe te bijdragen ](contributing.md).
+Dit project heeft de [&#x200B; Adobe Open Code van Source van Gedrag &#x200B;](code-of-conduct.md) of de [&#x200B; .NET Code van de Stichting van Gedrag &#x200B;](https://dotnetfoundation.org/code-of-conduct) goedgekeurd. Voor meer informatie, zie [&#x200B; hoe te bijdragen &#x200B;](contributing.md).
 
 **Kleine inhoudsupdates**: Klik uitgeven in de juiste marge van een artikel beginnen kleine correcties of verduidelijkingen te maken en voor te leggen. U kunt ook een uitgave in deze opslagplaats maken waarin de wijzigingen worden beschreven. Dergelijke kleine bijdragen vallen onder de gebruiksvoorwaarden van Adobe.
 
-**Belangrijke inhoudsbijdragen**: Of klik uitgeven in een artikel, bijdragen, en creeer een trekkingsverzoek of creeer een kwestie. Een lid van het documentatieteam zal met u in wisselwerking staan om meer informatie te krijgen. U moet de Adobe CLA één keer ondertekenen voordat u voortdurend kunt bijdragen aan deze documentatie. Zie [ hoe te om ](contributing.md) artikel bij te dragen.
+**Belangrijke inhoudsbijdragen**: Of klik uitgeven in een artikel, bijdragen, en creeer een trekkingsverzoek of creeer een kwestie. Een lid van het documentatieteam zal met u in wisselwerking staan om meer informatie te krijgen. U moet de Adobe CLA één keer ondertekenen voordat u voortdurend kunt bijdragen aan deze documentatie. Zie [&#x200B; hoe te om &#x200B;](contributing.md) artikel bij te dragen.
 
-Voor de normen van gedrag dat wij verwachten aangezien u bijdraagt, zie [ gedragscode ](code-of-conduct.md).
+Voor de normen van gedrag dat wij verwachten aangezien u bijdraagt, zie [&#x200B; gedragscode &#x200B;](code-of-conduct.md).
